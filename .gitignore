@@ -1,0 +1,4 @@
+# Zola build output
+/public/
+# macOS
+.DS_Store

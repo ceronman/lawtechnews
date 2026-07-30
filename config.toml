@@ -1,0 +1,45 @@
+# The base URL of the site. Change this to the domain where you publish.
+base_url = "https://example.com"
+
+title = "Law & Tech News"
+description = "A daily digest of European law and technology news: AI Act, GDPR, DSA/DMA, cybersecurity and digital rights."
+
+default_language = "en"
+
+# The pickles theme, cloned into themes/zola-pickles.
+theme = "zola-pickles"
+
+# No per-article pages, so there is nothing to put in a feed.
+generate_feeds = false
+
+# Compile the Sass in the theme (and in ./sass, if any).
+compile_sass = true
+
+minify_html = false
+
+taxonomies = []
+
+[markdown]
+render_emoji = true
+external_links_target_blank = true
+external_links_no_follow = true
+external_links_no_referrer = true
+smart_punctuation = false
+
+[markdown.highlighting]
+theme = "catppuccin-latte"
+
+[slugify]
+paths = "on"
+taxonomies = "on"
+anchors = "on"
+
+build_search_index = false
+
+[extra]
+subtitle = "European law & technology digest"
+copyright = "Compiled from public reporting. Links point to the original sources."
+analytics = ""
+# Disabled: this site has no maths and no client-side prefetching needs.
+katex_enable = false
+instantpage_enable = false

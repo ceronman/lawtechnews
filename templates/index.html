@@ -1,0 +1,16 @@
+{# Override the pickles home page: one single scrollable list of news items,
+   rendered straight from content/_index.md. The theme's paginated post list
+   and its per-post "Read more" pages are deliberately not used. #}
+{% extends "zola-pickles/templates/index.html" %}
+
+{% block extra_head -%}
+<link rel="stylesheet" href="{{ get_url(path="news.css") }}" />
+{%- endblock extra_head %}
+
+{% block content -%}
+<article class="c-article p-article news">
+    <section class="p-article__body">
+        {{ section.content | safe }}
+    </section>
+</article>
+{%- endblock content %}
