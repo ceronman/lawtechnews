@@ -39,7 +39,7 @@ from datetime import date
 from pathlib import Path
 from urllib.parse import urlparse
 
-PER_PAGE = 10
+PER_PAGE = 20
 
 # The tracker job is instructed to write summaries of around 140 characters.
 MAX_SUMMARY = 200

@@ -4,7 +4,7 @@ A static site built with [Zola](https://www.getzola.org/) that publishes the
 European law-and-technology digest produced by the `Law tech news tracker`
 daily job.
 
-Stories are grouped by date and paginated at **10 per page**, with Newer/Older
+Stories are grouped by date and paginated at **20 per page**, with Newer/Older
 navigation. Each is a one-line summary of about 140 characters (200 maximum),
 and every headline links straight to the original source. **The internal
 relevance ratings from `news.md` are stripped and never published.**
@@ -27,11 +27,11 @@ Everything under `content/` is generated -- don't edit it by hand.
 ### Why pagination is generated, not `paginate_by`
 
 Zola's built-in paginator splits a section's *pages*, so using it would mean one
-`.md` file, and one published URL, per story. This site shows the full summary
+`.md` file, and one published URL, per story. This site shows the whole summary
 inline and links out to the source instead, so there is nothing for a per-story
-page to hold. `import_news.py` therefore writes one section per page of ten and
-puts the prev/next links in each section's `[extra]`, which
-`templates/index.html` renders using the theme's own pagination markup.
+page to hold. `import_news.py` therefore writes one section per page and puts
+the prev/next links in each section's `[extra]`, which `templates/index.html`
+renders using the theme's own pagination markup.
 
 Change `PER_PAGE` at the top of `scripts/import_news.py` to use a different page
 size, then re-run the script.

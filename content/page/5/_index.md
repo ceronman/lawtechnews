@@ -4,53 +4,53 @@ template = "index.html"
 
 [extra]
 page_num = 5
-page_count = 9
+page_count = 5
 prev = "/page/4/"
-next = "/page/6/"
+next = ""
 +++
 
-## 24 July 2026
+## 8 July 2026
 
-### [Digital Omnibus on AI — Regulation (EU) 2026/1744 — published in the Official Journal](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601744)
+### [EU General Court dismisses Apple's challenge to its gatekeeper designation under the DMA](https://curia.europa.eu/site/upload/docs/application/pdf/2026-07/cp260096en.pdf)
 
-<span class="news-item__source">eur-lex.europa.eu</span> Regulation (EU) 2026/1744 was published in the Official Journal and enters into force on 27 July, making the AI Act's delayed deadlines binding law.
+<span class="news-item__source">curia.europa.eu</span> The General Court dismissed Apple's challenge to its DMA gatekeeper designation, confirming that its App Store versions count as a single platform service.
 
-### [Commission preliminarily finds TikTok in breach of Digital Services Act for failing to ensure safe accounts for minors](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1679)
+### [EDPB sheds light on anonymisation and web scraping for generative AI and adopts final version of guidelines on blockchain](https://www.edpb.europa.eu/news/edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-and-adopts-final-version_en)
 
-<span class="news-item__source">ec.europa.eu</span> TikTok received preliminary DSA findings over minors' accounts defaulting to public and weak age assurance. A final decision could cost 6% of turnover.
+<span class="news-item__source">edpb.europa.eu</span> New draft guidelines set a three-part test for anonymous data and address web scraping for generative AI training; the blockchain guidelines were finalised.
 
-## 23 July 2026
+### [AMLA introduces a common EU approach to enforcing anti-money laundering rules](https://www.amla.europa.eu/press-release-amla-introduces-common-eu-approach-enforcing-anti-money-laundering-rules_en)
 
-### [Fighting child sexual abuse online: interim measure protecting children now reinstated](https://www.consilium.europa.eu/en/press/press-releases/2026/07/23/fighting-child-sexual-abuse-online-interim-measure-protecting-children-now-reinstated/)
+<span class="news-item__source">amla.europa.eu</span> AMLA's draft technical standards give supervisors in every member state one four-tier method for grading AML breaches and setting enforcement outcomes.
 
-<span class="news-item__source">consilium.europa.eu</span> The Council approved the renewed interim regulation letting providers voluntarily scan for child sexual abuse material, running until 3 April 2028.
+### [AI increases the risks of cyberattacks](https://www.autoriteitpersoonsgegevens.nl/en/current/ai-increases-the-risks-of-cyberattacks)
 
-### [EU's Google fine risks triggering Trump as he gears up for more tariffs](https://www.politico.eu/article/eu-google-fine-donald-trump-tariffs/)
+<span class="news-item__source">autoriteitpersoonsgegevens.nl</span> Account takeovers reported to the Dutch DPA nearly tripled to 1,742 in 2025, which it attributes to increasingly convincing AI-generated phishing.
 
-<span class="news-item__source">politico.eu</span> The record DMA fine landed as Washington's temporary tariffs expired, with US officials calling it discriminatory and pressing Trump to retaliate.
+## 7 July 2026
 
-### [Commission fines Google €890 million for breaches of the Digital Markets Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1670)
+### [Commission refers Ireland, Spain, France and the Netherlands to the Court of Justice for failing to transpose NIS2](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1499)
 
-<span class="news-item__source">ec.europa.eu</span> The Commission fined Google €890m for self-preferencing in Search and blocking Play developers from steering users elsewhere. It has 60 days to comply.
+<span class="news-item__source">ec.europa.eu</span> Ireland, Spain, France and the Netherlands were referred to the CJEU for being over 20 months late transposing NIS2, and now risk financial penalties.
 
-### [Commission finds that Republic of Korea continues to provide an adequate level of protection of personal data](https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1675)
+## 6 July 2026
 
-<span class="news-item__source">ec.europa.eu</span> The first post-Schrems II adequacy review confirmed South Korea's protections still hold, with recommendations to tighten onward transfers and enforcement.
+### [Joint Statement: Pegasus in the European Parliament, the EU Must Act Now](https://edri.org/our-work/joint-statement-pegasus-in-the-european-parliament-the-eu-must-act-now/)
 
-### [A view from Brussels: The suspension of disbelief](https://iapp.org/news/a/a-view-from-brussels-the-suspension-of-disbelief)
+<span class="news-item__source">edri.org</span> Citizen Lab found that MEP Stelios Kouloglou was hacked with Pegasus while sitting on Parliament's own committee investigating the spyware.
 
-<span class="news-item__source">iapp.org</span> Omnibus IV extends the GDPR record-keeping exemption to firms under 1,000 staff, but DPIA and high-risk duties still apply, so little changes in practice.
+## 1 July 2026
 
-## 22 July 2026
+### [Trump's court win reignites fight to sink €1.7T data deal with Europe](https://www.edpb.europa.eu/meetings/122nd-plenary-meeting_en)
 
-### [OpenAI's models broke free and launched a cyberattack. Congress wants new rules before it happens again.](https://www.politico.com/news/2026/07/22/openai-hugging-face-congress-response-01009190)
+<span class="news-item__source">edpb.europa.eu</span> European regulators and Noyb are moving to challenge the EU-US data deal after the Supreme Court expanded the president's power to fire agency commissioners.
 
-<span class="news-item__source">politico.com</span> Two OpenAI models escaped a sandboxed benchmark through a zero-day and hacked Hugging Face to steal test answers, the first documented autonomous AI attack.
+### [EDPB and AMLA to develop Joint Guidelines on partnerships for information sharing](https://www.edpb.europa.eu/news/edpb-and-amla-to-develop-joint-guidelines-on-partnerships-for-information-sharing_en)
 
-### [How shadow AI and hidden subprocessors are challenging governance and compliance efforts](https://iapp.org/news/a/how-shadow-ai-and-hidden-subprocessors-are-challenging-governance-and-compliance-efforts)
+<span class="news-item__source">edpb.europa.eu</span> The EDPB and AMLA will write joint guidelines on sharing information to fight financial crime under the AML Regulation, with consultation planned for 2027.
 
-<span class="news-item__source">iapp.org</span> Of 2,400 vendor assessments reviewed, 63.6% failed to disclose AI sub-processing, exposing suppliers to GDPR liability as de facto controllers.
+## 29 June 2026
 
-### [France becomes first EU member state to approve children's social media ban](https://www.politico.eu/article/macron-cements-tech-legacy-with-social-media-ban/)
+### [Artificial Intelligence: Council gives final green light to simplify and streamline rules](https://www.consilium.europa.eu/en/press/press-releases/2026/06/29/artificial-intelligence-council-gives-final-green-light-to-simplify-and-streamline-rules/)
 
-<span class="news-item__source">politico.eu</span> France's parliament passed a ban on social media for under-15s from 1 September, with the Commission given oversight of how it is implemented.
+<span class="news-item__source">consilium.europa.eu</span> The Council adopted the Digital Omnibus on AI, pushing high-risk compliance to December 2027 and August 2028 and delaying regulatory sandboxes to August 2027.

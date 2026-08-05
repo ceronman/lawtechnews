@@ -19,6 +19,9 @@ minify_html = false
 
 taxonomies = []
 
+# macOS drops these into content/ and Zola would otherwise copy them as assets.
+ignored_content = ["**/.DS_Store"]
+
 [markdown]
 render_emoji = true
 external_links_target_blank = true
