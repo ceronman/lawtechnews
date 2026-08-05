@@ -22,7 +22,8 @@
   border-bottom: 1px solid lab(82% 0 0);
 }
 
-.news h2:first-child {
+/* Pages 2+ open straight on a date heading */
+.news .p-article__body > h2:first-child {
   margin-top: 0;
 }
 
@@ -71,6 +72,18 @@
   margin-top: 0;
   font-size: 1.7rem;
   line-height: 1.6;
+}
+
+/* Newer / Older navigation */
+.news-pagination {
+  margin-top: 4.8rem;
+  padding-top: 1.6rem;
+  border-top: 1px solid lab(82% 0 0);
+}
+
+.news-pagination .c-pagination__count {
+  color: lab(56% 0 0);
+  font-size: 1.4rem;
 }
 
 @media screen and (max-width: 767px) {

@@ -1,6 +1,8 @@
-{# Override the pickles home page: one single scrollable list of news items,
-   rendered straight from content/_index.md. The theme's paginated post list
-   and its per-post "Read more" pages are deliberately not used. #}
+{# Override the pickles home page: a paginated list of news items, rendered
+   straight from the generated sections. The theme's own post loop and its
+   per-post "Read more" pages are deliberately not used -- each page of the
+   digest is a section written by scripts/import_news.py, which also supplies
+   the prev/next links in section.extra. #}
 {% extends "zola-pickles/templates/index.html" %}
 
 {% block extra_head -%}
@@ -12,5 +14,21 @@
     <section class="p-article__body">
         {{ section.content | safe }}
     </section>
+
+    <nav class="c-pagination p-pagination news-pagination">
+        <div class="c-pagination__ctrl">
+            <div class="c-pagination__newer">
+                {% if section.extra.prev -%}
+                <a href="{{ get_url(path=section.extra.prev, trailing_slash=true) }}" rel="prev">Newer</a>
+                {%- endif %}
+            </div>
+            <div class="c-pagination__older">
+                {% if section.extra.next -%}
+                <a href="{{ get_url(path=section.extra.next, trailing_slash=true) }}" rel="next">Older</a>
+                {%- endif %}
+            </div>
+        </div>
+        <span class="c-pagination__count p-pagination__count">Page {{ section.extra.page_num }} of {{ section.extra.page_count }}</span>
+    </nav>
 </article>
 {%- endblock content %}
