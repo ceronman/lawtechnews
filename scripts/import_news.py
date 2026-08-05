@@ -41,6 +41,9 @@ from urllib.parse import urlparse
 
 PER_PAGE = 10
 
+# The tracker job is instructed to write summaries of around 140 characters.
+MAX_SUMMARY = 200
+
 REPO = Path(__file__).resolve().parent.parent
 DEFAULT_SOURCE = REPO.parent / "news.md"
 CONTENT = REPO / "content"
@@ -181,6 +184,14 @@ def main() -> int:
         print(f"error: no news entries found in {source}", file=sys.stderr)
         return 1
 
+    long_ones = [it for it in items if len(it["summary"]) > MAX_SUMMARY]
+    for it in long_ones:
+        print(f"warning: {len(it['summary'])} chars (max {MAX_SUMMARY}): {it['title'][:60]}...",
+              file=sys.stderr)
+    if long_ones:
+        print(f"warning: {len(long_ones)} summary/summaries over {MAX_SUMMARY} characters; "
+              "shorten them in news.md and re-run", file=sys.stderr)
+
     items.sort(key=lambda it: (it["date"] or date.min, it["title"].lower()), reverse=True)
     newest = items[0]["date"]
 
@@ -202,9 +213,12 @@ def main() -> int:
         write(PAGES_DIR / str(number) / "_index.md",
               render_page(chunk, number, total_pages, len(items), newest))
 
+    lengths = [len(it["summary"]) for it in items]
     print(f"wrote {len(items)} items across {total_pages} pages "
           f"({PER_PAGE} per page) from {source}")
-    return 0
+    print(f"summary length: mean {sum(lengths) // len(lengths)}, max {max(lengths)} "
+          f"(limit {MAX_SUMMARY})")
+    return 1 if long_ones else 0
 
 
 if __name__ == "__main__":

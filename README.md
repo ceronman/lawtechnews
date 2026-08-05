@@ -5,7 +5,8 @@ European law-and-technology digest produced by the `Law tech news tracker`
 daily job.
 
 Stories are grouped by date and paginated at **10 per page**, with Newer/Older
-navigation. Each headline links straight to the original source. **The internal
+navigation. Each is a one-line summary of about 140 characters (200 maximum),
+and every headline links straight to the original source. **The internal
 relevance ratings from `news.md` are stripped and never published.**
 
 ## Layout
@@ -46,7 +47,8 @@ python3 scripts/import_news.py /path/to/news.md
 
 It rebuilds `content/` from scratch, so pages that are no longer needed
 disappear. The script refuses to write anything if a rating string somehow
-survives.
+survives, and exits non-zero with a warning if any summary runs past
+`MAX_SUMMARY` (200 characters) — the tracker job aims for about 140.
 
 ## Preview and build
 
