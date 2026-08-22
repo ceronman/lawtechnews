@@ -1,5 +1,5 @@
 # The base URL of the site. Change this to the domain where you publish.
-base_url = "https://example.com"
+base_url = "https://lawtechnews.pages.dev/"
 
 title = "Law & Tech News"
 description = "A daily digest of European law and technology news: AI Act, GDPR, DSA/DMA, cybersecurity and digital rights."
