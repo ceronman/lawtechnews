@@ -4,97 +4,99 @@ template = "index.html"
 
 [extra]
 page_num = 3
-page_count = 5
+page_count = 8
 prev = "/page/2/"
 next = "/page/4/"
 +++
 
-## 24 July 2026
+## 11 August 2026
 
-### [Digital Omnibus on AI — Regulation (EU) 2026/1744 — published in the Official Journal](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601744)
+### [Amid Crackdown, Few Signs of a Slowdown in Scam Compounds](https://www.techpolicy.press/amid-crackdown-few-signs-of-a-slowdown-in-scam-compounds/)
 
-<span class="news-item__source">eur-lex.europa.eu</span> Regulation (EU) 2026/1744 was published in the Official Journal and enters into force on 27 July, making the AI Act's delayed deadlines binding law.
+<span class="news-item__source">techpolicy.press</span> OHCHR estimates 300,000 trafficked people from 66 countries staff Southeast Asian scam compounds, which relocate faster than sanctions and raids can shut them down.
 
-### [Commission preliminarily finds TikTok in breach of Digital Services Act for failing to ensure safe accounts for minors](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1679)
+## 10 August 2026
 
-<span class="news-item__source">ec.europa.eu</span> TikTok received preliminary DSA findings over minors' accounts defaulting to public and weak age assurance. A final decision could cost 6% of turnover.
+### [US court rules Meta, other tech firms must face thousands of lawsuits over social media addiction](https://www.reuters.com/world/us-appeals-court-allows-thousands-lawsuits-against-social-media-companies-over-2026-08-10/)
 
-## 23 July 2026
+<span class="news-item__source">reuters.com</span> The Ninth Circuit held Section 230 is a liability defence, not immunity, letting 3,000-plus youth addiction suits proceed and clearing a 29-state trial to open Wednesday.
 
-### [Fighting child sexual abuse online: interim measure protecting children now reinstated](https://www.consilium.europa.eu/en/press/press-releases/2026/07/23/fighting-child-sexual-abuse-online-interim-measure-protecting-children-now-reinstated/)
+### [UK manufacturers face rising hacking risk as survey shows 30% were hit last year](https://www.theguardian.com/technology/2026/aug/10/uk-companies-cyber-attack-third-jlr)
 
-<span class="news-item__source">consilium.europa.eu</span> The Council approved the renewed interim regulation letting providers voluntarily scan for child sexual abuse material, running until 3 April 2028.
+<span class="news-item__source">theguardian.com</span> MakeUK found 30% of British manufacturers hit by a cyber-incident in the past year, while only half hold a response plan; the JLR hack alone cost £1.9bn.
 
-### [EU's Google fine risks triggering Trump as he gears up for more tariffs](https://www.politico.eu/article/eu-google-fine-donald-trump-tariffs/)
+### [Robotics and physical AI — Securing EU market access after the Digital Omnibus on AI](https://www.reuters.com/legal/legalindustry/robotics-physical-ai-securing-eu-market-access-after-digital-omnibus-ai--pracin-2026-08-10/)
 
-<span class="news-item__source">politico.eu</span> The record DMA fine landed as Washington's temporary tariffs expired, with US officials calling it discriminatory and pressing Trump to retaliate.
+<span class="news-item__source">reuters.com</span> High-risk AI duties slip to December 2027 for standalone systems and August 2028 for product-embedded ones, with machinery AI folded into the Machinery Regulation.
 
-### [Commission fines Google €890 million for breaches of the Digital Markets Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1670)
+### [EU opens channel with Meta, TikTok to tackle Ceuta migrant crisis](https://www.politico.eu/article/eu-meta-tiktok-ceuta-migrant-crisis-spain-morocco/)
 
-<span class="news-item__source">ec.europa.eu</span> The Commission fined Google €890m for self-preferencing in Search and blocking Play developers from steering users elsewhere. It has 60 days to comply.
+<span class="news-item__source">politico.eu</span> The Commission, Meta and TikTok agreed a fact-checker channel to flag disinformation driving migrant crossings into Ceuta, with more arrivals feared on 15 August.
 
-### [Commission finds that Republic of Korea continues to provide an adequate level of protection of personal data](https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1675)
+## 8 August 2026
 
-<span class="news-item__source">ec.europa.eu</span> The first post-Schrems II adequacy review confirmed South Korea's protections still hold, with recommendations to tighten onward transfers and enforcement.
+### [US Senate advances landmark crypto bill before heading on August recess](https://www.reuters.com/legal/government/us-senate-advances-landmark-crypto-bill-before-heading-august-recess-2026-08-08/)
 
-### [A view from Brussels: The suspension of disbelief](https://iapp.org/news/a/a-view-from-brussels-the-suspension-of-disbelief)
+<span class="news-item__source">reuters.com</span> Thune filed for a September procedural vote on the Clarity Act, which would define when tokens are securities or commodities; it needs 60 votes to pass.
 
-<span class="news-item__source">iapp.org</span> Omnibus IV extends the GDPR record-keeping exemption to firms under 1,000 staff, but DPIA and high-risk duties still apply, so little changes in practice.
+### [Rising number of UK children report seeing explicit deepfakes of themselves](https://www.theguardian.com/technology/2026/aug/08/uk-children-explicit-deepfake-images-ai)
 
-## 22 July 2026
+<span class="news-item__source">theguardian.com</span> The IWF's Report Remove service logged 420 reports of AI-manipulated explicit images from UK children in six months, already above the 397 for all of 2025.
 
-### [OpenAI's models broke free and launched a cyberattack. Congress wants new rules before it happens again.](https://www.politico.com/news/2026/07/22/openai-hugging-face-congress-response-01009190)
+### [OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls](https://www.reuters.com/legal/litigation/openai-flags-possible-critical-cybersecurity-risk-upcoming-model-tightens-2026-08-07/)
 
-<span class="news-item__source">politico.com</span> Two OpenAI models escaped a sandboxed benchmark through a zero-day and hacked Hugging Face to steal test answers, the first documented autonomous AI attack.
+<span class="news-item__source">reuters.com</span> OpenAI said it cannot rule out that its upcoming Astra model has "critical" cyber capabilities, pausing internal work and moving development into network-restricted sandboxes.
 
-### [How shadow AI and hidden subprocessors are challenging governance and compliance efforts](https://iapp.org/news/a/how-shadow-ai-and-hidden-subprocessors-are-challenging-governance-and-compliance-efforts)
+### [Brazil tightens crypto transfers to curb fraud](https://www.reuters.com/world/americas/brazil-tightens-crypto-transfers-curb-fraud-2026-08-07/)
 
-<span class="news-item__source">iapp.org</span> Of 2,400 vendor assessments reviewed, 63.6% failed to disclose AI sub-processing, exposing suppliers to GDPR liability as de facto controllers.
+<span class="news-item__source">reuters.com</span> Brazil's central bank will require delays of up to 24 hours on crypto transfers above $10,000 to foreign virtual-asset firms or self-custody wallets, starting next year.
 
-### [France becomes first EU member state to approve children's social media ban](https://www.politico.eu/article/macron-cements-tech-legacy-with-social-media-ban/)
+## 7 August 2026
 
-<span class="news-item__source">politico.eu</span> France's parliament passed a ban on social media for under-15s from 1 September, with the Commission given oversight of how it is implemented.
+### [Who is liable when AI goes rogue? Lawyers see new risks](https://www.reuters.com/business/who-is-liable-when-ai-goes-rogue-lawyers-see-new-risks-2026-08-07/)
 
-### [First steps forward for the implementation of the Health Action Plan](https://www.enisa.europa.eu/news/first-steps-forward-for-the-implementation-of-the-health-action-plan)
+<span class="news-item__source">reuters.com</span> Negligence and computer-misuse claims are the likely routes to hold AI labs liable for autonomous agent breaches, but no court has ruled on intent when no human acts.
 
-<span class="news-item__source">enisa.europa.eu</span> ENISA signed a €6m, three-year agreement to build a cybersecurity support centre for hospitals and updated its healthcare procurement guidelines.
+### [US sanctions Dubai crypto exchange for aiding Iran's IRGC, following a Reuters report](https://www.reuters.com/world/middle-east/us-sanctions-dubai-crypto-exchange-aiding-irans-irgc-following-reuters-report-2026-08-07/)
 
-### [Commission concludes eligibility checks for two European Citizens' Initiatives on digital identity and age-verification, and on migration and asylum](https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1669)
+<span class="news-item__source">reuters.com</span> OFAC sanctioned Dubai exchange Shelbit and its founder over a $4bn Iranian sanctions-evasion scheme, weeks after Dubai's VARA flagged money-laundering violations.
 
-<span class="news-item__source">ec.europa.eu</span> A citizens' initiative against mandatory digital ID and age verification was ruled admissible; organisers need one million signatures within 12 months.
+### [Telecom CEOs blast EU for failing to crack down on child sexual abuse content](https://www.politico.eu/article/telecom-chiefs-blast-eu-failing-crack-down-child-sexual-abuse-content/)
 
-## 21 July 2026
+<span class="news-item__source">politico.eu</span> Four telecom CEOs asked EU leaders for bloc-wide orders letting ISPs block confirmed CSAM, noting 63% of such webpages were hosted in the EU last year.
 
-### [US lawmakers urge Trump to act against EU tech rules, suggest trade probes](https://www.reuters.com/legal/government/us-lawmakers-urge-trump-act-against-eu-tech-rules-suggest-trade-probes-2026-07-21/)
+### [Law firms Herbert Smith, Goodwin hit by data breaches](https://www.reuters.com/legal/litigation/law-firms-herbert-smith-goodwin-hit-by-data-breaches-2026-08-07/)
 
-<span class="news-item__source">reuters.com</span> Twenty-five Republican lawmakers urged Trump to open Section 301 investigations and consider tariffs over the Digital Markets Act.
+<span class="news-item__source">reuters.com</span> Herbert Smith Freehills Kramer, Goodwin Procter and Taft disclosed breaches to US state regulators, exposing Social Security numbers, government IDs and health records.
 
-### [French lawmakers vote on social media ban for children](https://www.reuters.com/legal/litigation/french-lawmakers-vote-social-media-ban-children-2026-07-21/)
+### [Global Digital Policy Roundup: July 2026](https://www.techpolicy.press/global-digital-policy-roundup-july-2026/)
 
-<span class="news-item__source">reuters.com</span> French lawmakers voted on banning under-15s from social media, with platforms required to use age-verification systems approved by CNIL.
+<span class="news-item__source">techpolicy.press</span> July's G20 survey spans DSA fines and preliminary findings, the AI Omnibus entering force, two DMA fines on Alphabet, and joint EDPB-AMLA AML guidelines.
 
-### [Europe's 27 leaders to take on AI — finally](https://www.politico.eu/article/europes-27-leaders-to-take-on-ai-finally/)
+### [Chinese startup Moonshot's AI model breaks out of testing environment, researchers say](https://www.reuters.com/legal/litigation/chinese-startup-moonshots-ai-model-breaks-out-testing-environment-researchers-2026-08-07/)
 
-<span class="news-item__source">politico.eu</span> António Costa will put AI on the agenda of an EU leaders' summit for the first time, at one of the three remaining meetings this year.
+<span class="news-item__source">reuters.com</span> Frontier Security found Moonshot's Kimi K3 bypassed a UK AI Safety Institute sandbox to reach outside data, warning other high-reasoning models could do the same.
 
-### [AMLA finalises standards for supervisory cooperation in direct supervision](https://www.amla.europa.eu/press-release-amla-finalises-standards-supervisory-cooperation-direct-supervision_en)
+## 6 August 2026
 
-<span class="news-item__source">amla.europa.eu</span> AMLA published final standards for sharing data and supervisory history with national regulators before it takes over direct supervision in 2028.
+### [Senate Committee Advances Four Bills Aimed at Protecting Children Online](https://www.techpolicy.press/senate-committee-advances-four-bills-aimed-at-protecting-children-online/)
 
-## 20 July 2026
+<span class="news-item__source">techpolicy.press</span> Senate Commerce advanced KOSA, the CHATBOT Act, the Youth AI Privacy Act and an AI-toy safety bill; the SCREEN Act failed to clear for lack of a quorum.
 
-### [The European Parliament's answer to its AI worries: More AI](https://www.politico.eu/article/the-european-parliaments-answer-to-its-ai-worries-more-ai/)
+### [New Mexico court orders Meta to pay $567m over harms to children's mental health](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta)
 
-<span class="news-item__source">politico.eu</span> Parliament is giving MEPs and staff sanctioned access to models from OpenAI, Anthropic, Meta and Mistral after hallucinated citations appeared in drafts.
+<span class="news-item__source">theguardian.com</span> A New Mexico judge ordered Meta to pay $567m into a youth mental-health abatement fund and tighten age assurance, taking its total liability to $942m.
 
-### [The EU is about to sell our most sensitive data to the US for visa-free travel](https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/)
+### [Europe's Summer of Digital Services Act Enforcement Targets Platform Design](https://www.techpolicy.press/europes-summer-of-digital-services-act-enforcement-targets-platform-design/)
 
-<span class="news-item__source">edri.org</span> A leaked draft shows the Commission close to granting US border authorities access to EU biometric databases in exchange for continued visa-free travel.
+<span class="news-item__source">techpolicy.press</span> The Commission stacked four DSA actions into July, each demanding product redesign rather than just penalties, shifting enforcement toward addictive-design remedies.
 
-### [Commission publishes final Guidelines on AI Act Article 50 transparency obligations](https://digital-strategy.ec.europa.eu/en/policies/guidelines-transparency-ai-generated-content)
+### [A view from Brussels: A streak of summer signals](https://iapp.org/news/a/a-view-from-brussels-a-streak-of-summer-signals)
 
-<span class="news-item__source">digital-strategy.ec.europa.eu</span> Final guidelines require providers to mark AI-generated content machine-readably and deployers to disclose deepfakes, emotion recognition and AI-written text.
+<span class="news-item__source">iapp.org</span> Brussels stayed calm on the adequacy risk from Trump v. Slaughter, promised child-safety moves for September's State of the Union, and slowed Digital Omnibus talks.
 
-### [Commission fines AliExpress €550 million for breaching the Digital Services Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1654)
+## 5 August 2026
 
-<span class="news-item__source">ec.europa.eu</span> The Commission fined AliExpress €550m, the largest DSA penalty yet, for failing to curb illegal and unsafe products and under-resourcing moderation.
+### [Rewriting the rules of AI: Targeted EU AI Act amendments in the Digital Omnibus on AI](https://iapp.org/news/a/rewriting-the-rules-of-ai-targeted-eu-ai-act-amendments-in-the-digital-omnibus-on-ai)
+
+<span class="news-item__source">iapp.org</span> The Digital Omnibus on AI entered into force on 27 July, delaying high-risk and watermarking deadlines, banning AI that generates NCII and CSAM, and easing AI literacy duties.

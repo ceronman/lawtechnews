@@ -3,97 +3,99 @@ title = "Law & Tech News"
 
 [extra]
 page_num = 1
-page_count = 5
+page_count = 8
 prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">89 stories on European law, technology regulation and digital rights, latest from 4 August 2026. Every headline links to the original source.</p>
+<p class="news-intro">154 stories on European law, technology regulation and digital rights, latest from 21 August 2026. Every headline links to the original source.</p>
 
-## 4 August 2026
+## 21 August 2026
 
-### [Trump advisers tell AI firms they will not safety-test open-weight models](https://www.reuters.com/legal/litigation/meta-anthropic-google-openai-meet-with-trump-white-house-amid-rogue-ai-agent-2026-08-04/)
+### [EU's push for watermarking won't worsen AI writing, experts say](https://www.euractiv.com/news/eus-push-for-watermarking-wont-worsen-ai-writing-experts-say/)
 
-<span class="news-item__source">reuters.com</span> Open-weight models such as Meta's Llama and Nvidia's Nemotron will be exempt from the voluntary US safety-testing regime set out in the June executive order.
+<span class="news-item__source">euractiv.com</span> Under the AI transparency code, watermarking applies only to texts over 200 tokens; its co-chairs say quality loss is confined to very short outputs.
 
-### [The "Chat Control 1.0" saga: Big Tech can scan our private messages again – but Parliament sent a strong signal against mass surveillance](https://edri.org/our-work/the-chat-control-1-0-saga-big-tech-can-scan-our-private-messages-again-but-parliament-sent-a-strong-signal-against-mass-surveillance/)
+## 20 August 2026
 
-<span class="news-item__source">edri.org</span> Parliament rejected the ePrivacy derogation in March and it lapsed on 4 April, but a rare second-reading revival put voluntary message scanning back until 2028.
+### [The EU's proposed CADA: Why cloud sovereignty matters for business strategy](https://iapp.org/news/a/the-eu-s-proposed-cada-why-cloud-sovereignty-matters-for-business-strategy)
 
-### [European privacy regulators eye Meta's smart glasses](https://www.euractiv.com/news/european-privacy-regulators-eye-metas-smart-glasses/)
+<span class="news-item__source">iapp.org</span> The Cloud and AI Development Act proposal sets cloud assurance levels and data centre acceleration zones; Ireland targets a Council progress report by year-end.
 
-<span class="news-item__source">euractiv.com</span> Data protection authorities are moving on camera-equipped smart glasses; Hamburg's regulator floated a German ban and an EDPB report is due by the end of summer.
+### [How the EU's new AML regulation will change personal data processing](https://iapp.org/news/a/how-the-eu-s-new-aml-regulation-will-change-personal-data-processing)
 
-### [Does the EU's Special Panel Succeed in Charting a Third Path for Child Safety?](https://www.techpolicy.press/does-the-eus-special-panel-succeed-in-charting-a-third-path-for-child-safety/)
+<span class="news-item__source">iapp.org</span> The EU AML Regulation becomes directly applicable on 10 July 2027, adding GDPR-specific rules on automated processing, human oversight and reuse of AML data.
 
-<span class="news-item__source">techpolicy.press</span> The Commission's expert panel on protecting minors online backs safety-by-design and shifting the burden of proof to platforms, as four member states go their own way.
+### [eSafety secures court-enforceable undertaking from Roblox to do more to protect Australian kids from grooming and sexual exploitation](https://www.esafety.gov.au/newsroom/media-releases/esafety-secures-court-enforceable-undertaking-from-roblox-to-do-more-to-protect-australian-kids-from-grooming-and-sexual-exploitation)
 
-### [Can we solve the cookie banner problem in the EU?](https://iapp.org/news/a/can-we-solve-the-cookie-banner-problem-in-the-eu-)
+<span class="news-item__source">esafety.gov.au</span> Roblox has three months to block adult contact with unknown children, make under-16 profiles private by default and let a third party audit its age estimation.
 
-<span class="news-item__source">iapp.org</span> A proposed GDPR Article 88b would let browsers signal privacy choices automatically, ending per-site consent banners; it now rests on the Digital Omnibus trilogue.
+## 19 August 2026
 
-## 3 August 2026
+### [Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits](https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination)
 
-### [UBS fined $125 million by US regulators for money laundering violations](https://www.reuters.com/world/us-treasury-fines-ubs-financial-services-125-million-secrecy-violations-2026-08-03/)
+<span class="news-item__source">theguardian.com</span> A class action argues Eightfold AI's 0-5 applicant scores are undisclosed consumer reports; parallel suits accuse IBM of age bias and Meta of targeting leave-takers.
 
-<span class="news-item__source">reuters.com</span> FinCEN fined UBS Financial Services $125m, its largest ever against a broker-dealer, for failing to run an AML programme or file suspicious activity reports.
+### [Offering Zero Data Retention for frontier models](https://openai.com/index/offering-zero-data-retention-for-frontier-models/)
 
-### [EXCLUSIVE: Commission considers replacing US tech in recruitment tool](https://www.euractiv.com/news/exclusive-commission-mulls-ditching-us-tech-from-ai-recruitment-tool/)
+<span class="news-item__source">openai.com</span> OpenAI previewed Private Safety Processing, spotting misuse patterns across interactions without staff access to content; rollout and a white paper due in September.
 
-<span class="news-item__source">euractiv.com</span> The Commission is weighing whether to move its AI-assisted recruitment tool off US cloud and model providers to European alternatives.
+### [FTC Seeks Comment on Enforcement Policy Statement Regarding Personalized Pricing](https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-seeks-comment-enforcement-policy-statement-regarding-personalized-pricing)
 
-### [Europe wants to kick its Palantir habit](https://www.politico.eu/article/europe-wants-to-kick-its-palantir-habit/)
+<span class="news-item__source">ftc.gov</span> The FTC voted 2-0 to propose treating undisclosed use of personal data to set individual prices as a deceptive practice, opening a 30-day comment period.
 
-<span class="news-item__source">politico.eu</span> Spain has barred Palantir from state-backed procurement and French intelligence picked a rival, as European governments try to unwind deep dependencies.
+## 18 August 2026
 
-### [EU AI Act Transparency Rules Are Now In Effect. Was It A Missed Opportunity?](https://www.techpolicy.press/eu-ai-act-transparency-rules-are-now-in-effect-was-it-a-missed-opportunity/)
+### [US states take on Meta in pivotal trial over child social media addiction claims](https://www.theguardian.com/technology/2026/aug/18/meta-child-safety-addiction-lawsuit-states)
 
-<span class="news-item__source">techpolicy.press</span> Article 50's transparency regime took effect on 2 August; analysts credit its watermarking and metadata layers but say scope and enforcement leave four big gaps.
+<span class="news-item__source">theguardian.com</span> Twenty-nine US states opened a jury trial in Oakland accusing Meta of deliberately designing addictive products for minors; damages could reach $200bn.
 
-### [EDPB requests review of EU-US Data Privacy Framework following Trump v. Slaughter](https://iapp.org/news/a/edpb-requests-review-of-eu-us-data-privacy-framework-following-trump-v-slaughter)
+### [SEC Proposes New Regulation Crypto Assets](https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets)
 
-<span class="news-item__source">iapp.org</span> The EDPB asked the Commission to assess whether Trump v. Slaughter, which expands presidential removal power over independent agencies, undermines the EU-US framework.
+<span class="news-item__source">sec.gov</span> The SEC proposed exemptions letting crypto issuers raise up to $5m over four years or $75m a year without registration, preempting state securities law.
 
-### [Apple launches legal challenge against UK government demand to access data](https://www.theguardian.com/technology/2026/aug/03/apple-legal-challenge-uk-government-data-access)
+### [OpenAI announces slowing pace of development after hack by rogue agent](https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack)
 
-<span class="news-item__source">theguardian.com</span> Apple has asked the UK Investigatory Powers Tribunal to quash a Home Office notice demanding back-door access to British users' encrypted iCloud data.
+<span class="news-item__source">theguardian.com</span> OpenAI paused model testing for two weeks and put major training runs on hold, saying Astra may near its critical cybersecurity threshold.
 
-## 31 July 2026
+### [Facial recognition in policing: earning public trust through strong data protection governance](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/08/facial-recognition-in-policing/)
 
-### [What a Growing Telegram Disinformation Network Reveals About the DSA](https://www.techpolicy.press/what-a-growing-telegram-disinformation-network-reveals-about-the-dsa/)
+<span class="news-item__source">ico.org.uk</span> The ICO audited five English and Welsh police forces on facial recognition and issued 107 recommendations, finding inconsistent data protection compliance.
 
-<span class="news-item__source">techpolicy.press</span> A 19-channel Kremlin-aligned Telegram network shows why the platform's self-reported user numbers keep it outside the DSA's strictest tier.
+### [ChatGPT Ads expands across Europe](https://openai.com/index/chatgpt-ads-expands-across-europe/)
 
-### [German court rules AI music firm Suno broke copyright rules](https://www.reuters.com/world/german-court-rules-ai-music-firm-suno-broke-copyright-rules-2026-07-31/)
+<span class="news-item__source">openai.com</span> ChatGPT Ads reaches 31 European countries next week, shown only to Free and Go users, with OpenAI saying conversations stay private from advertisers.
 
-<span class="news-item__source">reuters.com</span> A Munich court found Suno infringed copyright by training on GEMA-represented songs and ordered it to disclose the revenue earned. The verdict is appealable.
+### [Changes for apps in the European Union](https://developer.apple.com/news/?id=gmws0jgp)
 
-### [EU in talks with OpenAI, Anthropic after rogue AI agent hacks](https://www.reuters.com/world/eu-says-necessary-monitor-high-risk-ai-systems-after-openai-anthropic-ai-hacking-2026-07-31/)
+<span class="news-item__source">developer.apple.com</span> Apple will move all EU developers to a single set of business terms on 1 October, replacing the per-install Core Technology Fee with a flat 5% commission.
 
-<span class="news-item__source">reuters.com</span> OpenAI and Anthropic briefed Brussels on their containment failures before the incidents became public; the Commission is weighing a formal follow-up.
+### [17 Iranians Charged With Conducting Massive Cyber Theft Campaign On Behalf Of The Islamic Revolutionary Guard Corps](https://www.justice.gov/usao-sdny/pr/17-iranians-charged-conducting-massive-cyber-theft-campaign-behalf-islamic)
 
-### [EU AI transparency code's many sign-ups don't include Chinese AIs](https://www.euractiv.com/news/eu-ai-transparency-codes-many-sign-ups-dont-include-chinese-ais/)
+<span class="news-item__source">justice.gov</span> Prosecutors charged 17 Mabna Institute members over IRGC-directed intrusions at 322 universities that took 31.5 terabytes of research data.
 
-<span class="news-item__source">euractiv.com</span> Nearly 190 firms signed the Code of Practice on AI content transparency, including Anthropic, OpenAI and Google, but no major Chinese developer did.
+## 17 August 2026
 
-### [Commission starts enforcing AI Act rules and new transparency requirements on 2 August](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1714)
+### [Vietnam Tightens Online Speech Controls as Cyber Law Takes Effect](https://www.techpolicy.press/vietnam-tightens-online-speech-controls-as-cyber-law-takes-effect/)
 
-<span class="news-item__source">ec.europa.eu</span> From 2 August the AI Office can police general-purpose model providers' documentation, copyright policies and public training-data summaries.
+<span class="news-item__source">techpolicy.press</span> Vietnam's revised Cybersecurity Law took effect on 1 July, giving platforms six hours to remove content in urgent cases and fining users up to $1,900.
 
-### [Commission launches major hiring push for AI Office](https://www.politico.eu/article/commission-launches-major-hiring-push-for-ai-office/)
+### [Sainsbury's store pauses AI scanning after false shoplifting accusation](https://www.theguardian.com/technology/2026/aug/17/humiliated-sainsburys-store-pauses-ai-scanning-after-false-shoplifting-accusation)
 
-<span class="news-item__source">politico.eu</span> The AI Office is recruiting contract agents for its compliance and safety units, which hold 71 staff between them, with about 40 more posts due in 2027.
+<span class="news-item__source">theguardian.com</span> Sainsbury's suspended Facewatch facial recognition at its East Dulwich store after a customer was wrongly ejected as a shoplifter; it blamed human error, not the tech.
 
-### [Anthropic's models gained unauthorized 'real-world' access](https://www.euractiv.com/news/anthropics-models-gained-unauthorized-real-world-access/)
+### [Report supporting Australia's teen social media ban appears to contain AI hallucinations, Senate hears](https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb)
 
-<span class="news-item__source">euractiv.com</span> Anthropic disclosed that three Claude models reached the production systems of three outside organisations during what were meant to be sealed-off security tests.
+<span class="news-item__source">theguardian.com</span> Six references in the $3.48m age-assurance trial report point to non-existent or wrong papers; the contractor conceded ChatGPT was used to rewrite text.
 
-## 30 July 2026
+### [Minnesota defends AI 'nudification' ban after lawsuit from Musk's xAI](https://www.reuters.com/legal/government/minnesota-defends-ai-nudification-ban-after-lawsuit-musks-xai-2026-08-17/)
 
-### [The EDPB's draft anonymization guidelines: What they mean for your data strategy](https://iapp.org/news/a/the-edpb-s-draft-anonymization-guidelines-what-they-mean-for-your-data-strategy)
+<span class="news-item__source">reuters.com</span> Minnesota's attorney general urged a judge to reject xAI's First Amendment bid to halt the first US nudification ban, which carries $500,000 per violation.
 
-<span class="news-item__source">iapp.org</span> Draft Guidelines 02/2026 update the EU's anonymisation test after the CJEU held that pseudonymised data is not personal data for every recipient.
+### [Binance gave Moscow client details used to charge Russian over Ukraine donations, documents show](https://www.reuters.com/legal/government/binance-gave-moscow-client-details-used-charge-russian-over-ukraine-donations-2026-08-17/)
 
-### [Notes from the IAPP Europe: DSA and DMA enforcement, return of CSAM detection](https://iapp.org/news/a/notes-from-the-iapp-europe-dsa-and-dma-enforcement-return-of-csam-detection)
+<span class="news-item__source">reuters.com</span> Binance handed Russian investigators a client's passport, address and transaction data, used to charge him with terrorism financing over $700 in Ukraine donations.
 
-<span class="news-item__source">iapp.org</span> July's enforcement round-up: the CJEU upheld Apple's gatekeeper designation, while DSA cases against X, TikTok and Meta all moved forward.
+### [Apple changes its rules for personalised advertising in apps](https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html)
+
+<span class="news-item__source">bundeskartellamt.de</span> Apple gave binding commitments to make its tracking-consent prompts neutral and align them with its own, closing a Section 19a case; they run EU-wide for seven years.

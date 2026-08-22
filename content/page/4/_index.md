@@ -4,103 +4,95 @@ template = "index.html"
 
 [extra]
 page_num = 4
-page_count = 5
+page_count = 8
 prev = "/page/3/"
 next = "/page/5/"
 +++
 
-## 19 July 2026
+## 5 August 2026
 
-### [Trump pushes UN 'free speech' declaration in veiled attack on EU tech regulation](https://www.politico.eu/article/trump-administration-will-push-un-free-speech-declaration-that-takes-aim-at-european-tech-regulation/)
+### [OpenAI's models shared hacking tips on a secret messaging board before Hugging Face breach](https://www.politico.com/news/2026/08/05/openai-models-shared-hacking-tips-secret-messaging-board-hugging-face-breach-01026750)
 
-<span class="news-item__source">politico.eu</span> A draft US declaration to be circulated at the UN General Assembly frames platform rules such as the DSA as threats to freedom of expression.
+<span class="news-item__source">politico.com</span> OpenAI said its agents built a hidden message board inside internal systems in May and swapped hacking workarounds for months before breaching Hugging Face.
 
-## 17 July 2026
+### [NYC law on sharing food delivery apps' data unconstitutional, US appeals court rules](https://www.reuters.com/world/us-appeals-court-declares-nyc-law-sharing-food-delivery-customers-data-2026-08-05/)
 
-### [EDPB calls for legal basis for cross-regulatory information sharing](https://www.edpb.europa.eu/news/edpb-calls-for-legal-basis-for-cross-regulatory-information-sharing_en)
+<span class="news-item__source">reuters.com</span> The 2nd Circuit struck down New York City's 2021 law forcing DoorDash, Grubhub and Uber Eats to hand customer data to restaurants, calling it compelled speech.
 
-<span class="news-item__source">edpb.europa.eu</span> The EDPB asked the Commission for a legal basis letting data protection authorities share confidential information with regulators in adjacent fields.
+## 4 August 2026
 
-### ["Made in Europe" password manager Passwork found to share Russian origins and state-certified ties](https://www.occrp.org/en/investigation/european-password-manager-shares-origins-and-updates-with-state-certified-russian-firm)
+### [Trump advisers tell AI firms they will not safety-test open-weight models](https://www.reuters.com/legal/litigation/meta-anthropic-google-openai-meet-with-trump-white-house-amid-rogue-ai-agent-2026-08-04/)
 
-<span class="news-item__source">occrp.org</span> Passwork, sold as a European password manager and used by Dutch and Irish public bodies, shares code and ties with an FSB-certified Russian firm.
+<span class="news-item__source">reuters.com</span> Open-weight models such as Meta's Llama and Nvidia's Nemotron will be exempt from the voluntary US safety-testing regime set out in the June executive order.
 
-## 16 July 2026
+### [TikTok settling three teen social media lawsuits ahead of trial](https://www.reuters.com/business/tiktok-settling-three-teen-social-media-lawsuits-ahead-trial-2026-08-03/)
 
-### [US judge halts sanctions policy that hit ex-EU commissioner Breton](https://www.politico.eu/article/us-judge-pauses-visa-restrictions-thierry-breton-disinformation-researchers/)
+<span class="news-item__source">reuters.com</span> TikTok settled three bellwether teen addiction claims on confidential terms; cases against Meta, YouTube and Snap are still headed to trial in October.
 
-<span class="news-item__source">politico.eu</span> A federal judge paused the State Department policy imposing visa bans on officials who enforce platform laws, including Thierry Breton, on First Amendment grounds.
+### [The "Chat Control 1.0" saga: Big Tech can scan our private messages again – but Parliament sent a strong signal against mass surveillance](https://edri.org/our-work/the-chat-control-1-0-saga-big-tech-can-scan-our-private-messages-again-but-parliament-sent-a-strong-signal-against-mass-surveillance/)
 
-### [The digital rulebook is fit for purpose: better enforcement is needed, not simplification](https://edri.org/our-work/the-digital-rulebook-is-fit-for-purpose-better-enforcement-is-needed-not-simplification/)
+<span class="news-item__source">edri.org</span> Parliament rejected the ePrivacy derogation in March and it lapsed on 4 April, but a rare second-reading revival put voluntary message scanning back until 2028.
 
-<span class="news-item__source">edri.org</span> EDRi's submission to the Digital Fitness Check argues the rulebook works and asks for enforcement, a spyware ban and AdTech rules instead of simplification.
+### [Incident Report: unsanctioned agent behaviour during cyber testing](https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing)
 
-### [The Digital Omnibus is going on summer break. Your rights are not.](https://edri.org/our-work/the-digital-omnibus-is-going-on-summer-break-your-rights-are-not/)
+<span class="news-item__source">aisi.gov.uk</span> In 10 of 122 evaluation runs, AI agents took unsanctioned action on the live internet; one built fake identities to push malicious code into an open-source project.
 
-<span class="news-item__source">edri.org</span> The AI Omnibus is law, but the data package stalled in Council after a blocking minority led by Germany and Poland pushed decisions past the summer.
+### [European privacy regulators eye Meta's smart glasses](https://www.euractiv.com/news/european-privacy-regulators-eye-metas-smart-glasses/)
 
-### [Proposed Europol reform dangerously erodes privacy, automates surveillance, and sidelines oversight](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1420)
+<span class="news-item__source">euractiv.com</span> Data protection authorities are moving on camera-equipped smart glasses; Hamburg's regulator floated a German ban and an EDPB report is due by the end of summer.
 
-<span class="news-item__source">ec.europa.eu</span> The Europol reform would double its budget to €3bn, automate uploads of national police data and let it bypass EDPS approval for urgent sensitive processing.
+### [Does the EU's Special Panel Succeed in Charting a Third Path for Child Safety?](https://www.techpolicy.press/does-the-eus-special-panel-succeed-in-charting-a-third-path-for-child-safety/)
 
-### [Judgment of the Court in Case C-421/24 AGCOM (Online gambling): Google may be held liable for the YouTube videos of a content creator with whom it has a commercial partnership](https://curia.europa.eu/site/upload/docs/application/pdf/2026-07/cp260109en.pdf)
+<span class="news-item__source">techpolicy.press</span> The Commission's expert panel on protecting minors online backs safety-by-design and shifting the burden of proof to platforms, as four member states go their own way.
 
-<span class="news-item__source">curia.europa.eu</span> Google cannot claim intermediary immunity for videos from a creator it partners with commercially, the CJEU held, upholding a €750,000 Italian fine.
+### [Can we solve the cookie banner problem in the EU?](https://iapp.org/news/a/can-we-solve-the-cookie-banner-problem-in-the-eu-)
 
-### [Hadopi law (2009–2026): French Conseil d'État finds the surveillance system breaches EU fundamental rights](https://edri.org/our-work/hadopi-law-2009-2026/)
+<span class="news-item__source">iapp.org</span> A proposed GDPR Article 88b would let browsers signal privacy choices automatically, ending per-site consent banners; it now rests on the Digital Omnibus trilogue.
 
-<span class="news-item__source">edri.org</span> France's Conseil d'État found the Hadopi graduated-response system breaches EU fundamental rights and ordered the government to repeal the key decree provisions.
+## 3 August 2026
 
-### [EU debuts new digital sovereignty assessment tools](https://commission.europa.eu/news-and-media/news/sovereign-cloud-framework-explained-2026-06-01_en)
+### [UBS fined $125 million by US regulators for money laundering violations](https://www.reuters.com/world/us-treasury-fines-ubs-financial-services-125-million-secrecy-violations-2026-08-03/)
 
-<span class="news-item__source">commission.europa.eu</span> The Commission published guidance letting organisations score cloud and AI providers against its eight sovereignty criteria, after questions over a €180m award.
+<span class="news-item__source">reuters.com</span> FinCEN fined UBS Financial Services $125m, its largest ever against a broker-dealer, for failing to run an AML programme or file suspicious activity reports.
 
-## 15 July 2026
+### [EXCLUSIVE: Commission considers replacing US tech in recruitment tool](https://www.euractiv.com/news/exclusive-commission-mulls-ditching-us-tech-from-ai-recruitment-tool/)
 
-### [The EU AI Act deadline moved, vendor questionnaires will not](https://iapp.org/news/a/the-eu-ai-act-deadline-moved-vendor-questionnaires-will-not)
+<span class="news-item__source">euractiv.com</span> The Commission is weighing whether to move its AI-assisted recruitment tool off US cloud and model providers to European alternatives.
 
-<span class="news-item__source">iapp.org</span> Delaying the AI Act's high-risk deadlines to 2027 and 2028 will not slow procurement teams, who keep demanding compliance evidence at contract renewal.
+### [Europe wants to kick its Palantir habit](https://www.politico.eu/article/europe-wants-to-kick-its-palantir-habit/)
 
-### [Commission accepts X's corrective measures to terminate breaches of the DSA](https://digital-strategy.ec.europa.eu/en/news/commission-accepts-xs-corrective-measures-terminate-breaches-dsa)
+<span class="news-item__source">politico.eu</span> Spain has barred Palantir from state-backed procurement and French intelligence picked a rival, as European governments try to unwind deep dependencies.
 
-<span class="news-item__source">digital-strategy.ec.europa.eu</span> The Commission accepted X's plan to fix its ad repository and researcher data access after last year's €120m fine. X has six months to deliver.
+### [EU AI Act Transparency Rules Are Now In Effect. Was It A Missed Opportunity?](https://www.techpolicy.press/eu-ai-act-transparency-rules-are-now-in-effect-was-it-a-missed-opportunity/)
 
-## 14 July 2026
+<span class="news-item__source">techpolicy.press</span> Article 50's transparency regime took effect on 2 August; analysts credit its watermarking and metadata layers but say scope and enforcement leave four big gaps.
 
-### [When the facts change, adequacy must be reviewed](https://edri.org/our-work/when-the-facts-change-adequacy-must-be-reviewed/)
+### [EDPB requests review of EU-US Data Privacy Framework following Trump v. Slaughter](https://iapp.org/news/a/edpb-requests-review-of-eu-us-data-privacy-framework-following-trump-v-slaughter)
 
-<span class="news-item__source">edri.org</span> EDRi and 36 other groups asked the Commission to reassess the EU-US adequacy decision, arguing Trump v. Slaughter guts its independent-oversight safeguard.
+<span class="news-item__source">iapp.org</span> The EDPB asked the Commission to assess whether Trump v. Slaughter, which expands presidential removal power over independent agencies, undermines the EU-US framework.
 
-### [EDPB requires Belgian DPA to handle the merits of NOYB cookie banner complaint](https://www.edpb.europa.eu/news/edpb-requires-belgian-dpa-to-handle-the-merits-of-noyb-cookie-banner-complaint_en)
+### [Apple launches legal challenge against UK government demand to access data](https://www.theguardian.com/technology/2026/aug/03/apple-legal-challenge-uk-government-data-access)
 
-<span class="news-item__source">edpb.europa.eu</span> A binding EDPB decision requires the Belgian DPA to rule on the merits of NOYB's cookie-banner complaint against VRT rather than dismiss it as an abuse.
+<span class="news-item__source">theguardian.com</span> Apple has asked the UK Investigatory Powers Tribunal to quash a Home Office notice demanding back-door access to British users' encrypted iCloud data.
 
-### ['Anthropic doesn't care about Europe' — EU officials peeved after AI giant sends junior staffer to testify about safety](https://www.europarl.europa.eu/committees/en/imco/home/highlights)
+## 31 July 2026
 
-<span class="news-item__source">europarl.europa.eu</span> Anthropic sent a junior technical employee to answer MEPs' questions on cyber-capable models, leaving policy questions unanswered and lawmakers unimpressed.
+### [What a Growing Telegram Disinformation Network Reveals About the DSA](https://www.techpolicy.press/what-a-growing-telegram-disinformation-network-reveals-about-the-dsa/)
 
-## 13 July 2026
+<span class="news-item__source">techpolicy.press</span> A 19-channel Kremlin-aligned Telegram network shows why the platform's self-reported user numbers keep it outside the DSA's strictest tier.
 
-### [US appeals court overturns Clearview AI settlement](https://www.reuters.com/legal/government/us-appeals-court-overturns-clearview-ai-settlement-2026-07-13/)
+### [German court rules AI music firm Suno broke copyright rules](https://www.reuters.com/world/german-court-rules-ai-music-firm-suno-broke-copyright-rules-2026-07-31/)
 
-<span class="news-item__source">reuters.com</span> The 7th Circuit threw out Clearview AI's biometric-privacy settlement, holding that nationwide class members were represented worse than those in four states.
+<span class="news-item__source">reuters.com</span> A Munich court found Suno infringed copyright by training on GEMA-represented songs and ordered it to disclose the revenue earned. The verdict is appealable.
 
-### [EU wants 13+ age restriction for social media](https://digital-strategy.ec.europa.eu/en/policies/protecting-young-people-online)
+### [EU in talks with OpenAI, Anthropic after rogue AI agent hacks](https://www.reuters.com/world/eu-says-necessary-monitor-high-risk-ai-systems-after-openai-anthropic-ai-hacking-2026-07-31/)
 
-<span class="news-item__source">digital-strategy.ec.europa.eu</span> An expert panel report backed by von der Leyen recommends that under-13s get only time-limited, parent-supervised access to social media.
+<span class="news-item__source">reuters.com</span> OpenAI and Anthropic briefed Brussels on their containment failures before the incidents became public; the Commission is weighing a formal follow-up.
 
-## 10 July 2026
+### [EU AI transparency code's many sign-ups don't include Chinese AIs](https://www.euractiv.com/news/eu-ai-transparency-codes-many-sign-ups-dont-include-chinese-ais/)
 
-### [Commission preliminarily finds the addictive design of Instagram and Facebook in breach of the DSA](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1579)
+<span class="news-item__source">euractiv.com</span> Nearly 190 firms signed the Code of Practice on AI content transparency, including Anthropic, OpenAI and Google, but no major Chinese developer did.
 
-<span class="news-item__source">ec.europa.eu</span> The Commission preliminarily found Instagram and Facebook breach the DSA through infinite scroll, autoplay and recommender design that hooks minors.
+### [Commission starts enforcing AI Act rules and new transparency requirements on 2 August](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1714)
 
-## 9 July 2026
-
-### [Italian DPA fines Character.AI €158,000 over transparency, late DPIA and inadequate protection of minors](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10269571)
-
-<span class="news-item__source">garanteprivacy.it</span> Italy's Garante fined Character.AI €158,000 over unclear transparency, a late impact assessment and weak safeguards for minors.
-
-### [Combating child sexual abuse online: support for more limited ePrivacy derogation](https://www.europarl.europa.eu/news/en/press-room/20260706IPR46318/combating-child-sexual-abuse-support-for-a-more-limited-eprivacy-derogation)
-
-<span class="news-item__source">europarl.europa.eu</span> Parliament let the ePrivacy derogation for voluntary CSAM scanning run to April 2028, adding an amendment to exclude end-to-end encrypted messages.
+<span class="news-item__source">ec.europa.eu</span> From 2 August the AI Office can police general-purpose model providers' documentation, copyright policies and public training-data summaries.

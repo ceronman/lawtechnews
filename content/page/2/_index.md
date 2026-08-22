@@ -4,101 +4,97 @@ template = "index.html"
 
 [extra]
 page_num = 2
-page_count = 5
+page_count = 8
 prev = "/"
 next = "/page/3/"
 +++
 
-## 30 July 2026
+## 15 August 2026
 
-### [EU launches AI Gigafactories call to boost Europe's computing capacity and unlock more than €30 billion in investment](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1708)
+### [Met apologises for exposing 143 email addresses of Mohamed Al Fayed victims](https://www.theguardian.com/world/2026/aug/15/met-police-apologises-exposing-email-addresses-mohamed-al-fayed-victims)
 
-<span class="news-item__source">ec.europa.eu</span> The Commission opened tenders for up to seven AI Gigafactories, offering €10bn in public funding and expecting €20bn more from private investors.
+<span class="news-item__source">theguardian.com</span> The Met exposed the email addresses of 143 Al Fayed victims in a group update, blamed human error and referred itself to the Information Commissioner.
 
-### [Can AI Agents Be Aligned with Human Rights?](https://www.techpolicy.press/can-ai-agents-be-aligned-with-human-rights/)
+## 14 August 2026
 
-<span class="news-item__source">techpolicy.press</span> DeepMind researchers propose training models against the Universal Declaration of Human Rights, testing the taxonomy on 100 simulated agent failures.
+### [FTC probes health records giant Epic Systems, sources say](https://www.reuters.com/world/us-ftc-probing-health-records-company-epic-systems-2026-08-14/)
 
-### [Brussels Gains New AI Act Enforcement Powers as Autonomous AI Tests Regulators](https://www.techpolicy.press/-brussels-gains-new-ai-act-enforcement-powers-as-autonomous-ai-tests-regulators/)
+<span class="news-item__source">reuters.com</span> The FTC opened an antitrust probe into whether Epic Systems withholds access to health records data; its platforms hold records on over 300 million patients.
 
-<span class="news-item__source">techpolicy.press</span> The Commission can now investigate general-purpose model providers and fine them up to €15m or 3% of global turnover; the AI Office is staffed at 145.
+### [French taxpayers' data stolen in cyber attack, French Finance Ministry says](https://www.reuters.com/legal/litigation/french-taxpayers-data-stolen-cyber-attack-french-finance-ministry-says-2026-08-14/)
 
-## 29 July 2026
+<span class="news-item__source">reuters.com</span> France's Finance Ministry confirmed an intruder extracted data on 678,000 taxpayers from the DGFiP in late June; those affected will be notified individually.
 
-### [What X's Corrected Action Under the DSA Fixes on Data Access, and What's Left Open](https://www.techpolicy.press/what-xs-corrected-action-under-the-dsa-fixes-on-data-access-and-whats-left-open/)
+### [Décision n° 2026-911 DC du 14 août 2026 — Loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux](https://www.conseil-constitutionnel.fr/decision/2026/2026911DC.htm)
 
-<span class="news-item__source">techpolicy.press</span> X's accepted DSA remedies promise free, faster researcher data access, but critics say they fix eligibility screening without guaranteeing useful data.
+<span class="news-item__source">conseil-constitutionnel.fr</span> France's Constitutional Council struck down the under-15 social media ban as a disproportionate curb on minors' freedom of expression, blocking its September start.
 
-### [Meet the EU team leading the world's first bona fide regulation of AI](https://www.politico.eu/article/meet-the-eu-team-going-up-against-big-ai-models/)
+### [Brazil Suspends Discord's Livestreams in First Enforcement Test of Child Protection Law](https://www.techpolicy.press/brazil-suspends-discords-livestreams-in-first-enforcement-test-of-child-protection-law/)
 
-<span class="news-item__source">politico.eu</span> The AI Office's 37-person systemic-risk unit can order models restricted or withdrawn from 2 August, after running 18 months without a permanent head.
+<span class="news-item__source">techpolicy.press</span> Brazil's ANPD gave Discord three business days to suspend livestreaming after a 13-year-old died on air, the first enforcement of the ECA Digital law.
 
-### [FTC and States Act Against Hims & Hers for Deceptive and Unlawful Privacy Practices](https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-states-act-against-hims-hers-deceptive-unlawful-privacy-practices)
+## 13 August 2026
 
-<span class="news-item__source">ftc.gov</span> The FTC, Utah and California sued Hims & Hers for sharing customers' health data with Meta, Snap and other ad platforms via uploads and tracking pixels.
+### [Hiding your use of AI is about to get much harder — thanks to Brussels](https://www.politico.eu/article/artificial-intelligence-ai-watermark-big-tech/)
 
-### [AI tool will lead to more child refugees being treated as adults, charity warns](https://www.theguardian.com/global-development/2026/jul/29/uk-immigration-ai-age-facial-recognition-child-refugees-adults-bias)
+<span class="news-item__source">politico.eu</span> AI Act transparency duties applying since 2 August force marking of AI output; Anthropic said every Claude model released after that date embeds invisible text watermarks.
 
-<span class="news-item__source">theguardian.com</span> Charities warn the Home Office's facial age-estimation tool will misclassify more child refugees as adults; 755 were wrongly assessed in 2025 alone.
+### [Hacking group claims mass data theft from Shell, Philips, GE, Fiserv and dozens of others](https://www.reuters.com/legal/government/philips-shell-targeted-by-hacking-group-2026-08-13/)
 
-## 28 July 2026
+<span class="news-item__source">reuters.com</span> Cl0p claimed data theft from nearly 50 firms via PTC Windchill flaws; Philips confirmed a contained server compromise and Shell a possible incident.
 
-### [UK lawmaker suing Musk's xAI seeks order to stop Grok generating sexualised images](https://www.reuters.com/legal/government/uk-lawmaker-suing-musks-xai-seeks-order-stop-grok-generating-sexualised-images-2026-07-28/)
+### [German privacy watchdog urges EU to scrap cookie banners](https://www.euractiv.com/news/german-privacy-watchdog-urges-eu-to-scrap-cookie-banners/)
 
-<span class="news-item__source">reuters.com</span> MP Jess Asato is asking the High Court to order xAI to build permanent technical blocks on Grok generating manipulated images of her.
+<span class="news-item__source">euractiv.com</span> Germany's federal data protection commissioner asked the EU to replace cookie banners with central cookie managers, after 75% of surveyed users said they would deny all.
 
-### [Ransomware attacks: learn from the mistakes of others](https://www.autoriteitpersoonsgegevens.nl/en/current/ransomware-attacks-learn-from-the-mistakes-of-others)
+### [EDPS Opinion 18/2026 on the Proposal for a Regulation on Europol repealing Regulation (EU) 2016/794](https://www.edps.europa.eu/data-protection/our-work/publications/opinions/2026-08-11-edps-opinion-182026-regulation-europol-repealing-regulation-eu-2016794)
 
-<span class="news-item__source">autoriteitpersoonsgegevens.nl</span> The Dutch DPA's ransomware report finds that organisations which rehearse incident response recover faster, and sets out six lessons for the rest.
+<span class="news-item__source">edps.europa.eu</span> The EDPS said the Commission's Europol reform creates serious risks by letting the agency hold data on vast numbers of people with no criminal links for an unspecified period.
 
-### [OpenAI's rogue models roamed the internet for 4 days and staged a second attack](https://www.politico.com/news/2026/07/28/openai-rogue-models-hugging-face-breach-01014572)
+### [Brazil's Data Protection Agency Faces Landmark Test on Kids and Facial Recognition](https://www.techpolicy.press/brazils-data-protection-agency-faces-landmark-test-on-kids-and-facial-recognition/)
 
-<span class="news-item__source">politico.com</span> The escaped models carried out 17,600 hacking actions over four days before breaching Hugging Face, and a second company's customer was also compromised.
+<span class="news-item__source">techpolicy.press</span> Brazil's ANPD ordered the immediate suspension of biometric processing of schoolchildren in Parana, where facial recognition tracked attendance tied to welfare eligibility.
 
-### [How the AI Deepfake Boom is Outpacing Europe's Safeguards](https://www.techpolicy.press/how-the-ai-deepfake-boom-is-outpacing-europes-safeguards/)
+### [AI agents aren't legally responsible for any harm that they cause, experts say. So who is?](https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is)
 
-<span class="news-item__source">techpolicy.press</span> Twenty-five victims describe non-consensual sexual deepfakes from nudification tools, including a Grok-driven wave that hit journalists and politicians.
+<span class="news-item__source">theguardian.com</span> After Australia's first reported agentic AI hacking incident, legal experts said deployers bear liability for their bots, with developers exposed where guardrails are inadequate.
 
-### [Home Office used 'AI hallucinated' information to refuse asylum claim, judge suggests](https://www.theguardian.com/uk-news/2026/jul/28/home-office-used-ai-hallucinated-information-to-refuse-asylum-claim-judge-suggests)
+## 12 August 2026
 
-<span class="news-item__source">theguardian.com</span> An Upper Tribunal judge found the Home Office refused an asylum claim by citing a policy note that does not exist and bears the hallmarks of AI generation.
+### [Twitch Is Now Using Your Content To Train Amazon AI Models And Has Hidden The Option To Opt Out](https://kotaku.com/twitch-is-now-using-your-content-to-train-amazon-ai-models-and-has-hidden-the-option-to-opt-out-2000723891)
 
-## 27 July 2026
+<span class="news-item__source">kotaku.com</span> Twitch turned on generative-AI training of streamer content by default with a buried opt-out; its product chief said nobody would have opted in.
 
-### [PSA: Your Claude shared chats and Artifacts may have ended up on Google](https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/)
+### [Meta AI glasses face criminal complaint in Germany](https://www.politico.eu/article/meta-ai-glasses-face-criminal-complaint-in-germany/)
 
-<span class="news-item__source">techcrunch.com</span> Shared Claude chat links and Artifacts turned up in Google's index, exposing health records, company documents and children's contact details.
+<span class="news-item__source">politico.eu</span> HateAid filed a criminal complaint against Meta, Ray-Ban, Oakley and retailers, arguing covert filming by smart glasses breaches Germany's TDDDG and warrants a sales ban.
 
-### [Kill the Cookie Banner!](https://killthecookiebanner.eu/)
+### [Expanding Capabilities to Combat Transnational Cyber-Enabled Crime](https://www.whitehouse.gov/presidential-actions/2026/08/expanding-capabilities-to-combat-transnational-cyber-enabled-crime/)
 
-<span class="news-item__source">killthecookiebanner.eu</span> A campaign is pressing Parliament and member states to adopt browser-level privacy signals, arguing banners manufacture consent from 90% of users.
+<span class="news-item__source">whitehouse.gov</span> Trump signed a memorandum letting vetted US firms run offensive cyber operations against foreign criminal networks, with a $1m escrow and DOJ-DHS sign-off per operation.
 
-### [Europe's AI safety rules take on US rogue agents and Chinese ambitions](https://www.politico.eu/article/eu-ai-artificial-intelligence-safety-us-china/)
+## 11 August 2026
 
-<span class="news-item__source">politico.eu</span> From 2 August the AI Office can demand documentation, run evaluations and request model access from frontier labs, with fines up to 3% of turnover.
+### [US human rights groups sue Trump over anti-ICC push](https://www.reuters.com/legal/government/us-human-rights-groups-sue-trump-over-anti-icc-push-2026-08-11/)
 
-### [Cold calculation or plucked from thin air? How the EU determines those big fines against Big Tech](https://www.politico.eu/article/how-the-eu-calculates-its-mega-tech-fines/)
+<span class="news-item__source">reuters.com</span> Human Rights Watch, Open Society, AFSC and the Center for Constitutional Rights sued in New York to void Trump's executive order sanctioning those who work with the ICC.
 
-<span class="news-item__source">politico.eu</span> Each regime calculates differently: DMA fines aim at compliance rather than punishment, and the €890m Google fine came to 0.22% of Alphabet's revenue.
+### [The backlash to social media bans has already begun](https://www.politico.eu/article/social-media-bans-minors-global-backlash/)
 
-### [Alarm at NHS patient records being put under control of US private equity firm](https://www.theguardian.com/society/2026/jul/27/nhs-patients-records-us-private-equity-firm-optum-uk-tpg)
+<span class="news-item__source">politico.eu</span> Eight months after Australia's under-16 ban, its regulator found over 80% of minors still using social media, and experts warned von der Leyen against EU-wide blanket bans.
 
-<span class="news-item__source">theguardian.com</span> US private equity firm TPG bought Optum UK, including the EMIS record system used by over half of English GP practices, in a $400m deal.
+### [Meta glasses banned from courts in England and Wales](https://www.theguardian.com/technology/2026/aug/11/meta-glasses-banned-from-courts-in-england-and-wales)
 
-## 26 July 2026
+<span class="news-item__source">theguardian.com</span> HMCTS will confiscate Meta smart glasses from anyone entering courts in England and Wales, while still allowing smartphones inside judicial buildings.
 
-### [US prosecutors charge Atlanta man after GrapheneOS phone wipes itself during airport search](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
+### [French media asks French anti-trust watchdog to act on Google's AI](https://www.reuters.com/world/french-media-asks-french-anti-trust-watchdog-act-googles-ai-2026-08-11/)
 
-<span class="news-item__source">techspot.com</span> US prosecutors charged an Atlanta man with destroying property after his GrapheneOS phone wiped itself during a warrantless airport search.
+<span class="news-item__source">reuters.com</span> French press publishers asked the Autorite de la concurrence to curb Google's AI summaries, seeking the payment-plan remedy imposed on Meta in July.
 
-## 25 July 2026
+### [FinCEN Permanently Ends Beneficial Ownership Reporting Requirements for Millions of Small Business Owners](https://www.fincen.gov/news/news-releases/fincen-permanently-ends-beneficial-ownership-reporting-requirements-millions)
 
-### [Trump says US to launch EU probe over 'illegal' Google fine](https://www.reuters.com/business/trump-says-us-launch-eu-probe-over-illegal-google-fine-2026-07-24/)
+<span class="news-item__source">fincen.gov</span> FinCEN's final rule permanently exempts US companies and persons from Corporate Transparency Act ownership reporting and deletes their records from the database.
 
-<span class="news-item__source">reuters.com</span> Trump said the US will open a Section 301 trade investigation into the EU over the €890m Google fine, warning the bloc will 'pay a very big price'.
+### [Démarchage téléphonique interdit : quelles sont les nouvelles règles ?](https://www.service-public.gouv.fr/particuliers/actualites/A19003)
 
-## 24 July 2026
-
-### [EU telcos ask: Huawei going to afford to replace Chinese equipment?](https://www.theregister.com/networks/2026/07/24/eu-telcos-ask-huawei-going-to-afford-to-replace-chinese-equipment/5278122)
-
-<span class="news-item__source">theregister.com</span> Replacing Huawei and ZTE kit under the proposed Cybersecurity Act 2 would cost EU operators €30-40bn within a three-year compliance window.
+<span class="news-item__source">service-public.gouv.fr</span> Cold calling is banned by default in France from today: firms need free, specific, revocable opt-in consent lasting at most a year, and Bloctel is abolished.
