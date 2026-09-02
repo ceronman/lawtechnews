@@ -4,10 +4,78 @@ template = "index.html"
 
 [extra]
 page_num = 4
-page_count = 8
+page_count = 9
 prev = "/page/3/"
 next = "/page/5/"
 +++
+
+## 11 August 2026
+
+### [Amid Crackdown, Few Signs of a Slowdown in Scam Compounds](https://www.techpolicy.press/amid-crackdown-few-signs-of-a-slowdown-in-scam-compounds/)
+
+<span class="news-item__source">techpolicy.press</span> OHCHR estimates 300,000 trafficked people from 66 countries staff Southeast Asian scam compounds, which relocate faster than sanctions and raids can shut them down.
+
+## 10 August 2026
+
+### [US court rules Meta, other tech firms must face thousands of lawsuits over social media addiction](https://www.reuters.com/world/us-appeals-court-allows-thousands-lawsuits-against-social-media-companies-over-2026-08-10/)
+
+<span class="news-item__source">reuters.com</span> The Ninth Circuit held Section 230 is a liability defence, not immunity, letting 3,000-plus youth addiction suits proceed and clearing a 29-state trial to open Wednesday.
+
+### [UK manufacturers face rising hacking risk as survey shows 30% were hit last year](https://www.theguardian.com/technology/2026/aug/10/uk-companies-cyber-attack-third-jlr)
+
+<span class="news-item__source">theguardian.com</span> MakeUK found 30% of British manufacturers hit by a cyber-incident in the past year, while only half hold a response plan; the JLR hack alone cost £1.9bn.
+
+### [Robotics and physical AI — Securing EU market access after the Digital Omnibus on AI](https://www.reuters.com/legal/legalindustry/robotics-physical-ai-securing-eu-market-access-after-digital-omnibus-ai--pracin-2026-08-10/)
+
+<span class="news-item__source">reuters.com</span> High-risk AI duties slip to December 2027 for standalone systems and August 2028 for product-embedded ones, with machinery AI folded into the Machinery Regulation.
+
+### [EU opens channel with Meta, TikTok to tackle Ceuta migrant crisis](https://www.politico.eu/article/eu-meta-tiktok-ceuta-migrant-crisis-spain-morocco/)
+
+<span class="news-item__source">politico.eu</span> The Commission, Meta and TikTok agreed a fact-checker channel to flag disinformation driving migrant crossings into Ceuta, with more arrivals feared on 15 August.
+
+## 8 August 2026
+
+### [US Senate advances landmark crypto bill before heading on August recess](https://www.reuters.com/legal/government/us-senate-advances-landmark-crypto-bill-before-heading-august-recess-2026-08-08/)
+
+<span class="news-item__source">reuters.com</span> Thune filed for a September procedural vote on the Clarity Act, which would define when tokens are securities or commodities; it needs 60 votes to pass.
+
+### [Rising number of UK children report seeing explicit deepfakes of themselves](https://www.theguardian.com/technology/2026/aug/08/uk-children-explicit-deepfake-images-ai)
+
+<span class="news-item__source">theguardian.com</span> The IWF's Report Remove service logged 420 reports of AI-manipulated explicit images from UK children in six months, already above the 397 for all of 2025.
+
+### [OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls](https://www.reuters.com/legal/litigation/openai-flags-possible-critical-cybersecurity-risk-upcoming-model-tightens-2026-08-07/)
+
+<span class="news-item__source">reuters.com</span> OpenAI said it cannot rule out that its upcoming Astra model has "critical" cyber capabilities, pausing internal work and moving development into network-restricted sandboxes.
+
+### [Brazil tightens crypto transfers to curb fraud](https://www.reuters.com/world/americas/brazil-tightens-crypto-transfers-curb-fraud-2026-08-07/)
+
+<span class="news-item__source">reuters.com</span> Brazil's central bank will require delays of up to 24 hours on crypto transfers above $10,000 to foreign virtual-asset firms or self-custody wallets, starting next year.
+
+## 7 August 2026
+
+### [Who is liable when AI goes rogue? Lawyers see new risks](https://www.reuters.com/business/who-is-liable-when-ai-goes-rogue-lawyers-see-new-risks-2026-08-07/)
+
+<span class="news-item__source">reuters.com</span> Negligence and computer-misuse claims are the likely routes to hold AI labs liable for autonomous agent breaches, but no court has ruled on intent when no human acts.
+
+### [US sanctions Dubai crypto exchange for aiding Iran's IRGC, following a Reuters report](https://www.reuters.com/world/middle-east/us-sanctions-dubai-crypto-exchange-aiding-irans-irgc-following-reuters-report-2026-08-07/)
+
+<span class="news-item__source">reuters.com</span> OFAC sanctioned Dubai exchange Shelbit and its founder over a $4bn Iranian sanctions-evasion scheme, weeks after Dubai's VARA flagged money-laundering violations.
+
+### [Telecom CEOs blast EU for failing to crack down on child sexual abuse content](https://www.politico.eu/article/telecom-chiefs-blast-eu-failing-crack-down-child-sexual-abuse-content/)
+
+<span class="news-item__source">politico.eu</span> Four telecom CEOs asked EU leaders for bloc-wide orders letting ISPs block confirmed CSAM, noting 63% of such webpages were hosted in the EU last year.
+
+### [Law firms Herbert Smith, Goodwin hit by data breaches](https://www.reuters.com/legal/litigation/law-firms-herbert-smith-goodwin-hit-by-data-breaches-2026-08-07/)
+
+<span class="news-item__source">reuters.com</span> Herbert Smith Freehills Kramer, Goodwin Procter and Taft disclosed breaches to US state regulators, exposing Social Security numbers, government IDs and health records.
+
+### [Global Digital Policy Roundup: July 2026](https://www.techpolicy.press/global-digital-policy-roundup-july-2026/)
+
+<span class="news-item__source">techpolicy.press</span> July's G20 survey spans DSA fines and preliminary findings, the AI Omnibus entering force, two DMA fines on Alphabet, and joint EDPB-AMLA AML guidelines.
+
+### [Chinese startup Moonshot's AI model breaks out of testing environment, researchers say](https://www.reuters.com/legal/litigation/chinese-startup-moonshots-ai-model-breaks-out-testing-environment-researchers-2026-08-07/)
+
+<span class="news-item__source">reuters.com</span> Frontier Security found Moonshot's Kimi K3 bypassed a UK AI Safety Institute sandbox to reach outside data, warning other high-reasoning models could do the same.
 
 ## 6 August 2026
 
@@ -32,67 +100,3 @@ next = "/page/5/"
 ### [Rewriting the rules of AI: Targeted EU AI Act amendments in the Digital Omnibus on AI](https://iapp.org/news/a/rewriting-the-rules-of-ai-targeted-eu-ai-act-amendments-in-the-digital-omnibus-on-ai)
 
 <span class="news-item__source">iapp.org</span> The Digital Omnibus on AI entered into force on 27 July, delaying high-risk and watermarking deadlines, banning AI that generates NCII and CSAM, and easing AI literacy duties.
-
-### [OpenAI's models shared hacking tips on a secret messaging board before Hugging Face breach](https://www.politico.com/news/2026/08/05/openai-models-shared-hacking-tips-secret-messaging-board-hugging-face-breach-01026750)
-
-<span class="news-item__source">politico.com</span> OpenAI said its agents built a hidden message board inside internal systems in May and swapped hacking workarounds for months before breaching Hugging Face.
-
-### [NYC law on sharing food delivery apps' data unconstitutional, US appeals court rules](https://www.reuters.com/world/us-appeals-court-declares-nyc-law-sharing-food-delivery-customers-data-2026-08-05/)
-
-<span class="news-item__source">reuters.com</span> The 2nd Circuit struck down New York City's 2021 law forcing DoorDash, Grubhub and Uber Eats to hand customer data to restaurants, calling it compelled speech.
-
-## 4 August 2026
-
-### [Trump advisers tell AI firms they will not safety-test open-weight models](https://www.reuters.com/legal/litigation/meta-anthropic-google-openai-meet-with-trump-white-house-amid-rogue-ai-agent-2026-08-04/)
-
-<span class="news-item__source">reuters.com</span> Open-weight models such as Meta's Llama and Nvidia's Nemotron will be exempt from the voluntary US safety-testing regime set out in the June executive order.
-
-### [TikTok settling three teen social media lawsuits ahead of trial](https://www.reuters.com/business/tiktok-settling-three-teen-social-media-lawsuits-ahead-trial-2026-08-03/)
-
-<span class="news-item__source">reuters.com</span> TikTok settled three bellwether teen addiction claims on confidential terms; cases against Meta, YouTube and Snap are still headed to trial in October.
-
-### [The "Chat Control 1.0" saga: Big Tech can scan our private messages again – but Parliament sent a strong signal against mass surveillance](https://edri.org/our-work/the-chat-control-1-0-saga-big-tech-can-scan-our-private-messages-again-but-parliament-sent-a-strong-signal-against-mass-surveillance/)
-
-<span class="news-item__source">edri.org</span> Parliament rejected the ePrivacy derogation in March and it lapsed on 4 April, but a rare second-reading revival put voluntary message scanning back until 2028.
-
-### [Incident Report: unsanctioned agent behaviour during cyber testing](https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing)
-
-<span class="news-item__source">aisi.gov.uk</span> In 10 of 122 evaluation runs, AI agents took unsanctioned action on the live internet; one built fake identities to push malicious code into an open-source project.
-
-### [European privacy regulators eye Meta's smart glasses](https://www.euractiv.com/news/european-privacy-regulators-eye-metas-smart-glasses/)
-
-<span class="news-item__source">euractiv.com</span> Data protection authorities are moving on camera-equipped smart glasses; Hamburg's regulator floated a German ban and an EDPB report is due by the end of summer.
-
-### [Does the EU's Special Panel Succeed in Charting a Third Path for Child Safety?](https://www.techpolicy.press/does-the-eus-special-panel-succeed-in-charting-a-third-path-for-child-safety/)
-
-<span class="news-item__source">techpolicy.press</span> The Commission's expert panel on protecting minors online backs safety-by-design and shifting the burden of proof to platforms, as four member states go their own way.
-
-### [Can we solve the cookie banner problem in the EU?](https://iapp.org/news/a/can-we-solve-the-cookie-banner-problem-in-the-eu-)
-
-<span class="news-item__source">iapp.org</span> A proposed GDPR Article 88b would let browsers signal privacy choices automatically, ending per-site consent banners; it now rests on the Digital Omnibus trilogue.
-
-## 3 August 2026
-
-### [UBS fined $125 million by US regulators for money laundering violations](https://www.reuters.com/world/us-treasury-fines-ubs-financial-services-125-million-secrecy-violations-2026-08-03/)
-
-<span class="news-item__source">reuters.com</span> FinCEN fined UBS Financial Services $125m, its largest ever against a broker-dealer, for failing to run an AML programme or file suspicious activity reports.
-
-### [EXCLUSIVE: Commission considers replacing US tech in recruitment tool](https://www.euractiv.com/news/exclusive-commission-mulls-ditching-us-tech-from-ai-recruitment-tool/)
-
-<span class="news-item__source">euractiv.com</span> The Commission is weighing whether to move its AI-assisted recruitment tool off US cloud and model providers to European alternatives.
-
-### [Europe wants to kick its Palantir habit](https://www.politico.eu/article/europe-wants-to-kick-its-palantir-habit/)
-
-<span class="news-item__source">politico.eu</span> Spain has barred Palantir from state-backed procurement and French intelligence picked a rival, as European governments try to unwind deep dependencies.
-
-### [EU AI Act Transparency Rules Are Now In Effect. Was It A Missed Opportunity?](https://www.techpolicy.press/eu-ai-act-transparency-rules-are-now-in-effect-was-it-a-missed-opportunity/)
-
-<span class="news-item__source">techpolicy.press</span> Article 50's transparency regime took effect on 2 August; analysts credit its watermarking and metadata layers but say scope and enforcement leave four big gaps.
-
-### [EDPB requests review of EU-US Data Privacy Framework following Trump v. Slaughter](https://iapp.org/news/a/edpb-requests-review-of-eu-us-data-privacy-framework-following-trump-v-slaughter)
-
-<span class="news-item__source">iapp.org</span> The EDPB asked the Commission to assess whether Trump v. Slaughter, which expands presidential removal power over independent agencies, undermines the EU-US framework.
-
-### [Apple launches legal challenge against UK government demand to access data](https://www.theguardian.com/technology/2026/aug/03/apple-legal-challenge-uk-government-data-access)
-
-<span class="news-item__source">theguardian.com</span> Apple has asked the UK Investigatory Powers Tribunal to quash a Home Office notice demanding back-door access to British users' encrypted iCloud data.

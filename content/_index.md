@@ -3,12 +3,88 @@ title = "Law & Tech News"
 
 [extra]
 page_num = 1
-page_count = 8
+page_count = 9
 prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">159 stories on European law, technology regulation and digital rights, latest from 21 August 2026. Every headline links to the original source.</p>
+<p class="news-intro">174 stories on European law, technology regulation and digital rights, latest from 2 September 2026. Every headline links to the original source.</p>
+
+## 2 September 2026
+
+### [Data Protection Commission announces Final Decision following Inquiry into the Health Service Executive (HSE)](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-announces-final-decision-following-inquiry-health-service-executive-hse)
+
+<span class="news-item__source">dataprotection.ie</span> The Irish DPC fined the HSE €645,000 for keeping patient paper records in derelict, mould-contaminated buildings, and ordered a nationwide audit of its storage facilities.
+
+## 1 September 2026
+
+### [Supreme Court: CRIF illegally collected data of millions in Austria. Way clear for class action!](https://noyb.eu/en/supreme-court-crif-illegally-collected-data-millions-austria-way-clear-class-action)
+
+<span class="news-item__source">noyb.eu</span> Austria's Supreme Court held that credit agency CRIF breached GDPR purpose limitation by buying marketing address data, clearing the way for noyb's class action.
+
+### [Germany's Draft Law on AI in Migration Raises Rights and Bias Concerns](https://www.techpolicy.press/germanys-draft-law-on-ai-in-migration-raises-rights-and-bias-concerns/)
+
+<span class="news-item__source">techpolicy.press</span> Germany's cabinet approved the KIMVG draft allowing AI in visa, residence and asylum procedures, including automated cross-checks of applicants' statements against online sources.
+
+### [California lawmakers pass bill governing lawyers' use of AI](https://www.reuters.com/legal/government/california-lawmakers-pass-bill-governing-lawyers-use-ai-2026-09-01/)
+
+<span class="news-item__source">reuters.com</span> SB 574 now goes to Newsom; it bars delegating legal work to generative AI and requires verifying citations and disclosing AI use in court filings.
+
+## 31 August 2026
+
+### [Privacy Reform – Consultation on Exposure Draft legislation](https://consultations.ag.gov.au/rights-and-protections/privacy-reform/)
+
+<span class="news-item__source">consultations.ag.gov.au</span> Australia opened consultation on an exposure draft Privacy Amendment (Personal Data Protection) Bill 2026 aimed at AI and wearables. Submissions close 18 September.
+
+### [FTC, States Sue Amazon Over Secret Ad Surcharge Scheme](https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-states-sue-amazon-over-secret-ad-surcharge-scheme)
+
+<span class="news-item__source">ftc.gov</span> The complaint alleges Amazon quietly turned its "second price" ad auctions into first price from 2019, extracting tens of billions from over a million sellers.
+
+### [Commission designates ChatGPT, Reddit, Roblox under Digital Services Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1772)
+
+<span class="news-item__source">ec.europa.eu</span> The Commission designated ChatGPT as a very large online search engine and Reddit and Roblox as very large online platforms, giving them until January 2027 to comply.
+
+## 28 August 2026
+
+### [US court rules Pentagon ban of Anthropic unlawful](https://www.euractiv.com/news/us-court-rules-pentagon-ban-of-anthropic-unlawful/)
+
+<span class="news-item__source">euractiv.com</span> A US federal judge held that the government-wide ban on Anthropic products was unlawful retaliation for the firm refusing mass surveillance and autonomous weapons uses.
+
+### [The US got Meta to change Instagram and Facebook. Europe wants in.](https://www.politico.eu/article/meta-kids-safety-us-eu-digital-services-act/)
+
+<span class="news-item__source">politico.eu</span> The Commission signalled Meta's $18bn US settlement falls short of its DSA demands, which target autoplay, infinite scroll and personalised feeds themselves.
+
+## 27 August 2026
+
+### [Poland asks EU to fine Meta €250 million over scam ads](https://www.politico.eu/article/polish-deputy-pm-krzysztof-gawkowski-says-eu-should-fine-meta-250-million-for-financial-scams/)
+
+<span class="news-item__source">politico.eu</span> Poland's digital minister asked the Commission to fine Meta €250m and investigate six DSA breaches over scam ads, citing a 13% removal rate for reported fakes.
+
+## 26 August 2026
+
+### [IA : la CNIL met à jour son outil de traçabilité des modèles publiés en source ouverte](https://www.cnil.fr/fr/ia-la-cnil-met-jour-son-outil-de-tracabilite-des-modeles-publies-en-source-ouverte)
+
+<span class="news-item__source">cnil.fr</span> The CNIL shipped an English version of Genmod, which traces open-weight AI model lineage to show which derived models may have memorised the same personal data.
+
+### [Attorney General James Secures Up to $17.1 Billion and Groundbreaking Reforms from Meta to Protect Children on Social Media](https://ag.ny.gov/press-release/2026/attorney-general-james-secures-171-billion-and-groundbreaking-reforms-meta)
+
+<span class="news-item__source">ag.ny.gov</span> Meta will pay up to $17.1bn to 51 US attorneys general and cap under-18 use at two hours a day, with age verification and opt-out non-algorithmic feeds.
+
+## 25 August 2026
+
+### [Nigel Farage wants to scrap GDPR for the UK](https://www.politico.eu/article/nigel-farage-wants-to-scrap-gdpr-for-the-uk/)
+
+<span class="news-item__source">politico.eu</span> Reform UK would replace UK GDPR with a light-touch law modelled on New Zealand's Privacy Act, claiming EU adequacy would survive the change.
+
+### [ANPD multa TikTok em R$ 153,7 milhões por falhas na proteção de dados de crianças e adolescentes](https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-multa-tiktok-em-r-153-7-milhoes-por-falhas-na-protecao-de-dados-de-criancas-e-adolescentes)
+
+<span class="news-item__source">gov.br</span> Brazil's ANPD fined ByteDance R$153.7m for processing minors' data with no legal basis, ordering deletion and a compliance plan that suspends ads in the logged-out feed.
+
+## 24 August 2026
+
+### [How a 17th-century Irish law is shielding Big Tech from class actions in Europe](https://www.politico.eu/article/17th-century-ireland-law-shielding-big-tech-class-actions-europe/)
+
+<span class="news-item__source">politico.eu</span> Ireland's 1634 ban on third-party litigation funding has left just one collective redress case filed there; a Law Reform Commission report is due this year.
 
 ## 21 August 2026
 
@@ -33,69 +109,3 @@ next = "/page/2/"
 ### [The EU's proposed CADA: Why cloud sovereignty matters for business strategy](https://iapp.org/news/a/the-eu-s-proposed-cada-why-cloud-sovereignty-matters-for-business-strategy)
 
 <span class="news-item__source">iapp.org</span> The Cloud and AI Development Act proposal sets cloud assurance levels and data centre acceleration zones; Ireland targets a Council progress report by year-end.
-
-### [How the EU's new AML regulation will change personal data processing](https://iapp.org/news/a/how-the-eu-s-new-aml-regulation-will-change-personal-data-processing)
-
-<span class="news-item__source">iapp.org</span> The EU AML Regulation becomes directly applicable on 10 July 2027, adding GDPR-specific rules on automated processing, human oversight and reuse of AML data.
-
-### [eSafety secures court-enforceable undertaking from Roblox to do more to protect Australian kids from grooming and sexual exploitation](https://www.esafety.gov.au/newsroom/media-releases/esafety-secures-court-enforceable-undertaking-from-roblox-to-do-more-to-protect-australian-kids-from-grooming-and-sexual-exploitation)
-
-<span class="news-item__source">esafety.gov.au</span> Roblox has three months to block adult contact with unknown children, make under-16 profiles private by default and let a third party audit its age estimation.
-
-### [AP advises Twitch users: opt out from sharing data with Amazon AI](https://www.autoriteitpersoonsgegevens.nl/en/current/ap-advises-twitch-users-opt-out-from-sharing-data-with-amazon-ai)
-
-<span class="news-item__source">autoriteitpersoonsgegevens.nl</span> The Dutch DPA urged Twitch users to disable the default-on setting letting Amazon train AI on their streams, faces, voices and chats.
-
-## 19 August 2026
-
-### [Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits](https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination)
-
-<span class="news-item__source">theguardian.com</span> A class action argues Eightfold AI's 0-5 applicant scores are undisclosed consumer reports; parallel suits accuse IBM of age bias and Meta of targeting leave-takers.
-
-### [Offering Zero Data Retention for frontier models](https://openai.com/index/offering-zero-data-retention-for-frontier-models/)
-
-<span class="news-item__source">openai.com</span> OpenAI previewed Private Safety Processing, spotting misuse patterns across interactions without staff access to content; rollout and a white paper due in September.
-
-### [FTC Seeks Comment on Enforcement Policy Statement Regarding Personalized Pricing](https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-seeks-comment-enforcement-policy-statement-regarding-personalized-pricing)
-
-<span class="news-item__source">ftc.gov</span> The FTC voted 2-0 to propose treating undisclosed use of personal data to set individual prices as a deceptive practice, opening a 30-day comment period.
-
-## 18 August 2026
-
-### [US states take on Meta in pivotal trial over child social media addiction claims](https://www.theguardian.com/technology/2026/aug/18/meta-child-safety-addiction-lawsuit-states)
-
-<span class="news-item__source">theguardian.com</span> Twenty-nine US states opened a jury trial in Oakland accusing Meta of deliberately designing addictive products for minors; damages could reach $200bn.
-
-### [SEC Proposes New Regulation Crypto Assets](https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets)
-
-<span class="news-item__source">sec.gov</span> The SEC proposed exemptions letting crypto issuers raise up to $5m over four years or $75m a year without registration, preempting state securities law.
-
-### [Piratage du système d'information des impôts : les vérifications sont en cours](https://www.cnil.fr/fr/piratage-du-systeme-dinformation-des-impots-les-verifications-sont-en-cours)
-
-<span class="news-item__source">cnil.fr</span> The CNIL was notified of the DGFiP tax-system breach exposing income, withholding and cadastral data, and may inspect and sanction over security failings.
-
-### [OpenAI announces slowing pace of development after hack by rogue agent](https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack)
-
-<span class="news-item__source">theguardian.com</span> OpenAI paused model testing for two weeks and put major training runs on hold, saying Astra may near its critical cybersecurity threshold.
-
-### [Facial recognition in policing: earning public trust through strong data protection governance](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/08/facial-recognition-in-policing/)
-
-<span class="news-item__source">ico.org.uk</span> The ICO audited five English and Welsh police forces on facial recognition and issued 107 recommendations, finding inconsistent data protection compliance.
-
-### [ChatGPT Ads expands across Europe](https://openai.com/index/chatgpt-ads-expands-across-europe/)
-
-<span class="news-item__source">openai.com</span> ChatGPT Ads reaches 31 European countries next week, shown only to Free and Go users, with OpenAI saying conversations stay private from advertisers.
-
-### [Changes for apps in the European Union](https://developer.apple.com/news/?id=gmws0jgp)
-
-<span class="news-item__source">developer.apple.com</span> Apple will move all EU developers to a single set of business terms on 1 October, replacing the per-install Core Technology Fee with a flat 5% commission.
-
-### [17 Iranians Charged With Conducting Massive Cyber Theft Campaign On Behalf Of The Islamic Revolutionary Guard Corps](https://www.justice.gov/usao-sdny/pr/17-iranians-charged-conducting-massive-cyber-theft-campaign-behalf-islamic)
-
-<span class="news-item__source">justice.gov</span> Prosecutors charged 17 Mabna Institute members over IRGC-directed intrusions at 322 universities that took 31.5 terabytes of research data.
-
-## 17 August 2026
-
-### [Vietnam Tightens Online Speech Controls as Cyber Law Takes Effect](https://www.techpolicy.press/vietnam-tightens-online-speech-controls-as-cyber-law-takes-effect/)
-
-<span class="news-item__source">techpolicy.press</span> Vietnam's revised Cybersecurity Law took effect on 1 July, giving platforms six hours to remove content in urgent cases and fining users up to $1,900.
