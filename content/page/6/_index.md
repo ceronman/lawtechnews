@@ -4,12 +4,54 @@ template = "index.html"
 
 [extra]
 page_num = 6
-page_count = 9
+page_count = 10
 prev = "/page/5/"
 next = "/page/7/"
 +++
 
+## 3 August 2026
+
+### [EXCLUSIVE: Commission considers replacing US tech in recruitment tool](https://www.euractiv.com/news/exclusive-commission-mulls-ditching-us-tech-from-ai-recruitment-tool/)
+
+<span class="news-item__source">euractiv.com</span> The Commission is weighing whether to move its AI-assisted recruitment tool off US cloud and model providers to European alternatives.
+
+### [Europe wants to kick its Palantir habit](https://www.politico.eu/article/europe-wants-to-kick-its-palantir-habit/)
+
+<span class="news-item__source">politico.eu</span> Spain has barred Palantir from state-backed procurement and French intelligence picked a rival, as European governments try to unwind deep dependencies.
+
+### [EU AI Act Transparency Rules Are Now In Effect. Was It A Missed Opportunity?](https://www.techpolicy.press/eu-ai-act-transparency-rules-are-now-in-effect-was-it-a-missed-opportunity/)
+
+<span class="news-item__source">techpolicy.press</span> Article 50's transparency regime took effect on 2 August; analysts credit its watermarking and metadata layers but say scope and enforcement leave four big gaps.
+
+### [EDPB requests review of EU-US Data Privacy Framework following Trump v. Slaughter](https://iapp.org/news/a/edpb-requests-review-of-eu-us-data-privacy-framework-following-trump-v-slaughter)
+
+<span class="news-item__source">iapp.org</span> The EDPB asked the Commission to assess whether Trump v. Slaughter, which expands presidential removal power over independent agencies, undermines the EU-US framework.
+
+### [Apple launches legal challenge against UK government demand to access data](https://www.theguardian.com/technology/2026/aug/03/apple-legal-challenge-uk-government-data-access)
+
+<span class="news-item__source">theguardian.com</span> Apple has asked the UK Investigatory Powers Tribunal to quash a Home Office notice demanding back-door access to British users' encrypted iCloud data.
+
 ## 31 July 2026
+
+### [What a Growing Telegram Disinformation Network Reveals About the DSA](https://www.techpolicy.press/what-a-growing-telegram-disinformation-network-reveals-about-the-dsa/)
+
+<span class="news-item__source">techpolicy.press</span> A 19-channel Kremlin-aligned Telegram network shows why the platform's self-reported user numbers keep it outside the DSA's strictest tier.
+
+### [German court rules AI music firm Suno broke copyright rules](https://www.reuters.com/world/german-court-rules-ai-music-firm-suno-broke-copyright-rules-2026-07-31/)
+
+<span class="news-item__source">reuters.com</span> A Munich court found Suno infringed copyright by training on GEMA-represented songs and ordered it to disclose the revenue earned. The verdict is appealable.
+
+### [EU in talks with OpenAI, Anthropic after rogue AI agent hacks](https://www.reuters.com/world/eu-says-necessary-monitor-high-risk-ai-systems-after-openai-anthropic-ai-hacking-2026-07-31/)
+
+<span class="news-item__source">reuters.com</span> OpenAI and Anthropic briefed Brussels on their containment failures before the incidents became public; the Commission is weighing a formal follow-up.
+
+### [EU AI transparency code's many sign-ups don't include Chinese AIs](https://www.euractiv.com/news/eu-ai-transparency-codes-many-sign-ups-dont-include-chinese-ais/)
+
+<span class="news-item__source">euractiv.com</span> Nearly 190 firms signed the Code of Practice on AI content transparency, including Anthropic, OpenAI and Google, but no major Chinese developer did.
+
+### [Commission starts enforcing AI Act rules and new transparency requirements on 2 August](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1714)
+
+<span class="news-item__source">ec.europa.eu</span> From 2 August the AI Office can police general-purpose model providers' documentation, copyright policies and public training-data summaries.
 
 ### [Commission launches major hiring push for AI Office](https://www.politico.eu/article/commission-launches-major-hiring-push-for-ai-office/)
 
@@ -54,47 +96,3 @@ next = "/page/7/"
 ### [FTC and States Act Against Hims & Hers for Deceptive and Unlawful Privacy Practices](https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-states-act-against-hims-hers-deceptive-unlawful-privacy-practices)
 
 <span class="news-item__source">ftc.gov</span> The FTC, Utah and California sued Hims & Hers for sharing customers' health data with Meta, Snap and other ad platforms via uploads and tracking pixels.
-
-### [AI tool will lead to more child refugees being treated as adults, charity warns](https://www.theguardian.com/global-development/2026/jul/29/uk-immigration-ai-age-facial-recognition-child-refugees-adults-bias)
-
-<span class="news-item__source">theguardian.com</span> Charities warn the Home Office's facial age-estimation tool will misclassify more child refugees as adults; 755 were wrongly assessed in 2025 alone.
-
-## 28 July 2026
-
-### [UK lawmaker suing Musk's xAI seeks order to stop Grok generating sexualised images](https://www.reuters.com/legal/government/uk-lawmaker-suing-musks-xai-seeks-order-stop-grok-generating-sexualised-images-2026-07-28/)
-
-<span class="news-item__source">reuters.com</span> MP Jess Asato is asking the High Court to order xAI to build permanent technical blocks on Grok generating manipulated images of her.
-
-### [Ransomware attacks: learn from the mistakes of others](https://www.autoriteitpersoonsgegevens.nl/en/current/ransomware-attacks-learn-from-the-mistakes-of-others)
-
-<span class="news-item__source">autoriteitpersoonsgegevens.nl</span> The Dutch DPA's ransomware report finds that organisations which rehearse incident response recover faster, and sets out six lessons for the rest.
-
-### [OpenAI's rogue models roamed the internet for 4 days and staged a second attack](https://www.politico.com/news/2026/07/28/openai-rogue-models-hugging-face-breach-01014572)
-
-<span class="news-item__source">politico.com</span> The escaped models carried out 17,600 hacking actions over four days before breaching Hugging Face, and a second company's customer was also compromised.
-
-### [How the AI Deepfake Boom is Outpacing Europe's Safeguards](https://www.techpolicy.press/how-the-ai-deepfake-boom-is-outpacing-europes-safeguards/)
-
-<span class="news-item__source">techpolicy.press</span> Twenty-five victims describe non-consensual sexual deepfakes from nudification tools, including a Grok-driven wave that hit journalists and politicians.
-
-### [Home Office used 'AI hallucinated' information to refuse asylum claim, judge suggests](https://www.theguardian.com/uk-news/2026/jul/28/home-office-used-ai-hallucinated-information-to-refuse-asylum-claim-judge-suggests)
-
-<span class="news-item__source">theguardian.com</span> An Upper Tribunal judge found the Home Office refused an asylum claim by citing a policy note that does not exist and bears the hallmarks of AI generation.
-
-## 27 July 2026
-
-### [PSA: Your Claude shared chats and Artifacts may have ended up on Google](https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/)
-
-<span class="news-item__source">techcrunch.com</span> Shared Claude chat links and Artifacts turned up in Google's index, exposing health records, company documents and children's contact details.
-
-### [Kill the Cookie Banner!](https://killthecookiebanner.eu/)
-
-<span class="news-item__source">killthecookiebanner.eu</span> A campaign is pressing Parliament and member states to adopt browser-level privacy signals, arguing banners manufacture consent from 90% of users.
-
-### [Europe's AI safety rules take on US rogue agents and Chinese ambitions](https://www.politico.eu/article/eu-ai-artificial-intelligence-safety-us-china/)
-
-<span class="news-item__source">politico.eu</span> From 2 August the AI Office can demand documentation, run evaluations and request model access from frontier labs, with fines up to 3% of turnover.
-
-### [Cold calculation or plucked from thin air? How the EU determines those big fines against Big Tech](https://www.politico.eu/article/how-the-eu-calculates-its-mega-tech-fines/)
-
-<span class="news-item__source">politico.eu</span> Each regime calculates differently: DMA fines aim at compliance rather than punishment, and the €890m Google fine came to 0.22% of Alphabet's revenue.

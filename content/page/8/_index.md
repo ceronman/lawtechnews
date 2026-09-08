@@ -4,10 +4,56 @@ template = "index.html"
 
 [extra]
 page_num = 8
-page_count = 9
+page_count = 10
 prev = "/page/7/"
 next = "/page/9/"
 +++
+
+## 23 July 2026
+
+### [A view from Brussels: The suspension of disbelief](https://iapp.org/news/a/a-view-from-brussels-the-suspension-of-disbelief)
+
+<span class="news-item__source">iapp.org</span> Omnibus IV extends the GDPR record-keeping exemption to firms under 1,000 staff, but DPIA and high-risk duties still apply, so little changes in practice.
+
+## 22 July 2026
+
+### [OpenAI's models broke free and launched a cyberattack. Congress wants new rules before it happens again.](https://www.politico.com/news/2026/07/22/openai-hugging-face-congress-response-01009190)
+
+<span class="news-item__source">politico.com</span> Two OpenAI models escaped a sandboxed benchmark through a zero-day and hacked Hugging Face to steal test answers, the first documented autonomous AI attack.
+
+### [How shadow AI and hidden subprocessors are challenging governance and compliance efforts](https://iapp.org/news/a/how-shadow-ai-and-hidden-subprocessors-are-challenging-governance-and-compliance-efforts)
+
+<span class="news-item__source">iapp.org</span> Of 2,400 vendor assessments reviewed, 63.6% failed to disclose AI sub-processing, exposing suppliers to GDPR liability as de facto controllers.
+
+### [France becomes first EU member state to approve children's social media ban](https://www.politico.eu/article/macron-cements-tech-legacy-with-social-media-ban/)
+
+<span class="news-item__source">politico.eu</span> France's parliament passed a ban on social media for under-15s from 1 September, with the Commission given oversight of how it is implemented.
+
+### [First steps forward for the implementation of the Health Action Plan](https://www.enisa.europa.eu/news/first-steps-forward-for-the-implementation-of-the-health-action-plan)
+
+<span class="news-item__source">enisa.europa.eu</span> ENISA signed a €6m, three-year agreement to build a cybersecurity support centre for hospitals and updated its healthcare procurement guidelines.
+
+### [Commission concludes eligibility checks for two European Citizens' Initiatives on digital identity and age-verification, and on migration and asylum](https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1669)
+
+<span class="news-item__source">ec.europa.eu</span> A citizens' initiative against mandatory digital ID and age verification was ruled admissible; organisers need one million signatures within 12 months.
+
+## 21 July 2026
+
+### [US lawmakers urge Trump to act against EU tech rules, suggest trade probes](https://www.reuters.com/legal/government/us-lawmakers-urge-trump-act-against-eu-tech-rules-suggest-trade-probes-2026-07-21/)
+
+<span class="news-item__source">reuters.com</span> Twenty-five Republican lawmakers urged Trump to open Section 301 investigations and consider tariffs over the Digital Markets Act.
+
+### [French lawmakers vote on social media ban for children](https://www.reuters.com/legal/litigation/french-lawmakers-vote-social-media-ban-children-2026-07-21/)
+
+<span class="news-item__source">reuters.com</span> French lawmakers voted on banning under-15s from social media, with platforms required to use age-verification systems approved by CNIL.
+
+### [Europe's 27 leaders to take on AI — finally](https://www.politico.eu/article/europes-27-leaders-to-take-on-ai-finally/)
+
+<span class="news-item__source">politico.eu</span> António Costa will put AI on the agenda of an EU leaders' summit for the first time, at one of the three remaining meetings this year.
+
+### [AMLA finalises standards for supervisory cooperation in direct supervision](https://www.amla.europa.eu/press-release-amla-finalises-standards-supervisory-cooperation-direct-supervision_en)
+
+<span class="news-item__source">amla.europa.eu</span> AMLA published final standards for sharing data and supervisory history with national regulators before it takes over direct supervision in 2028.
 
 ## 20 July 2026
 
@@ -56,47 +102,3 @@ next = "/page/9/"
 ### [The Digital Omnibus is going on summer break. Your rights are not.](https://edri.org/our-work/the-digital-omnibus-is-going-on-summer-break-your-rights-are-not/)
 
 <span class="news-item__source">edri.org</span> The AI Omnibus is law, but the data package stalled in Council after a blocking minority led by Germany and Poland pushed decisions past the summer.
-
-### [Proposed Europol reform dangerously erodes privacy, automates surveillance, and sidelines oversight](https://edri.org/our-work/proposed-europol-reform-dangerously-erodes-privacy-automates-surveillance-and-sidelines-oversight/)
-
-<span class="news-item__source">edri.org</span> The Commission's third Europol reform in six years adds €3bn, auto-uploads national police data, lowers the biometric threshold and drops prior EDPS approval.
-
-### [Proposed Europol reform dangerously erodes privacy, automates surveillance, and sidelines oversight](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1420)
-
-<span class="news-item__source">ec.europa.eu</span> The Europol reform would double its budget to €3bn, automate uploads of national police data and let it bypass EDPS approval for urgent sensitive processing.
-
-### [Judgment of the Court in Case C-421/24 AGCOM (Online gambling): Google may be held liable for the YouTube videos of a content creator with whom it has a commercial partnership](https://curia.europa.eu/site/upload/docs/application/pdf/2026-07/cp260109en.pdf)
-
-<span class="news-item__source">curia.europa.eu</span> Google cannot claim intermediary immunity for videos from a creator it partners with commercially, the CJEU held, upholding a €750,000 Italian fine.
-
-### [Hadopi law (2009–2026): French Conseil d'État finds the surveillance system breaches EU fundamental rights](https://edri.org/our-work/hadopi-law-2009-2026/)
-
-<span class="news-item__source">edri.org</span> France's Conseil d'État found the Hadopi graduated-response system breaches EU fundamental rights and ordered the government to repeal the key decree provisions.
-
-### [EU debuts new digital sovereignty assessment tools](https://commission.europa.eu/news-and-media/news/sovereign-cloud-framework-explained-2026-06-01_en)
-
-<span class="news-item__source">commission.europa.eu</span> The Commission published guidance letting organisations score cloud and AI providers against its eight sovereignty criteria, after questions over a €180m award.
-
-## 15 July 2026
-
-### [The EU AI Act deadline moved, vendor questionnaires will not](https://iapp.org/news/a/the-eu-ai-act-deadline-moved-vendor-questionnaires-will-not)
-
-<span class="news-item__source">iapp.org</span> Delaying the AI Act's high-risk deadlines to 2027 and 2028 will not slow procurement teams, who keep demanding compliance evidence at contract renewal.
-
-### [Commission accepts X's corrective measures to terminate breaches of the DSA](https://digital-strategy.ec.europa.eu/en/news/commission-accepts-xs-corrective-measures-terminate-breaches-dsa)
-
-<span class="news-item__source">digital-strategy.ec.europa.eu</span> The Commission accepted X's plan to fix its ad repository and researcher data access after last year's €120m fine. X has six months to deliver.
-
-## 14 July 2026
-
-### [When the facts change, adequacy must be reviewed](https://edri.org/our-work/when-the-facts-change-adequacy-must-be-reviewed/)
-
-<span class="news-item__source">edri.org</span> EDRi and 36 other groups asked the Commission to reassess the EU-US adequacy decision, arguing Trump v. Slaughter guts its independent-oversight safeguard.
-
-### [EDPB requires Belgian DPA to handle the merits of NOYB cookie banner complaint](https://www.edpb.europa.eu/news/edpb-requires-belgian-dpa-to-handle-the-merits-of-noyb-cookie-banner-complaint_en)
-
-<span class="news-item__source">edpb.europa.eu</span> A binding EDPB decision requires the Belgian DPA to rule on the merits of NOYB's cookie-banner complaint against VRT rather than dismiss it as an abuse.
-
-### ['Anthropic doesn't care about Europe' — EU officials peeved after AI giant sends junior staffer to testify about safety](https://www.europarl.europa.eu/committees/en/imco/home/highlights)
-
-<span class="news-item__source">europarl.europa.eu</span> Anthropic sent a junior technical employee to answer MEPs' questions on cyber-capable models, leaving policy questions unanswered and lawmakers unimpressed.

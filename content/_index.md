@@ -3,14 +3,54 @@ title = "Law & Tech News"
 
 [extra]
 page_num = 1
-page_count = 9
+page_count = 10
 prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">174 stories on European law, technology regulation and digital rights, latest from 2 September 2026. Every headline links to the original source.</p>
+<p class="news-intro">184 stories on European law, technology regulation and digital rights, latest from 8 September 2026. Every headline links to the original source.</p>
+
+## 8 September 2026
+
+### [Google warns of lower quality as it revamps Europe search results to avoid EU fines](https://www.reuters.com/world/google-warns-lower-quality-it-revamps-europe-search-results-avoid-eu-fines-2026-09-08/)
+
+<span class="news-item__source">reuters.com</span> Google rolled out its DMA search remedy across the EU and called it the largest reduction in service quality in Search's 29-year history.
+
+## 7 September 2026
+
+### [Why the EU age-verification tool does not solve privacy concerns](https://edri.org/our-work/eu-age-verification-tool-does-not-solve-privacy-concerns/)
+
+<span class="news-item__source">edri.org</span> The Commission's age-verification blueprint makes zero-knowledge proofs optional and relies on batch issuance, leaving credentials linkable back to users.
+
+## 4 September 2026
+
+### [US court ruling aggravates Brussels' Google problem](https://www.politico.eu/article/us-court-ruling-aggravates-brussels-google-problem/)
+
+<span class="news-item__source">politico.eu</span> Judge Brinkema rejected the DoJ's bid to force Google to divest parts of its ad tech business, leaving the Commission alone in demanding a breakup.
+
+## 3 September 2026
+
+### [Violation de données en matière de santé : sanction de 500 000 euros à l'encontre de l'HÔPITAL PRIVÉ DE LA LOIRE](https://www.cnil.fr/fr/sanction-hopital-prive-loire)
+
+<span class="news-item__source">cnil.fr</span> The CNIL fined Hôpital Privé de la Loire €500,000 after an attacker reached 524,867 patients' records via an external account with no VPN, MFA or access limits.
+
+### [Opinion of Advocate General Szpunar in Case C-661/24 Académie Fiscale and Others](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260117en.pdf)
+
+<span class="news-item__source">curia.europa.eu</span> Szpunar found Belgium's retention rules too broad and too reliant on provider discretion, but said blanket retention can pass with strict technical separation.
+
+### [Mark Zuckerberg said a national AI regulator was a flawed idea in a secret call with President Trump](https://www.politico.com/news/2026/09/03/mark-zuckerberg-said-a-national-ai-regulator-was-a-flawed-idea-in-a-secret-call-with-president-trump-01063843)
+
+<span class="news-item__source">politico.com</span> Zuckerberg told Trump a single national AI regulator was flawed; the administration is now weighing a FINRA-style body against an industry-led approach.
 
 ## 2 September 2026
+
+### [Judgment of the General Court in Case T-357/24 Opera Norway v Commission](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260113en.pdf)
+
+<span class="news-item__source">curia.europa.eu</span> The General Court dismissed the first third-party DMA challenge, upholding the Commission's refusal to designate Microsoft Edge as a gatekeeper service.
+
+### [Hey EU, your new rules for ChatGPT don't cover chat](https://www.politico.eu/article/new-eu-rules-for-chatgpt-dont-cover-chat/)
+
+<span class="news-item__source">politico.eu</span> ChatGPT's DSA designation as a search engine covers only its search-like functions, leaving chatbot conversations and companion uses outside the strictest obligations.
 
 ### [Data Protection Commission announces Final Decision following Inquiry into the Health Service Executive (HSE)](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-announces-final-decision-following-inquiry-health-service-executive-hse)
 
@@ -54,6 +94,10 @@ next = "/page/2/"
 
 <span class="news-item__source">politico.eu</span> The Commission signalled Meta's $18bn US settlement falls short of its DSA demands, which target autoplay, infinite scroll and personalised feeds themselves.
 
+### [Musk's AI company sues its users as victim lawsuits over Grok deepfakes mount](https://www.politico.com/news/2026/08/28/elon-musk-xai-lawsuits-grok-deepfakes-01053817)
+
+<span class="news-item__source">politico.com</span> xAI sued two users criminally charged over Grok-made CSAM, seeking its own legal costs and reputational damages for their breach of X's terms of service.
+
 ## 27 August 2026
 
 ### [Poland asks EU to fine Meta €250 million over scam ads](https://www.politico.eu/article/polish-deputy-pm-krzysztof-gawkowski-says-eu-should-fine-meta-250-million-for-financial-scams/)
@@ -65,47 +109,3 @@ next = "/page/2/"
 ### [IA : la CNIL met à jour son outil de traçabilité des modèles publiés en source ouverte](https://www.cnil.fr/fr/ia-la-cnil-met-jour-son-outil-de-tracabilite-des-modeles-publies-en-source-ouverte)
 
 <span class="news-item__source">cnil.fr</span> The CNIL shipped an English version of Genmod, which traces open-weight AI model lineage to show which derived models may have memorised the same personal data.
-
-### [Attorney General James Secures Up to $17.1 Billion and Groundbreaking Reforms from Meta to Protect Children on Social Media](https://ag.ny.gov/press-release/2026/attorney-general-james-secures-171-billion-and-groundbreaking-reforms-meta)
-
-<span class="news-item__source">ag.ny.gov</span> Meta will pay up to $17.1bn to 51 US attorneys general and cap under-18 use at two hours a day, with age verification and opt-out non-algorithmic feeds.
-
-## 25 August 2026
-
-### [Nigel Farage wants to scrap GDPR for the UK](https://www.politico.eu/article/nigel-farage-wants-to-scrap-gdpr-for-the-uk/)
-
-<span class="news-item__source">politico.eu</span> Reform UK would replace UK GDPR with a light-touch law modelled on New Zealand's Privacy Act, claiming EU adequacy would survive the change.
-
-### [ANPD multa TikTok em R$ 153,7 milhões por falhas na proteção de dados de crianças e adolescentes](https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-multa-tiktok-em-r-153-7-milhoes-por-falhas-na-protecao-de-dados-de-criancas-e-adolescentes)
-
-<span class="news-item__source">gov.br</span> Brazil's ANPD fined ByteDance R$153.7m for processing minors' data with no legal basis, ordering deletion and a compliance plan that suspends ads in the logged-out feed.
-
-## 24 August 2026
-
-### [How a 17th-century Irish law is shielding Big Tech from class actions in Europe](https://www.politico.eu/article/17th-century-ireland-law-shielding-big-tech-class-actions-europe/)
-
-<span class="news-item__source">politico.eu</span> Ireland's 1634 ban on third-party litigation funding has left just one collective redress case filed there; a Law Reform Commission report is due this year.
-
-## 21 August 2026
-
-### [Uber fined nearly 825 million euros for automated driver blocking](https://www.autoriteitpersoonsgegevens.nl/en/current/uber-fined-nearly-825-million-euros-for-automated-driver-blocking)
-
-<span class="news-item__source">autoriteitpersoonsgegevens.nl</span> The Dutch DPA fined Uber €824.99m for automatically deactivating drivers over fraud flags and low ratings without human review. Uber is appealing.
-
-### [U.S. Citizen Who Deleted Phone's Data Says His Prosecution Puts Privacy at Risk](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
-
-<span class="news-item__source">nytimes.com</span> US prosecutors charged Samuel Tunick with obstruction for entering a duress passcode that wiped his phone during a CBP airport search.
-
-### [TikTok agrees to $400 million US children's privacy settlement](https://www.reuters.com/world/us-justice-department-tiktok-settle-400-million-childrens-privacy-suit-axios-2026-08-21/)
-
-<span class="news-item__source">reuters.com</span> TikTok and ByteDance settled the DOJ's COPPA suit for $400m: $300m now, $100m once the 2019 Musical.ly consent decree is vacated.
-
-### [EU's push for watermarking won't worsen AI writing, experts say](https://www.euractiv.com/news/eus-push-for-watermarking-wont-worsen-ai-writing-experts-say/)
-
-<span class="news-item__source">euractiv.com</span> Under the AI transparency code, watermarking applies only to texts over 200 tokens; its co-chairs say quality loss is confined to very short outputs.
-
-## 20 August 2026
-
-### [The EU's proposed CADA: Why cloud sovereignty matters for business strategy](https://iapp.org/news/a/the-eu-s-proposed-cada-why-cloud-sovereignty-matters-for-business-strategy)
-
-<span class="news-item__source">iapp.org</span> The Cloud and AI Development Act proposal sets cloud assurance levels and data centre acceleration zones; Ireland targets a Council progress report by year-end.
