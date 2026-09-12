@@ -8,13 +8,27 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">189 stories on European law, technology regulation and digital rights, latest from 9 September 2026. Every headline links to the original source.</p>
+<p class="news-intro">194 stories on European law, technology regulation and digital rights, latest from 10 September 2026. Every headline links to the original source.</p>
+
+## 10 September 2026
+
+### [Governor Newsom signs the strongest child safety chatbot and social media laws in the nation](https://www.gov.ca.gov/2026/09/10/governor-newsom-signs-the-strongest-child-safety-chatbot-and-social-media-laws-in-the-nation/)
+
+<span class="news-item__source">gov.ca.gov</span> California enacted 13 bills, including Adam's Law requiring independent child safety audits of companion chatbots and a ban on addictive feeds for under-16s.
+
+### [EU watchdog probes von der Leyen's AI envoy pick](https://www.politico.eu/article/eu-ombudsman-ursula-von-der-leyen-ai-envoy-jim-hagemann-snabe/)
+
+<span class="news-item__source">politico.eu</span> The European Ombudsman opened an inquiry into the Commission's appointment of Siemens chairman Jim Hagemann Snabe as special envoy for industrial AI.
 
 ## 9 September 2026
 
 ### [Risks of Gaming and Gambling](https://www.fatf-gafi.org/en/publications/Methodsandtrends/risks-of-gaming-and-gambling.html)
 
 <span class="news-item__source">fatf-gafi.org</span> The FATF published findings and new risk indicators on money laundering and terrorist financing through casinos, online gambling and in-game payment channels.
+
+### [Non-respect des droits des personnes : sanction de 300 000 euros à l'encontre de la société EXTIA](https://www.cnil.fr/fr/sanction-non-respect-droits-personnes-extia)
+
+<span class="news-item__source">cnil.fr</span> The CNIL fined IT consultancy EXTIA €300,000 after more than three quarters of the 265 erasure requests it received in 2024 went unanswered or badly handled.
 
 ### [Judgment of the General Court in Case T-1139/23 Booking Holdings v Commission](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260125en.pdf)
 
@@ -25,6 +39,10 @@ next = "/page/2/"
 <span class="news-item__source">article19.org</span> A coalition of app developers and rights groups told the Commission that Apple's new EU App Store terms, due on 1 October, still fail to comply with the DMA.
 
 ## 8 September 2026
+
+### [Investigation commenced into X under Online Safety Code](https://www.cnam.ie/investigation-commenced-into-x-under-online-safety-code/)
+
+<span class="news-item__source">cnam.ie</span> Coimisiún na Meán opened the first Online Safety Code investigation, into X's age assurance and parental controls, with fines of up to 10% of turnover possible.
 
 ### [Google warns of lower quality as it revamps Europe search results to avoid EU fines](https://www.reuters.com/world/google-warns-lower-quality-it-revamps-europe-search-results-avoid-eu-fines-2026-09-08/)
 
@@ -58,6 +76,10 @@ next = "/page/2/"
 
 ## 2 September 2026
 
+### [Uber drivers launch European class action over 'soulless' and 'scary' AI algorithm](https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm)
+
+<span class="news-item__source">theguardian.com</span> Worker Info Exchange filed an Amsterdam claim for 241,000 UK and EU drivers, alleging Uber's dynamic pay algorithm is unlawful automated decision-making that cut earnings.
+
 ### [Pegasus Spyware Infection of Serbian Pro-Democracy Student Activist](https://citizenlab.ca/research/pegasus-spyware-infection-of-serbian-activist/)
 
 <span class="news-item__source">citizenlab.ca</span> Citizen Lab and the SHARE Foundation confirmed Pegasus on a student activist's iPhone, one of at least 14 people targeted in Serbia around the March local elections.
@@ -83,27 +105,3 @@ next = "/page/2/"
 ### [Germany's Draft Law on AI in Migration Raises Rights and Bias Concerns](https://www.techpolicy.press/germanys-draft-law-on-ai-in-migration-raises-rights-and-bias-concerns/)
 
 <span class="news-item__source">techpolicy.press</span> Germany's cabinet approved the KIMVG draft allowing AI in visa, residence and asylum procedures, including automated cross-checks of applicants' statements against online sources.
-
-### [California lawmakers pass bill governing lawyers' use of AI](https://www.reuters.com/legal/government/california-lawmakers-pass-bill-governing-lawyers-use-ai-2026-09-01/)
-
-<span class="news-item__source">reuters.com</span> SB 574 now goes to Newsom; it bars delegating legal work to generative AI and requires verifying citations and disclosing AI use in court filings.
-
-## 31 August 2026
-
-### [Privacy Reform – Consultation on Exposure Draft legislation](https://consultations.ag.gov.au/rights-and-protections/privacy-reform/)
-
-<span class="news-item__source">consultations.ag.gov.au</span> Australia opened consultation on an exposure draft Privacy Amendment (Personal Data Protection) Bill 2026 aimed at AI and wearables. Submissions close 18 September.
-
-### [FTC, States Sue Amazon Over Secret Ad Surcharge Scheme](https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-states-sue-amazon-over-secret-ad-surcharge-scheme)
-
-<span class="news-item__source">ftc.gov</span> The complaint alleges Amazon quietly turned its "second price" ad auctions into first price from 2019, extracting tens of billions from over a million sellers.
-
-### [Commission designates ChatGPT, Reddit, Roblox under Digital Services Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1772)
-
-<span class="news-item__source">ec.europa.eu</span> The Commission designated ChatGPT as a very large online search engine and Reddit and Roblox as very large online platforms, giving them until January 2027 to comply.
-
-## 28 August 2026
-
-### [US court rules Pentagon ban of Anthropic unlawful](https://www.euractiv.com/news/us-court-rules-pentagon-ban-of-anthropic-unlawful/)
-
-<span class="news-item__source">euractiv.com</span> A US federal judge held that the government-wide ban on Anthropic products was unlawful retaliation for the firm refusing mass surveillance and autonomous weapons uses.

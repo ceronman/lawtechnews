@@ -9,6 +9,32 @@ prev = "/page/9/"
 next = ""
 +++
 
+## 13 July 2026
+
+### [US appeals court overturns Clearview AI settlement](https://www.reuters.com/legal/government/us-appeals-court-overturns-clearview-ai-settlement-2026-07-13/)
+
+<span class="news-item__source">reuters.com</span> The 7th Circuit threw out Clearview AI's biometric-privacy settlement, holding that nationwide class members were represented worse than those in four states.
+
+### [EU wants 13+ age restriction for social media](https://digital-strategy.ec.europa.eu/en/policies/protecting-young-people-online)
+
+<span class="news-item__source">digital-strategy.ec.europa.eu</span> An expert panel report backed by von der Leyen recommends that under-13s get only time-limited, parent-supervised access to social media.
+
+## 10 July 2026
+
+### [Commission preliminarily finds the addictive design of Instagram and Facebook in breach of the DSA](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1579)
+
+<span class="news-item__source">ec.europa.eu</span> The Commission preliminarily found Instagram and Facebook breach the DSA through infinite scroll, autoplay and recommender design that hooks minors.
+
+## 9 July 2026
+
+### [Italian DPA fines Character.AI €158,000 over transparency, late DPIA and inadequate protection of minors](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10269571)
+
+<span class="news-item__source">garanteprivacy.it</span> Italy's Garante fined Character.AI €158,000 over unclear transparency, a late impact assessment and weak safeguards for minors.
+
+### [Combating child sexual abuse online: support for more limited ePrivacy derogation](https://www.europarl.europa.eu/news/en/press-room/20260706IPR46318/combating-child-sexual-abuse-support-for-a-more-limited-eprivacy-derogation)
+
+<span class="news-item__source">europarl.europa.eu</span> Parliament let the ePrivacy derogation for voluntary CSAM scanning run to April 2028, adding an amendment to exclude end-to-end encrypted messages.
+
 ## 8 July 2026
 
 ### [EU General Court dismisses Apple's challenge to its gatekeeper designation under the DMA](https://curia.europa.eu/site/upload/docs/application/pdf/2026-07/cp260096en.pdf)
