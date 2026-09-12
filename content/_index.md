@@ -8,7 +8,21 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">184 stories on European law, technology regulation and digital rights, latest from 8 September 2026. Every headline links to the original source.</p>
+<p class="news-intro">189 stories on European law, technology regulation and digital rights, latest from 9 September 2026. Every headline links to the original source.</p>
+
+## 9 September 2026
+
+### [Risks of Gaming and Gambling](https://www.fatf-gafi.org/en/publications/Methodsandtrends/risks-of-gaming-and-gambling.html)
+
+<span class="news-item__source">fatf-gafi.org</span> The FATF published findings and new risk indicators on money laundering and terrorist financing through casinos, online gambling and in-game payment channels.
+
+### [Judgment of the General Court in Case T-1139/23 Booking Holdings v Commission](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260125en.pdf)
+
+<span class="news-item__source">curia.europa.eu</span> The General Court dismissed Booking's action and upheld the Commission's prohibition of its acquisition of flight-booking provider Etraveli Group.
+
+### [European Commission: Defend the DMA and reject Apple's new App Store terms](https://www.article19.org/resources/european-commission-defend-the-dma-and-reject-apples-new-app-store-terms/)
+
+<span class="news-item__source">article19.org</span> A coalition of app developers and rights groups told the Commission that Apple's new EU App Store terms, due on 1 October, still fail to comply with the DMA.
 
 ## 8 September 2026
 
@@ -43,6 +57,10 @@ next = "/page/2/"
 <span class="news-item__source">politico.com</span> Zuckerberg told Trump a single national AI regulator was flawed; the administration is now weighing a FINRA-style body against an industry-led approach.
 
 ## 2 September 2026
+
+### [Pegasus Spyware Infection of Serbian Pro-Democracy Student Activist](https://citizenlab.ca/research/pegasus-spyware-infection-of-serbian-activist/)
+
+<span class="news-item__source">citizenlab.ca</span> Citizen Lab and the SHARE Foundation confirmed Pegasus on a student activist's iPhone, one of at least 14 people targeted in Serbia around the March local elections.
 
 ### [Judgment of the General Court in Case T-357/24 Opera Norway v Commission](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260113en.pdf)
 
@@ -89,23 +107,3 @@ next = "/page/2/"
 ### [US court rules Pentagon ban of Anthropic unlawful](https://www.euractiv.com/news/us-court-rules-pentagon-ban-of-anthropic-unlawful/)
 
 <span class="news-item__source">euractiv.com</span> A US federal judge held that the government-wide ban on Anthropic products was unlawful retaliation for the firm refusing mass surveillance and autonomous weapons uses.
-
-### [The US got Meta to change Instagram and Facebook. Europe wants in.](https://www.politico.eu/article/meta-kids-safety-us-eu-digital-services-act/)
-
-<span class="news-item__source">politico.eu</span> The Commission signalled Meta's $18bn US settlement falls short of its DSA demands, which target autoplay, infinite scroll and personalised feeds themselves.
-
-### [Musk's AI company sues its users as victim lawsuits over Grok deepfakes mount](https://www.politico.com/news/2026/08/28/elon-musk-xai-lawsuits-grok-deepfakes-01053817)
-
-<span class="news-item__source">politico.com</span> xAI sued two users criminally charged over Grok-made CSAM, seeking its own legal costs and reputational damages for their breach of X's terms of service.
-
-## 27 August 2026
-
-### [Poland asks EU to fine Meta €250 million over scam ads](https://www.politico.eu/article/polish-deputy-pm-krzysztof-gawkowski-says-eu-should-fine-meta-250-million-for-financial-scams/)
-
-<span class="news-item__source">politico.eu</span> Poland's digital minister asked the Commission to fine Meta €250m and investigate six DSA breaches over scam ads, citing a 13% removal rate for reported fakes.
-
-## 26 August 2026
-
-### [IA : la CNIL met à jour son outil de traçabilité des modèles publiés en source ouverte](https://www.cnil.fr/fr/ia-la-cnil-met-jour-son-outil-de-tracabilite-des-modeles-publies-en-source-ouverte)
-
-<span class="news-item__source">cnil.fr</span> The CNIL shipped an English version of Genmod, which traces open-weight AI model lineage to show which derived models may have memorised the same personal data.

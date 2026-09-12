@@ -9,7 +9,27 @@ prev = "/"
 next = "/page/3/"
 +++
 
+## 28 August 2026
+
+### [The US got Meta to change Instagram and Facebook. Europe wants in.](https://www.politico.eu/article/meta-kids-safety-us-eu-digital-services-act/)
+
+<span class="news-item__source">politico.eu</span> The Commission signalled Meta's $18bn US settlement falls short of its DSA demands, which target autoplay, infinite scroll and personalised feeds themselves.
+
+### [Musk's AI company sues its users as victim lawsuits over Grok deepfakes mount](https://www.politico.com/news/2026/08/28/elon-musk-xai-lawsuits-grok-deepfakes-01053817)
+
+<span class="news-item__source">politico.com</span> xAI sued two users criminally charged over Grok-made CSAM, seeking its own legal costs and reputational damages for their breach of X's terms of service.
+
+## 27 August 2026
+
+### [Poland asks EU to fine Meta €250 million over scam ads](https://www.politico.eu/article/polish-deputy-pm-krzysztof-gawkowski-says-eu-should-fine-meta-250-million-for-financial-scams/)
+
+<span class="news-item__source">politico.eu</span> Poland's digital minister asked the Commission to fine Meta €250m and investigate six DSA breaches over scam ads, citing a 13% removal rate for reported fakes.
+
 ## 26 August 2026
+
+### [IA : la CNIL met à jour son outil de traçabilité des modèles publiés en source ouverte](https://www.cnil.fr/fr/ia-la-cnil-met-jour-son-outil-de-tracabilite-des-modeles-publies-en-source-ouverte)
+
+<span class="news-item__source">cnil.fr</span> The CNIL shipped an English version of Genmod, which traces open-weight AI model lineage to show which derived models may have memorised the same personal data.
 
 ### [Attorney General James Secures Up to $17.1 Billion and Groundbreaking Reforms from Meta to Protect Children on Social Media](https://ag.ny.gov/press-release/2026/attorney-general-james-secures-171-billion-and-groundbreaking-reforms-meta)
 
@@ -34,6 +54,10 @@ next = "/page/3/"
 ### [How a 17th-century Irish law is shielding Big Tech from class actions in Europe](https://www.politico.eu/article/17th-century-ireland-law-shielding-big-tech-class-actions-europe/)
 
 <span class="news-item__source">politico.eu</span> Ireland's 1634 ban on third-party litigation funding has left just one collective redress case filed there; a Law Reform Commission report is due this year.
+
+### [Consultatie Wet platformwerk (implementation of Directive (EU) 2024/2831)](https://www.internetconsultatie.nl/wetplatformwerk/b1)
+
+<span class="news-item__source">internetconsultatie.nl</span> The Dutch consultation on the Wet platformwerk closed with 86 public responses; the bill is a pure transposition of the directive, due in national law by 2 December 2026.
 
 ## 21 August 2026
 
@@ -80,25 +104,3 @@ next = "/page/3/"
 ### [Offering Zero Data Retention for frontier models](https://openai.com/index/offering-zero-data-retention-for-frontier-models/)
 
 <span class="news-item__source">openai.com</span> OpenAI previewed Private Safety Processing, spotting misuse patterns across interactions without staff access to content; rollout and a white paper due in September.
-
-### [FTC Seeks Comment on Enforcement Policy Statement Regarding Personalized Pricing](https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-seeks-comment-enforcement-policy-statement-regarding-personalized-pricing)
-
-<span class="news-item__source">ftc.gov</span> The FTC voted 2-0 to propose treating undisclosed use of personal data to set individual prices as a deceptive practice, opening a 30-day comment period.
-
-## 18 August 2026
-
-### [US states take on Meta in pivotal trial over child social media addiction claims](https://www.theguardian.com/technology/2026/aug/18/meta-child-safety-addiction-lawsuit-states)
-
-<span class="news-item__source">theguardian.com</span> Twenty-nine US states opened a jury trial in Oakland accusing Meta of deliberately designing addictive products for minors; damages could reach $200bn.
-
-### [SEC Proposes New Regulation Crypto Assets](https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets)
-
-<span class="news-item__source">sec.gov</span> The SEC proposed exemptions letting crypto issuers raise up to $5m over four years or $75m a year without registration, preempting state securities law.
-
-### [Piratage du système d'information des impôts : les vérifications sont en cours](https://www.cnil.fr/fr/piratage-du-systeme-dinformation-des-impots-les-verifications-sont-en-cours)
-
-<span class="news-item__source">cnil.fr</span> The CNIL was notified of the DGFiP tax-system breach exposing income, withholding and cadastral data, and may inspect and sanction over security failings.
-
-### [OpenAI announces slowing pace of development after hack by rogue agent](https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack)
-
-<span class="news-item__source">theguardian.com</span> OpenAI paused model testing for two weeks and put major training runs on hold, saying Astra may near its critical cybersecurity threshold.

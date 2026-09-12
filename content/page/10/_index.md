@@ -9,6 +9,30 @@ prev = "/page/9/"
 next = ""
 +++
 
+## 8 July 2026
+
+### [EU General Court dismisses Apple's challenge to its gatekeeper designation under the DMA](https://curia.europa.eu/site/upload/docs/application/pdf/2026-07/cp260096en.pdf)
+
+<span class="news-item__source">curia.europa.eu</span> The General Court dismissed Apple's challenge to its DMA gatekeeper designation, confirming that its App Store versions count as a single platform service.
+
+### [EDPB sheds light on anonymisation and web scraping for generative AI and adopts final version of guidelines on blockchain](https://www.edpb.europa.eu/news/edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-and-adopts-final-version_en)
+
+<span class="news-item__source">edpb.europa.eu</span> New draft guidelines set a three-part test for anonymous data and address web scraping for generative AI training; the blockchain guidelines were finalised.
+
+### [AMLA introduces a common EU approach to enforcing anti-money laundering rules](https://www.amla.europa.eu/press-release-amla-introduces-common-eu-approach-enforcing-anti-money-laundering-rules_en)
+
+<span class="news-item__source">amla.europa.eu</span> AMLA's draft technical standards give supervisors in every member state one four-tier method for grading AML breaches and setting enforcement outcomes.
+
+### [AI increases the risks of cyberattacks](https://www.autoriteitpersoonsgegevens.nl/en/current/ai-increases-the-risks-of-cyberattacks)
+
+<span class="news-item__source">autoriteitpersoonsgegevens.nl</span> Account takeovers reported to the Dutch DPA nearly tripled to 1,742 in 2025, which it attributes to increasingly convincing AI-generated phishing.
+
+## 7 July 2026
+
+### [Commission refers Ireland, Spain, France and the Netherlands to the Court of Justice for failing to transpose NIS2](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1499)
+
+<span class="news-item__source">ec.europa.eu</span> Ireland, Spain, France and the Netherlands were referred to the CJEU for being over 20 months late transposing NIS2, and now risk financial penalties.
+
 ## 6 July 2026
 
 ### [Joint Statement: Pegasus in the European Parliament, the EU Must Act Now](https://edri.org/our-work/joint-statement-pegasus-in-the-european-parliament-the-eu-must-act-now/)
