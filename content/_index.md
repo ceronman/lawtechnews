@@ -3,14 +3,40 @@ title = "Law & Tech News"
 
 [extra]
 page_num = 1
-page_count = 10
+page_count = 11
 prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">194 stories on European law, technology regulation and digital rights, latest from 10 September 2026. Every headline links to the original source.</p>
+<p class="news-intro">204 stories on European law, technology regulation and digital rights, latest from 11 September 2026. Every headline links to the original source.</p>
+
+## 11 September 2026
+
+### [Safer and more secure digital products](https://commission.europa.eu/news-and-media/news/safer-and-more-secure-digital-products-2026-09-11_en)
+
+<span class="news-item__source">commission.europa.eu</span> The Cyber Resilience Act's Article 14 reporting duties took effect: manufacturers must send an early warning within 24 hours via ENISA's Single Reporting Platform and notify fully within 72.
+
+### [ICO statement on its investigation into Police Scotland](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/09/ico-statement-on-its-investigation-into-police-scotland/)
+
+<span class="news-item__source">ico.org.uk</span> The ICO opened an investigation into whether Police Scotland handles subject access requests within statutory deadlines under UK GDPR Articles 12 and 15.
+
+### [Dutch Government Advocates for EU-Wide Minimum Age for Social Media](https://www.government.nl/latest/news/2026/09/11/dutch-government-advocates-for-eu-wide-minimum-age-for-social-media)
+
+<span class="news-item__source">government.nl</span> The Netherlands and Spain sent the Commission a joint non-paper backing an EU-wide minimum age for social media, with privacy-friendly age verification and exemptions for safe services.
 
 ## 10 September 2026
+
+### [Sentenza su rider Glovo: da assumere a tempo pieno e indeterminato. "Pagare anche le attese"](https://www.rainews.it/tgr/piemonte/articoli/2026/09/tribunale-torino-rider-nuova-sentenza-lavoratore-da-assumere-a-tempo-pieno-indeterminato-pagare-anche-le-attese-952000e2-f48a-4cd5-b4ba-2e506a54b065.html)
+
+<span class="news-item__source">rainews.it</span> The Turin labour court ordered Glovo to hire a rider on a permanent full-time contract, finding algorithmic control created subordination, and to pay waiting time between orders.
+
+### [SCHUFA insists on shadow database. noyb lawsuit now certain](https://noyb.eu/en/schufa-insists-shadow-database-noyb-lawsuit-now-certain)
+
+<span class="news-item__source">noyb.eu</span> SCHUFA rejected noyb's cease-and-desist over its shadow database, so noyb will file for an injunction and is collecting sign-ups for a possible class action.
+
+### [Open Letter: Civil society coalition urges EU to kill the cookie banner!](https://noyb.eu/en/open-letter-civil-society-coalition-urges-eu-kill-cookie-banner)
+
+<span class="news-item__source">noyb.eu</span> Nineteen civil society groups, businesses and academics urged EU lawmakers to keep Article 88b of the Digital Omnibus after the Council dropped binding automated privacy signals.
 
 ### [Governor Newsom signs the strongest child safety chatbot and social media laws in the nation](https://www.gov.ca.gov/2026/09/10/governor-newsom-signs-the-strongest-child-safety-chatbot-and-social-media-laws-in-the-nation/)
 
@@ -19,6 +45,10 @@ next = "/page/2/"
 ### [EU watchdog probes von der Leyen's AI envoy pick](https://www.politico.eu/article/eu-ombudsman-ursula-von-der-leyen-ai-envoy-jim-hagemann-snabe/)
 
 <span class="news-item__source">politico.eu</span> The European Ombudsman opened an inquiry into the Commission's appointment of Siemens chairman Jim Hagemann Snabe as special envoy for industrial AI.
+
+### [Detecting and countering misuse of AI: September 2026](https://www.anthropic.com/threat-intelligence-report-september-2026)
+
+<span class="news-item__source">anthropic.com</span> Anthropic detailed misuse of Claude it disrupted between December 2025 and August 2026 across seven harm areas, including cyber operations, surveillance and biological misuse.
 
 ## 9 September 2026
 
@@ -39,6 +69,10 @@ next = "/page/2/"
 <span class="news-item__source">article19.org</span> A coalition of app developers and rights groups told the Commission that Apple's new EU App Store terms, due on 1 October, still fail to comply with the DMA.
 
 ## 8 September 2026
+
+### [Návrh zákona o platformové práci a o změně souvisejících zákonů (zákon o platformové práci)](https://www.zakonyprolidi.cz/monitor/8240702.htm)
+
+<span class="news-item__source">zakonyprolidi.cz</span> The Czech platform work bill reached the Chamber of Deputies, introducing a presumption of employment, algorithmic-management transparency and human review of key decisions.
 
 ### [Investigation commenced into X under Online Safety Code](https://www.cnam.ie/investigation-commenced-into-x-under-online-safety-code/)
 
@@ -69,39 +103,3 @@ next = "/page/2/"
 ### [Opinion of Advocate General Szpunar in Case C-661/24 Académie Fiscale and Others](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260117en.pdf)
 
 <span class="news-item__source">curia.europa.eu</span> Szpunar found Belgium's retention rules too broad and too reliant on provider discretion, but said blanket retention can pass with strict technical separation.
-
-### [Mark Zuckerberg said a national AI regulator was a flawed idea in a secret call with President Trump](https://www.politico.com/news/2026/09/03/mark-zuckerberg-said-a-national-ai-regulator-was-a-flawed-idea-in-a-secret-call-with-president-trump-01063843)
-
-<span class="news-item__source">politico.com</span> Zuckerberg told Trump a single national AI regulator was flawed; the administration is now weighing a FINRA-style body against an industry-led approach.
-
-## 2 September 2026
-
-### [Uber drivers launch European class action over 'soulless' and 'scary' AI algorithm](https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm)
-
-<span class="news-item__source">theguardian.com</span> Worker Info Exchange filed an Amsterdam claim for 241,000 UK and EU drivers, alleging Uber's dynamic pay algorithm is unlawful automated decision-making that cut earnings.
-
-### [Pegasus Spyware Infection of Serbian Pro-Democracy Student Activist](https://citizenlab.ca/research/pegasus-spyware-infection-of-serbian-activist/)
-
-<span class="news-item__source">citizenlab.ca</span> Citizen Lab and the SHARE Foundation confirmed Pegasus on a student activist's iPhone, one of at least 14 people targeted in Serbia around the March local elections.
-
-### [Judgment of the General Court in Case T-357/24 Opera Norway v Commission](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260113en.pdf)
-
-<span class="news-item__source">curia.europa.eu</span> The General Court dismissed the first third-party DMA challenge, upholding the Commission's refusal to designate Microsoft Edge as a gatekeeper service.
-
-### [Hey EU, your new rules for ChatGPT don't cover chat](https://www.politico.eu/article/new-eu-rules-for-chatgpt-dont-cover-chat/)
-
-<span class="news-item__source">politico.eu</span> ChatGPT's DSA designation as a search engine covers only its search-like functions, leaving chatbot conversations and companion uses outside the strictest obligations.
-
-### [Data Protection Commission announces Final Decision following Inquiry into the Health Service Executive (HSE)](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-announces-final-decision-following-inquiry-health-service-executive-hse)
-
-<span class="news-item__source">dataprotection.ie</span> The Irish DPC fined the HSE €645,000 for keeping patient paper records in derelict, mould-contaminated buildings, and ordered a nationwide audit of its storage facilities.
-
-## 1 September 2026
-
-### [Supreme Court: CRIF illegally collected data of millions in Austria. Way clear for class action!](https://noyb.eu/en/supreme-court-crif-illegally-collected-data-millions-austria-way-clear-class-action)
-
-<span class="news-item__source">noyb.eu</span> Austria's Supreme Court held that credit agency CRIF breached GDPR purpose limitation by buying marketing address data, clearing the way for noyb's class action.
-
-### [Germany's Draft Law on AI in Migration Raises Rights and Bias Concerns](https://www.techpolicy.press/germanys-draft-law-on-ai-in-migration-raises-rights-and-bias-concerns/)
-
-<span class="news-item__source">techpolicy.press</span> Germany's cabinet approved the KIMVG draft allowing AI in visa, residence and asylum procedures, including automated cross-checks of applicants' statements against online sources.
