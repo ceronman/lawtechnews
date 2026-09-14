@@ -8,7 +8,13 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">204 stories on European law, technology regulation and digital rights, latest from 11 September 2026. Every headline links to the original source.</p>
+<p class="news-intro">209 stories on European law, technology regulation and digital rights, latest from 14 September 2026. Every headline links to the original source.</p>
+
+## 14 September 2026
+
+### [France submits new proposal to ban social media for under-15s](https://www.euractiv.com/news/france-submits-new-proposal-to-ban-social-media-for-under-15s/)
+
+<span class="news-item__source">euractiv.com</span> France notified the European Commission of a reworked bill banning social media for under-15s, after the Constitutional Council struck down the previous version in August.
 
 ## 11 September 2026
 
@@ -70,6 +76,10 @@ next = "/page/2/"
 
 ## 8 September 2026
 
+### [Referencia del Consejo de Ministros: real decreto de condiciones laborales transparentes y previsibles](https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2026/20260908-referencia-rueda-de-prensa-ministros.aspx)
+
+<span class="news-item__source">lamoncloa.gob.es</span> Spain approved a royal decree transposing the transparent working conditions directive, adding an individual right to know which algorithmic systems shape a worker's pay and tasks.
+
 ### [Návrh zákona o platformové práci a o změně souvisejících zákonů (zákon o platformové práci)](https://www.zakonyprolidi.cz/monitor/8240702.htm)
 
 <span class="news-item__source">zakonyprolidi.cz</span> The Czech platform work bill reached the Chamber of Deputies, introducing a presumption of employment, algorithmic-management transparency and human review of key decisions.
@@ -88,18 +98,8 @@ next = "/page/2/"
 
 <span class="news-item__source">edri.org</span> The Commission's age-verification blueprint makes zero-knowledge proofs optional and relies on batch issuance, leaving credentials linkable back to users.
 
-## 4 September 2026
+## 5 September 2026
 
-### [US court ruling aggravates Brussels' Google problem](https://www.politico.eu/article/us-court-ruling-aggravates-brussels-google-problem/)
+### [Food delivery riders call on platforms to open up AI 'black box' they say has cut pay](https://www.theguardian.com/business/2026/sep/05/food-delivery-riders-platforms-open-ai-black-box-cut-pay)
 
-<span class="news-item__source">politico.eu</span> Judge Brinkema rejected the DoJ's bid to force Google to divest parts of its ad tech business, leaving the Commission alone in demanding a breakup.
-
-## 3 September 2026
-
-### [Violation de données en matière de santé : sanction de 500 000 euros à l'encontre de l'HÔPITAL PRIVÉ DE LA LOIRE](https://www.cnil.fr/fr/sanction-hopital-prive-loire)
-
-<span class="news-item__source">cnil.fr</span> The CNIL fined Hôpital Privé de la Loire €500,000 after an attacker reached 524,867 patients' records via an external account with no VPN, MFA or access limits.
-
-### [Opinion of Advocate General Szpunar in Case C-661/24 Académie Fiscale and Others](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260117en.pdf)
-
-<span class="news-item__source">curia.europa.eu</span> Szpunar found Belgium's retention rules too broad and too reliant on provider discretion, but said blanket retention can pass with strict technical separation.
+<span class="news-item__source">theguardian.com</span> Edinburgh riders backed by the Workers' Observatory demanded platforms disclose their pay algorithms; one rider's average fee fell from £3.67 to £3.42 per order since 2023.

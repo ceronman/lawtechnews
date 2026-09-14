@@ -9,7 +9,29 @@ prev = "/page/9/"
 next = "/page/11/"
 +++
 
+## 17 July 2026
+
+### [EDPB calls for legal basis for cross-regulatory information sharing](https://www.edpb.europa.eu/news/edpb-calls-for-legal-basis-for-cross-regulatory-information-sharing_en)
+
+<span class="news-item__source">edpb.europa.eu</span> The EDPB asked the Commission for a legal basis letting data protection authorities share confidential information with regulators in adjacent fields.
+
+### ["Made in Europe" password manager Passwork found to share Russian origins and state-certified ties](https://www.occrp.org/en/investigation/european-password-manager-shares-origins-and-updates-with-state-certified-russian-firm)
+
+<span class="news-item__source">occrp.org</span> Passwork, sold as a European password manager and used by Dutch and Irish public bodies, shares code and ties with an FSB-certified Russian firm.
+
 ## 16 July 2026
+
+### [US judge halts sanctions policy that hit ex-EU commissioner Breton](https://www.politico.eu/article/us-judge-pauses-visa-restrictions-thierry-breton-disinformation-researchers/)
+
+<span class="news-item__source">politico.eu</span> A federal judge paused the State Department policy imposing visa bans on officials who enforce platform laws, including Thierry Breton, on First Amendment grounds.
+
+### [The digital rulebook is fit for purpose: better enforcement is needed, not simplification](https://edri.org/our-work/the-digital-rulebook-is-fit-for-purpose-better-enforcement-is-needed-not-simplification/)
+
+<span class="news-item__source">edri.org</span> EDRi's submission to the Digital Fitness Check argues the rulebook works and asks for enforcement, a spyware ban and AdTech rules instead of simplification.
+
+### [The Digital Omnibus is going on summer break. Your rights are not.](https://edri.org/our-work/the-digital-omnibus-is-going-on-summer-break-your-rights-are-not/)
+
+<span class="news-item__source">edri.org</span> The AI Omnibus is law, but the data package stalled in Council after a blocking minority led by Germany and Poland pushed decisions past the summer.
 
 ### [Proposed Europol reform dangerously erodes privacy, automates surveillance, and sidelines oversight](https://edri.org/our-work/proposed-europol-reform-dangerously-erodes-privacy-automates-surveillance-and-sidelines-oversight/)
 
@@ -80,27 +102,3 @@ next = "/page/11/"
 ### [Combating child sexual abuse online: support for more limited ePrivacy derogation](https://www.europarl.europa.eu/news/en/press-room/20260706IPR46318/combating-child-sexual-abuse-support-for-a-more-limited-eprivacy-derogation)
 
 <span class="news-item__source">europarl.europa.eu</span> Parliament let the ePrivacy derogation for voluntary CSAM scanning run to April 2028, adding an amendment to exclude end-to-end encrypted messages.
-
-## 8 July 2026
-
-### [EU General Court dismisses Apple's challenge to its gatekeeper designation under the DMA](https://curia.europa.eu/site/upload/docs/application/pdf/2026-07/cp260096en.pdf)
-
-<span class="news-item__source">curia.europa.eu</span> The General Court dismissed Apple's challenge to its DMA gatekeeper designation, confirming that its App Store versions count as a single platform service.
-
-### [EDPB sheds light on anonymisation and web scraping for generative AI and adopts final version of guidelines on blockchain](https://www.edpb.europa.eu/news/edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-and-adopts-final-version_en)
-
-<span class="news-item__source">edpb.europa.eu</span> New draft guidelines set a three-part test for anonymous data and address web scraping for generative AI training; the blockchain guidelines were finalised.
-
-### [AMLA introduces a common EU approach to enforcing anti-money laundering rules](https://www.amla.europa.eu/press-release-amla-introduces-common-eu-approach-enforcing-anti-money-laundering-rules_en)
-
-<span class="news-item__source">amla.europa.eu</span> AMLA's draft technical standards give supervisors in every member state one four-tier method for grading AML breaches and setting enforcement outcomes.
-
-### [AI increases the risks of cyberattacks](https://www.autoriteitpersoonsgegevens.nl/en/current/ai-increases-the-risks-of-cyberattacks)
-
-<span class="news-item__source">autoriteitpersoonsgegevens.nl</span> Account takeovers reported to the Dutch DPA nearly tripled to 1,742 in 2025, which it attributes to increasingly convincing AI-generated phishing.
-
-## 7 July 2026
-
-### [Commission refers Ireland, Spain, France and the Netherlands to the Court of Justice for failing to transpose NIS2](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1499)
-
-<span class="news-item__source">ec.europa.eu</span> Ireland, Spain, France and the Netherlands were referred to the CJEU for being over 20 months late transposing NIS2, and now risk financial penalties.
