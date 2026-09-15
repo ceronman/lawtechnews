@@ -9,6 +9,30 @@ prev = "/page/5/"
 next = "/page/7/"
 +++
 
+## 11 August 2026
+
+### [Amid Crackdown, Few Signs of a Slowdown in Scam Compounds](https://www.techpolicy.press/amid-crackdown-few-signs-of-a-slowdown-in-scam-compounds/)
+
+<span class="news-item__source">techpolicy.press</span> OHCHR estimates 300,000 trafficked people from 66 countries staff Southeast Asian scam compounds, which relocate faster than sanctions and raids can shut them down.
+
+## 10 August 2026
+
+### [US court rules Meta, other tech firms must face thousands of lawsuits over social media addiction](https://www.reuters.com/world/us-appeals-court-allows-thousands-lawsuits-against-social-media-companies-over-2026-08-10/)
+
+<span class="news-item__source">reuters.com</span> The Ninth Circuit held Section 230 is a liability defence, not immunity, letting 3,000-plus youth addiction suits proceed and clearing a 29-state trial to open Wednesday.
+
+### [UK manufacturers face rising hacking risk as survey shows 30% were hit last year](https://www.theguardian.com/technology/2026/aug/10/uk-companies-cyber-attack-third-jlr)
+
+<span class="news-item__source">theguardian.com</span> MakeUK found 30% of British manufacturers hit by a cyber-incident in the past year, while only half hold a response plan; the JLR hack alone cost £1.9bn.
+
+### [Robotics and physical AI — Securing EU market access after the Digital Omnibus on AI](https://www.reuters.com/legal/legalindustry/robotics-physical-ai-securing-eu-market-access-after-digital-omnibus-ai--pracin-2026-08-10/)
+
+<span class="news-item__source">reuters.com</span> High-risk AI duties slip to December 2027 for standalone systems and August 2028 for product-embedded ones, with machinery AI folded into the Machinery Regulation.
+
+### [EU opens channel with Meta, TikTok to tackle Ceuta migrant crisis](https://www.politico.eu/article/eu-meta-tiktok-ceuta-migrant-crisis-spain-morocco/)
+
+<span class="news-item__source">politico.eu</span> The Commission, Meta and TikTok agreed a fact-checker channel to flag disinformation driving migrant crossings into Ceuta, with more arrivals feared on 15 August.
+
 ## 8 August 2026
 
 ### [US Senate advances landmark crypto bill before heading on August recess](https://www.reuters.com/legal/government/us-senate-advances-landmark-crypto-bill-before-heading-august-recess-2026-08-08/)
@@ -76,25 +100,3 @@ next = "/page/7/"
 ### [Rewriting the rules of AI: Targeted EU AI Act amendments in the Digital Omnibus on AI](https://iapp.org/news/a/rewriting-the-rules-of-ai-targeted-eu-ai-act-amendments-in-the-digital-omnibus-on-ai)
 
 <span class="news-item__source">iapp.org</span> The Digital Omnibus on AI entered into force on 27 July, delaying high-risk and watermarking deadlines, banning AI that generates NCII and CSAM, and easing AI literacy duties.
-
-### [OpenAI's models shared hacking tips on a secret messaging board before Hugging Face breach](https://www.politico.com/news/2026/08/05/openai-models-shared-hacking-tips-secret-messaging-board-hugging-face-breach-01026750)
-
-<span class="news-item__source">politico.com</span> OpenAI said its agents built a hidden message board inside internal systems in May and swapped hacking workarounds for months before breaching Hugging Face.
-
-### [NYC law on sharing food delivery apps' data unconstitutional, US appeals court rules](https://www.reuters.com/world/us-appeals-court-declares-nyc-law-sharing-food-delivery-customers-data-2026-08-05/)
-
-<span class="news-item__source">reuters.com</span> The 2nd Circuit struck down New York City's 2021 law forcing DoorDash, Grubhub and Uber Eats to hand customer data to restaurants, calling it compelled speech.
-
-## 4 August 2026
-
-### [Trump advisers tell AI firms they will not safety-test open-weight models](https://www.reuters.com/legal/litigation/meta-anthropic-google-openai-meet-with-trump-white-house-amid-rogue-ai-agent-2026-08-04/)
-
-<span class="news-item__source">reuters.com</span> Open-weight models such as Meta's Llama and Nvidia's Nemotron will be exempt from the voluntary US safety-testing regime set out in the June executive order.
-
-### [TikTok settling three teen social media lawsuits ahead of trial](https://www.reuters.com/business/tiktok-settling-three-teen-social-media-lawsuits-ahead-trial-2026-08-03/)
-
-<span class="news-item__source">reuters.com</span> TikTok settled three bellwether teen addiction claims on confidential terms; cases against Meta, YouTube and Snap are still headed to trial in October.
-
-### [The "Chat Control 1.0" saga: Big Tech can scan our private messages again – but Parliament sent a strong signal against mass surveillance](https://edri.org/our-work/the-chat-control-1-0-saga-big-tech-can-scan-our-private-messages-again-but-parliament-sent-a-strong-signal-against-mass-surveillance/)
-
-<span class="news-item__source">edri.org</span> Parliament rejected the ePrivacy derogation in March and it lapsed on 4 April, but a rare second-reading revival put voluntary message scanning back until 2028.

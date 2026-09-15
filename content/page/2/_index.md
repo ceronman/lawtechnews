@@ -9,6 +9,32 @@ prev = "/"
 next = "/page/3/"
 +++
 
+## 8 September 2026
+
+### [Návrh zákona o platformové práci a o změně souvisejících zákonů (zákon o platformové práci)](https://www.zakonyprolidi.cz/monitor/8240702.htm)
+
+<span class="news-item__source">zakonyprolidi.cz</span> The Czech platform work bill reached the Chamber of Deputies, introducing a presumption of employment, algorithmic-management transparency and human review of key decisions.
+
+### [Investigation commenced into X under Online Safety Code](https://www.cnam.ie/investigation-commenced-into-x-under-online-safety-code/)
+
+<span class="news-item__source">cnam.ie</span> Coimisiún na Meán opened the first Online Safety Code investigation, into X's age assurance and parental controls, with fines of up to 10% of turnover possible.
+
+### [Google warns of lower quality as it revamps Europe search results to avoid EU fines](https://www.reuters.com/world/google-warns-lower-quality-it-revamps-europe-search-results-avoid-eu-fines-2026-09-08/)
+
+<span class="news-item__source">reuters.com</span> Google rolled out its DMA search remedy across the EU and called it the largest reduction in service quality in Search's 29-year history.
+
+## 7 September 2026
+
+### [Why the EU age-verification tool does not solve privacy concerns](https://edri.org/our-work/eu-age-verification-tool-does-not-solve-privacy-concerns/)
+
+<span class="news-item__source">edri.org</span> The Commission's age-verification blueprint makes zero-knowledge proofs optional and relies on batch issuance, leaving credentials linkable back to users.
+
+## 5 September 2026
+
+### [Food delivery riders call on platforms to open up AI 'black box' they say has cut pay](https://www.theguardian.com/business/2026/sep/05/food-delivery-riders-platforms-open-ai-black-box-cut-pay)
+
+<span class="news-item__source">theguardian.com</span> Edinburgh riders backed by the Workers' Observatory demanded platforms disclose their pay algorithms; one rider's average fee fell from £3.67 to £3.42 per order since 2023.
+
 ## 4 September 2026
 
 ### [US court ruling aggravates Brussels' Google problem](https://www.politico.eu/article/us-court-ruling-aggravates-brussels-google-problem/)
@@ -76,27 +102,3 @@ next = "/page/3/"
 ### [Germany's Draft Law on AI in Migration Raises Rights and Bias Concerns](https://www.techpolicy.press/germanys-draft-law-on-ai-in-migration-raises-rights-and-bias-concerns/)
 
 <span class="news-item__source">techpolicy.press</span> Germany's cabinet approved the KIMVG draft allowing AI in visa, residence and asylum procedures, including automated cross-checks of applicants' statements against online sources.
-
-### [California lawmakers pass bill governing lawyers' use of AI](https://www.reuters.com/legal/government/california-lawmakers-pass-bill-governing-lawyers-use-ai-2026-09-01/)
-
-<span class="news-item__source">reuters.com</span> SB 574 now goes to Newsom; it bars delegating legal work to generative AI and requires verifying citations and disclosing AI use in court filings.
-
-## 31 August 2026
-
-### [Privacy Reform – Consultation on Exposure Draft legislation](https://consultations.ag.gov.au/rights-and-protections/privacy-reform/)
-
-<span class="news-item__source">consultations.ag.gov.au</span> Australia opened consultation on an exposure draft Privacy Amendment (Personal Data Protection) Bill 2026 aimed at AI and wearables. Submissions close 18 September.
-
-### [FTC, States Sue Amazon Over Secret Ad Surcharge Scheme](https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-states-sue-amazon-over-secret-ad-surcharge-scheme)
-
-<span class="news-item__source">ftc.gov</span> The complaint alleges Amazon quietly turned its "second price" ad auctions into first price from 2019, extracting tens of billions from over a million sellers.
-
-### [Commission designates ChatGPT, Reddit, Roblox under Digital Services Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1772)
-
-<span class="news-item__source">ec.europa.eu</span> The Commission designated ChatGPT as a very large online search engine and Reddit and Roblox as very large online platforms, giving them until January 2027 to comply.
-
-## 28 August 2026
-
-### [US court rules Pentagon ban of Anthropic unlawful](https://www.euractiv.com/news/us-court-rules-pentagon-ban-of-anthropic-unlawful/)
-
-<span class="news-item__source">euractiv.com</span> A US federal judge held that the government-wide ban on Anthropic products was unlawful retaliation for the firm refusing mass surveillance and autonomous weapons uses.
