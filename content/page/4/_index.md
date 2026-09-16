@@ -9,7 +9,29 @@ prev = "/page/3/"
 next = "/page/5/"
 +++
 
+## 21 August 2026
+
+### [Uber fined nearly 825 million euros for automated driver blocking](https://www.autoriteitpersoonsgegevens.nl/en/current/uber-fined-nearly-825-million-euros-for-automated-driver-blocking)
+
+<span class="news-item__source">autoriteitpersoonsgegevens.nl</span> The Dutch DPA fined Uber €824.99m for automatically deactivating drivers over fraud flags and low ratings without human review. Uber is appealing.
+
+### [U.S. Citizen Who Deleted Phone's Data Says His Prosecution Puts Privacy at Risk](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
+
+<span class="news-item__source">nytimes.com</span> US prosecutors charged Samuel Tunick with obstruction for entering a duress passcode that wiped his phone during a CBP airport search.
+
+### [TikTok agrees to $400 million US children's privacy settlement](https://www.reuters.com/world/us-justice-department-tiktok-settle-400-million-childrens-privacy-suit-axios-2026-08-21/)
+
+<span class="news-item__source">reuters.com</span> TikTok and ByteDance settled the DOJ's COPPA suit for $400m: $300m now, $100m once the 2019 Musical.ly consent decree is vacated.
+
+### [EU's push for watermarking won't worsen AI writing, experts say](https://www.euractiv.com/news/eus-push-for-watermarking-wont-worsen-ai-writing-experts-say/)
+
+<span class="news-item__source">euractiv.com</span> Under the AI transparency code, watermarking applies only to texts over 200 tokens; its co-chairs say quality loss is confined to very short outputs.
+
 ## 20 August 2026
+
+### [The EU's proposed CADA: Why cloud sovereignty matters for business strategy](https://iapp.org/news/a/the-eu-s-proposed-cada-why-cloud-sovereignty-matters-for-business-strategy)
+
+<span class="news-item__source">iapp.org</span> The Cloud and AI Development Act proposal sets cloud assurance levels and data centre acceleration zones; Ireland targets a Council progress report by year-end.
 
 ### [How the EU's new AML regulation will change personal data processing](https://iapp.org/news/a/how-the-eu-s-new-aml-regulation-will-change-personal-data-processing)
 
@@ -76,23 +98,3 @@ next = "/page/5/"
 ### [Vietnam Tightens Online Speech Controls as Cyber Law Takes Effect](https://www.techpolicy.press/vietnam-tightens-online-speech-controls-as-cyber-law-takes-effect/)
 
 <span class="news-item__source">techpolicy.press</span> Vietnam's revised Cybersecurity Law took effect on 1 July, giving platforms six hours to remove content in urgent cases and fining users up to $1,900.
-
-### [Sainsbury's store pauses AI scanning after false shoplifting accusation](https://www.theguardian.com/technology/2026/aug/17/humiliated-sainsburys-store-pauses-ai-scanning-after-false-shoplifting-accusation)
-
-<span class="news-item__source">theguardian.com</span> Sainsbury's suspended Facewatch facial recognition at its East Dulwich store after a customer was wrongly ejected as a shoplifter; it blamed human error, not the tech.
-
-### [Report supporting Australia's teen social media ban appears to contain AI hallucinations, Senate hears](https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb)
-
-<span class="news-item__source">theguardian.com</span> Six references in the $3.48m age-assurance trial report point to non-existent or wrong papers; the contractor conceded ChatGPT was used to rewrite text.
-
-### [Minnesota defends AI 'nudification' ban after lawsuit from Musk's xAI](https://www.reuters.com/legal/government/minnesota-defends-ai-nudification-ban-after-lawsuit-musks-xai-2026-08-17/)
-
-<span class="news-item__source">reuters.com</span> Minnesota's attorney general urged a judge to reject xAI's First Amendment bid to halt the first US nudification ban, which carries $500,000 per violation.
-
-### [Binance gave Moscow client details used to charge Russian over Ukraine donations, documents show](https://www.reuters.com/legal/government/binance-gave-moscow-client-details-used-charge-russian-over-ukraine-donations-2026-08-17/)
-
-<span class="news-item__source">reuters.com</span> Binance handed Russian investigators a client's passport, address and transaction data, used to charge him with terrorism financing over $700 in Ukraine donations.
-
-### [Apple changes its rules for personalised advertising in apps](https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html)
-
-<span class="news-item__source">bundeskartellamt.de</span> Apple gave binding commitments to make its tracking-consent prompts neutral and align them with its own, closing a Section 19a case; they run EU-wide for seven years.
