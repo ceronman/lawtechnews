@@ -4,10 +4,32 @@ template = "index.html"
 
 [extra]
 page_num = 2
-page_count = 11
+page_count = 12
 prev = "/"
 next = "/page/3/"
 +++
+
+## 10 September 2026
+
+### [Open Letter: Civil society coalition urges EU to kill the cookie banner!](https://noyb.eu/en/open-letter-civil-society-coalition-urges-eu-kill-cookie-banner)
+
+<span class="news-item__source">noyb.eu</span> Nineteen civil society groups, businesses and academics urged EU lawmakers to keep Article 88b of the Digital Omnibus after the Council dropped binding automated privacy signals.
+
+### [Governor Newsom signs the strongest child safety chatbot and social media laws in the nation](https://www.gov.ca.gov/2026/09/10/governor-newsom-signs-the-strongest-child-safety-chatbot-and-social-media-laws-in-the-nation/)
+
+<span class="news-item__source">gov.ca.gov</span> California enacted 13 bills, including Adam's Law requiring independent child safety audits of companion chatbots and a ban on addictive feeds for under-16s.
+
+### [EU watchdog probes von der Leyen's AI envoy pick](https://www.politico.eu/article/eu-ombudsman-ursula-von-der-leyen-ai-envoy-jim-hagemann-snabe/)
+
+<span class="news-item__source">politico.eu</span> The European Ombudsman opened an inquiry into the Commission's appointment of Siemens chairman Jim Hagemann Snabe as special envoy for industrial AI.
+
+### [Detecting and countering misuse of AI: September 2026](https://www.anthropic.com/threat-intelligence-report-september-2026)
+
+<span class="news-item__source">anthropic.com</span> Anthropic detailed misuse of Claude it disrupted between December 2025 and August 2026 across seven harm areas, including cyber operations, surveillance and biological misuse.
+
+### [California gig drivers secure collective bargaining power in historic first](https://www.latimes.com/business/story/2026-09-10/california-clears-way-for-uber-lyft-driver-union)
+
+<span class="news-item__source">latimes.com</span> California's labour board certified the SEIU-backed Gig Workers Union as statewide bargaining agent for Uber and Lyft drivers, covering pay, deactivations and safety.
 
 ## 9 September 2026
 
@@ -80,25 +102,3 @@ next = "/page/3/"
 ### [Opinion of Advocate General Szpunar in Case C-661/24 Académie Fiscale and Others](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260117en.pdf)
 
 <span class="news-item__source">curia.europa.eu</span> Szpunar found Belgium's retention rules too broad and too reliant on provider discretion, but said blanket retention can pass with strict technical separation.
-
-### [Mark Zuckerberg said a national AI regulator was a flawed idea in a secret call with President Trump](https://www.politico.com/news/2026/09/03/mark-zuckerberg-said-a-national-ai-regulator-was-a-flawed-idea-in-a-secret-call-with-president-trump-01063843)
-
-<span class="news-item__source">politico.com</span> Zuckerberg told Trump a single national AI regulator was flawed; the administration is now weighing a FINRA-style body against an industry-led approach.
-
-### [Judgment of the Court in Case C-798/24 [Jautiva]](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260115en.pdf)
-
-<span class="news-item__source">curia.europa.eu</span> The CJEU held the GDPR bars Latvia's public company register from publishing every shareholder's personal data to anyone without proof of legitimate interest.
-
-## 2 September 2026
-
-### [Uber drivers launch European class action over 'soulless' and 'scary' AI algorithm](https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm)
-
-<span class="news-item__source">theguardian.com</span> Worker Info Exchange filed an Amsterdam claim for 241,000 UK and EU drivers, alleging Uber's dynamic pay algorithm is unlawful automated decision-making that cut earnings.
-
-### [Pegasus Spyware Infection of Serbian Pro-Democracy Student Activist](https://citizenlab.ca/research/pegasus-spyware-infection-of-serbian-activist/)
-
-<span class="news-item__source">citizenlab.ca</span> Citizen Lab and the SHARE Foundation confirmed Pegasus on a student activist's iPhone, one of at least 14 people targeted in Serbia around the March local elections.
-
-### [Judgment of the General Court in Case T-357/24 Opera Norway v Commission](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260113en.pdf)
-
-<span class="news-item__source">curia.europa.eu</span> The General Court dismissed the first third-party DMA challenge, upholding the Commission's refusal to designate Microsoft Edge as a gatekeeper service.

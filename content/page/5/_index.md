@@ -4,12 +4,34 @@ template = "index.html"
 
 [extra]
 page_num = 5
-page_count = 11
+page_count = 12
 prev = "/page/4/"
 next = "/page/6/"
 +++
 
+## 18 August 2026
+
+### [Facial recognition in policing: earning public trust through strong data protection governance](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/08/facial-recognition-in-policing/)
+
+<span class="news-item__source">ico.org.uk</span> The ICO audited five English and Welsh police forces on facial recognition and issued 107 recommendations, finding inconsistent data protection compliance.
+
+### [ChatGPT Ads expands across Europe](https://openai.com/index/chatgpt-ads-expands-across-europe/)
+
+<span class="news-item__source">openai.com</span> ChatGPT Ads reaches 31 European countries next week, shown only to Free and Go users, with OpenAI saying conversations stay private from advertisers.
+
+### [Changes for apps in the European Union](https://developer.apple.com/news/?id=gmws0jgp)
+
+<span class="news-item__source">developer.apple.com</span> Apple will move all EU developers to a single set of business terms on 1 October, replacing the per-install Core Technology Fee with a flat 5% commission.
+
+### [17 Iranians Charged With Conducting Massive Cyber Theft Campaign On Behalf Of The Islamic Revolutionary Guard Corps](https://www.justice.gov/usao-sdny/pr/17-iranians-charged-conducting-massive-cyber-theft-campaign-behalf-islamic)
+
+<span class="news-item__source">justice.gov</span> Prosecutors charged 17 Mabna Institute members over IRGC-directed intrusions at 322 universities that took 31.5 terabytes of research data.
+
 ## 17 August 2026
+
+### [Vietnam Tightens Online Speech Controls as Cyber Law Takes Effect](https://www.techpolicy.press/vietnam-tightens-online-speech-controls-as-cyber-law-takes-effect/)
+
+<span class="news-item__source">techpolicy.press</span> Vietnam's revised Cybersecurity Law took effect on 1 July, giving platforms six hours to remove content in urgent cases and fining users up to $1,900.
 
 ### [Sainsbury's store pauses AI scanning after false shoplifting accusation](https://www.theguardian.com/technology/2026/aug/17/humiliated-sainsburys-store-pauses-ai-scanning-after-false-shoplifting-accusation)
 
@@ -76,27 +98,3 @@ next = "/page/6/"
 ### [Brazil's Data Protection Agency Faces Landmark Test on Kids and Facial Recognition](https://www.techpolicy.press/brazils-data-protection-agency-faces-landmark-test-on-kids-and-facial-recognition/)
 
 <span class="news-item__source">techpolicy.press</span> Brazil's ANPD ordered the immediate suspension of biometric processing of schoolchildren in Parana, where facial recognition tracked attendance tied to welfare eligibility.
-
-### [AI agents aren't legally responsible for any harm that they cause, experts say. So who is?](https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is)
-
-<span class="news-item__source">theguardian.com</span> After Australia's first reported agentic AI hacking incident, legal experts said deployers bear liability for their bots, with developers exposed where guardrails are inadequate.
-
-## 12 August 2026
-
-### [Twitch Is Now Using Your Content To Train Amazon AI Models And Has Hidden The Option To Opt Out](https://kotaku.com/twitch-is-now-using-your-content-to-train-amazon-ai-models-and-has-hidden-the-option-to-opt-out-2000723891)
-
-<span class="news-item__source">kotaku.com</span> Twitch turned on generative-AI training of streamer content by default with a buried opt-out; its product chief said nobody would have opted in.
-
-### [Meta AI glasses face criminal complaint in Germany](https://www.politico.eu/article/meta-ai-glasses-face-criminal-complaint-in-germany/)
-
-<span class="news-item__source">politico.eu</span> HateAid filed a criminal complaint against Meta, Ray-Ban, Oakley and retailers, arguing covert filming by smart glasses breaches Germany's TDDDG and warrants a sales ban.
-
-### [Expanding Capabilities to Combat Transnational Cyber-Enabled Crime](https://www.whitehouse.gov/presidential-actions/2026/08/expanding-capabilities-to-combat-transnational-cyber-enabled-crime/)
-
-<span class="news-item__source">whitehouse.gov</span> Trump signed a memorandum letting vetted US firms run offensive cyber operations against foreign criminal networks, with a $1m escrow and DOJ-DHS sign-off per operation.
-
-## 11 August 2026
-
-### [US human rights groups sue Trump over anti-ICC push](https://www.reuters.com/legal/government/us-human-rights-groups-sue-trump-over-anti-icc-push-2026-08-11/)
-
-<span class="news-item__source">reuters.com</span> Human Rights Watch, Open Society, AFSC and the Center for Constitutional Rights sued in New York to void Trump's executive order sanctioning those who work with the ICC.

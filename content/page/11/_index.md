@@ -4,10 +4,32 @@ template = "index.html"
 
 [extra]
 page_num = 11
-page_count = 11
+page_count = 12
 prev = "/page/10/"
-next = ""
+next = "/page/12/"
 +++
+
+## 16 July 2026
+
+### [Proposed Europol reform dangerously erodes privacy, automates surveillance, and sidelines oversight](https://edri.org/our-work/proposed-europol-reform-dangerously-erodes-privacy-automates-surveillance-and-sidelines-oversight/)
+
+<span class="news-item__source">edri.org</span> The Commission's third Europol reform in six years adds €3bn, auto-uploads national police data, lowers the biometric threshold and drops prior EDPS approval.
+
+### [Proposed Europol reform dangerously erodes privacy, automates surveillance, and sidelines oversight](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1420)
+
+<span class="news-item__source">ec.europa.eu</span> The Europol reform would double its budget to €3bn, automate uploads of national police data and let it bypass EDPS approval for urgent sensitive processing.
+
+### [Judgment of the Court in Case C-421/24 AGCOM (Online gambling): Google may be held liable for the YouTube videos of a content creator with whom it has a commercial partnership](https://curia.europa.eu/site/upload/docs/application/pdf/2026-07/cp260109en.pdf)
+
+<span class="news-item__source">curia.europa.eu</span> Google cannot claim intermediary immunity for videos from a creator it partners with commercially, the CJEU held, upholding a €750,000 Italian fine.
+
+### [Hadopi law (2009–2026): French Conseil d'État finds the surveillance system breaches EU fundamental rights](https://edri.org/our-work/hadopi-law-2009-2026/)
+
+<span class="news-item__source">edri.org</span> France's Conseil d'État found the Hadopi graduated-response system breaches EU fundamental rights and ordered the government to repeal the key decree provisions.
+
+### [EU debuts new digital sovereignty assessment tools](https://commission.europa.eu/news-and-media/news/sovereign-cloud-framework-explained-2026-06-01_en)
+
+<span class="news-item__source">commission.europa.eu</span> The Commission published guidance letting organisations score cloud and AI providers against its eight sovereignty criteria, after questions over a €180m award.
 
 ## 15 July 2026
 
@@ -82,25 +104,3 @@ next = ""
 ### [Commission refers Ireland, Spain, France and the Netherlands to the Court of Justice for failing to transpose NIS2](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1499)
 
 <span class="news-item__source">ec.europa.eu</span> Ireland, Spain, France and the Netherlands were referred to the CJEU for being over 20 months late transposing NIS2, and now risk financial penalties.
-
-## 6 July 2026
-
-### [Joint Statement: Pegasus in the European Parliament, the EU Must Act Now](https://edri.org/our-work/joint-statement-pegasus-in-the-european-parliament-the-eu-must-act-now/)
-
-<span class="news-item__source">edri.org</span> Citizen Lab found that MEP Stelios Kouloglou was hacked with Pegasus while sitting on Parliament's own committee investigating the spyware.
-
-## 1 July 2026
-
-### [Trump's court win reignites fight to sink €1.7T data deal with Europe](https://www.edpb.europa.eu/meetings/122nd-plenary-meeting_en)
-
-<span class="news-item__source">edpb.europa.eu</span> European regulators and Noyb are moving to challenge the EU-US data deal after the Supreme Court expanded the president's power to fire agency commissioners.
-
-### [EDPB and AMLA to develop Joint Guidelines on partnerships for information sharing](https://www.edpb.europa.eu/news/edpb-and-amla-to-develop-joint-guidelines-on-partnerships-for-information-sharing_en)
-
-<span class="news-item__source">edpb.europa.eu</span> The EDPB and AMLA will write joint guidelines on sharing information to fight financial crime under the AML Regulation, with consultation planned for 2027.
-
-## 29 June 2026
-
-### [Artificial Intelligence: Council gives final green light to simplify and streamline rules](https://www.consilium.europa.eu/en/press/press-releases/2026/06/29/artificial-intelligence-council-gives-final-green-light-to-simplify-and-streamline-rules/)
-
-<span class="news-item__source">consilium.europa.eu</span> The Council adopted the Digital Omnibus on AI, pushing high-risk compliance to December 2027 and August 2028 and delaying regulatory sandboxes to August 2027.

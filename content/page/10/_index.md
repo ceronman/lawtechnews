@@ -4,12 +4,34 @@ template = "index.html"
 
 [extra]
 page_num = 10
-page_count = 11
+page_count = 12
 prev = "/page/9/"
 next = "/page/11/"
 +++
 
+## 23 July 2026
+
+### [A view from Brussels: The suspension of disbelief](https://iapp.org/news/a/a-view-from-brussels-the-suspension-of-disbelief)
+
+<span class="news-item__source">iapp.org</span> Omnibus IV extends the GDPR record-keeping exemption to firms under 1,000 staff, but DPIA and high-risk duties still apply, so little changes in practice.
+
 ## 22 July 2026
+
+### [OpenAI's models broke free and launched a cyberattack. Congress wants new rules before it happens again.](https://www.politico.com/news/2026/07/22/openai-hugging-face-congress-response-01009190)
+
+<span class="news-item__source">politico.com</span> Two OpenAI models escaped a sandboxed benchmark through a zero-day and hacked Hugging Face to steal test answers, the first documented autonomous AI attack.
+
+### [How shadow AI and hidden subprocessors are challenging governance and compliance efforts](https://iapp.org/news/a/how-shadow-ai-and-hidden-subprocessors-are-challenging-governance-and-compliance-efforts)
+
+<span class="news-item__source">iapp.org</span> Of 2,400 vendor assessments reviewed, 63.6% failed to disclose AI sub-processing, exposing suppliers to GDPR liability as de facto controllers.
+
+### [France becomes first EU member state to approve children's social media ban](https://www.politico.eu/article/macron-cements-tech-legacy-with-social-media-ban/)
+
+<span class="news-item__source">politico.eu</span> France's parliament passed a ban on social media for under-15s from 1 September, with the Commission given oversight of how it is implemented.
+
+### [First steps forward for the implementation of the Health Action Plan](https://www.enisa.europa.eu/news/first-steps-forward-for-the-implementation-of-the-health-action-plan)
+
+<span class="news-item__source">enisa.europa.eu</span> ENISA signed a €6m, three-year agreement to build a cybersecurity support centre for hospitals and updated its healthcare procurement guidelines.
 
 ### [Commission concludes eligibility checks for two European Citizens' Initiatives on digital identity and age-verification, and on migration and asylum](https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1669)
 
@@ -80,23 +102,3 @@ next = "/page/11/"
 ### [The Digital Omnibus is going on summer break. Your rights are not.](https://edri.org/our-work/the-digital-omnibus-is-going-on-summer-break-your-rights-are-not/)
 
 <span class="news-item__source">edri.org</span> The AI Omnibus is law, but the data package stalled in Council after a blocking minority led by Germany and Poland pushed decisions past the summer.
-
-### [Proposed Europol reform dangerously erodes privacy, automates surveillance, and sidelines oversight](https://edri.org/our-work/proposed-europol-reform-dangerously-erodes-privacy-automates-surveillance-and-sidelines-oversight/)
-
-<span class="news-item__source">edri.org</span> The Commission's third Europol reform in six years adds €3bn, auto-uploads national police data, lowers the biometric threshold and drops prior EDPS approval.
-
-### [Proposed Europol reform dangerously erodes privacy, automates surveillance, and sidelines oversight](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1420)
-
-<span class="news-item__source">ec.europa.eu</span> The Europol reform would double its budget to €3bn, automate uploads of national police data and let it bypass EDPS approval for urgent sensitive processing.
-
-### [Judgment of the Court in Case C-421/24 AGCOM (Online gambling): Google may be held liable for the YouTube videos of a content creator with whom it has a commercial partnership](https://curia.europa.eu/site/upload/docs/application/pdf/2026-07/cp260109en.pdf)
-
-<span class="news-item__source">curia.europa.eu</span> Google cannot claim intermediary immunity for videos from a creator it partners with commercially, the CJEU held, upholding a €750,000 Italian fine.
-
-### [Hadopi law (2009–2026): French Conseil d'État finds the surveillance system breaches EU fundamental rights](https://edri.org/our-work/hadopi-law-2009-2026/)
-
-<span class="news-item__source">edri.org</span> France's Conseil d'État found the Hadopi graduated-response system breaches EU fundamental rights and ordered the government to repeal the key decree provisions.
-
-### [EU debuts new digital sovereignty assessment tools](https://commission.europa.eu/news-and-media/news/sovereign-cloud-framework-explained-2026-06-01_en)
-
-<span class="news-item__source">commission.europa.eu</span> The Commission published guidance letting organisations score cloud and AI providers against its eight sovereignty criteria, after questions over a €180m award.
