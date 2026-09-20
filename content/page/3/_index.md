@@ -9,7 +9,25 @@ prev = "/page/2/"
 next = "/page/4/"
 +++
 
+## 4 September 2026
+
+### [PAM sees no grounds for continuing negotiations with Wolt on couriers' terms and conditions of employment](https://www.pam.fi/en/stories/you-get-nothing-without-even-asking-pam-sees-no-grounds-for-continuing-negotiations-with-wolt-on-couriers-terms-and-conditions-of-employment/)
+
+<span class="news-item__source">pam.fi</span> Finnish union PAM broke off almost three years of talks with Wolt over courier pay and said it will now pursue misclassification through the courts.
+
 ## 3 September 2026
+
+### [Violation de données en matière de santé : sanction de 500 000 euros à l'encontre de l'HÔPITAL PRIVÉ DE LA LOIRE](https://www.cnil.fr/fr/sanction-hopital-prive-loire)
+
+<span class="news-item__source">cnil.fr</span> The CNIL fined Hôpital Privé de la Loire €500,000 after an attacker reached 524,867 patients' records via an external account with no VPN, MFA or access limits.
+
+### [Provvedimento del 3 settembre 2026 – Banco Bilbao Vizcaya Argentaria, succursale italiana](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10291895)
+
+<span class="news-item__source">garanteprivacy.it</span> Italy's Garante fined BBVA's Italian branch €5.5 million for sending in-app marketing notifications for seven months to a customer who had opted out.
+
+### [Opinion of Advocate General Szpunar in Case C-661/24 Académie Fiscale and Others](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260117en.pdf)
+
+<span class="news-item__source">curia.europa.eu</span> Szpunar found Belgium's retention rules too broad and too reliant on provider discretion, but said blanket retention can pass with strict technical separation.
 
 ### [Mark Zuckerberg said a national AI regulator was a flawed idea in a secret call with President Trump](https://www.politico.com/news/2026/09/03/mark-zuckerberg-said-a-national-ai-regulator-was-a-flawed-idea-in-a-secret-call-with-president-trump-01063843)
 
@@ -18,6 +36,10 @@ next = "/page/4/"
 ### [Judgment of the Court in Case C-798/24 [Jautiva]](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260115en.pdf)
 
 <span class="news-item__source">curia.europa.eu</span> The CJEU held the GDPR bars Latvia's public company register from publishing every shareholder's personal data to anyone without proof of legitimate interest.
+
+### [Investigating Professional Money Laundering, Underground Banking, and the Use of Hawala and Other Similar Service Providers](https://www.fatf-gafi.org/en/publications/Methodsandtrends/pml-underground-banking-hawala-hossps.html)
+
+<span class="news-item__source">fatf-gafi.org</span> FATF published a report on professional money laundering through hawala and underground banking, with investigative techniques and red flags for supervisors.
 
 ## 2 September 2026
 
@@ -78,27 +100,3 @@ next = "/page/4/"
 ### [US court rules Pentagon ban of Anthropic unlawful](https://www.euractiv.com/news/us-court-rules-pentagon-ban-of-anthropic-unlawful/)
 
 <span class="news-item__source">euractiv.com</span> A US federal judge held that the government-wide ban on Anthropic products was unlawful retaliation for the firm refusing mass surveillance and autonomous weapons uses.
-
-### [The US got Meta to change Instagram and Facebook. Europe wants in.](https://www.politico.eu/article/meta-kids-safety-us-eu-digital-services-act/)
-
-<span class="news-item__source">politico.eu</span> The Commission signalled Meta's $18bn US settlement falls short of its DSA demands, which target autoplay, infinite scroll and personalised feeds themselves.
-
-### [Musk's AI company sues its users as victim lawsuits over Grok deepfakes mount](https://www.politico.com/news/2026/08/28/elon-musk-xai-lawsuits-grok-deepfakes-01053817)
-
-<span class="news-item__source">politico.com</span> xAI sued two users criminally charged over Grok-made CSAM, seeking its own legal costs and reputational damages for their breach of X's terms of service.
-
-## 27 August 2026
-
-### [Poland asks EU to fine Meta €250 million over scam ads](https://www.politico.eu/article/polish-deputy-pm-krzysztof-gawkowski-says-eu-should-fine-meta-250-million-for-financial-scams/)
-
-<span class="news-item__source">politico.eu</span> Poland's digital minister asked the Commission to fine Meta €250m and investigate six DSA breaches over scam ads, citing a 13% removal rate for reported fakes.
-
-## 26 August 2026
-
-### [IA : la CNIL met à jour son outil de traçabilité des modèles publiés en source ouverte](https://www.cnil.fr/fr/ia-la-cnil-met-jour-son-outil-de-tracabilite-des-modeles-publies-en-source-ouverte)
-
-<span class="news-item__source">cnil.fr</span> The CNIL shipped an English version of Genmod, which traces open-weight AI model lineage to show which derived models may have memorised the same personal data.
-
-### [Attorney General James Secures Up to $17.1 Billion and Groundbreaking Reforms from Meta to Protect Children on Social Media](https://ag.ny.gov/press-release/2026/attorney-general-james-secures-171-billion-and-groundbreaking-reforms-meta)
-
-<span class="news-item__source">ag.ny.gov</span> Meta will pay up to $17.1bn to 51 US attorneys general and cap under-18 use at two hours a day, with age verification and opt-out non-algorithmic feeds.

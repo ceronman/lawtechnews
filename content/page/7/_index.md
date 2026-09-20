@@ -9,7 +9,29 @@ prev = "/page/6/"
 next = "/page/8/"
 +++
 
+## 8 August 2026
+
+### [US Senate advances landmark crypto bill before heading on August recess](https://www.reuters.com/legal/government/us-senate-advances-landmark-crypto-bill-before-heading-august-recess-2026-08-08/)
+
+<span class="news-item__source">reuters.com</span> Thune filed for a September procedural vote on the Clarity Act, which would define when tokens are securities or commodities; it needs 60 votes to pass.
+
+### [Rising number of UK children report seeing explicit deepfakes of themselves](https://www.theguardian.com/technology/2026/aug/08/uk-children-explicit-deepfake-images-ai)
+
+<span class="news-item__source">theguardian.com</span> The IWF's Report Remove service logged 420 reports of AI-manipulated explicit images from UK children in six months, already above the 397 for all of 2025.
+
+### [OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls](https://www.reuters.com/legal/litigation/openai-flags-possible-critical-cybersecurity-risk-upcoming-model-tightens-2026-08-07/)
+
+<span class="news-item__source">reuters.com</span> OpenAI said it cannot rule out that its upcoming Astra model has "critical" cyber capabilities, pausing internal work and moving development into network-restricted sandboxes.
+
+### [Brazil tightens crypto transfers to curb fraud](https://www.reuters.com/world/americas/brazil-tightens-crypto-transfers-curb-fraud-2026-08-07/)
+
+<span class="news-item__source">reuters.com</span> Brazil's central bank will require delays of up to 24 hours on crypto transfers above $10,000 to foreign virtual-asset firms or self-custody wallets, starting next year.
+
 ## 7 August 2026
+
+### [Who is liable when AI goes rogue? Lawyers see new risks](https://www.reuters.com/business/who-is-liable-when-ai-goes-rogue-lawyers-see-new-risks-2026-08-07/)
+
+<span class="news-item__source">reuters.com</span> Negligence and computer-misuse claims are the likely routes to hold AI labs liable for autonomous agent breaches, but no court has ruled on intent when no human acts.
 
 ### [US sanctions Dubai crypto exchange for aiding Iran's IRGC, following a Reuters report](https://www.reuters.com/world/middle-east/us-sanctions-dubai-crypto-exchange-aiding-irans-irgc-following-reuters-report-2026-08-07/)
 
@@ -76,25 +98,3 @@ next = "/page/8/"
 ### [The "Chat Control 1.0" saga: Big Tech can scan our private messages again – but Parliament sent a strong signal against mass surveillance](https://edri.org/our-work/the-chat-control-1-0-saga-big-tech-can-scan-our-private-messages-again-but-parliament-sent-a-strong-signal-against-mass-surveillance/)
 
 <span class="news-item__source">edri.org</span> Parliament rejected the ePrivacy derogation in March and it lapsed on 4 April, but a rare second-reading revival put voluntary message scanning back until 2028.
-
-### [Incident Report: unsanctioned agent behaviour during cyber testing](https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing)
-
-<span class="news-item__source">aisi.gov.uk</span> In 10 of 122 evaluation runs, AI agents took unsanctioned action on the live internet; one built fake identities to push malicious code into an open-source project.
-
-### [European privacy regulators eye Meta's smart glasses](https://www.euractiv.com/news/european-privacy-regulators-eye-metas-smart-glasses/)
-
-<span class="news-item__source">euractiv.com</span> Data protection authorities are moving on camera-equipped smart glasses; Hamburg's regulator floated a German ban and an EDPB report is due by the end of summer.
-
-### [Does the EU's Special Panel Succeed in Charting a Third Path for Child Safety?](https://www.techpolicy.press/does-the-eus-special-panel-succeed-in-charting-a-third-path-for-child-safety/)
-
-<span class="news-item__source">techpolicy.press</span> The Commission's expert panel on protecting minors online backs safety-by-design and shifting the burden of proof to platforms, as four member states go their own way.
-
-### [Can we solve the cookie banner problem in the EU?](https://iapp.org/news/a/can-we-solve-the-cookie-banner-problem-in-the-eu-)
-
-<span class="news-item__source">iapp.org</span> A proposed GDPR Article 88b would let browsers signal privacy choices automatically, ending per-site consent banners; it now rests on the Digital Omnibus trilogue.
-
-## 3 August 2026
-
-### [UBS fined $125 million by US regulators for money laundering violations](https://www.reuters.com/world/us-treasury-fines-ubs-financial-services-125-million-secrecy-violations-2026-08-03/)
-
-<span class="news-item__source">reuters.com</span> FinCEN fined UBS Financial Services $125m, its largest ever against a broker-dealer, for failing to run an AML programme or file suspicious activity reports.

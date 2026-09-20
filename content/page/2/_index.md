@@ -9,7 +9,25 @@ prev = "/"
 next = "/page/3/"
 +++
 
+## 11 September 2026
+
+### [ICO statement on its investigation into Police Scotland](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/09/ico-statement-on-its-investigation-into-police-scotland/)
+
+<span class="news-item__source">ico.org.uk</span> The ICO opened an investigation into whether Police Scotland handles subject access requests within statutory deadlines under UK GDPR Articles 12 and 15.
+
+### [Dutch Government Advocates for EU-Wide Minimum Age for Social Media](https://www.government.nl/latest/news/2026/09/11/dutch-government-advocates-for-eu-wide-minimum-age-for-social-media)
+
+<span class="news-item__source">government.nl</span> The Netherlands and Spain sent the Commission a joint non-paper backing an EU-wide minimum age for social media, with privacy-friendly age verification and exemptions for safe services.
+
 ## 10 September 2026
+
+### [Sentenza su rider Glovo: da assumere a tempo pieno e indeterminato. "Pagare anche le attese"](https://www.rainews.it/tgr/piemonte/articoli/2026/09/tribunale-torino-rider-nuova-sentenza-lavoratore-da-assumere-a-tempo-pieno-indeterminato-pagare-anche-le-attese-952000e2-f48a-4cd5-b4ba-2e506a54b065.html)
+
+<span class="news-item__source">rainews.it</span> The Turin labour court ordered Glovo to hire a rider on a permanent full-time contract, finding algorithmic control created subordination, and to pay waiting time between orders.
+
+### [SCHUFA insists on shadow database. noyb lawsuit now certain](https://noyb.eu/en/schufa-insists-shadow-database-noyb-lawsuit-now-certain)
+
+<span class="news-item__source">noyb.eu</span> SCHUFA rejected noyb's cease-and-desist over its shadow database, so noyb will file for an injunction and is collecting sign-ups for a possible class action.
 
 ### [Open Letter: Civil society coalition urges EU to kill the cookie banner!](https://noyb.eu/en/open-letter-civil-society-coalition-urges-eu-kill-cookie-banner)
 
@@ -84,21 +102,3 @@ next = "/page/3/"
 ### [US court ruling aggravates Brussels' Google problem](https://www.politico.eu/article/us-court-ruling-aggravates-brussels-google-problem/)
 
 <span class="news-item__source">politico.eu</span> Judge Brinkema rejected the DoJ's bid to force Google to divest parts of its ad tech business, leaving the Commission alone in demanding a breakup.
-
-### [PAM sees no grounds for continuing negotiations with Wolt on couriers' terms and conditions of employment](https://www.pam.fi/en/stories/you-get-nothing-without-even-asking-pam-sees-no-grounds-for-continuing-negotiations-with-wolt-on-couriers-terms-and-conditions-of-employment/)
-
-<span class="news-item__source">pam.fi</span> Finnish union PAM broke off almost three years of talks with Wolt over courier pay and said it will now pursue misclassification through the courts.
-
-## 3 September 2026
-
-### [Violation de données en matière de santé : sanction de 500 000 euros à l'encontre de l'HÔPITAL PRIVÉ DE LA LOIRE](https://www.cnil.fr/fr/sanction-hopital-prive-loire)
-
-<span class="news-item__source">cnil.fr</span> The CNIL fined Hôpital Privé de la Loire €500,000 after an attacker reached 524,867 patients' records via an external account with no VPN, MFA or access limits.
-
-### [Provvedimento del 3 settembre 2026 – Banco Bilbao Vizcaya Argentaria, succursale italiana](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10291895)
-
-<span class="news-item__source">garanteprivacy.it</span> Italy's Garante fined BBVA's Italian branch €5.5 million for sending in-app marketing notifications for seven months to a customer who had opted out.
-
-### [Opinion of Advocate General Szpunar in Case C-661/24 Académie Fiscale and Others](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260117en.pdf)
-
-<span class="news-item__source">curia.europa.eu</span> Szpunar found Belgium's retention rules too broad and too reliant on provider discretion, but said blanket retention can pass with strict technical separation.

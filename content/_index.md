@@ -8,15 +8,31 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">224 stories on European law, technology regulation and digital rights, latest from 18 September 2026. Every headline links to the original source.</p>
+<p class="news-intro">229 stories on European law, technology regulation and digital rights, latest from 18 September 2026. Every headline links to the original source.</p>
 
 ## 18 September 2026
+
+### [Most EU countries late on pay transparency rules](https://www.euractiv.com/news/eu-countries-more-than-100-days-late-on-pay-transparency-rules/)
+
+<span class="news-item__source">euractiv.com</span> Twenty-two member states have missed the Pay Transparency Directive deadline by over three months; six have published no legislative text at all.
+
+### [Lavoro su piattaforme digitali: Cisl audita sul decreto](https://www.cisl.it/recepimento-direttiva-lavoro-piattaforme-cisl/)
+
+<span class="news-item__source">cisl.it</span> Italy's draft decree transposing the Platform Work Directive reached parliamentary hearings, with unions filing amendments ahead of the 2 December deadline.
+
+### [Governor Newsom issues executive order to accelerate independent oversight and advance the creation of an AI kill switch](https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/)
+
+<span class="news-item__source">gov.ca.gov</span> California ordered an expert panel to report within two months on a verifiable kill switch for frontier AI models and independent third-party safety audits.
 
 ### [EXCLUSIVE: OpenAI didn't report safety incident under EU AI rules](https://www.euractiv.com/news/exclusive-openai-didnt-report-another-incident-under-eu-ai-safety-rules/)
 
 <span class="news-item__source">euractiv.com</span> OpenAI filed no serious-incident report with the EU AI Office over the RubyGems episode, suggesting a narrow reading of the AI Act's duty to report without undue delay.
 
 ## 17 September 2026
+
+### [German court rules Meta liable for fake ads on Instagram, Facebook](https://www.reuters.com/legal/litigation/german-court-rules-meta-liable-fake-ads-instagram-facebook-2026-09-17/)
+
+<span class="news-item__source">reuters.com</span> A German court held Meta liable for third-party scam ads, rejecting the DSA lack-of-knowledge defence because its algorithms and ad tools shape what users see.
 
 ### [EU KIDS Act to restrict social media platforms' access to children in the EU](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1890)
 
@@ -85,21 +101,3 @@ next = "/page/2/"
 ### [Safer and more secure digital products](https://commission.europa.eu/news-and-media/news/safer-and-more-secure-digital-products-2026-09-11_en)
 
 <span class="news-item__source">commission.europa.eu</span> The Cyber Resilience Act's Article 14 reporting duties took effect: manufacturers must send an early warning within 24 hours via ENISA's Single Reporting Platform and notify fully within 72.
-
-### [ICO statement on its investigation into Police Scotland](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/09/ico-statement-on-its-investigation-into-police-scotland/)
-
-<span class="news-item__source">ico.org.uk</span> The ICO opened an investigation into whether Police Scotland handles subject access requests within statutory deadlines under UK GDPR Articles 12 and 15.
-
-### [Dutch Government Advocates for EU-Wide Minimum Age for Social Media](https://www.government.nl/latest/news/2026/09/11/dutch-government-advocates-for-eu-wide-minimum-age-for-social-media)
-
-<span class="news-item__source">government.nl</span> The Netherlands and Spain sent the Commission a joint non-paper backing an EU-wide minimum age for social media, with privacy-friendly age verification and exemptions for safe services.
-
-## 10 September 2026
-
-### [Sentenza su rider Glovo: da assumere a tempo pieno e indeterminato. "Pagare anche le attese"](https://www.rainews.it/tgr/piemonte/articoli/2026/09/tribunale-torino-rider-nuova-sentenza-lavoratore-da-assumere-a-tempo-pieno-indeterminato-pagare-anche-le-attese-952000e2-f48a-4cd5-b4ba-2e506a54b065.html)
-
-<span class="news-item__source">rainews.it</span> The Turin labour court ordered Glovo to hire a rider on a permanent full-time contract, finding algorithmic control created subordination, and to pay waiting time between orders.
-
-### [SCHUFA insists on shadow database. noyb lawsuit now certain](https://noyb.eu/en/schufa-insists-shadow-database-noyb-lawsuit-now-certain)
-
-<span class="news-item__source">noyb.eu</span> SCHUFA rejected noyb's cease-and-desist over its shadow database, so noyb will file for an injunction and is collecting sign-ups for a possible class action.
