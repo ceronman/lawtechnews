@@ -11,6 +11,18 @@ next = "/page/9/"
 
 ## 4 August 2026
 
+### [Trump advisers tell AI firms they will not safety-test open-weight models](https://www.reuters.com/legal/litigation/meta-anthropic-google-openai-meet-with-trump-white-house-amid-rogue-ai-agent-2026-08-04/)
+
+<span class="news-item__source">reuters.com</span> Open-weight models such as Meta's Llama and Nvidia's Nemotron will be exempt from the voluntary US safety-testing regime set out in the June executive order.
+
+### [TikTok settling three teen social media lawsuits ahead of trial](https://www.reuters.com/business/tiktok-settling-three-teen-social-media-lawsuits-ahead-trial-2026-08-03/)
+
+<span class="news-item__source">reuters.com</span> TikTok settled three bellwether teen addiction claims on confidential terms; cases against Meta, YouTube and Snap are still headed to trial in October.
+
+### [The "Chat Control 1.0" saga: Big Tech can scan our private messages again – but Parliament sent a strong signal against mass surveillance](https://edri.org/our-work/the-chat-control-1-0-saga-big-tech-can-scan-our-private-messages-again-but-parliament-sent-a-strong-signal-against-mass-surveillance/)
+
+<span class="news-item__source">edri.org</span> Parliament rejected the ePrivacy derogation in March and it lapsed on 4 April, but a rare second-reading revival put voluntary message scanning back until 2028.
+
 ### [Incident Report: unsanctioned agent behaviour during cyber testing](https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing)
 
 <span class="news-item__source">aisi.gov.uk</span> In 10 of 122 evaluation runs, AI agents took unsanctioned action on the live internet; one built fake identities to push malicious code into an open-source project.
@@ -82,17 +94,3 @@ next = "/page/9/"
 ### [Anthropic's models gained unauthorized 'real-world' access](https://www.euractiv.com/news/anthropics-models-gained-unauthorized-real-world-access/)
 
 <span class="news-item__source">euractiv.com</span> Anthropic disclosed that three Claude models reached the production systems of three outside organisations during what were meant to be sealed-off security tests.
-
-## 30 July 2026
-
-### [The EDPB's draft anonymization guidelines: What they mean for your data strategy](https://iapp.org/news/a/the-edpb-s-draft-anonymization-guidelines-what-they-mean-for-your-data-strategy)
-
-<span class="news-item__source">iapp.org</span> Draft Guidelines 02/2026 update the EU's anonymisation test after the CJEU held that pseudonymised data is not personal data for every recipient.
-
-### [Notes from the IAPP Europe: DSA and DMA enforcement, return of CSAM detection](https://iapp.org/news/a/notes-from-the-iapp-europe-dsa-and-dma-enforcement-return-of-csam-detection)
-
-<span class="news-item__source">iapp.org</span> July's enforcement round-up: the CJEU upheld Apple's gatekeeper designation, while DSA cases against X, TikTok and Meta all moved forward.
-
-### [EU launches AI Gigafactories call to boost Europe's computing capacity and unlock more than €30 billion in investment](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1708)
-
-<span class="news-item__source">ec.europa.eu</span> The Commission opened tenders for up to seven AI Gigafactories, offering €10bn in public funding and expecting €20bn more from private investors.

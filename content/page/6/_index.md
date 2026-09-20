@@ -9,6 +9,20 @@ prev = "/page/5/"
 next = "/page/7/"
 +++
 
+## 14 August 2026
+
+### [French taxpayers' data stolen in cyber attack, French Finance Ministry says](https://www.reuters.com/legal/litigation/french-taxpayers-data-stolen-cyber-attack-french-finance-ministry-says-2026-08-14/)
+
+<span class="news-item__source">reuters.com</span> France's Finance Ministry confirmed an intruder extracted data on 678,000 taxpayers from the DGFiP in late June; those affected will be notified individually.
+
+### [Décision n° 2026-911 DC du 14 août 2026 — Loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux](https://www.conseil-constitutionnel.fr/decision/2026/2026911DC.htm)
+
+<span class="news-item__source">conseil-constitutionnel.fr</span> France's Constitutional Council struck down the under-15 social media ban as a disproportionate curb on minors' freedom of expression, blocking its September start.
+
+### [Brazil Suspends Discord's Livestreams in First Enforcement Test of Child Protection Law](https://www.techpolicy.press/brazil-suspends-discords-livestreams-in-first-enforcement-test-of-child-protection-law/)
+
+<span class="news-item__source">techpolicy.press</span> Brazil's ANPD gave Discord three business days to suspend livestreaming after a 13-year-old died on air, the first enforcement of the ECA Digital law.
+
 ## 13 August 2026
 
 ### [Hiding your use of AI is about to get much harder — thanks to Brussels](https://www.politico.eu/article/artificial-intelligence-ai-watermark-big-tech/)
@@ -84,15 +98,3 @@ next = "/page/7/"
 ### [US court rules Meta, other tech firms must face thousands of lawsuits over social media addiction](https://www.reuters.com/world/us-appeals-court-allows-thousands-lawsuits-against-social-media-companies-over-2026-08-10/)
 
 <span class="news-item__source">reuters.com</span> The Ninth Circuit held Section 230 is a liability defence, not immunity, letting 3,000-plus youth addiction suits proceed and clearing a 29-state trial to open Wednesday.
-
-### [UK manufacturers face rising hacking risk as survey shows 30% were hit last year](https://www.theguardian.com/technology/2026/aug/10/uk-companies-cyber-attack-third-jlr)
-
-<span class="news-item__source">theguardian.com</span> MakeUK found 30% of British manufacturers hit by a cyber-incident in the past year, while only half hold a response plan; the JLR hack alone cost £1.9bn.
-
-### [Robotics and physical AI — Securing EU market access after the Digital Omnibus on AI](https://www.reuters.com/legal/legalindustry/robotics-physical-ai-securing-eu-market-access-after-digital-omnibus-ai--pracin-2026-08-10/)
-
-<span class="news-item__source">reuters.com</span> High-risk AI duties slip to December 2027 for standalone systems and August 2028 for product-embedded ones, with machinery AI folded into the Machinery Regulation.
-
-### [EU opens channel with Meta, TikTok to tackle Ceuta migrant crisis](https://www.politico.eu/article/eu-meta-tiktok-ceuta-migrant-crisis-spain-morocco/)
-
-<span class="news-item__source">politico.eu</span> The Commission, Meta and TikTok agreed a fact-checker channel to flag disinformation driving migrant crossings into Ceuta, with more arrivals feared on 15 August.

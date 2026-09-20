@@ -11,6 +11,18 @@ next = "/page/10/"
 
 ## 30 July 2026
 
+### [The EDPB's draft anonymization guidelines: What they mean for your data strategy](https://iapp.org/news/a/the-edpb-s-draft-anonymization-guidelines-what-they-mean-for-your-data-strategy)
+
+<span class="news-item__source">iapp.org</span> Draft Guidelines 02/2026 update the EU's anonymisation test after the CJEU held that pseudonymised data is not personal data for every recipient.
+
+### [Notes from the IAPP Europe: DSA and DMA enforcement, return of CSAM detection](https://iapp.org/news/a/notes-from-the-iapp-europe-dsa-and-dma-enforcement-return-of-csam-detection)
+
+<span class="news-item__source">iapp.org</span> July's enforcement round-up: the CJEU upheld Apple's gatekeeper designation, while DSA cases against X, TikTok and Meta all moved forward.
+
+### [EU launches AI Gigafactories call to boost Europe's computing capacity and unlock more than €30 billion in investment](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1708)
+
+<span class="news-item__source">ec.europa.eu</span> The Commission opened tenders for up to seven AI Gigafactories, offering €10bn in public funding and expecting €20bn more from private investors.
+
 ### [Can AI Agents Be Aligned with Human Rights?](https://www.techpolicy.press/can-ai-agents-be-aligned-with-human-rights/)
 
 <span class="news-item__source">techpolicy.press</span> DeepMind researchers propose training models against the Universal Declaration of Human Rights, testing the taxonomy on 100 simulated agent failures.
@@ -86,19 +98,3 @@ next = "/page/10/"
 ### [US prosecutors charge Atlanta man after GrapheneOS phone wipes itself during airport search](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
 
 <span class="news-item__source">techspot.com</span> US prosecutors charged an Atlanta man with destroying property after his GrapheneOS phone wiped itself during a warrantless airport search.
-
-## 25 July 2026
-
-### [Trump says US to launch EU probe over 'illegal' Google fine](https://www.reuters.com/business/trump-says-us-launch-eu-probe-over-illegal-google-fine-2026-07-24/)
-
-<span class="news-item__source">reuters.com</span> Trump said the US will open a Section 301 trade investigation into the EU over the €890m Google fine, warning the bloc will 'pay a very big price'.
-
-## 24 July 2026
-
-### [EU telcos ask: Huawei going to afford to replace Chinese equipment?](https://www.theregister.com/networks/2026/07/24/eu-telcos-ask-huawei-going-to-afford-to-replace-chinese-equipment/5278122)
-
-<span class="news-item__source">theregister.com</span> Replacing Huawei and ZTE kit under the proposed Cybersecurity Act 2 would cost EU operators €30-40bn within a three-year compliance window.
-
-### [Digital Omnibus on AI — Regulation (EU) 2026/1744 — published in the Official Journal](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601744)
-
-<span class="news-item__source">eur-lex.europa.eu</span> Regulation (EU) 2026/1744 was published in the Official Journal and enters into force on 27 July, making the AI Act's delayed deadlines binding law.

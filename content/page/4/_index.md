@@ -9,7 +9,21 @@ prev = "/page/3/"
 next = "/page/5/"
 +++
 
+## 31 August 2026
+
+### [FTC, States Sue Amazon Over Secret Ad Surcharge Scheme](https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-states-sue-amazon-over-secret-ad-surcharge-scheme)
+
+<span class="news-item__source">ftc.gov</span> The complaint alleges Amazon quietly turned its "second price" ad auctions into first price from 2019, extracting tens of billions from over a million sellers.
+
+### [Commission designates ChatGPT, Reddit, Roblox under Digital Services Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1772)
+
+<span class="news-item__source">ec.europa.eu</span> The Commission designated ChatGPT as a very large online search engine and Reddit and Roblox as very large online platforms, giving them until January 2027 to comply.
+
 ## 28 August 2026
+
+### [US court rules Pentagon ban of Anthropic unlawful](https://www.euractiv.com/news/us-court-rules-pentagon-ban-of-anthropic-unlawful/)
+
+<span class="news-item__source">euractiv.com</span> A US federal judge held that the government-wide ban on Anthropic products was unlawful retaliation for the firm refusing mass surveillance and autonomous weapons uses.
 
 ### [The US got Meta to change Instagram and Facebook. Europe wants in.](https://www.politico.eu/article/meta-kids-safety-us-eu-digital-services-act/)
 
@@ -90,17 +104,3 @@ next = "/page/5/"
 ### [eSafety secures court-enforceable undertaking from Roblox to do more to protect Australian kids from grooming and sexual exploitation](https://www.esafety.gov.au/newsroom/media-releases/esafety-secures-court-enforceable-undertaking-from-roblox-to-do-more-to-protect-australian-kids-from-grooming-and-sexual-exploitation)
 
 <span class="news-item__source">esafety.gov.au</span> Roblox has three months to block adult contact with unknown children, make under-16 profiles private by default and let a third party audit its age estimation.
-
-### [AP advises Twitch users: opt out from sharing data with Amazon AI](https://www.autoriteitpersoonsgegevens.nl/en/current/ap-advises-twitch-users-opt-out-from-sharing-data-with-amazon-ai)
-
-<span class="news-item__source">autoriteitpersoonsgegevens.nl</span> The Dutch DPA urged Twitch users to disable the default-on setting letting Amazon train AI on their streams, faces, voices and chats.
-
-## 19 August 2026
-
-### [Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits](https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination)
-
-<span class="news-item__source">theguardian.com</span> A class action argues Eightfold AI's 0-5 applicant scores are undisclosed consumer reports; parallel suits accuse IBM of age bias and Meta of targeting leave-takers.
-
-### [Offering Zero Data Retention for frontier models](https://openai.com/index/offering-zero-data-retention-for-frontier-models/)
-
-<span class="news-item__source">openai.com</span> OpenAI previewed Private Safety Processing, spotting misuse patterns across interactions without staff access to content; rollout and a white paper due in September.

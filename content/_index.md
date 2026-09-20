@@ -8,7 +8,7 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">229 stories on European law, technology regulation and digital rights, latest from 18 September 2026. Every headline links to the original source.</p>
+<p class="news-intro">233 stories on European law, technology regulation and digital rights, latest from 18 September 2026. Every headline links to the original source.</p>
 
 ## 18 September 2026
 
@@ -24,11 +24,19 @@ next = "/page/2/"
 
 <span class="news-item__source">gov.ca.gov</span> California ordered an expert panel to report within two months on a verifiable kill switch for frontier AI models and independent third-party safety audits.
 
+### [France probes misuse of smart glasses in sexual harassment cases](https://www.reuters.com/technology/french-prosecutors-regulators-step-up-scrutiny-smart-glasses-2026-09-18/)
+
+<span class="news-item__source">reuters.com</span> Paris prosecutors opened at least one criminal probe into smart glasses used to film women in the street; the CNIL has received under 10 workplace complaints about the devices.
+
 ### [EXCLUSIVE: OpenAI didn't report safety incident under EU AI rules](https://www.euractiv.com/news/exclusive-openai-didnt-report-another-incident-under-eu-ai-safety-rules/)
 
 <span class="news-item__source">euractiv.com</span> OpenAI filed no serious-incident report with the EU AI Office over the RubyGems episode, suggesting a narrow reading of the AI Act's duty to report without undue delay.
 
 ## 17 September 2026
+
+### [Opinion of Advocate General Spielmann in Case C-317/25 Groupe Canal +](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260130en.pdf)
+
+<span class="news-item__source">curia.europa.eu</span> AG Spielmann advised that consent for a company's unnamed ‘partners’ to use personal data for direct marketing is invalid unless those partners are identified.
 
 ### [German court rules Meta liable for fake ads on Instagram, Facebook](https://www.reuters.com/legal/litigation/german-court-rules-meta-liable-fake-ads-instagram-facebook-2026-09-17/)
 
@@ -51,6 +59,10 @@ next = "/page/2/"
 ### [Nyt udkast til AI-hjemmelslov sendt i høring](https://www.datatilsynet.dk/presse-og-nyheder/nyhedsarkiv/2026/sep/nyt-udkast-til-ai-hjemmelslov-sendt-i-hoering)
 
 <span class="news-item__source">datatilsynet.dk</span> Denmark sent a redrafted AI authorisation act to consultation, creating a general data-protection legal basis for public bodies to build and run AI on personal data.
+
+### [Ireland’s domestic AI legislation comes into force](https://www.arthurcox.com/knowledge/irelands-domestic-ai-legislation-comes-into-force/)
+
+<span class="news-item__source">arthurcox.com</span> Ireland’s Regulation of Artificial Intelligence Act 2026 took effect, creating an AI Office and making the Central Bank and the DPC market surveillance authorities under the EU AI Act.
 
 ### [EU chief to host safety talks with leading AI labs](https://www.euractiv.com/news/eu-chief-to-host-safety-talks-with-leading-ai-labs-per-draft-speech/)
 
@@ -87,17 +99,3 @@ next = "/page/2/"
 ### [Hungary moves to amend controversial child protection law after EU court ruling](https://www.euronews.com/my-europe/2026/09/14/hungary-moves-to-amend-controversial-child-protection-law-after-eu-court-ruling)
 
 <span class="news-item__source">euronews.com</span> Hungary tabled amendments stripping the 2021 child protection law of its restrictions on depicting homosexuality to minors, hoping to unlock €500 million in EU education funds.
-
-### [France submits new proposal to ban social media for under-15s](https://www.euractiv.com/news/france-submits-new-proposal-to-ban-social-media-for-under-15s/)
-
-<span class="news-item__source">euractiv.com</span> France notified the European Commission of a reworked bill banning social media for under-15s, after the Constitutional Council struck down the previous version in August.
-
-### [eCourier drivers 'likely' to win worker status claim](https://www.personneltoday.com/hr/ecourier-drivers-likely-to-win-worker-status-claim/)
-
-<span class="news-item__source">personneltoday.com</span> An employment tribunal said 46 drivers at Royal Mail-owned eCourier are likely to be found workers rather than self-employed contractors, citing Uber and Pimlico Plumbers.
-
-## 11 September 2026
-
-### [Safer and more secure digital products](https://commission.europa.eu/news-and-media/news/safer-and-more-secure-digital-products-2026-09-11_en)
-
-<span class="news-item__source">commission.europa.eu</span> The Cyber Resilience Act's Article 14 reporting duties took effect: manufacturers must send an early warning within 24 hours via ENISA's Single Reporting Platform and notify fully within 72.
