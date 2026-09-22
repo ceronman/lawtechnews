@@ -4,10 +4,34 @@ template = "index.html"
 
 [extra]
 page_num = 12
-page_count = 12
+page_count = 13
 prev = "/page/11/"
-next = ""
+next = "/page/13/"
 +++
+
+## 16 July 2026
+
+### [Judgment of the Court in Case C-421/24 AGCOM (Online gambling): Google may be held liable for the YouTube videos of a content creator with whom it has a commercial partnership](https://curia.europa.eu/site/upload/docs/application/pdf/2026-07/cp260109en.pdf)
+
+<span class="news-item__source">curia.europa.eu</span> Google cannot claim intermediary immunity for videos from a creator it partners with commercially, the CJEU held, upholding a €750,000 Italian fine.
+
+### [Hadopi law (2009–2026): French Conseil d'État finds the surveillance system breaches EU fundamental rights](https://edri.org/our-work/hadopi-law-2009-2026/)
+
+<span class="news-item__source">edri.org</span> France's Conseil d'État found the Hadopi graduated-response system breaches EU fundamental rights and ordered the government to repeal the key decree provisions.
+
+### [EU debuts new digital sovereignty assessment tools](https://commission.europa.eu/news-and-media/news/sovereign-cloud-framework-explained-2026-06-01_en)
+
+<span class="news-item__source">commission.europa.eu</span> The Commission published guidance letting organisations score cloud and AI providers against its eight sovereignty criteria, after questions over a €180m award.
+
+## 15 July 2026
+
+### [The EU AI Act deadline moved, vendor questionnaires will not](https://iapp.org/news/a/the-eu-ai-act-deadline-moved-vendor-questionnaires-will-not)
+
+<span class="news-item__source">iapp.org</span> Delaying the AI Act's high-risk deadlines to 2027 and 2028 will not slow procurement teams, who keep demanding compliance evidence at contract renewal.
+
+### [Commission accepts X's corrective measures to terminate breaches of the DSA](https://digital-strategy.ec.europa.eu/en/news/commission-accepts-xs-corrective-measures-terminate-breaches-dsa)
+
+<span class="news-item__source">digital-strategy.ec.europa.eu</span> The Commission accepted X's plan to fix its ad repository and researcher data access after last year's €120m fine. X has six months to deliver.
 
 ## 14 July 2026
 
@@ -84,19 +108,3 @@ next = ""
 ### [Trump's court win reignites fight to sink €1.7T data deal with Europe](https://www.edpb.europa.eu/meetings/122nd-plenary-meeting_en)
 
 <span class="news-item__source">edpb.europa.eu</span> European regulators and Noyb are moving to challenge the EU-US data deal after the Supreme Court expanded the president's power to fire agency commissioners.
-
-### [EDPB and AMLA to develop Joint Guidelines on partnerships for information sharing](https://www.edpb.europa.eu/news/edpb-and-amla-to-develop-joint-guidelines-on-partnerships-for-information-sharing_en)
-
-<span class="news-item__source">edpb.europa.eu</span> The EDPB and AMLA will write joint guidelines on sharing information to fight financial crime under the AML Regulation, with consultation planned for 2027.
-
-## 29 June 2026
-
-### [Artificial Intelligence: Council gives final green light to simplify and streamline rules](https://www.consilium.europa.eu/en/press/press-releases/2026/06/29/artificial-intelligence-council-gives-final-green-light-to-simplify-and-streamline-rules/)
-
-<span class="news-item__source">consilium.europa.eu</span> The Council adopted the Digital Omnibus on AI, pushing high-risk compliance to December 2027 and August 2028 and delaying regulatory sandboxes to August 2027.
-
-## 16 June 2026
-
-### [Gerechtshof Amsterdam, ECLI:NL:GHAMS:2026:1612 (FNV en CNV / Temper)](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:1612)
-
-<span class="news-item__source">uitspraken.rechtspraak.nl</span> The Amsterdam Court of Appeal held that people working via the Temper platform are temporary agency employees of Temper, not self-employed, covering some 61,000 workers.

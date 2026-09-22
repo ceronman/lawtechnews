@@ -4,12 +4,34 @@ template = "index.html"
 
 [extra]
 page_num = 3
-page_count = 12
+page_count = 13
 prev = "/page/2/"
 next = "/page/4/"
 +++
 
+## 10 September 2026
+
+### [Detecting and countering misuse of AI: September 2026](https://www.anthropic.com/threat-intelligence-report-september-2026)
+
+<span class="news-item__source">anthropic.com</span> Anthropic detailed misuse of Claude it disrupted between December 2025 and August 2026 across seven harm areas, including cyber operations, surveillance and biological misuse.
+
+### [California gig drivers secure collective bargaining power in historic first](https://www.latimes.com/business/story/2026-09-10/california-clears-way-for-uber-lyft-driver-union)
+
+<span class="news-item__source">latimes.com</span> California's labour board certified the SEIU-backed Gig Workers Union as statewide bargaining agent for Uber and Lyft drivers, covering pay, deactivations and safety.
+
 ## 9 September 2026
+
+### [Risks of Gaming and Gambling](https://www.fatf-gafi.org/en/publications/Methodsandtrends/risks-of-gaming-and-gambling.html)
+
+<span class="news-item__source">fatf-gafi.org</span> The FATF published findings and new risk indicators on money laundering and terrorist financing through casinos, online gambling and in-game payment channels.
+
+### [Non-respect des droits des personnes : sanction de 300 000 euros à l'encontre de la société EXTIA](https://www.cnil.fr/fr/sanction-non-respect-droits-personnes-extia)
+
+<span class="news-item__source">cnil.fr</span> The CNIL fined IT consultancy EXTIA €300,000 after more than three quarters of the 265 erasure requests it received in 2024 went unanswered or badly handled.
+
+### [Judgment of the General Court in Case T-1139/23 Booking Holdings v Commission](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260125en.pdf)
+
+<span class="news-item__source">curia.europa.eu</span> The General Court dismissed Booking's action and upheld the Commission's prohibition of its acquisition of flight-booking provider Etraveli Group.
 
 ### [European Commission: Defend the DMA and reject Apple's new App Store terms](https://www.article19.org/resources/european-commission-defend-the-dma-and-reject-apples-new-app-store-terms/)
 
@@ -80,25 +102,3 @@ next = "/page/4/"
 ### [Investigating Professional Money Laundering, Underground Banking, and the Use of Hawala and Other Similar Service Providers](https://www.fatf-gafi.org/en/publications/Methodsandtrends/pml-underground-banking-hawala-hossps.html)
 
 <span class="news-item__source">fatf-gafi.org</span> FATF published a report on professional money laundering through hawala and underground banking, with investigative techniques and red flags for supervisors.
-
-## 2 September 2026
-
-### [Uber drivers launch European class action over 'soulless' and 'scary' AI algorithm](https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm)
-
-<span class="news-item__source">theguardian.com</span> Worker Info Exchange filed an Amsterdam claim for 241,000 UK and EU drivers, alleging Uber's dynamic pay algorithm is unlawful automated decision-making that cut earnings.
-
-### [Pegasus Spyware Infection of Serbian Pro-Democracy Student Activist](https://citizenlab.ca/research/pegasus-spyware-infection-of-serbian-activist/)
-
-<span class="news-item__source">citizenlab.ca</span> Citizen Lab and the SHARE Foundation confirmed Pegasus on a student activist's iPhone, one of at least 14 people targeted in Serbia around the March local elections.
-
-### [Judgment of the General Court in Case T-357/24 Opera Norway v Commission](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260113en.pdf)
-
-<span class="news-item__source">curia.europa.eu</span> The General Court dismissed the first third-party DMA challenge, upholding the Commission's refusal to designate Microsoft Edge as a gatekeeper service.
-
-### [Hey EU, your new rules for ChatGPT don't cover chat](https://www.politico.eu/article/new-eu-rules-for-chatgpt-dont-cover-chat/)
-
-<span class="news-item__source">politico.eu</span> ChatGPT's DSA designation as a search engine covers only its search-like functions, leaving chatbot conversations and companion uses outside the strictest obligations.
-
-### [FinCEN, Agencies, Issue Joint Statement on Suspicious Activity Report Confidentiality Considerations Regarding Communications with Customers](https://www.fincen.gov/news/news-releases/fincen-agencies-issue-joint-statement-suspicious-activity-report-confidentiality)
-
-<span class="news-item__source">fincen.gov</span> FinCEN and the four federal banking agencies said SAR confidentiality does not stop banks telling customers about suspicious transactions or account closures.

@@ -3,18 +3,40 @@ title = "Law & Tech News"
 
 [extra]
 page_num = 1
-page_count = 12
+page_count = 13
 prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">238 stories on European law, technology regulation and digital rights, latest from 21 September 2026. Every headline links to the original source.</p>
+<p class="news-intro">243 stories on European law, technology regulation and digital rights, latest from 21 September 2026. Every headline links to the original source.</p>
 
 ## 21 September 2026
+
+### [WHAT TO FIX files DSA complaint over Meta's monetization enforcement and reporting systems](https://www.whattofix.tech/publications/sept-2026-what-to-fix-files-dsa-complaint-monetization-enforcement-reporting/)
+
+<span class="news-item__source">whattofix.tech</span> WHAT TO FIX filed a DSA complaint with the Dutch ACM alleging Meta failed to enforce and process reports of possibly illegal monetization tied to EU-sanctioned actors.
+
+### [Poor data sharing undermining EU cyber defences, auditors say](https://www.reuters.com/legal/government/poor-data-sharing-undermining-eu-cyber-defences-auditors-say-2026-09-21/)
+
+<span class="news-item__source">reuters.com</span> The European Court of Auditors found EU states rarely share cyber-incident data, noting no 'large-scale' incident has been formally reported since 2016 despite qualifying attacks.
+
+### [EU lawmakers float product liability rules to help avert AI disaster](https://www.politico.eu/article/eu-lawmakers-ai-apocalypse-warnings-brussels-scrambles-ai-rules-gaps/)
+
+<span class="news-item__source">politico.eu</span> Four MEPs urged the Commission to draft an AI Liability Act extending the AI Act to hold providers like OpenAI and Anthropic liable for harm from advanced models.
+
+### [Data Protection Commission fines Google €403 million following Inquiry into Google's processing of location data](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location)
+
+<span class="news-item__source">dataprotection.ie</span> Ireland's DPC fined Google €403 million for unlawful processing of location data in Web & App Activity and Location History, ordering compliance within six months.
 
 ### [AI: EU Member States plan “digital expropriation” of Europeans in the interest of AI companies](https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies)
 
 <span class="news-item__source">noyb.eu</span> A leaked Irish Presidency text adds GDPR Article 88bis, making any personal data use “in the context of AI” lawful by default with no consent required.
+
+## 20 September 2026
+
+### [US employers use software to punish workers at sixteen times the European rate. The gap is the law.](https://thenextweb.com/news/oecd-algorithmic-management-sanction-gap-ai-act-blind-spot)
+
+<span class="news-item__source">thenextweb.com</span> OECD survey of 6,047 firms found 67% of US employers use software to sanction workers vs 4% in Europe; most tools aren't AI and fall outside the AI Act's scope.
 
 ## 18 September 2026
 
@@ -77,25 +99,3 @@ next = "/page/2/"
 ### [Nyt udkast til AI-hjemmelslov sendt i høring](https://www.datatilsynet.dk/presse-og-nyheder/nyhedsarkiv/2026/sep/nyt-udkast-til-ai-hjemmelslov-sendt-i-hoering)
 
 <span class="news-item__source">datatilsynet.dk</span> Denmark sent a redrafted AI authorisation act to consultation, creating a general data-protection legal basis for public bodies to build and run AI on personal data.
-
-### [Ireland’s domestic AI legislation comes into force](https://www.arthurcox.com/knowledge/irelands-domestic-ai-legislation-comes-into-force/)
-
-<span class="news-item__source">arthurcox.com</span> Ireland’s Regulation of Artificial Intelligence Act 2026 took effect, creating an AI Office and making the Central Bank and the DPC market surveillance authorities under the EU AI Act.
-
-### [EU chief to host safety talks with leading AI labs](https://www.euractiv.com/news/eu-chief-to-host-safety-talks-with-leading-ai-labs-per-draft-speech/)
-
-<span class="news-item__source">euractiv.com</span> Von der Leyen will convene frontier AI labs on slowing self-recursive models and team up with Canada and the UK on model evaluation and early warning.
-
-### [2026 State of the Union Address by President von der Leyen](https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1868)
-
-<span class="news-item__source">ec.europa.eu</span> Von der Leyen unveiled an EU Kids Act: no social media under 13, no personal account under 15, and parent-supervised mini accounts capped at one hour a day.
-
-## 15 September 2026
-
-### [Leak: EU Commission to pitch social media restrictions for under-15s](https://www.euronews.com/my-europe/2026/09/15/leak-eu-commission-to-pitch-social-media-restrictions-for-under-15s)
-
-<span class="news-item__source">euronews.com</span> A leaked EU Kids Act draft would bar under-15s from social media without parental consent and impose safety-by-design duties on video games and AI chatbots.
-
-### [Commission proposes ambitious measures to strengthen fair labour mobility](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1851)
-
-<span class="news-item__source">ec.europa.eu</span> The Commission adopted the Fair Labour Mobility package: a European Social Security Pass, digital qualifications in the EU Identity Wallet, and a strengthened Labour Authority.

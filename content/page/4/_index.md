@@ -4,12 +4,32 @@ template = "index.html"
 
 [extra]
 page_num = 4
-page_count = 12
+page_count = 13
 prev = "/page/3/"
 next = "/page/5/"
 +++
 
 ## 2 September 2026
+
+### [Uber drivers launch European class action over 'soulless' and 'scary' AI algorithm](https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm)
+
+<span class="news-item__source">theguardian.com</span> Worker Info Exchange filed an Amsterdam claim for 241,000 UK and EU drivers, alleging Uber's dynamic pay algorithm is unlawful automated decision-making that cut earnings.
+
+### [Pegasus Spyware Infection of Serbian Pro-Democracy Student Activist](https://citizenlab.ca/research/pegasus-spyware-infection-of-serbian-activist/)
+
+<span class="news-item__source">citizenlab.ca</span> Citizen Lab and the SHARE Foundation confirmed Pegasus on a student activist's iPhone, one of at least 14 people targeted in Serbia around the March local elections.
+
+### [Judgment of the General Court in Case T-357/24 Opera Norway v Commission](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260113en.pdf)
+
+<span class="news-item__source">curia.europa.eu</span> The General Court dismissed the first third-party DMA challenge, upholding the Commission's refusal to designate Microsoft Edge as a gatekeeper service.
+
+### [Hey EU, your new rules for ChatGPT don't cover chat](https://www.politico.eu/article/new-eu-rules-for-chatgpt-dont-cover-chat/)
+
+<span class="news-item__source">politico.eu</span> ChatGPT's DSA designation as a search engine covers only its search-like functions, leaving chatbot conversations and companion uses outside the strictest obligations.
+
+### [FinCEN, Agencies, Issue Joint Statement on Suspicious Activity Report Confidentiality Considerations Regarding Communications with Customers](https://www.fincen.gov/news/news-releases/fincen-agencies-issue-joint-statement-suspicious-activity-report-confidentiality)
+
+<span class="news-item__source">fincen.gov</span> FinCEN and the four federal banking agencies said SAR confidentiality does not stop banks telling customers about suspicious transactions or account closures.
 
 ### [Data Protection Commission announces Final Decision following Inquiry into the Health Service Executive (HSE)](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-announces-final-decision-following-inquiry-health-service-executive-hse)
 
@@ -82,27 +102,3 @@ next = "/page/5/"
 ### [Nigel Farage wants to scrap GDPR for the UK](https://www.politico.eu/article/nigel-farage-wants-to-scrap-gdpr-for-the-uk/)
 
 <span class="news-item__source">politico.eu</span> Reform UK would replace UK GDPR with a light-touch law modelled on New Zealand's Privacy Act, claiming EU adequacy would survive the change.
-
-### [ANPD multa TikTok em R$ 153,7 milhões por falhas na proteção de dados de crianças e adolescentes](https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-multa-tiktok-em-r-153-7-milhoes-por-falhas-na-protecao-de-dados-de-criancas-e-adolescentes)
-
-<span class="news-item__source">gov.br</span> Brazil's ANPD fined ByteDance R$153.7m for processing minors' data with no legal basis, ordering deletion and a compliance plan that suspends ads in the logged-out feed.
-
-## 24 August 2026
-
-### [How a 17th-century Irish law is shielding Big Tech from class actions in Europe](https://www.politico.eu/article/17th-century-ireland-law-shielding-big-tech-class-actions-europe/)
-
-<span class="news-item__source">politico.eu</span> Ireland's 1634 ban on third-party litigation funding has left just one collective redress case filed there; a Law Reform Commission report is due this year.
-
-### [Consultatie Wet platformwerk (implementation of Directive (EU) 2024/2831)](https://www.internetconsultatie.nl/wetplatformwerk/b1)
-
-<span class="news-item__source">internetconsultatie.nl</span> The Dutch consultation on the Wet platformwerk closed with 86 public responses; the bill is a pure transposition of the directive, due in national law by 2 December 2026.
-
-## 21 August 2026
-
-### [Uber fined nearly 825 million euros for automated driver blocking](https://www.autoriteitpersoonsgegevens.nl/en/current/uber-fined-nearly-825-million-euros-for-automated-driver-blocking)
-
-<span class="news-item__source">autoriteitpersoonsgegevens.nl</span> The Dutch DPA fined Uber €824.99m for automatically deactivating drivers over fraud flags and low ratings without human review. Uber is appealing.
-
-### [U.S. Citizen Who Deleted Phone's Data Says His Prosecution Puts Privacy at Risk](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
-
-<span class="news-item__source">nytimes.com</span> US prosecutors charged Samuel Tunick with obstruction for entering a duress passcode that wiped his phone during a CBP airport search.

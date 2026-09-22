@@ -4,12 +4,34 @@ template = "index.html"
 
 [extra]
 page_num = 6
-page_count = 12
+page_count = 13
 prev = "/page/5/"
 next = "/page/7/"
 +++
 
+## 18 August 2026
+
+### [Changes for apps in the European Union](https://developer.apple.com/news/?id=gmws0jgp)
+
+<span class="news-item__source">developer.apple.com</span> Apple will move all EU developers to a single set of business terms on 1 October, replacing the per-install Core Technology Fee with a flat 5% commission.
+
+### [17 Iranians Charged With Conducting Massive Cyber Theft Campaign On Behalf Of The Islamic Revolutionary Guard Corps](https://www.justice.gov/usao-sdny/pr/17-iranians-charged-conducting-massive-cyber-theft-campaign-behalf-islamic)
+
+<span class="news-item__source">justice.gov</span> Prosecutors charged 17 Mabna Institute members over IRGC-directed intrusions at 322 universities that took 31.5 terabytes of research data.
+
 ## 17 August 2026
+
+### [Vietnam Tightens Online Speech Controls as Cyber Law Takes Effect](https://www.techpolicy.press/vietnam-tightens-online-speech-controls-as-cyber-law-takes-effect/)
+
+<span class="news-item__source">techpolicy.press</span> Vietnam's revised Cybersecurity Law took effect on 1 July, giving platforms six hours to remove content in urgent cases and fining users up to $1,900.
+
+### [Sainsbury's store pauses AI scanning after false shoplifting accusation](https://www.theguardian.com/technology/2026/aug/17/humiliated-sainsburys-store-pauses-ai-scanning-after-false-shoplifting-accusation)
+
+<span class="news-item__source">theguardian.com</span> Sainsbury's suspended Facewatch facial recognition at its East Dulwich store after a customer was wrongly ejected as a shoplifter; it blamed human error, not the tech.
+
+### [Report supporting Australia's teen social media ban appears to contain AI hallucinations, Senate hears](https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb)
+
+<span class="news-item__source">theguardian.com</span> Six references in the $3.48m age-assurance trial report point to non-existent or wrong papers; the contractor conceded ChatGPT was used to rewrite text.
 
 ### [Minnesota defends AI 'nudification' ban after lawsuit from Musk's xAI](https://www.reuters.com/legal/government/minnesota-defends-ai-nudification-ban-after-lawsuit-musks-xai-2026-08-17/)
 
@@ -78,25 +100,3 @@ next = "/page/7/"
 ### [Twitch Is Now Using Your Content To Train Amazon AI Models And Has Hidden The Option To Opt Out](https://kotaku.com/twitch-is-now-using-your-content-to-train-amazon-ai-models-and-has-hidden-the-option-to-opt-out-2000723891)
 
 <span class="news-item__source">kotaku.com</span> Twitch turned on generative-AI training of streamer content by default with a buried opt-out; its product chief said nobody would have opted in.
-
-### [Meta AI glasses face criminal complaint in Germany](https://www.politico.eu/article/meta-ai-glasses-face-criminal-complaint-in-germany/)
-
-<span class="news-item__source">politico.eu</span> HateAid filed a criminal complaint against Meta, Ray-Ban, Oakley and retailers, arguing covert filming by smart glasses breaches Germany's TDDDG and warrants a sales ban.
-
-### [Expanding Capabilities to Combat Transnational Cyber-Enabled Crime](https://www.whitehouse.gov/presidential-actions/2026/08/expanding-capabilities-to-combat-transnational-cyber-enabled-crime/)
-
-<span class="news-item__source">whitehouse.gov</span> Trump signed a memorandum letting vetted US firms run offensive cyber operations against foreign criminal networks, with a $1m escrow and DOJ-DHS sign-off per operation.
-
-## 11 August 2026
-
-### [US human rights groups sue Trump over anti-ICC push](https://www.reuters.com/legal/government/us-human-rights-groups-sue-trump-over-anti-icc-push-2026-08-11/)
-
-<span class="news-item__source">reuters.com</span> Human Rights Watch, Open Society, AFSC and the Center for Constitutional Rights sued in New York to void Trump's executive order sanctioning those who work with the ICC.
-
-### [The backlash to social media bans has already begun](https://www.politico.eu/article/social-media-bans-minors-global-backlash/)
-
-<span class="news-item__source">politico.eu</span> Eight months after Australia's under-16 ban, its regulator found over 80% of minors still using social media, and experts warned von der Leyen against EU-wide blanket bans.
-
-### [Meta glasses banned from courts in England and Wales](https://www.theguardian.com/technology/2026/aug/11/meta-glasses-banned-from-courts-in-england-and-wales)
-
-<span class="news-item__source">theguardian.com</span> HMCTS will confiscate Meta smart glasses from anyone entering courts in England and Wales, while still allowing smartphones inside judicial buildings.
