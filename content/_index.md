@@ -8,7 +8,23 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">243 stories on European law, technology regulation and digital rights, latest from 21 September 2026. Every headline links to the original source.</p>
+<p class="news-intro">248 stories on European law, technology regulation and digital rights, latest from 23 September 2026. Every headline links to the original source.</p>
+
+## 23 September 2026
+
+### [What you need to know about the EU's new digital deportation regime](https://edri.org/our-work/what-you-need-to-know-about-the-eus-new-digital-deportation-regime/)
+
+<span class="news-item__source">edri.org</span> EDRi detailed the EU's Return Regulation, which lets states search phones, force biometric data collection, share health data with third countries, and flag 'security risks' via SIS.
+
+### [Serbia's spyware scandal is also the EU's problem](https://edri.org/our-work/serbias-spyware-scandal-is-also-the-eus-problem/)
+
+<span class="news-item__source">edri.org</span> SHARE Foundation confirmed Pegasus and NoviSpy spyware on 14 Serbian activists and opposition figures since 2026; EDRi urges the EU to condition Serbia's accession on ending spyware use.
+
+## 22 September 2026
+
+### [Council wants privacy enhancing tech incentives in omnibus](https://www.euractiv.com/news/council-wants-privacy-enhancing-tech-incentives-in-omnibus/)
+
+<span class="news-item__source">euractiv.com</span> EU Council ministers want the Digital Omnibus to add incentives for privacy-enhancing tech and want the Commission to assess industry use of it, especially for cookies.
 
 ## 21 September 2026
 
@@ -20,9 +36,17 @@ next = "/page/2/"
 
 <span class="news-item__source">reuters.com</span> The European Court of Auditors found EU states rarely share cyber-incident data, noting no 'large-scale' incident has been formally reported since 2016 despite qualifying attacks.
 
+### [Europe Says Its AI Rules Are Enough. AI Agents Are Testing That Claim](https://www.techpolicy.press/europe-says-its-ai-rules-are-enough-ai-agents-are-testing-that-claim/)
+
+<span class="news-item__source">techpolicy.press</span> Brussels says the AI Act already covers agentic AI risks after Gemini and other models breached test systems, but experts say its market-based rules may not reach models still in testing.
+
 ### [EU lawmakers float product liability rules to help avert AI disaster](https://www.politico.eu/article/eu-lawmakers-ai-apocalypse-warnings-brussels-scrambles-ai-rules-gaps/)
 
 <span class="news-item__source">politico.eu</span> Four MEPs urged the Commission to draft an AI Liability Act extending the AI Act to hold providers like OpenAI and Anthropic liable for harm from advanced models.
+
+### [EDPB harmonises fining methodology and adopts final DSA-GDPR guidelines](https://www.edpb.europa.eu/news/edpb-harmonises-fining-methodology-and-adopts-final-dsa-gdpr-guidelines_en)
+
+<span class="news-item__source">edpb.europa.eu</span> The EDPB adopted a five-step test for DPAs deciding whether to impose GDPR fines and finalised its guidelines on the DSA-GDPR interplay, with 14 worked examples.
 
 ### [Data Protection Commission fines Google €403 million following Inquiry into Google's processing of location data](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location)
 
@@ -77,25 +101,3 @@ next = "/page/2/"
 ### [Home Office challenged on ‘farcical’ secrecy over Apple ‘backdoor’ order](https://www.computerweekly.com/news/366650612/Home-Office-challenged-on-farcical-secrecy-over-Apple-backdoor-order)
 
 <span class="news-item__source">computerweekly.com</span> Privacy International and Liberty told the Investigatory Powers Tribunal the Home Office's neither-confirm-nor-deny stance on Apple's encryption notice is no longer sustainable.
-
-### [German court rules Meta liable for fake ads on Instagram, Facebook](https://www.reuters.com/legal/litigation/german-court-rules-meta-liable-fake-ads-instagram-facebook-2026-09-17/)
-
-<span class="news-item__source">reuters.com</span> A German court held Meta liable for third-party scam ads, rejecting the DSA lack-of-knowledge defence because its algorithms and ad tools shape what users see.
-
-### [EU KIDS Act to restrict social media platforms' access to children in the EU](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1890)
-
-<span class="news-item__source">ec.europa.eu</span> The Commission adopted the EU KIDS Act, reversing the burden of proof onto very large platforms and adding expedited enforcement with investigations closed within 90 days.
-
-### [Bundesgerichtshof legt EuGH Fragen zur "Haushaltsausnahme" nach der DSGVO vor](https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026169.html)
-
-<span class="news-item__source">bundesgerichtshof.de</span> Germany's Federal Court of Justice referred two cases to the CJEU on how far the GDPR household exemption reaches when private chats or home CCTV go to employers or police.
-
-## 16 September 2026
-
-### [Poland's platform work law could reach far beyond couriers and drivers](https://ceo.com.pl/en/poland-platform-work-law-couriers-freelancers-digital-platforms-90034/)
-
-<span class="news-item__source">ceo.com.pl</span> Poland's Platform Work Directive bill UC160 drew industry objections that its employment presumption and platform definition could capture IT freelancers and B2B marketplaces.
-
-### [Nyt udkast til AI-hjemmelslov sendt i høring](https://www.datatilsynet.dk/presse-og-nyheder/nyhedsarkiv/2026/sep/nyt-udkast-til-ai-hjemmelslov-sendt-i-hoering)
-
-<span class="news-item__source">datatilsynet.dk</span> Denmark sent a redrafted AI authorisation act to consultation, creating a general data-protection legal basis for public bodies to build and run AI on personal data.

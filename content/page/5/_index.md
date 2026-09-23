@@ -9,7 +9,31 @@ prev = "/page/4/"
 next = "/page/6/"
 +++
 
+## 27 August 2026
+
+### [Poland asks EU to fine Meta €250 million over scam ads](https://www.politico.eu/article/polish-deputy-pm-krzysztof-gawkowski-says-eu-should-fine-meta-250-million-for-financial-scams/)
+
+<span class="news-item__source">politico.eu</span> Poland's digital minister asked the Commission to fine Meta €250m and investigate six DSA breaches over scam ads, citing a 13% removal rate for reported fakes.
+
+## 26 August 2026
+
+### [IA : la CNIL met à jour son outil de traçabilité des modèles publiés en source ouverte](https://www.cnil.fr/fr/ia-la-cnil-met-jour-son-outil-de-tracabilite-des-modeles-publies-en-source-ouverte)
+
+<span class="news-item__source">cnil.fr</span> The CNIL shipped an English version of Genmod, which traces open-weight AI model lineage to show which derived models may have memorised the same personal data.
+
+### [Attorney General James Secures Up to $17.1 Billion and Groundbreaking Reforms from Meta to Protect Children on Social Media](https://ag.ny.gov/press-release/2026/attorney-general-james-secures-171-billion-and-groundbreaking-reforms-meta)
+
+<span class="news-item__source">ag.ny.gov</span> Meta will pay up to $17.1bn to 51 US attorneys general and cap under-18 use at two hours a day, with age verification and opt-out non-algorithmic feeds.
+
 ## 25 August 2026
+
+### [Publication of the decision of the National Bank of Belgium concerning Wise Europe SA pursuant to Article 98/1](https://www.nbb.be/en/financial-supervision-and-resolution/cross-cutting-and-international-aspects/news-and/publication-4)
+
+<span class="news-item__source">nbb.be</span> The NBB publicly named Wise Europe over unremedied anti-money-laundering failings, the first decision published under Belgium's name-and-shame regime.
+
+### [Nigel Farage wants to scrap GDPR for the UK](https://www.politico.eu/article/nigel-farage-wants-to-scrap-gdpr-for-the-uk/)
+
+<span class="news-item__source">politico.eu</span> Reform UK would replace UK GDPR with a light-touch law modelled on New Zealand's Privacy Act, claiming EU adequacy would survive the change.
 
 ### [ANPD multa TikTok em R$ 153,7 milhões por falhas na proteção de dados de crianças e adolescentes](https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-multa-tiktok-em-r-153-7-milhoes-por-falhas-na-protecao-de-dados-de-criancas-e-adolescentes)
 
@@ -80,23 +104,3 @@ next = "/page/6/"
 ### [US states take on Meta in pivotal trial over child social media addiction claims](https://www.theguardian.com/technology/2026/aug/18/meta-child-safety-addiction-lawsuit-states)
 
 <span class="news-item__source">theguardian.com</span> Twenty-nine US states opened a jury trial in Oakland accusing Meta of deliberately designing addictive products for minors; damages could reach $200bn.
-
-### [SEC Proposes New Regulation Crypto Assets](https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets)
-
-<span class="news-item__source">sec.gov</span> The SEC proposed exemptions letting crypto issuers raise up to $5m over four years or $75m a year without registration, preempting state securities law.
-
-### [Piratage du système d'information des impôts : les vérifications sont en cours](https://www.cnil.fr/fr/piratage-du-systeme-dinformation-des-impots-les-verifications-sont-en-cours)
-
-<span class="news-item__source">cnil.fr</span> The CNIL was notified of the DGFiP tax-system breach exposing income, withholding and cadastral data, and may inspect and sanction over security failings.
-
-### [OpenAI announces slowing pace of development after hack by rogue agent](https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack)
-
-<span class="news-item__source">theguardian.com</span> OpenAI paused model testing for two weeks and put major training runs on hold, saying Astra may near its critical cybersecurity threshold.
-
-### [Facial recognition in policing: earning public trust through strong data protection governance](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/08/facial-recognition-in-policing/)
-
-<span class="news-item__source">ico.org.uk</span> The ICO audited five English and Welsh police forces on facial recognition and issued 107 recommendations, finding inconsistent data protection compliance.
-
-### [ChatGPT Ads expands across Europe](https://openai.com/index/chatgpt-ads-expands-across-europe/)
-
-<span class="news-item__source">openai.com</span> ChatGPT Ads reaches 31 European countries next week, shown only to Free and Go users, with OpenAI saying conversations stay private from advertisers.

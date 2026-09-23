@@ -9,6 +9,28 @@ prev = "/page/3/"
 next = "/page/5/"
 +++
 
+## 3 September 2026
+
+### [Provvedimento del 3 settembre 2026 – Banco Bilbao Vizcaya Argentaria, succursale italiana](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10291895)
+
+<span class="news-item__source">garanteprivacy.it</span> Italy's Garante fined BBVA's Italian branch €5.5 million for sending in-app marketing notifications for seven months to a customer who had opted out.
+
+### [Opinion of Advocate General Szpunar in Case C-661/24 Académie Fiscale and Others](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260117en.pdf)
+
+<span class="news-item__source">curia.europa.eu</span> Szpunar found Belgium's retention rules too broad and too reliant on provider discretion, but said blanket retention can pass with strict technical separation.
+
+### [Mark Zuckerberg said a national AI regulator was a flawed idea in a secret call with President Trump](https://www.politico.com/news/2026/09/03/mark-zuckerberg-said-a-national-ai-regulator-was-a-flawed-idea-in-a-secret-call-with-president-trump-01063843)
+
+<span class="news-item__source">politico.com</span> Zuckerberg told Trump a single national AI regulator was flawed; the administration is now weighing a FINRA-style body against an industry-led approach.
+
+### [Judgment of the Court in Case C-798/24 [Jautiva]](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260115en.pdf)
+
+<span class="news-item__source">curia.europa.eu</span> The CJEU held the GDPR bars Latvia's public company register from publishing every shareholder's personal data to anyone without proof of legitimate interest.
+
+### [Investigating Professional Money Laundering, Underground Banking, and the Use of Hawala and Other Similar Service Providers](https://www.fatf-gafi.org/en/publications/Methodsandtrends/pml-underground-banking-hawala-hossps.html)
+
+<span class="news-item__source">fatf-gafi.org</span> FATF published a report on professional money laundering through hawala and underground banking, with investigative techniques and red flags for supervisors.
+
 ## 2 September 2026
 
 ### [Uber drivers launch European class action over 'soulless' and 'scary' AI algorithm](https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm)
@@ -76,29 +98,3 @@ next = "/page/5/"
 ### [Musk's AI company sues its users as victim lawsuits over Grok deepfakes mount](https://www.politico.com/news/2026/08/28/elon-musk-xai-lawsuits-grok-deepfakes-01053817)
 
 <span class="news-item__source">politico.com</span> xAI sued two users criminally charged over Grok-made CSAM, seeking its own legal costs and reputational damages for their breach of X's terms of service.
-
-## 27 August 2026
-
-### [Poland asks EU to fine Meta €250 million over scam ads](https://www.politico.eu/article/polish-deputy-pm-krzysztof-gawkowski-says-eu-should-fine-meta-250-million-for-financial-scams/)
-
-<span class="news-item__source">politico.eu</span> Poland's digital minister asked the Commission to fine Meta €250m and investigate six DSA breaches over scam ads, citing a 13% removal rate for reported fakes.
-
-## 26 August 2026
-
-### [IA : la CNIL met à jour son outil de traçabilité des modèles publiés en source ouverte](https://www.cnil.fr/fr/ia-la-cnil-met-jour-son-outil-de-tracabilite-des-modeles-publies-en-source-ouverte)
-
-<span class="news-item__source">cnil.fr</span> The CNIL shipped an English version of Genmod, which traces open-weight AI model lineage to show which derived models may have memorised the same personal data.
-
-### [Attorney General James Secures Up to $17.1 Billion and Groundbreaking Reforms from Meta to Protect Children on Social Media](https://ag.ny.gov/press-release/2026/attorney-general-james-secures-171-billion-and-groundbreaking-reforms-meta)
-
-<span class="news-item__source">ag.ny.gov</span> Meta will pay up to $17.1bn to 51 US attorneys general and cap under-18 use at two hours a day, with age verification and opt-out non-algorithmic feeds.
-
-## 25 August 2026
-
-### [Publication of the decision of the National Bank of Belgium concerning Wise Europe SA pursuant to Article 98/1](https://www.nbb.be/en/financial-supervision-and-resolution/cross-cutting-and-international-aspects/news-and/publication-4)
-
-<span class="news-item__source">nbb.be</span> The NBB publicly named Wise Europe over unremedied anti-money-laundering failings, the first decision published under Belgium's name-and-shame regime.
-
-### [Nigel Farage wants to scrap GDPR for the UK](https://www.politico.eu/article/nigel-farage-wants-to-scrap-gdpr-for-the-uk/)
-
-<span class="news-item__source">politico.eu</span> Reform UK would replace UK GDPR with a light-touch law modelled on New Zealand's Privacy Act, claiming EU adequacy would survive the change.

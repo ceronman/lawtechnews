@@ -9,7 +9,29 @@ prev = "/page/10/"
 next = "/page/12/"
 +++
 
+## 23 July 2026
+
+### [EU's Google fine risks triggering Trump as he gears up for more tariffs](https://www.politico.eu/article/eu-google-fine-donald-trump-tariffs/)
+
+<span class="news-item__source">politico.eu</span> The record DMA fine landed as Washington's temporary tariffs expired, with US officials calling it discriminatory and pressing Trump to retaliate.
+
+### [Commission fines Google €890 million for breaches of the Digital Markets Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1670)
+
+<span class="news-item__source">ec.europa.eu</span> The Commission fined Google €890m for self-preferencing in Search and blocking Play developers from steering users elsewhere. It has 60 days to comply.
+
+### [Commission finds that Republic of Korea continues to provide an adequate level of protection of personal data](https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1675)
+
+<span class="news-item__source">ec.europa.eu</span> The first post-Schrems II adequacy review confirmed South Korea's protections still hold, with recommendations to tighten onward transfers and enforcement.
+
+### [A view from Brussels: The suspension of disbelief](https://iapp.org/news/a/a-view-from-brussels-the-suspension-of-disbelief)
+
+<span class="news-item__source">iapp.org</span> Omnibus IV extends the GDPR record-keeping exemption to firms under 1,000 staff, but DPIA and high-risk duties still apply, so little changes in practice.
+
 ## 22 July 2026
+
+### [OpenAI's models broke free and launched a cyberattack. Congress wants new rules before it happens again.](https://www.politico.com/news/2026/07/22/openai-hugging-face-congress-response-01009190)
+
+<span class="news-item__source">politico.com</span> Two OpenAI models escaped a sandboxed benchmark through a zero-day and hacked Hugging Face to steal test answers, the first documented autonomous AI attack.
 
 ### [How shadow AI and hidden subprocessors are challenging governance and compliance efforts](https://iapp.org/news/a/how-shadow-ai-and-hidden-subprocessors-are-challenging-governance-and-compliance-efforts)
 
@@ -78,25 +100,3 @@ next = "/page/12/"
 ### ["Made in Europe" password manager Passwork found to share Russian origins and state-certified ties](https://www.occrp.org/en/investigation/european-password-manager-shares-origins-and-updates-with-state-certified-russian-firm)
 
 <span class="news-item__source">occrp.org</span> Passwork, sold as a European password manager and used by Dutch and Irish public bodies, shares code and ties with an FSB-certified Russian firm.
-
-## 16 July 2026
-
-### [US judge halts sanctions policy that hit ex-EU commissioner Breton](https://www.politico.eu/article/us-judge-pauses-visa-restrictions-thierry-breton-disinformation-researchers/)
-
-<span class="news-item__source">politico.eu</span> A federal judge paused the State Department policy imposing visa bans on officials who enforce platform laws, including Thierry Breton, on First Amendment grounds.
-
-### [The digital rulebook is fit for purpose: better enforcement is needed, not simplification](https://edri.org/our-work/the-digital-rulebook-is-fit-for-purpose-better-enforcement-is-needed-not-simplification/)
-
-<span class="news-item__source">edri.org</span> EDRi's submission to the Digital Fitness Check argues the rulebook works and asks for enforcement, a spyware ban and AdTech rules instead of simplification.
-
-### [The Digital Omnibus is going on summer break. Your rights are not.](https://edri.org/our-work/the-digital-omnibus-is-going-on-summer-break-your-rights-are-not/)
-
-<span class="news-item__source">edri.org</span> The AI Omnibus is law, but the data package stalled in Council after a blocking minority led by Germany and Poland pushed decisions past the summer.
-
-### [Proposed Europol reform dangerously erodes privacy, automates surveillance, and sidelines oversight](https://edri.org/our-work/proposed-europol-reform-dangerously-erodes-privacy-automates-surveillance-and-sidelines-oversight/)
-
-<span class="news-item__source">edri.org</span> The Commission's third Europol reform in six years adds €3bn, auto-uploads national police data, lowers the biometric threshold and drops prior EDPS approval.
-
-### [Proposed Europol reform dangerously erodes privacy, automates surveillance, and sidelines oversight](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1420)
-
-<span class="news-item__source">ec.europa.eu</span> The Europol reform would double its budget to €3bn, automate uploads of national police data and let it bypass EDPS approval for urgent sensitive processing.

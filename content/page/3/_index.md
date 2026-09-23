@@ -11,6 +11,26 @@ next = "/page/4/"
 
 ## 10 September 2026
 
+### [Sentenza su rider Glovo: da assumere a tempo pieno e indeterminato. "Pagare anche le attese"](https://www.rainews.it/tgr/piemonte/articoli/2026/09/tribunale-torino-rider-nuova-sentenza-lavoratore-da-assumere-a-tempo-pieno-indeterminato-pagare-anche-le-attese-952000e2-f48a-4cd5-b4ba-2e506a54b065.html)
+
+<span class="news-item__source">rainews.it</span> The Turin labour court ordered Glovo to hire a rider on a permanent full-time contract, finding algorithmic control created subordination, and to pay waiting time between orders.
+
+### [SCHUFA insists on shadow database. noyb lawsuit now certain](https://noyb.eu/en/schufa-insists-shadow-database-noyb-lawsuit-now-certain)
+
+<span class="news-item__source">noyb.eu</span> SCHUFA rejected noyb's cease-and-desist over its shadow database, so noyb will file for an injunction and is collecting sign-ups for a possible class action.
+
+### [Open Letter: Civil society coalition urges EU to kill the cookie banner!](https://noyb.eu/en/open-letter-civil-society-coalition-urges-eu-kill-cookie-banner)
+
+<span class="news-item__source">noyb.eu</span> Nineteen civil society groups, businesses and academics urged EU lawmakers to keep Article 88b of the Digital Omnibus after the Council dropped binding automated privacy signals.
+
+### [Governor Newsom signs the strongest child safety chatbot and social media laws in the nation](https://www.gov.ca.gov/2026/09/10/governor-newsom-signs-the-strongest-child-safety-chatbot-and-social-media-laws-in-the-nation/)
+
+<span class="news-item__source">gov.ca.gov</span> California enacted 13 bills, including Adam's Law requiring independent child safety audits of companion chatbots and a ban on addictive feeds for under-16s.
+
+### [EU watchdog probes von der Leyen's AI envoy pick](https://www.politico.eu/article/eu-ombudsman-ursula-von-der-leyen-ai-envoy-jim-hagemann-snabe/)
+
+<span class="news-item__source">politico.eu</span> The European Ombudsman opened an inquiry into the Commission's appointment of Siemens chairman Jim Hagemann Snabe as special envoy for industrial AI.
+
 ### [Detecting and countering misuse of AI: September 2026](https://www.anthropic.com/threat-intelligence-report-september-2026)
 
 <span class="news-item__source">anthropic.com</span> Anthropic detailed misuse of Claude it disrupted between December 2025 and August 2026 across seven harm areas, including cyber operations, surveillance and biological misuse.
@@ -82,23 +102,3 @@ next = "/page/4/"
 ### [Violation de données en matière de santé : sanction de 500 000 euros à l'encontre de l'HÔPITAL PRIVÉ DE LA LOIRE](https://www.cnil.fr/fr/sanction-hopital-prive-loire)
 
 <span class="news-item__source">cnil.fr</span> The CNIL fined Hôpital Privé de la Loire €500,000 after an attacker reached 524,867 patients' records via an external account with no VPN, MFA or access limits.
-
-### [Provvedimento del 3 settembre 2026 – Banco Bilbao Vizcaya Argentaria, succursale italiana](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10291895)
-
-<span class="news-item__source">garanteprivacy.it</span> Italy's Garante fined BBVA's Italian branch €5.5 million for sending in-app marketing notifications for seven months to a customer who had opted out.
-
-### [Opinion of Advocate General Szpunar in Case C-661/24 Académie Fiscale and Others](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260117en.pdf)
-
-<span class="news-item__source">curia.europa.eu</span> Szpunar found Belgium's retention rules too broad and too reliant on provider discretion, but said blanket retention can pass with strict technical separation.
-
-### [Mark Zuckerberg said a national AI regulator was a flawed idea in a secret call with President Trump](https://www.politico.com/news/2026/09/03/mark-zuckerberg-said-a-national-ai-regulator-was-a-flawed-idea-in-a-secret-call-with-president-trump-01063843)
-
-<span class="news-item__source">politico.com</span> Zuckerberg told Trump a single national AI regulator was flawed; the administration is now weighing a FINRA-style body against an industry-led approach.
-
-### [Judgment of the Court in Case C-798/24 [Jautiva]](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260115en.pdf)
-
-<span class="news-item__source">curia.europa.eu</span> The CJEU held the GDPR bars Latvia's public company register from publishing every shareholder's personal data to anyone without proof of legitimate interest.
-
-### [Investigating Professional Money Laundering, Underground Banking, and the Use of Hawala and Other Similar Service Providers](https://www.fatf-gafi.org/en/publications/Methodsandtrends/pml-underground-banking-hawala-hossps.html)
-
-<span class="news-item__source">fatf-gafi.org</span> FATF published a report on professional money laundering through hawala and underground banking, with investigative techniques and red flags for supervisors.

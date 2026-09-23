@@ -11,6 +11,26 @@ next = "/page/7/"
 
 ## 18 August 2026
 
+### [SEC Proposes New Regulation Crypto Assets](https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets)
+
+<span class="news-item__source">sec.gov</span> The SEC proposed exemptions letting crypto issuers raise up to $5m over four years or $75m a year without registration, preempting state securities law.
+
+### [Piratage du système d'information des impôts : les vérifications sont en cours](https://www.cnil.fr/fr/piratage-du-systeme-dinformation-des-impots-les-verifications-sont-en-cours)
+
+<span class="news-item__source">cnil.fr</span> The CNIL was notified of the DGFiP tax-system breach exposing income, withholding and cadastral data, and may inspect and sanction over security failings.
+
+### [OpenAI announces slowing pace of development after hack by rogue agent](https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack)
+
+<span class="news-item__source">theguardian.com</span> OpenAI paused model testing for two weeks and put major training runs on hold, saying Astra may near its critical cybersecurity threshold.
+
+### [Facial recognition in policing: earning public trust through strong data protection governance](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/08/facial-recognition-in-policing/)
+
+<span class="news-item__source">ico.org.uk</span> The ICO audited five English and Welsh police forces on facial recognition and issued 107 recommendations, finding inconsistent data protection compliance.
+
+### [ChatGPT Ads expands across Europe](https://openai.com/index/chatgpt-ads-expands-across-europe/)
+
+<span class="news-item__source">openai.com</span> ChatGPT Ads reaches 31 European countries next week, shown only to Free and Go users, with OpenAI saying conversations stay private from advertisers.
+
 ### [Changes for apps in the European Union](https://developer.apple.com/news/?id=gmws0jgp)
 
 <span class="news-item__source">developer.apple.com</span> Apple will move all EU developers to a single set of business terms on 1 October, replacing the per-install Core Technology Fee with a flat 5% commission.
@@ -78,25 +98,3 @@ next = "/page/7/"
 ### [Hacking group claims mass data theft from Shell, Philips, GE, Fiserv and dozens of others](https://www.reuters.com/legal/government/philips-shell-targeted-by-hacking-group-2026-08-13/)
 
 <span class="news-item__source">reuters.com</span> Cl0p claimed data theft from nearly 50 firms via PTC Windchill flaws; Philips confirmed a contained server compromise and Shell a possible incident.
-
-### [German privacy watchdog urges EU to scrap cookie banners](https://www.euractiv.com/news/german-privacy-watchdog-urges-eu-to-scrap-cookie-banners/)
-
-<span class="news-item__source">euractiv.com</span> Germany's federal data protection commissioner asked the EU to replace cookie banners with central cookie managers, after 75% of surveyed users said they would deny all.
-
-### [EDPS Opinion 18/2026 on the Proposal for a Regulation on Europol repealing Regulation (EU) 2016/794](https://www.edps.europa.eu/data-protection/our-work/publications/opinions/2026-08-11-edps-opinion-182026-regulation-europol-repealing-regulation-eu-2016794)
-
-<span class="news-item__source">edps.europa.eu</span> The EDPS said the Commission's Europol reform creates serious risks by letting the agency hold data on vast numbers of people with no criminal links for an unspecified period.
-
-### [Brazil's Data Protection Agency Faces Landmark Test on Kids and Facial Recognition](https://www.techpolicy.press/brazils-data-protection-agency-faces-landmark-test-on-kids-and-facial-recognition/)
-
-<span class="news-item__source">techpolicy.press</span> Brazil's ANPD ordered the immediate suspension of biometric processing of schoolchildren in Parana, where facial recognition tracked attendance tied to welfare eligibility.
-
-### [AI agents aren't legally responsible for any harm that they cause, experts say. So who is?](https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is)
-
-<span class="news-item__source">theguardian.com</span> After Australia's first reported agentic AI hacking incident, legal experts said deployers bear liability for their bots, with developers exposed where guardrails are inadequate.
-
-## 12 August 2026
-
-### [Twitch Is Now Using Your Content To Train Amazon AI Models And Has Hidden The Option To Opt Out](https://kotaku.com/twitch-is-now-using-your-content-to-train-amazon-ai-models-and-has-hidden-the-option-to-opt-out-2000723891)
-
-<span class="news-item__source">kotaku.com</span> Twitch turned on generative-AI training of streamer content by default with a buried opt-out; its product chief said nobody would have opted in.
