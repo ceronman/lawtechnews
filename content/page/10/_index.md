@@ -9,6 +9,28 @@ prev = "/page/9/"
 next = "/page/11/"
 +++
 
+## 30 July 2026
+
+### [The EDPB's draft anonymization guidelines: What they mean for your data strategy](https://iapp.org/news/a/the-edpb-s-draft-anonymization-guidelines-what-they-mean-for-your-data-strategy)
+
+<span class="news-item__source">iapp.org</span> Draft Guidelines 02/2026 update the EU's anonymisation test after the CJEU held that pseudonymised data is not personal data for every recipient.
+
+### [Notes from the IAPP Europe: DSA and DMA enforcement, return of CSAM detection](https://iapp.org/news/a/notes-from-the-iapp-europe-dsa-and-dma-enforcement-return-of-csam-detection)
+
+<span class="news-item__source">iapp.org</span> July's enforcement round-up: the CJEU upheld Apple's gatekeeper designation, while DSA cases against X, TikTok and Meta all moved forward.
+
+### [EU launches AI Gigafactories call to boost Europe's computing capacity and unlock more than €30 billion in investment](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1708)
+
+<span class="news-item__source">ec.europa.eu</span> The Commission opened tenders for up to seven AI Gigafactories, offering €10bn in public funding and expecting €20bn more from private investors.
+
+### [Can AI Agents Be Aligned with Human Rights?](https://www.techpolicy.press/can-ai-agents-be-aligned-with-human-rights/)
+
+<span class="news-item__source">techpolicy.press</span> DeepMind researchers propose training models against the Universal Declaration of Human Rights, testing the taxonomy on 100 simulated agent failures.
+
+### [Brussels Gains New AI Act Enforcement Powers as Autonomous AI Tests Regulators](https://www.techpolicy.press/-brussels-gains-new-ai-act-enforcement-powers-as-autonomous-ai-tests-regulators/)
+
+<span class="news-item__source">techpolicy.press</span> The Commission can now investigate general-purpose model providers and fine them up to €15m or 3% of global turnover; the AI Office is staffed at 145.
+
 ## 29 July 2026
 
 ### [What X's Corrected Action Under the DSA Fixes on Data Access, and What's Left Open](https://www.techpolicy.press/what-xs-corrected-action-under-the-dsa-fixes-on-data-access-and-whats-left-open/)
@@ -76,29 +98,3 @@ next = "/page/11/"
 ### [US prosecutors charge Atlanta man after GrapheneOS phone wipes itself during airport search](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
 
 <span class="news-item__source">techspot.com</span> US prosecutors charged an Atlanta man with destroying property after his GrapheneOS phone wiped itself during a warrantless airport search.
-
-## 25 July 2026
-
-### [Trump says US to launch EU probe over 'illegal' Google fine](https://www.reuters.com/business/trump-says-us-launch-eu-probe-over-illegal-google-fine-2026-07-24/)
-
-<span class="news-item__source">reuters.com</span> Trump said the US will open a Section 301 trade investigation into the EU over the €890m Google fine, warning the bloc will 'pay a very big price'.
-
-## 24 July 2026
-
-### [EU telcos ask: Huawei going to afford to replace Chinese equipment?](https://www.theregister.com/networks/2026/07/24/eu-telcos-ask-huawei-going-to-afford-to-replace-chinese-equipment/5278122)
-
-<span class="news-item__source">theregister.com</span> Replacing Huawei and ZTE kit under the proposed Cybersecurity Act 2 would cost EU operators €30-40bn within a three-year compliance window.
-
-### [Digital Omnibus on AI — Regulation (EU) 2026/1744 — published in the Official Journal](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601744)
-
-<span class="news-item__source">eur-lex.europa.eu</span> Regulation (EU) 2026/1744 was published in the Official Journal and enters into force on 27 July, making the AI Act's delayed deadlines binding law.
-
-### [Commission preliminarily finds TikTok in breach of Digital Services Act for failing to ensure safe accounts for minors](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1679)
-
-<span class="news-item__source">ec.europa.eu</span> TikTok received preliminary DSA findings over minors' accounts defaulting to public and weak age assurance. A final decision could cost 6% of turnover.
-
-## 23 July 2026
-
-### [Fighting child sexual abuse online: interim measure protecting children now reinstated](https://www.consilium.europa.eu/en/press/press-releases/2026/07/23/fighting-child-sexual-abuse-online-interim-measure-protecting-children-now-reinstated/)
-
-<span class="news-item__source">consilium.europa.eu</span> The Council approved the renewed interim regulation letting providers voluntarily scan for child sexual abuse material, running until 3 April 2028.

@@ -9,7 +9,31 @@ prev = "/page/12/"
 next = ""
 +++
 
+## 10 July 2026
+
+### [Commission preliminarily finds the addictive design of Instagram and Facebook in breach of the DSA](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1579)
+
+<span class="news-item__source">ec.europa.eu</span> The Commission preliminarily found Instagram and Facebook breach the DSA through infinite scroll, autoplay and recommender design that hooks minors.
+
+## 9 July 2026
+
+### [Italian DPA fines Character.AI €158,000 over transparency, late DPIA and inadequate protection of minors](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10269571)
+
+<span class="news-item__source">garanteprivacy.it</span> Italy's Garante fined Character.AI €158,000 over unclear transparency, a late impact assessment and weak safeguards for minors.
+
+### [Combating child sexual abuse online: support for more limited ePrivacy derogation](https://www.europarl.europa.eu/news/en/press-room/20260706IPR46318/combating-child-sexual-abuse-support-for-a-more-limited-eprivacy-derogation)
+
+<span class="news-item__source">europarl.europa.eu</span> Parliament let the ePrivacy derogation for voluntary CSAM scanning run to April 2028, adding an amendment to exclude end-to-end encrypted messages.
+
 ## 8 July 2026
+
+### [EU General Court dismisses Apple's challenge to its gatekeeper designation under the DMA](https://curia.europa.eu/site/upload/docs/application/pdf/2026-07/cp260096en.pdf)
+
+<span class="news-item__source">curia.europa.eu</span> The General Court dismissed Apple's challenge to its DMA gatekeeper designation, confirming that its App Store versions count as a single platform service.
+
+### [EDPB sheds light on anonymisation and web scraping for generative AI and adopts final version of guidelines on blockchain](https://www.edpb.europa.eu/news/edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-and-adopts-final-version_en)
+
+<span class="news-item__source">edpb.europa.eu</span> New draft guidelines set a three-part test for anonymous data and address web scraping for generative AI training; the blockchain guidelines were finalised.
 
 ### [AMLA introduces a common EU approach to enforcing anti-money laundering rules](https://www.amla.europa.eu/press-release-amla-introduces-common-eu-approach-enforcing-anti-money-laundering-rules_en)
 

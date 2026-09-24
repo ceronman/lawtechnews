@@ -9,7 +9,31 @@ prev = "/page/5/"
 next = "/page/7/"
 +++
 
+## 20 August 2026
+
+### [AP advises Twitch users: opt out from sharing data with Amazon AI](https://www.autoriteitpersoonsgegevens.nl/en/current/ap-advises-twitch-users-opt-out-from-sharing-data-with-amazon-ai)
+
+<span class="news-item__source">autoriteitpersoonsgegevens.nl</span> The Dutch DPA urged Twitch users to disable the default-on setting letting Amazon train AI on their streams, faces, voices and chats.
+
+## 19 August 2026
+
+### [Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits](https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination)
+
+<span class="news-item__source">theguardian.com</span> A class action argues Eightfold AI's 0-5 applicant scores are undisclosed consumer reports; parallel suits accuse IBM of age bias and Meta of targeting leave-takers.
+
+### [Offering Zero Data Retention for frontier models](https://openai.com/index/offering-zero-data-retention-for-frontier-models/)
+
+<span class="news-item__source">openai.com</span> OpenAI previewed Private Safety Processing, spotting misuse patterns across interactions without staff access to content; rollout and a white paper due in September.
+
+### [FTC Seeks Comment on Enforcement Policy Statement Regarding Personalized Pricing](https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-seeks-comment-enforcement-policy-statement-regarding-personalized-pricing)
+
+<span class="news-item__source">ftc.gov</span> The FTC voted 2-0 to propose treating undisclosed use of personal data to set individual prices as a deceptive practice, opening a 30-day comment period.
+
 ## 18 August 2026
+
+### [US states take on Meta in pivotal trial over child social media addiction claims](https://www.theguardian.com/technology/2026/aug/18/meta-child-safety-addiction-lawsuit-states)
+
+<span class="news-item__source">theguardian.com</span> Twenty-nine US states opened a jury trial in Oakland accusing Meta of deliberately designing addictive products for minors; damages could reach $200bn.
 
 ### [SEC Proposes New Regulation Crypto Assets](https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets)
 
@@ -76,25 +100,3 @@ next = "/page/7/"
 ### [FTC probes health records giant Epic Systems, sources say](https://www.reuters.com/world/us-ftc-probing-health-records-company-epic-systems-2026-08-14/)
 
 <span class="news-item__source">reuters.com</span> The FTC opened an antitrust probe into whether Epic Systems withholds access to health records data; its platforms hold records on over 300 million patients.
-
-### [French taxpayers' data stolen in cyber attack, French Finance Ministry says](https://www.reuters.com/legal/litigation/french-taxpayers-data-stolen-cyber-attack-french-finance-ministry-says-2026-08-14/)
-
-<span class="news-item__source">reuters.com</span> France's Finance Ministry confirmed an intruder extracted data on 678,000 taxpayers from the DGFiP in late June; those affected will be notified individually.
-
-### [Décision n° 2026-911 DC du 14 août 2026 — Loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux](https://www.conseil-constitutionnel.fr/decision/2026/2026911DC.htm)
-
-<span class="news-item__source">conseil-constitutionnel.fr</span> France's Constitutional Council struck down the under-15 social media ban as a disproportionate curb on minors' freedom of expression, blocking its September start.
-
-### [Brazil Suspends Discord's Livestreams in First Enforcement Test of Child Protection Law](https://www.techpolicy.press/brazil-suspends-discords-livestreams-in-first-enforcement-test-of-child-protection-law/)
-
-<span class="news-item__source">techpolicy.press</span> Brazil's ANPD gave Discord three business days to suspend livestreaming after a 13-year-old died on air, the first enforcement of the ECA Digital law.
-
-## 13 August 2026
-
-### [Hiding your use of AI is about to get much harder — thanks to Brussels](https://www.politico.eu/article/artificial-intelligence-ai-watermark-big-tech/)
-
-<span class="news-item__source">politico.eu</span> AI Act transparency duties applying since 2 August force marking of AI output; Anthropic said every Claude model released after that date embeds invisible text watermarks.
-
-### [Hacking group claims mass data theft from Shell, Philips, GE, Fiserv and dozens of others](https://www.reuters.com/legal/government/philips-shell-targeted-by-hacking-group-2026-08-13/)
-
-<span class="news-item__source">reuters.com</span> Cl0p claimed data theft from nearly 50 firms via PTC Windchill flaws; Philips confirmed a contained server compromise and Shell a possible incident.
