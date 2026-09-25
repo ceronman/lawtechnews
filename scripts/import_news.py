@@ -8,10 +8,15 @@ The tracker writes entries shaped like:
 
     Summary paragraph...
 
+    **Discussions:** [Reddit](https://reddit.com/...) | [Hacker News](https://news.ycombinator.com/...)
+
     ---
 
-This script keeps the headline, link, date and summary, and drops the
-rating entirely -- ratings must never reach the published site.
+The Discussions line is optional -- it is only present when the tracker
+found a matching thread on a news aggregator (Reddit, Hacker News,
+Lobsters, or similar) for that specific story. This script keeps the
+headline, link, date, summary and discussion links, and drops the rating
+entirely -- ratings must never reach the published site.
 
 Output is paginated at PER_PAGE stories per page:
 
@@ -33,7 +38,6 @@ from __future__ import annotations
 
 import json
 import re
-import shutil
 import sys
 from datetime import date
 from pathlib import Path
@@ -55,6 +59,8 @@ META = re.compile(
     r"(?:\s*\|\s*\*\*Rank:\*\*\s*\d+/\d+)?\s*$"
 )
 RATING_LEAK = re.compile(r"\*\*Rank:\*\*|\bRank:\s*\d|\b\d/5\b")
+DISCUSSIONS = re.compile(r"^\*\*Discussions:\*\*\s*(?P<rest>.+)$")
+DISCUSSION_LINK = re.compile(r"\[(?P<label>[^\]]+)\]\((?P<url>[^)]+)\)")
 
 
 def parse(text: str) -> list[dict]:
@@ -72,6 +78,7 @@ def parse(text: str) -> list[dict]:
             "url": heading["url"].strip(),
             "date": None,
             "summary": "",
+            "discussions": [],
         }
         i += 1
 
@@ -81,15 +88,25 @@ def parse(text: str) -> list[dict]:
             i += 1
 
         body: list[str] = []
+        discussions: list[dict] = []
         while i < len(lines) and not lines[i].startswith("## "):
             line = lines[i]
             if line.strip() == "---":
                 i += 1
                 break
+            disc_match = DISCUSSIONS.match(line.strip())
+            if disc_match:
+                discussions = [
+                    {"label": m["label"].strip(), "url": m["url"].strip()}
+                    for m in DISCUSSION_LINK.finditer(disc_match["rest"])
+                ]
+                i += 1
+                continue
             body.append(line)
             i += 1
 
         item["summary"] = " ".join(b.strip() for b in body if b.strip())
+        item["discussions"] = discussions
         items.append(item)
 
     return items
@@ -109,6 +126,30 @@ def toml_str(value: str) -> str:
     return json.dumps(value)
 
 
+DISCUSSION_SHORT_LABELS = {
+    "hacker news": "hn",
+    "hn": "hn",
+    "reddit": "reddit",
+    "lobsters": "lobsters",
+    "lobste.rs": "lobsters",
+}
+
+
+def discussion_short_label(label: str) -> str:
+    return DISCUSSION_SHORT_LABELS.get(label.strip().lower(), label.strip().lower())
+
+
+def render_discussions(discussions: list[dict]) -> str:
+    """Inline HTML for a story's discussion links, appended after its summary."""
+    if not discussions:
+        return ""
+    links = " ".join(
+        f'<a href="{d["url"]}">[discussion on {discussion_short_label(d["label"])}]</a>'
+        for d in discussions
+    )
+    return f' <span class="news-item__discussions">{links}</span>'
+
+
 def render_items(items: list[dict]) -> list[str]:
     """Markdown for one page's worth of stories, grouped by date."""
     out: list[str] = []
@@ -121,7 +162,8 @@ def render_items(items: list[dict]) -> list[str]:
             f'### [{item["title"]}]({item["url"]})',
             "",
             f'<span class="news-item__source">{source_label(item["url"])}</span> '
-            f'{item["summary"]}',
+            f'{item["summary"]}'
+            f'{render_discussions(item["discussions"])}',
             "",
         ]
     return out
@@ -198,9 +240,20 @@ def main() -> int:
     chunks = [items[i:i + PER_PAGE] for i in range(0, len(items), PER_PAGE)]
     total_pages = len(chunks)
 
-    # Start from a clean slate so a shorter digest cannot leave stale pages behind.
+    # Overwrite in place rather than deleting first: the digest only ever grows
+    # (news.md entries are appended, never removed), so page count never shrinks
+    # in normal operation, and this avoids needing filesystem delete permission
+    # on every run. If the digest ever *does* shrink, warn instead of silently
+    # leaving stale pages, so a human can clean up content/page/ by hand.
     if PAGES_DIR.exists():
-        shutil.rmtree(PAGES_DIR)
+        stale = sorted(
+            int(p.name) for p in PAGES_DIR.iterdir()
+            if p.is_dir() and p.name.isdigit() and int(p.name) > total_pages
+        )
+        if stale:
+            print(f"warning: {len(stale)} stale page dir(s) beyond page {total_pages} "
+                  f"({stale}) were left in place -- remove content/page/{{{','.join(map(str, stale))}}} "
+                  "by hand if needed", file=sys.stderr)
 
     write(CONTENT / "_index.md",
           render_page(chunks[0], 1, total_pages, len(items), newest))

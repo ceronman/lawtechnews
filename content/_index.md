@@ -14,7 +14,7 @@ next = "/page/2/"
 
 ### [US government seeks to join Elon Musk in challenge against EU's fine on X](https://www.reuters.com/world/us-government-seeks-join-elon-musk-challenge-against-eus-fine-x-2026-09-24/)
 
-<span class="news-item__source">reuters.com</span> The US DOJ asked the EU General Court to back Elon Musk's bid to annul X's €120m DSA fine, calling Brussels' first DSA sanction regulatory overreach.
+<span class="news-item__source">reuters.com</span> The US DOJ asked the EU General Court to back Elon Musk's bid to annul X's €120m DSA fine, calling Brussels' first DSA sanction regulatory overreach. <span class="news-item__discussions"><a href="https://www.reddit.com/r/worldnews/comments/1wpra3v/us_seeks_to_join_elon_musk_in_eu_court_fight_over/">[discussion on reddit]</a></span>
 
 ### [Simplification for whom? Open letter to EU Member States to uphold GDPR protections in Digital Omnibus on Data](https://edri.org/our-work/simplification-for-whom-open-letter-uphold-gdpr-protections-in-data-omnibus/)
 
@@ -58,7 +58,7 @@ next = "/page/2/"
 
 ### [Sanktionsavgift mot Miljödata för bristande säkerhet](https://www.imy.se/nyheter/sanktionsavgift-mot-miljodata-for-bristande-sakerhet/)
 
-<span class="news-item__source">imy.se</span> Sweden's IMY fined IT vendor Miljödata SEK 1.8m under GDPR Article 32 after a 2025 breach exposed sensitive data of 2.2 million people via unmonitored systems.
+<span class="news-item__source">imy.se</span> Sweden's IMY fined IT vendor Miljödata SEK 1.8m under GDPR Article 32 after a 2025 breach exposed sensitive data of 2.2 million people via unmonitored systems. <span class="news-item__discussions"><a href="https://www.reddit.com/r/pwnhub/comments/1wnv1p4/sweden_fines_miljoumldata_183000_over_breach/">[discussion on reddit]</a></span>
 
 ### [ECB flags AML gap for stablecoin issuers lacking financial licence](https://www.amlintelligence.com/2026/09/news-ecb-flags-aml-gap-for-stablecoin-issuers-lacking-financial-licence/)
 

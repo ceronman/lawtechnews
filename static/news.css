@@ -74,6 +74,23 @@
   line-height: 1.6;
 }
 
+/* Discussion links (Reddit, Hacker News, Lobsters, ...) appended after a
+   story's summary, when the tracker found a matching thread. */
+.news-item__discussions {
+  margin-left: 0.4rem;
+  white-space: nowrap;
+}
+
+.news-item__discussions a {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: lab(56% 0 0);
+}
+
+.news-item__discussions a:hover {
+  color: lab(33% 0 -80);
+}
+
 /* Newer / Older navigation */
 .news-pagination {
   margin-top: 4.8rem;
