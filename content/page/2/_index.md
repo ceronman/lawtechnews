@@ -9,7 +9,29 @@ prev = "/"
 next = "/page/3/"
 +++
 
+## 20 September 2026
+
+### [US employers use software to punish workers at sixteen times the European rate. The gap is the law.](https://thenextweb.com/news/oecd-algorithmic-management-sanction-gap-ai-act-blind-spot)
+
+<span class="news-item__source">thenextweb.com</span> OECD survey of 6,047 firms found 67% of US employers use software to sanction workers vs 4% in Europe; most tools aren't AI and fall outside the AI Act's scope.
+
 ## 18 September 2026
+
+### [Most EU countries late on pay transparency rules](https://www.euractiv.com/news/eu-countries-more-than-100-days-late-on-pay-transparency-rules/)
+
+<span class="news-item__source">euractiv.com</span> Twenty-two member states have missed the Pay Transparency Directive deadline by over three months; six have published no legislative text at all.
+
+### [Lavoro su piattaforme digitali: Cisl audita sul decreto](https://www.cisl.it/recepimento-direttiva-lavoro-piattaforme-cisl/)
+
+<span class="news-item__source">cisl.it</span> Italy's draft decree transposing the Platform Work Directive reached parliamentary hearings, with unions filing amendments ahead of the 2 December deadline.
+
+### [La AEPD multa con 200.000 euros a una empresa por controlar a trabajadores desde su móvil personal](https://talent24h.okdiario.com/la-aepd-multa-con-200-000-euros-a-una-empresa-por-controlar-a-trabajadores-desde-su-movil-personal/)
+
+<span class="news-item__source">talent24h.okdiario.com</span> Spain's AEPD fined Ares Capital €200,000 after a VTC driver had to install four work apps on his own phone, citing excessive data and no valid legal basis.
+
+### [Governor Newsom issues executive order to accelerate independent oversight and advance the creation of an AI kill switch](https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/)
+
+<span class="news-item__source">gov.ca.gov</span> California ordered an expert panel to report within two months on a verifiable kill switch for frontier AI models and independent third-party safety audits.
 
 ### [France probes misuse of smart glasses in sexual harassment cases](https://www.reuters.com/technology/french-prosecutors-regulators-step-up-scrutiny-smart-glasses-2026-09-18/)
 
@@ -76,25 +98,3 @@ next = "/page/3/"
 ### [Commission proposes ambitious measures to strengthen fair labour mobility](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1851)
 
 <span class="news-item__source">ec.europa.eu</span> The Commission adopted the Fair Labour Mobility package: a European Social Security Pass, digital qualifications in the EU Identity Wallet, and a strengthened Labour Authority.
-
-### [Anti-money laundering and asset recovery strategy: 2026 to 2029](https://www.gov.uk/government/publications/anti-money-laundering-and-asset-recovery-strategy-2026-to-2029)
-
-<span class="news-item__source">gov.uk</span> The Home Office set the UK's three-year AML direction, cutting supervisors from 25 to three and moving legal and accountancy firms to the FCA from late 2028.
-
-## 14 September 2026
-
-### [Wide-ranging AI Bill needed to address severe human rights risks posed by AI](https://committees.parliament.uk/committee/93/human-rights-joint-committee/news/217859/wideranging-ai-bill-needed-to-address-severe-human-rights-risks-posed-by-ai/)
-
-<span class="news-item__source">committees.parliament.uk</span> The UK Joint Committee on Human Rights called for a risk-tiered AI Bill covering the whole supply chain, outright bans on some uses, and a single statutory AI regulator.
-
-### [Primera notificación de una brecha de datos personales causada por un ataque ejecutado mediante un agente de IA](https://www.aepd.es/prensa-y-comunicacion/blog/primera-notiviacion-brecha-datos-personales-causada-por-ataque-ejecutado-mediante-agente-ia)
-
-<span class="news-item__source">aepd.es</span> The AEPD logged Spain's first breach caused by an AI agent, which autonomously probed for vulnerabilities, logged in, altered personal data and reached invoices.
-
-### [Open letter from European civil society organisations on encryption and privacy threats in Canada's Bill C-22](https://www.accessnow.org/press-release/encryption-and-privacy-threats-in-canadas-bill-c-22/)
-
-<span class="news-item__source">accessnow.org</span> Sixteen European digital rights groups asked the Commission to review Canada's GDPR adequacy over Bill C-22's secret capability orders and blanket metadata retention.
-
-### [Hungary moves to amend controversial child protection law after EU court ruling](https://www.euronews.com/my-europe/2026/09/14/hungary-moves-to-amend-controversial-child-protection-law-after-eu-court-ruling)
-
-<span class="news-item__source">euronews.com</span> Hungary tabled amendments stripping the 2021 child protection law of its restrictions on depicting homosexuality to minors, hoping to unlock €500 million in EU education funds.

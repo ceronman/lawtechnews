@@ -8,7 +8,25 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">253 stories on European law, technology regulation and digital rights, latest from 23 September 2026. Every headline links to the original source.</p>
+<p class="news-intro">258 stories on European law, technology regulation and digital rights, latest from 24 September 2026. Every headline links to the original source.</p>
+
+## 24 September 2026
+
+### [US government seeks to join Elon Musk in challenge against EU's fine on X](https://www.reuters.com/world/us-government-seeks-join-elon-musk-challenge-against-eus-fine-x-2026-09-24/)
+
+<span class="news-item__source">reuters.com</span> The US DOJ asked the EU General Court to back Elon Musk's bid to annul X's €120m DSA fine, calling Brussels' first DSA sanction regulatory overreach.
+
+### [Simplification for whom? Open letter to EU Member States to uphold GDPR protections in Digital Omnibus on Data](https://edri.org/our-work/simplification-for-whom-open-letter-uphold-gdpr-protections-in-data-omnibus/)
+
+<span class="news-item__source">edri.org</span> EDRi urged EU states to reject Council Digital Omnibus text that lets pseudonymised data escape GDPR and adds AI as grounds for 'legitimate interest' processing.
+
+### [First draft of the Polish Platform Work Act](https://knowledge.dlapiper.com/dlapiperknowledge/globalemploymentlatestdevelopments/2026/first-draft-of-the-polish-platform-work-act)
+
+<span class="news-item__source">knowledge.dlapiper.com</span> Poland published a draft law transposing the Platform Work Directive, creating a rebuttable employment presumption and fines up to €20m for banned algorithmic data use.
+
+### [Finnish unions seek review of Wolt employment oversight](https://www.helsinkitimes.fi/finland/finland-news/domestic/29313-finnish-unions-seek-review-of-wolt-employment-oversight.html)
+
+<span class="news-item__source">helsinkitimes.fi</span> Two Finnish unions asked the Parliamentary Ombudsman to probe why labour inspectors have not acted since courts ruled Wolt couriers meet employee criteria.
 
 ## 23 September 2026
 
@@ -37,6 +55,10 @@ next = "/page/2/"
 ### [When the algorithm manages the workforce: Sweden's proposed platform work act](https://www.eversheds-sutherland.com/en/sweden/insights/when-the-algorithm-manages-the-workforce)
 
 <span class="news-item__source">eversheds-sutherland.com</span> A Swedish government inquiry proposed a Platform Work Act transposing the EU directive, giving gig workers a right to explanation and human review of algorithmic decisions.
+
+### [Sanktionsavgift mot Miljödata för bristande säkerhet](https://www.imy.se/nyheter/sanktionsavgift-mot-miljodata-for-bristande-sakerhet/)
+
+<span class="news-item__source">imy.se</span> Sweden's IMY fined IT vendor Miljödata SEK 1.8m under GDPR Article 32 after a 2025 breach exposed sensitive data of 2.2 million people via unmonitored systems.
 
 ### [ECB flags AML gap for stablecoin issuers lacking financial licence](https://www.amlintelligence.com/2026/09/news-ecb-flags-aml-gap-for-stablecoin-issuers-lacking-financial-licence/)
 
@@ -75,27 +97,3 @@ next = "/page/2/"
 ### [AI: EU Member States plan “digital expropriation” of Europeans in the interest of AI companies](https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies)
 
 <span class="news-item__source">noyb.eu</span> A leaked Irish Presidency text adds GDPR Article 88bis, making any personal data use “in the context of AI” lawful by default with no consent required.
-
-## 20 September 2026
-
-### [US employers use software to punish workers at sixteen times the European rate. The gap is the law.](https://thenextweb.com/news/oecd-algorithmic-management-sanction-gap-ai-act-blind-spot)
-
-<span class="news-item__source">thenextweb.com</span> OECD survey of 6,047 firms found 67% of US employers use software to sanction workers vs 4% in Europe; most tools aren't AI and fall outside the AI Act's scope.
-
-## 18 September 2026
-
-### [Most EU countries late on pay transparency rules](https://www.euractiv.com/news/eu-countries-more-than-100-days-late-on-pay-transparency-rules/)
-
-<span class="news-item__source">euractiv.com</span> Twenty-two member states have missed the Pay Transparency Directive deadline by over three months; six have published no legislative text at all.
-
-### [Lavoro su piattaforme digitali: Cisl audita sul decreto](https://www.cisl.it/recepimento-direttiva-lavoro-piattaforme-cisl/)
-
-<span class="news-item__source">cisl.it</span> Italy's draft decree transposing the Platform Work Directive reached parliamentary hearings, with unions filing amendments ahead of the 2 December deadline.
-
-### [La AEPD multa con 200.000 euros a una empresa por controlar a trabajadores desde su móvil personal](https://talent24h.okdiario.com/la-aepd-multa-con-200-000-euros-a-una-empresa-por-controlar-a-trabajadores-desde-su-movil-personal/)
-
-<span class="news-item__source">talent24h.okdiario.com</span> Spain's AEPD fined Ares Capital €200,000 after a VTC driver had to install four work apps on his own phone, citing excessive data and no valid legal basis.
-
-### [Governor Newsom issues executive order to accelerate independent oversight and advance the creation of an AI kill switch](https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/)
-
-<span class="news-item__source">gov.ca.gov</span> California ordered an expert panel to report within two months on a verifiable kill switch for frontier AI models and independent third-party safety audits.

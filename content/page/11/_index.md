@@ -9,6 +9,30 @@ prev = "/page/10/"
 next = "/page/12/"
 +++
 
+## 27 July 2026
+
+### [Kill the Cookie Banner!](https://killthecookiebanner.eu/)
+
+<span class="news-item__source">killthecookiebanner.eu</span> A campaign is pressing Parliament and member states to adopt browser-level privacy signals, arguing banners manufacture consent from 90% of users.
+
+### [Europe's AI safety rules take on US rogue agents and Chinese ambitions](https://www.politico.eu/article/eu-ai-artificial-intelligence-safety-us-china/)
+
+<span class="news-item__source">politico.eu</span> From 2 August the AI Office can demand documentation, run evaluations and request model access from frontier labs, with fines up to 3% of turnover.
+
+### [Cold calculation or plucked from thin air? How the EU determines those big fines against Big Tech](https://www.politico.eu/article/how-the-eu-calculates-its-mega-tech-fines/)
+
+<span class="news-item__source">politico.eu</span> Each regime calculates differently: DMA fines aim at compliance rather than punishment, and the €890m Google fine came to 0.22% of Alphabet's revenue.
+
+### [Alarm at NHS patient records being put under control of US private equity firm](https://www.theguardian.com/society/2026/jul/27/nhs-patients-records-us-private-equity-firm-optum-uk-tpg)
+
+<span class="news-item__source">theguardian.com</span> US private equity firm TPG bought Optum UK, including the EMIS record system used by over half of English GP practices, in a $400m deal.
+
+## 26 July 2026
+
+### [US prosecutors charge Atlanta man after GrapheneOS phone wipes itself during airport search](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
+
+<span class="news-item__source">techspot.com</span> US prosecutors charged an Atlanta man with destroying property after his GrapheneOS phone wiped itself during a warrantless airport search.
+
 ## 25 July 2026
 
 ### [Trump says US to launch EU probe over 'illegal' Google fine](https://www.reuters.com/business/trump-says-us-launch-eu-probe-over-illegal-google-fine-2026-07-24/)
@@ -78,25 +102,3 @@ next = "/page/12/"
 ### [US lawmakers urge Trump to act against EU tech rules, suggest trade probes](https://www.reuters.com/legal/government/us-lawmakers-urge-trump-act-against-eu-tech-rules-suggest-trade-probes-2026-07-21/)
 
 <span class="news-item__source">reuters.com</span> Twenty-five Republican lawmakers urged Trump to open Section 301 investigations and consider tariffs over the Digital Markets Act.
-
-### [French lawmakers vote on social media ban for children](https://www.reuters.com/legal/litigation/french-lawmakers-vote-social-media-ban-children-2026-07-21/)
-
-<span class="news-item__source">reuters.com</span> French lawmakers voted on banning under-15s from social media, with platforms required to use age-verification systems approved by CNIL.
-
-### [Europe's 27 leaders to take on AI — finally](https://www.politico.eu/article/europes-27-leaders-to-take-on-ai-finally/)
-
-<span class="news-item__source">politico.eu</span> António Costa will put AI on the agenda of an EU leaders' summit for the first time, at one of the three remaining meetings this year.
-
-### [AMLA finalises standards for supervisory cooperation in direct supervision](https://www.amla.europa.eu/press-release-amla-finalises-standards-supervisory-cooperation-direct-supervision_en)
-
-<span class="news-item__source">amla.europa.eu</span> AMLA published final standards for sharing data and supervisory history with national regulators before it takes over direct supervision in 2028.
-
-## 20 July 2026
-
-### [The European Parliament's answer to its AI worries: More AI](https://www.politico.eu/article/the-european-parliaments-answer-to-its-ai-worries-more-ai/)
-
-<span class="news-item__source">politico.eu</span> Parliament is giving MEPs and staff sanctioned access to models from OpenAI, Anthropic, Meta and Mistral after hallucinated citations appeared in drafts.
-
-### [The EU is about to sell our most sensitive data to the US for visa-free travel](https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/)
-
-<span class="news-item__source">edri.org</span> A leaked draft shows the Commission close to granting US border authorities access to EU biometric databases in exchange for continued visa-free travel.

@@ -9,7 +9,31 @@ prev = "/page/4/"
 next = "/page/6/"
 +++
 
+## 2 September 2026
+
+### [Data Protection Commission announces Final Decision following Inquiry into the Health Service Executive (HSE)](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-announces-final-decision-following-inquiry-health-service-executive-hse)
+
+<span class="news-item__source">dataprotection.ie</span> The Irish DPC fined the HSE €645,000 for keeping patient paper records in derelict, mould-contaminated buildings, and ordered a nationwide audit of its storage facilities.
+
+## 1 September 2026
+
+### [Supreme Court: CRIF illegally collected data of millions in Austria. Way clear for class action!](https://noyb.eu/en/supreme-court-crif-illegally-collected-data-millions-austria-way-clear-class-action)
+
+<span class="news-item__source">noyb.eu</span> Austria's Supreme Court held that credit agency CRIF breached GDPR purpose limitation by buying marketing address data, clearing the way for noyb's class action.
+
+### [Germany's Draft Law on AI in Migration Raises Rights and Bias Concerns](https://www.techpolicy.press/germanys-draft-law-on-ai-in-migration-raises-rights-and-bias-concerns/)
+
+<span class="news-item__source">techpolicy.press</span> Germany's cabinet approved the KIMVG draft allowing AI in visa, residence and asylum procedures, including automated cross-checks of applicants' statements against online sources.
+
+### [California lawmakers pass bill governing lawyers' use of AI](https://www.reuters.com/legal/government/california-lawmakers-pass-bill-governing-lawyers-use-ai-2026-09-01/)
+
+<span class="news-item__source">reuters.com</span> SB 574 now goes to Newsom; it bars delegating legal work to generative AI and requires verifying citations and disclosing AI use in court filings.
+
 ## 31 August 2026
+
+### [Privacy Reform – Consultation on Exposure Draft legislation](https://consultations.ag.gov.au/rights-and-protections/privacy-reform/)
+
+<span class="news-item__source">consultations.ag.gov.au</span> Australia opened consultation on an exposure draft Privacy Amendment (Personal Data Protection) Bill 2026 aimed at AI and wearables. Submissions close 18 September.
 
 ### [FTC, States Sue Amazon Over Secret Ad Surcharge Scheme](https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-states-sue-amazon-over-secret-ad-surcharge-scheme)
 
@@ -82,25 +106,3 @@ next = "/page/6/"
 ### [U.S. Citizen Who Deleted Phone's Data Says His Prosecution Puts Privacy at Risk](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
 
 <span class="news-item__source">nytimes.com</span> US prosecutors charged Samuel Tunick with obstruction for entering a duress passcode that wiped his phone during a CBP airport search.
-
-### [TikTok agrees to $400 million US children's privacy settlement](https://www.reuters.com/world/us-justice-department-tiktok-settle-400-million-childrens-privacy-suit-axios-2026-08-21/)
-
-<span class="news-item__source">reuters.com</span> TikTok and ByteDance settled the DOJ's COPPA suit for $400m: $300m now, $100m once the 2019 Musical.ly consent decree is vacated.
-
-### [EU's push for watermarking won't worsen AI writing, experts say](https://www.euractiv.com/news/eus-push-for-watermarking-wont-worsen-ai-writing-experts-say/)
-
-<span class="news-item__source">euractiv.com</span> Under the AI transparency code, watermarking applies only to texts over 200 tokens; its co-chairs say quality loss is confined to very short outputs.
-
-## 20 August 2026
-
-### [The EU's proposed CADA: Why cloud sovereignty matters for business strategy](https://iapp.org/news/a/the-eu-s-proposed-cada-why-cloud-sovereignty-matters-for-business-strategy)
-
-<span class="news-item__source">iapp.org</span> The Cloud and AI Development Act proposal sets cloud assurance levels and data centre acceleration zones; Ireland targets a Council progress report by year-end.
-
-### [How the EU's new AML regulation will change personal data processing](https://iapp.org/news/a/how-the-eu-s-new-aml-regulation-will-change-personal-data-processing)
-
-<span class="news-item__source">iapp.org</span> The EU AML Regulation becomes directly applicable on 10 July 2027, adding GDPR-specific rules on automated processing, human oversight and reuse of AML data.
-
-### [eSafety secures court-enforceable undertaking from Roblox to do more to protect Australian kids from grooming and sexual exploitation](https://www.esafety.gov.au/newsroom/media-releases/esafety-secures-court-enforceable-undertaking-from-roblox-to-do-more-to-protect-australian-kids-from-grooming-and-sexual-exploitation)
-
-<span class="news-item__source">esafety.gov.au</span> Roblox has three months to block adult contact with unknown children, make under-16 profiles private by default and let a third party audit its age estimation.
