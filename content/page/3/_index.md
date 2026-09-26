@@ -4,12 +4,34 @@ template = "index.html"
 
 [extra]
 page_num = 3
-page_count = 13
+page_count = 14
 prev = "/page/2/"
 next = "/page/4/"
 +++
 
+## 16 September 2026
+
+### [Ireland’s domestic AI legislation comes into force](https://www.arthurcox.com/knowledge/irelands-domestic-ai-legislation-comes-into-force/)
+
+<span class="news-item__source">arthurcox.com</span> Ireland’s Regulation of Artificial Intelligence Act 2026 took effect, creating an AI Office and making the Central Bank and the DPC market surveillance authorities under the EU AI Act.
+
+### [EU chief to host safety talks with leading AI labs](https://www.euractiv.com/news/eu-chief-to-host-safety-talks-with-leading-ai-labs-per-draft-speech/)
+
+<span class="news-item__source">euractiv.com</span> Von der Leyen will convene frontier AI labs on slowing self-recursive models and team up with Canada and the UK on model evaluation and early warning.
+
+### [2026 State of the Union Address by President von der Leyen](https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1868)
+
+<span class="news-item__source">ec.europa.eu</span> Von der Leyen unveiled an EU Kids Act: no social media under 13, no personal account under 15, and parent-supervised mini accounts capped at one hour a day.
+
 ## 15 September 2026
+
+### [Leak: EU Commission to pitch social media restrictions for under-15s](https://www.euronews.com/my-europe/2026/09/15/leak-eu-commission-to-pitch-social-media-restrictions-for-under-15s)
+
+<span class="news-item__source">euronews.com</span> A leaked EU Kids Act draft would bar under-15s from social media without parental consent and impose safety-by-design duties on video games and AI chatbots.
+
+### [Commission proposes ambitious measures to strengthen fair labour mobility](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1851)
+
+<span class="news-item__source">ec.europa.eu</span> The Commission adopted the Fair Labour Mobility package: a European Social Security Pass, digital qualifications in the EU Identity Wallet, and a strengthened Labour Authority.
 
 ### [Anti-money laundering and asset recovery strategy: 2026 to 2029](https://www.gov.uk/government/publications/anti-money-laundering-and-asset-recovery-strategy-2026-to-2029)
 
@@ -76,25 +98,3 @@ next = "/page/4/"
 ### [EU watchdog probes von der Leyen's AI envoy pick](https://www.politico.eu/article/eu-ombudsman-ursula-von-der-leyen-ai-envoy-jim-hagemann-snabe/)
 
 <span class="news-item__source">politico.eu</span> The European Ombudsman opened an inquiry into the Commission's appointment of Siemens chairman Jim Hagemann Snabe as special envoy for industrial AI.
-
-### [Detecting and countering misuse of AI: September 2026](https://www.anthropic.com/threat-intelligence-report-september-2026)
-
-<span class="news-item__source">anthropic.com</span> Anthropic detailed misuse of Claude it disrupted between December 2025 and August 2026 across seven harm areas, including cyber operations, surveillance and biological misuse.
-
-### [California gig drivers secure collective bargaining power in historic first](https://www.latimes.com/business/story/2026-09-10/california-clears-way-for-uber-lyft-driver-union)
-
-<span class="news-item__source">latimes.com</span> California's labour board certified the SEIU-backed Gig Workers Union as statewide bargaining agent for Uber and Lyft drivers, covering pay, deactivations and safety.
-
-## 9 September 2026
-
-### [Risks of Gaming and Gambling](https://www.fatf-gafi.org/en/publications/Methodsandtrends/risks-of-gaming-and-gambling.html)
-
-<span class="news-item__source">fatf-gafi.org</span> The FATF published findings and new risk indicators on money laundering and terrorist financing through casinos, online gambling and in-game payment channels.
-
-### [Non-respect des droits des personnes : sanction de 300 000 euros à l'encontre de la société EXTIA](https://www.cnil.fr/fr/sanction-non-respect-droits-personnes-extia)
-
-<span class="news-item__source">cnil.fr</span> The CNIL fined IT consultancy EXTIA €300,000 after more than three quarters of the 265 erasure requests it received in 2024 went unanswered or badly handled.
-
-### [Judgment of the General Court in Case T-1139/23 Booking Holdings v Commission](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260125en.pdf)
-
-<span class="news-item__source">curia.europa.eu</span> The General Court dismissed Booking's action and upheld the Commission's prohibition of its acquisition of flight-booking provider Etraveli Group.

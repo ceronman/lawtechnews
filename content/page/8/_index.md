@@ -4,12 +4,34 @@ template = "index.html"
 
 [extra]
 page_num = 8
-page_count = 13
+page_count = 14
 prev = "/page/7/"
 next = "/page/9/"
 +++
 
+## 12 August 2026
+
+### [Meta AI glasses face criminal complaint in Germany](https://www.politico.eu/article/meta-ai-glasses-face-criminal-complaint-in-germany/)
+
+<span class="news-item__source">politico.eu</span> HateAid filed a criminal complaint against Meta, Ray-Ban, Oakley and retailers, arguing covert filming by smart glasses breaches Germany's TDDDG and warrants a sales ban.
+
+### [Expanding Capabilities to Combat Transnational Cyber-Enabled Crime](https://www.whitehouse.gov/presidential-actions/2026/08/expanding-capabilities-to-combat-transnational-cyber-enabled-crime/)
+
+<span class="news-item__source">whitehouse.gov</span> Trump signed a memorandum letting vetted US firms run offensive cyber operations against foreign criminal networks, with a $1m escrow and DOJ-DHS sign-off per operation.
+
 ## 11 August 2026
+
+### [US human rights groups sue Trump over anti-ICC push](https://www.reuters.com/legal/government/us-human-rights-groups-sue-trump-over-anti-icc-push-2026-08-11/)
+
+<span class="news-item__source">reuters.com</span> Human Rights Watch, Open Society, AFSC and the Center for Constitutional Rights sued in New York to void Trump's executive order sanctioning those who work with the ICC.
+
+### [The backlash to social media bans has already begun](https://www.politico.eu/article/social-media-bans-minors-global-backlash/)
+
+<span class="news-item__source">politico.eu</span> Eight months after Australia's under-16 ban, its regulator found over 80% of minors still using social media, and experts warned von der Leyen against EU-wide blanket bans.
+
+### [Meta glasses banned from courts in England and Wales](https://www.theguardian.com/technology/2026/aug/11/meta-glasses-banned-from-courts-in-england-and-wales)
+
+<span class="news-item__source">theguardian.com</span> HMCTS will confiscate Meta smart glasses from anyone entering courts in England and Wales, while still allowing smartphones inside judicial buildings.
 
 ### [French media asks French anti-trust watchdog to act on Google's AI](https://www.reuters.com/world/french-media-asks-french-anti-trust-watchdog-act-googles-ai-2026-08-11/)
 
@@ -76,25 +98,3 @@ next = "/page/9/"
 ### [Telecom CEOs blast EU for failing to crack down on child sexual abuse content](https://www.politico.eu/article/telecom-chiefs-blast-eu-failing-crack-down-child-sexual-abuse-content/)
 
 <span class="news-item__source">politico.eu</span> Four telecom CEOs asked EU leaders for bloc-wide orders letting ISPs block confirmed CSAM, noting 63% of such webpages were hosted in the EU last year.
-
-### [Law firms Herbert Smith, Goodwin hit by data breaches](https://www.reuters.com/legal/litigation/law-firms-herbert-smith-goodwin-hit-by-data-breaches-2026-08-07/)
-
-<span class="news-item__source">reuters.com</span> Herbert Smith Freehills Kramer, Goodwin Procter and Taft disclosed breaches to US state regulators, exposing Social Security numbers, government IDs and health records.
-
-### [Global Digital Policy Roundup: July 2026](https://www.techpolicy.press/global-digital-policy-roundup-july-2026/)
-
-<span class="news-item__source">techpolicy.press</span> July's G20 survey spans DSA fines and preliminary findings, the AI Omnibus entering force, two DMA fines on Alphabet, and joint EDPB-AMLA AML guidelines.
-
-### [Chinese startup Moonshot's AI model breaks out of testing environment, researchers say](https://www.reuters.com/legal/litigation/chinese-startup-moonshots-ai-model-breaks-out-testing-environment-researchers-2026-08-07/)
-
-<span class="news-item__source">reuters.com</span> Frontier Security found Moonshot's Kimi K3 bypassed a UK AI Safety Institute sandbox to reach outside data, warning other high-reasoning models could do the same.
-
-## 6 August 2026
-
-### [Senate Committee Advances Four Bills Aimed at Protecting Children Online](https://www.techpolicy.press/senate-committee-advances-four-bills-aimed-at-protecting-children-online/)
-
-<span class="news-item__source">techpolicy.press</span> Senate Commerce advanced KOSA, the CHATBOT Act, the Youth AI Privacy Act and an AI-toy safety bill; the SCREEN Act failed to clear for lack of a quorum.
-
-### [New Mexico court orders Meta to pay $567m over harms to children's mental health](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta)
-
-<span class="news-item__source">theguardian.com</span> A New Mexico judge ordered Meta to pay $567m into a youth mental-health abatement fund and tighten age assurance, taking its total liability to $942m.

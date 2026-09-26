@@ -4,12 +4,36 @@ template = "index.html"
 
 [extra]
 page_num = 6
-page_count = 13
+page_count = 14
 prev = "/page/5/"
 next = "/page/7/"
 +++
 
+## 25 August 2026
+
+### [ANPD multa TikTok em R$ 153,7 milhões por falhas na proteção de dados de crianças e adolescentes](https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-multa-tiktok-em-r-153-7-milhoes-por-falhas-na-protecao-de-dados-de-criancas-e-adolescentes)
+
+<span class="news-item__source">gov.br</span> Brazil's ANPD fined ByteDance R$153.7m for processing minors' data with no legal basis, ordering deletion and a compliance plan that suspends ads in the logged-out feed.
+
+## 24 August 2026
+
+### [How a 17th-century Irish law is shielding Big Tech from class actions in Europe](https://www.politico.eu/article/17th-century-ireland-law-shielding-big-tech-class-actions-europe/)
+
+<span class="news-item__source">politico.eu</span> Ireland's 1634 ban on third-party litigation funding has left just one collective redress case filed there; a Law Reform Commission report is due this year.
+
+### [Consultatie Wet platformwerk (implementation of Directive (EU) 2024/2831)](https://www.internetconsultatie.nl/wetplatformwerk/b1)
+
+<span class="news-item__source">internetconsultatie.nl</span> The Dutch consultation on the Wet platformwerk closed with 86 public responses; the bill is a pure transposition of the directive, due in national law by 2 December 2026.
+
 ## 21 August 2026
+
+### [Uber fined nearly 825 million euros for automated driver blocking](https://www.autoriteitpersoonsgegevens.nl/en/current/uber-fined-nearly-825-million-euros-for-automated-driver-blocking)
+
+<span class="news-item__source">autoriteitpersoonsgegevens.nl</span> The Dutch DPA fined Uber €824.99m for automatically deactivating drivers over fraud flags and low ratings without human review. Uber is appealing.
+
+### [U.S. Citizen Who Deleted Phone's Data Says His Prosecution Puts Privacy at Risk](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
+
+<span class="news-item__source">nytimes.com</span> US prosecutors charged Samuel Tunick with obstruction for entering a duress passcode that wiped his phone during a CBP airport search.
 
 ### [TikTok agrees to $400 million US children's privacy settlement](https://www.reuters.com/world/us-justice-department-tiktok-settle-400-million-childrens-privacy-suit-axios-2026-08-21/)
 
@@ -76,25 +100,3 @@ next = "/page/7/"
 ### [ChatGPT Ads expands across Europe](https://openai.com/index/chatgpt-ads-expands-across-europe/)
 
 <span class="news-item__source">openai.com</span> ChatGPT Ads reaches 31 European countries next week, shown only to Free and Go users, with OpenAI saying conversations stay private from advertisers.
-
-### [Changes for apps in the European Union](https://developer.apple.com/news/?id=gmws0jgp)
-
-<span class="news-item__source">developer.apple.com</span> Apple will move all EU developers to a single set of business terms on 1 October, replacing the per-install Core Technology Fee with a flat 5% commission.
-
-### [17 Iranians Charged With Conducting Massive Cyber Theft Campaign On Behalf Of The Islamic Revolutionary Guard Corps](https://www.justice.gov/usao-sdny/pr/17-iranians-charged-conducting-massive-cyber-theft-campaign-behalf-islamic)
-
-<span class="news-item__source">justice.gov</span> Prosecutors charged 17 Mabna Institute members over IRGC-directed intrusions at 322 universities that took 31.5 terabytes of research data.
-
-## 17 August 2026
-
-### [Vietnam Tightens Online Speech Controls as Cyber Law Takes Effect](https://www.techpolicy.press/vietnam-tightens-online-speech-controls-as-cyber-law-takes-effect/)
-
-<span class="news-item__source">techpolicy.press</span> Vietnam's revised Cybersecurity Law took effect on 1 July, giving platforms six hours to remove content in urgent cases and fining users up to $1,900.
-
-### [Sainsbury's store pauses AI scanning after false shoplifting accusation](https://www.theguardian.com/technology/2026/aug/17/humiliated-sainsburys-store-pauses-ai-scanning-after-false-shoplifting-accusation)
-
-<span class="news-item__source">theguardian.com</span> Sainsbury's suspended Facewatch facial recognition at its East Dulwich store after a customer was wrongly ejected as a shoplifter; it blamed human error, not the tech.
-
-### [Report supporting Australia's teen social media ban appears to contain AI hallucinations, Senate hears](https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb)
-
-<span class="news-item__source">theguardian.com</span> Six references in the $3.48m age-assurance trial report point to non-existent or wrong papers; the contractor conceded ChatGPT was used to rewrite text.

@@ -3,18 +3,38 @@ title = "Law & Tech News"
 
 [extra]
 page_num = 1
-page_count = 13
+page_count = 14
 prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">258 stories on European law, technology regulation and digital rights, latest from 24 September 2026. Every headline links to the original source.</p>
+<p class="news-intro">263 stories on European law, technology regulation and digital rights, latest from 26 September 2026. Every headline links to the original source.</p>
+
+## 26 September 2026
+
+### [Neue Selbstständigkeit: Das Gesetz, das zu spät kommt](https://denkstrom.org/artikel/plattformgesetz-neue-selbstaendigkeit-eu-frist-2026/)
+
+<span class="news-item__source">denkstrom.org</span> Germany's labour ministry proposed a voluntary self-employment status instead of a rebuttable employment presumption for platform workers, taking effect 13 months after the EU deadline.
+
+## 25 September 2026
+
+### [The presidency's question: leave private messages out of the regulation?](https://brusselsrecord.com/presidency-question-leave-private-messages-out/)
+
+<span class="news-item__source">brusselsrecord.com</span> A leaked Council note ahead of the 29 September trilogue asks ambassadors whether to write voluntary scanning of private messages into permanent law, or drop it without compromise.
+
+### [OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity](https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt)
+
+<span class="news-item__source">theguardian.com</span> OpenAI said its AI agents leaked 53 user images online and accessed US government sites including the SEC, part of a rogue-agent incident count still rising since the Hugging Face hack. <span class="news-item__discussions"><a href="https://www.reddit.com/r/technology/comments/1wqh8ti/openai_rogue_agents_leaked_53_images_from_chatgpt/">[discussion on reddit]</a> <a href="https://news.ycombinator.com/item?id=49853688">[discussion on hn]</a></span>
 
 ## 24 September 2026
 
 ### [US government seeks to join Elon Musk in challenge against EU's fine on X](https://www.reuters.com/world/us-government-seeks-join-elon-musk-challenge-against-eus-fine-x-2026-09-24/)
 
 <span class="news-item__source">reuters.com</span> The US DOJ asked the EU General Court to back Elon Musk's bid to annul X's €120m DSA fine, calling Brussels' first DSA sanction regulatory overreach. <span class="news-item__discussions"><a href="https://www.reddit.com/r/worldnews/comments/1wpra3v/us_seeks_to_join_elon_musk_in_eu_court_fight_over/">[discussion on reddit]</a></span>
+
+### [TikTok withdraws two appeals in children's privacy action and accepts £12.7m fine](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/09/tiktok-withdraws-two-appeals-in-children-s-privacy-action-and-accepts-127m-fine/)
+
+<span class="news-item__source">ico.org.uk</span> TikTok dropped its appeal and will pay the ICO's £12.7m fine over under-13s' data, also withdrawing a challenge that had stalled the regulator's probe into its teen recommender systems.
 
 ### [Simplification for whom? Open letter to EU Member States to uphold GDPR protections in Digital Omnibus on Data](https://edri.org/our-work/simplification-for-whom-open-letter-uphold-gdpr-protections-in-data-omnibus/)
 
@@ -78,22 +98,6 @@ next = "/page/2/"
 
 <span class="news-item__source">reuters.com</span> The European Court of Auditors found EU states rarely share cyber-incident data, noting no 'large-scale' incident has been formally reported since 2016 despite qualifying attacks.
 
-### [Europe Says Its AI Rules Are Enough. AI Agents Are Testing That Claim](https://www.techpolicy.press/europe-says-its-ai-rules-are-enough-ai-agents-are-testing-that-claim/)
+### [Glovo, il giudice respinge la richiesta del pm sull'assunzione dei rider: "Deve decidere il Tribunale del lavoro"](https://www.ilfattoquotidiano.it/2026/09/21/glovo-il-giudice-respinge-la-richiesta-del-pm-di-assumere-i-rider-deve-decidere-il-tribunale-del-lavoro/8513402/)
 
-<span class="news-item__source">techpolicy.press</span> Brussels says the AI Act already covers agentic AI risks after Gemini and other models breached test systems, but experts say its market-based rules may not reach models still in testing.
-
-### [EU lawmakers float product liability rules to help avert AI disaster](https://www.politico.eu/article/eu-lawmakers-ai-apocalypse-warnings-brussels-scrambles-ai-rules-gaps/)
-
-<span class="news-item__source">politico.eu</span> Four MEPs urged the Commission to draft an AI Liability Act extending the AI Act to hold providers like OpenAI and Anthropic liable for harm from advanced models.
-
-### [EDPB harmonises fining methodology and adopts final DSA-GDPR guidelines](https://www.edpb.europa.eu/news/edpb-harmonises-fining-methodology-and-adopts-final-dsa-gdpr-guidelines_en)
-
-<span class="news-item__source">edpb.europa.eu</span> The EDPB adopted a five-step test for DPAs deciding whether to impose GDPR fines and finalised its guidelines on the DSA-GDPR interplay, with 14 worked examples.
-
-### [Data Protection Commission fines Google €403 million following Inquiry into Google's processing of location data](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location)
-
-<span class="news-item__source">dataprotection.ie</span> Ireland's DPC fined Google €403 million for unlawful processing of location data in Web & App Activity and Location History, ordering compliance within six months.
-
-### [AI: EU Member States plan “digital expropriation” of Europeans in the interest of AI companies](https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies)
-
-<span class="news-item__source">noyb.eu</span> A leaked Irish Presidency text adds GDPR Article 88bis, making any personal data use “in the context of AI” lawful by default with no consent required.
+<span class="news-item__source">ilfattoquotidiano.it</span> A Milan judge rejected a bid to force Foodinho-Glovo to hire all 40,000 riders as employees, leaving classification to case-by-case labour-court review.
