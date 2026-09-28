@@ -11,6 +11,18 @@ next = "/page/3/"
 
 ## 21 September 2026
 
+### [WHAT TO FIX files DSA complaint over Meta's monetization enforcement and reporting systems](https://www.whattofix.tech/publications/sept-2026-what-to-fix-files-dsa-complaint-monetization-enforcement-reporting/)
+
+<span class="news-item__source">whattofix.tech</span> WHAT TO FIX filed a DSA complaint with the Dutch ACM alleging Meta failed to enforce and process reports of possibly illegal monetization tied to EU-sanctioned actors.
+
+### [Poor data sharing undermining EU cyber defences, auditors say](https://www.reuters.com/legal/government/poor-data-sharing-undermining-eu-cyber-defences-auditors-say-2026-09-21/)
+
+<span class="news-item__source">reuters.com</span> The European Court of Auditors found EU states rarely share cyber-incident data, noting no 'large-scale' incident has been formally reported since 2016 despite qualifying attacks.
+
+### [Glovo, il giudice respinge la richiesta del pm sull'assunzione dei rider: "Deve decidere il Tribunale del lavoro"](https://www.ilfattoquotidiano.it/2026/09/21/glovo-il-giudice-respinge-la-richiesta-del-pm-di-assumere-i-rider-deve-decidere-il-tribunale-del-lavoro/8513402/)
+
+<span class="news-item__source">ilfattoquotidiano.it</span> A Milan judge rejected a bid to force Foodinho-Glovo to hire all 40,000 riders as employees, leaving classification to case-by-case labour-court review.
+
 ### [Europe Says Its AI Rules Are Enough. AI Agents Are Testing That Claim](https://www.techpolicy.press/europe-says-its-ai-rules-are-enough-ai-agents-are-testing-that-claim/)
 
 <span class="news-item__source">techpolicy.press</span> Brussels says the AI Act already covers agentic AI risks after Gemini and other models breached test systems, but experts say its market-based rules may not reach models still in testing.
@@ -84,17 +96,3 @@ next = "/page/3/"
 ### [EU KIDS Act to restrict social media platforms' access to children in the EU](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1890)
 
 <span class="news-item__source">ec.europa.eu</span> The Commission adopted the EU KIDS Act, reversing the burden of proof onto very large platforms and adding expedited enforcement with investigations closed within 90 days.
-
-### [Bundesgerichtshof legt EuGH Fragen zur "Haushaltsausnahme" nach der DSGVO vor](https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026169.html)
-
-<span class="news-item__source">bundesgerichtshof.de</span> Germany's Federal Court of Justice referred two cases to the CJEU on how far the GDPR household exemption reaches when private chats or home CCTV go to employers or police.
-
-## 16 September 2026
-
-### [Poland's platform work law could reach far beyond couriers and drivers](https://ceo.com.pl/en/poland-platform-work-law-couriers-freelancers-digital-platforms-90034/)
-
-<span class="news-item__source">ceo.com.pl</span> Poland's Platform Work Directive bill UC160 drew industry objections that its employment presumption and platform definition could capture IT freelancers and B2B marketplaces.
-
-### [Nyt udkast til AI-hjemmelslov sendt i høring](https://www.datatilsynet.dk/presse-og-nyheder/nyhedsarkiv/2026/sep/nyt-udkast-til-ai-hjemmelslov-sendt-i-hoering)
-
-<span class="news-item__source">datatilsynet.dk</span> Denmark sent a redrafted AI authorisation act to consultation, creating a general data-protection legal basis for public bodies to build and run AI on personal data.

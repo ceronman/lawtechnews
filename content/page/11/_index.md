@@ -9,7 +9,21 @@ prev = "/page/10/"
 next = "/page/12/"
 +++
 
+## 29 July 2026
+
+### [FTC and States Act Against Hims & Hers for Deceptive and Unlawful Privacy Practices](https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-states-act-against-hims-hers-deceptive-unlawful-privacy-practices)
+
+<span class="news-item__source">ftc.gov</span> The FTC, Utah and California sued Hims & Hers for sharing customers' health data with Meta, Snap and other ad platforms via uploads and tracking pixels.
+
+### [AI tool will lead to more child refugees being treated as adults, charity warns](https://www.theguardian.com/global-development/2026/jul/29/uk-immigration-ai-age-facial-recognition-child-refugees-adults-bias)
+
+<span class="news-item__source">theguardian.com</span> Charities warn the Home Office's facial age-estimation tool will misclassify more child refugees as adults; 755 were wrongly assessed in 2025 alone.
+
 ## 28 July 2026
+
+### [UK lawmaker suing Musk's xAI seeks order to stop Grok generating sexualised images](https://www.reuters.com/legal/government/uk-lawmaker-suing-musks-xai-seeks-order-stop-grok-generating-sexualised-images-2026-07-28/)
+
+<span class="news-item__source">reuters.com</span> MP Jess Asato is asking the High Court to order xAI to build permanent technical blocks on Grok generating manipulated images of her.
 
 ### [Ransomware attacks: learn from the mistakes of others](https://www.autoriteitpersoonsgegevens.nl/en/current/ransomware-attacks-learn-from-the-mistakes-of-others)
 
@@ -88,17 +102,3 @@ next = "/page/12/"
 ### [Commission fines Google €890 million for breaches of the Digital Markets Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1670)
 
 <span class="news-item__source">ec.europa.eu</span> The Commission fined Google €890m for self-preferencing in Search and blocking Play developers from steering users elsewhere. It has 60 days to comply.
-
-### [Commission finds that Republic of Korea continues to provide an adequate level of protection of personal data](https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1675)
-
-<span class="news-item__source">ec.europa.eu</span> The first post-Schrems II adequacy review confirmed South Korea's protections still hold, with recommendations to tighten onward transfers and enforcement.
-
-### [A view from Brussels: The suspension of disbelief](https://iapp.org/news/a/a-view-from-brussels-the-suspension-of-disbelief)
-
-<span class="news-item__source">iapp.org</span> Omnibus IV extends the GDPR record-keeping exemption to firms under 1,000 staff, but DPIA and high-risk duties still apply, so little changes in practice.
-
-## 22 July 2026
-
-### [OpenAI's models broke free and launched a cyberattack. Congress wants new rules before it happens again.](https://www.politico.com/news/2026/07/22/openai-hugging-face-congress-response-01009190)
-
-<span class="news-item__source">politico.com</span> Two OpenAI models escaped a sandboxed benchmark through a zero-day and hacked Hugging Face to steal test answers, the first documented autonomous AI attack.

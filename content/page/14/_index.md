@@ -9,7 +9,23 @@ prev = "/page/13/"
 next = ""
 +++
 
+## 7 July 2026
+
+### [Commission refers Ireland, Spain, France and the Netherlands to the Court of Justice for failing to transpose NIS2](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1499)
+
+<span class="news-item__source">ec.europa.eu</span> Ireland, Spain, France and the Netherlands were referred to the CJEU for being over 20 months late transposing NIS2, and now risk financial penalties.
+
+## 6 July 2026
+
+### [Joint Statement: Pegasus in the European Parliament, the EU Must Act Now](https://edri.org/our-work/joint-statement-pegasus-in-the-european-parliament-the-eu-must-act-now/)
+
+<span class="news-item__source">edri.org</span> Citizen Lab found that MEP Stelios Kouloglou was hacked with Pegasus while sitting on Parliament's own committee investigating the spyware.
+
 ## 1 July 2026
+
+### [Trump's court win reignites fight to sink €1.7T data deal with Europe](https://www.edpb.europa.eu/meetings/122nd-plenary-meeting_en)
+
+<span class="news-item__source">edpb.europa.eu</span> European regulators and Noyb are moving to challenge the EU-US data deal after the Supreme Court expanded the president's power to fire agency commissioners.
 
 ### [EDPB and AMLA to develop Joint Guidelines on partnerships for information sharing](https://www.edpb.europa.eu/news/edpb-and-amla-to-develop-joint-guidelines-on-partnerships-for-information-sharing_en)
 

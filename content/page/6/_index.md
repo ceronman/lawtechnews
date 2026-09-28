@@ -9,7 +9,21 @@ prev = "/page/5/"
 next = "/page/7/"
 +++
 
+## 26 August 2026
+
+### [Attorney General James Secures Up to $17.1 Billion and Groundbreaking Reforms from Meta to Protect Children on Social Media](https://ag.ny.gov/press-release/2026/attorney-general-james-secures-171-billion-and-groundbreaking-reforms-meta)
+
+<span class="news-item__source">ag.ny.gov</span> Meta will pay up to $17.1bn to 51 US attorneys general and cap under-18 use at two hours a day, with age verification and opt-out non-algorithmic feeds.
+
 ## 25 August 2026
+
+### [Publication of the decision of the National Bank of Belgium concerning Wise Europe SA pursuant to Article 98/1](https://www.nbb.be/en/financial-supervision-and-resolution/cross-cutting-and-international-aspects/news-and/publication-4)
+
+<span class="news-item__source">nbb.be</span> The NBB publicly named Wise Europe over unremedied anti-money-laundering failings, the first decision published under Belgium's name-and-shame regime.
+
+### [Nigel Farage wants to scrap GDPR for the UK](https://www.politico.eu/article/nigel-farage-wants-to-scrap-gdpr-for-the-uk/)
+
+<span class="news-item__source">politico.eu</span> Reform UK would replace UK GDPR with a light-touch law modelled on New Zealand's Privacy Act, claiming EU adequacy would survive the change.
 
 ### [ANPD multa TikTok em R$ 153,7 milhões por falhas na proteção de dados de crianças e adolescentes](https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-multa-tiktok-em-r-153-7-milhoes-por-falhas-na-protecao-de-dados-de-criancas-e-adolescentes)
 
@@ -88,15 +102,3 @@ next = "/page/7/"
 ### [Piratage du système d'information des impôts : les vérifications sont en cours](https://www.cnil.fr/fr/piratage-du-systeme-dinformation-des-impots-les-verifications-sont-en-cours)
 
 <span class="news-item__source">cnil.fr</span> The CNIL was notified of the DGFiP tax-system breach exposing income, withholding and cadastral data, and may inspect and sanction over security failings.
-
-### [OpenAI announces slowing pace of development after hack by rogue agent](https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack)
-
-<span class="news-item__source">theguardian.com</span> OpenAI paused model testing for two weeks and put major training runs on hold, saying Astra may near its critical cybersecurity threshold.
-
-### [Facial recognition in policing: earning public trust through strong data protection governance](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/08/facial-recognition-in-policing/)
-
-<span class="news-item__source">ico.org.uk</span> The ICO audited five English and Welsh police forces on facial recognition and issued 107 recommendations, finding inconsistent data protection compliance.
-
-### [ChatGPT Ads expands across Europe](https://openai.com/index/chatgpt-ads-expands-across-europe/)
-
-<span class="news-item__source">openai.com</span> ChatGPT Ads reaches 31 European countries next week, shown only to Free and Go users, with OpenAI saying conversations stay private from advertisers.

@@ -11,6 +11,18 @@ next = "/page/11/"
 
 ## 3 August 2026
 
+### [UBS fined $125 million by US regulators for money laundering violations](https://www.reuters.com/world/us-treasury-fines-ubs-financial-services-125-million-secrecy-violations-2026-08-03/)
+
+<span class="news-item__source">reuters.com</span> FinCEN fined UBS Financial Services $125m, its largest ever against a broker-dealer, for failing to run an AML programme or file suspicious activity reports.
+
+### [EXCLUSIVE: Commission considers replacing US tech in recruitment tool](https://www.euractiv.com/news/exclusive-commission-mulls-ditching-us-tech-from-ai-recruitment-tool/)
+
+<span class="news-item__source">euractiv.com</span> The Commission is weighing whether to move its AI-assisted recruitment tool off US cloud and model providers to European alternatives.
+
+### [Europe wants to kick its Palantir habit](https://www.politico.eu/article/europe-wants-to-kick-its-palantir-habit/)
+
+<span class="news-item__source">politico.eu</span> Spain has barred Palantir from state-backed procurement and French intelligence picked a rival, as European governments try to unwind deep dependencies.
+
 ### [EU AI Act Transparency Rules Are Now In Effect. Was It A Missed Opportunity?](https://www.techpolicy.press/eu-ai-act-transparency-rules-are-now-in-effect-was-it-a-missed-opportunity/)
 
 <span class="news-item__source">techpolicy.press</span> Article 50's transparency regime took effect on 2 August; analysts credit its watermarking and metadata layers but say scope and enforcement leave four big gaps.
@@ -84,17 +96,3 @@ next = "/page/11/"
 ### [Meet the EU team leading the world's first bona fide regulation of AI](https://www.politico.eu/article/meet-the-eu-team-going-up-against-big-ai-models/)
 
 <span class="news-item__source">politico.eu</span> The AI Office's 37-person systemic-risk unit can order models restricted or withdrawn from 2 August, after running 18 months without a permanent head.
-
-### [FTC and States Act Against Hims & Hers for Deceptive and Unlawful Privacy Practices](https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-states-act-against-hims-hers-deceptive-unlawful-privacy-practices)
-
-<span class="news-item__source">ftc.gov</span> The FTC, Utah and California sued Hims & Hers for sharing customers' health data with Meta, Snap and other ad platforms via uploads and tracking pixels.
-
-### [AI tool will lead to more child refugees being treated as adults, charity warns](https://www.theguardian.com/global-development/2026/jul/29/uk-immigration-ai-age-facial-recognition-child-refugees-adults-bias)
-
-<span class="news-item__source">theguardian.com</span> Charities warn the Home Office's facial age-estimation tool will misclassify more child refugees as adults; 755 were wrongly assessed in 2025 alone.
-
-## 28 July 2026
-
-### [UK lawmaker suing Musk's xAI seeks order to stop Grok generating sexualised images](https://www.reuters.com/legal/government/uk-lawmaker-suing-musks-xai-seeks-order-stop-grok-generating-sexualised-images-2026-07-28/)
-
-<span class="news-item__source">reuters.com</span> MP Jess Asato is asking the High Court to order xAI to build permanent technical blocks on Grok generating manipulated images of her.
