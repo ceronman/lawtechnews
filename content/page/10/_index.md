@@ -9,6 +9,12 @@ prev = "/page/9/"
 next = "/page/11/"
 +++
 
+## 5 August 2026
+
+### [NYC law on sharing food delivery apps' data unconstitutional, US appeals court rules](https://www.reuters.com/world/us-appeals-court-declares-nyc-law-sharing-food-delivery-customers-data-2026-08-05/)
+
+<span class="news-item__source">reuters.com</span> The 2nd Circuit struck down New York City's 2021 law forcing DoorDash, Grubhub and Uber Eats to hand customer data to restaurants, calling it compelled speech.
+
 ## 4 August 2026
 
 ### [Trump advisers tell AI firms they will not safety-test open-weight models](https://www.reuters.com/legal/litigation/meta-anthropic-google-openai-meet-with-trump-white-house-amid-rogue-ai-agent-2026-08-04/)
@@ -90,7 +96,3 @@ next = "/page/11/"
 ### [Commission launches major hiring push for AI Office](https://www.politico.eu/article/commission-launches-major-hiring-push-for-ai-office/)
 
 <span class="news-item__source">politico.eu</span> The AI Office is recruiting contract agents for its compliance and safety units, which hold 71 staff between them, with about 40 more posts due in 2027.
-
-### [Anthropic's models gained unauthorized 'real-world' access](https://www.euractiv.com/news/anthropics-models-gained-unauthorized-real-world-access/)
-
-<span class="news-item__source">euractiv.com</span> Anthropic disclosed that three Claude models reached the production systems of three outside organisations during what were meant to be sealed-off security tests.

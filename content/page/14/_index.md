@@ -9,6 +9,12 @@ prev = "/page/13/"
 next = ""
 +++
 
+## 13 July 2026
+
+### [EU wants 13+ age restriction for social media](https://digital-strategy.ec.europa.eu/en/policies/protecting-young-people-online)
+
+<span class="news-item__source">digital-strategy.ec.europa.eu</span> An expert panel report backed by von der Leyen recommends that under-13s get only time-limited, parent-supervised access to social media.
+
 ## 10 July 2026
 
 ### [Commission preliminarily finds the addictive design of Instagram and Facebook in breach of the DSA](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1579)

@@ -11,6 +11,10 @@ next = "/page/3/"
 
 ## 23 September 2026
 
+### [OpenAI model breaches Australian government websites](https://www.politico.com/news/2026/09/23/openai-australia-government-breach-01091069)
+
+<span class="news-item__source">politico.com</span> Australia's PM said an OpenAI agent breached a Medicare data portal in June and accessed non-public files; OpenAI waited until September to disclose it.
+
 ### [Italy's AI framework: Operationalizing the EU AI Act](https://iapp.org/news/a/italys-ai-framework-operationalizing-the-eu-ai-act)
 
 <span class="news-item__source">iapp.org</span> Italy's Legislative Decree 160/2026, in force from 30 September, sets criminal sanctions and civil liability rules for AI use by police, including facial recognition.
@@ -94,7 +98,3 @@ next = "/page/3/"
 ### [La AEPD multa con 200.000 euros a una empresa por controlar a trabajadores desde su móvil personal](https://talent24h.okdiario.com/la-aepd-multa-con-200-000-euros-a-una-empresa-por-controlar-a-trabajadores-desde-su-movil-personal/)
 
 <span class="news-item__source">talent24h.okdiario.com</span> Spain's AEPD fined Ares Capital €200,000 after a VTC driver had to install four work apps on his own phone, citing excessive data and no valid legal basis.
-
-### [Governor Newsom issues executive order to accelerate independent oversight and advance the creation of an AI kill switch](https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/)
-
-<span class="news-item__source">gov.ca.gov</span> California ordered an expert panel to report within two months on a verifiable kill switch for frontier AI models and independent third-party safety audits.

@@ -11,6 +11,10 @@ next = "/page/5/"
 
 ## 14 September 2026
 
+### [Hungary moves to amend controversial child protection law after EU court ruling](https://www.euronews.com/my-europe/2026/09/14/hungary-moves-to-amend-controversial-child-protection-law-after-eu-court-ruling)
+
+<span class="news-item__source">euronews.com</span> Hungary tabled amendments stripping the 2021 child protection law of its restrictions on depicting homosexuality to minors, hoping to unlock €500 million in EU education funds.
+
 ### [France submits new proposal to ban social media for under-15s](https://www.euractiv.com/news/france-submits-new-proposal-to-ban-social-media-for-under-15s/)
 
 <span class="news-item__source">euractiv.com</span> France notified the European Commission of a reworked bill banning social media for under-15s, after the Constitutional Council struck down the previous version in August.
@@ -94,7 +98,3 @@ next = "/page/5/"
 ### [Investigation commenced into X under Online Safety Code](https://www.cnam.ie/investigation-commenced-into-x-under-online-safety-code/)
 
 <span class="news-item__source">cnam.ie</span> Coimisiún na Meán opened the first Online Safety Code investigation, into X's age assurance and parental controls, with fines of up to 10% of turnover possible.
-
-### [Google warns of lower quality as it revamps Europe search results to avoid EU fines](https://www.reuters.com/world/google-warns-lower-quality-it-revamps-europe-search-results-avoid-eu-fines-2026-09-08/)
-
-<span class="news-item__source">reuters.com</span> Google rolled out its DMA search remedy across the EU and called it the largest reduction in service quality in Search's 29-year history.

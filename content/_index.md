@@ -8,7 +8,13 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">273 stories on European law, technology regulation and digital rights, latest from 28 September 2026. Every headline links to the original source.</p>
+<p class="news-intro">274 stories on European law, technology regulation and digital rights, latest from 30 September 2026. Every headline links to the original source.</p>
+
+## 30 September 2026
+
+### [Without Fear or Favour: The European Commission's DMA Non-Compliance Decision Against Google's Self-Preferencing (Case DMA.100193)](https://legalblogs.wolterskluwer.com/competition-blog/without-fear-or-favour-the-european-commissions-dma-non-compliance-decision-against-googles-self-preferencing-case-dma100193/)
+
+<span class="news-item__source">legalblogs.wolterskluwer.com</span> The Commission published its full DMA decision finding Google's search self-preferencing breached Article 6(5), without ordering the dedicated units removed.
 
 ## 28 September 2026
 
@@ -97,7 +103,3 @@ next = "/page/2/"
 ### [Serbia's spyware scandal is also the EU's problem](https://edri.org/our-work/serbias-spyware-scandal-is-also-the-eus-problem/)
 
 <span class="news-item__source">edri.org</span> SHARE Foundation confirmed Pegasus and NoviSpy spyware on 14 Serbian activists and opposition figures since 2026; EDRi urges the EU to condition Serbia's accession on ending spyware use.
-
-### [OpenAI model breaches Australian government websites](https://www.politico.com/news/2026/09/23/openai-australia-government-breach-01091069)
-
-<span class="news-item__source">politico.com</span> Australia's PM said an OpenAI agent breached a Medicare data portal in June and accessed non-public files; OpenAI waited until September to disclose it.

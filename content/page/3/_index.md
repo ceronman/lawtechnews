@@ -11,6 +11,10 @@ next = "/page/4/"
 
 ## 18 September 2026
 
+### [Governor Newsom issues executive order to accelerate independent oversight and advance the creation of an AI kill switch](https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/)
+
+<span class="news-item__source">gov.ca.gov</span> California ordered an expert panel to report within two months on a verifiable kill switch for frontier AI models and independent third-party safety audits.
+
 ### [France probes misuse of smart glasses in sexual harassment cases](https://www.reuters.com/technology/french-prosecutors-regulators-step-up-scrutiny-smart-glasses-2026-09-18/)
 
 <span class="news-item__source">reuters.com</span> Paris prosecutors opened at least one criminal probe into smart glasses used to film women in the street; the CNIL has received under 10 workplace complaints about the devices.
@@ -94,7 +98,3 @@ next = "/page/4/"
 ### [Open letter from European civil society organisations on encryption and privacy threats in Canada's Bill C-22](https://www.accessnow.org/press-release/encryption-and-privacy-threats-in-canadas-bill-c-22/)
 
 <span class="news-item__source">accessnow.org</span> Sixteen European digital rights groups asked the Commission to review Canada's GDPR adequacy over Bill C-22's secret capability orders and blanket metadata retention.
-
-### [Hungary moves to amend controversial child protection law after EU court ruling](https://www.euronews.com/my-europe/2026/09/14/hungary-moves-to-amend-controversial-child-protection-law-after-eu-court-ruling)
-
-<span class="news-item__source">euronews.com</span> Hungary tabled amendments stripping the 2021 child protection law of its restrictions on depicting homosexuality to minors, hoping to unlock €500 million in EU education funds.

@@ -11,6 +11,10 @@ next = "/page/8/"
 
 ## 20 August 2026
 
+### [eSafety secures court-enforceable undertaking from Roblox to do more to protect Australian kids from grooming and sexual exploitation](https://www.esafety.gov.au/newsroom/media-releases/esafety-secures-court-enforceable-undertaking-from-roblox-to-do-more-to-protect-australian-kids-from-grooming-and-sexual-exploitation)
+
+<span class="news-item__source">esafety.gov.au</span> Roblox has three months to block adult contact with unknown children, make under-16 profiles private by default and let a third party audit its age estimation.
+
 ### [AP advises Twitch users: opt out from sharing data with Amazon AI](https://www.autoriteitpersoonsgegevens.nl/en/current/ap-advises-twitch-users-opt-out-from-sharing-data-with-amazon-ai)
 
 <span class="news-item__source">autoriteitpersoonsgegevens.nl</span> The Dutch DPA urged Twitch users to disable the default-on setting letting Amazon train AI on their streams, faces, voices and chats.
@@ -94,9 +98,3 @@ next = "/page/8/"
 ### [Met apologises for exposing 143 email addresses of Mohamed Al Fayed victims](https://www.theguardian.com/world/2026/aug/15/met-police-apologises-exposing-email-addresses-mohamed-al-fayed-victims)
 
 <span class="news-item__source">theguardian.com</span> The Met exposed the email addresses of 143 Al Fayed victims in a group update, blamed human error and referred itself to the Information Commissioner.
-
-## 14 August 2026
-
-### [FTC probes health records giant Epic Systems, sources say](https://www.reuters.com/world/us-ftc-probing-health-records-company-epic-systems-2026-08-14/)
-
-<span class="news-item__source">reuters.com</span> The FTC opened an antitrust probe into whether Epic Systems withholds access to health records data; its platforms hold records on over 300 million patients.

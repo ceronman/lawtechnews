@@ -9,6 +9,12 @@ prev = "/page/4/"
 next = "/page/6/"
 +++
 
+## 8 September 2026
+
+### [Google warns of lower quality as it revamps Europe search results to avoid EU fines](https://www.reuters.com/world/google-warns-lower-quality-it-revamps-europe-search-results-avoid-eu-fines-2026-09-08/)
+
+<span class="news-item__source">reuters.com</span> Google rolled out its DMA search remedy across the EU and called it the largest reduction in service quality in Search's 29-year history.
+
 ## 7 September 2026
 
 ### [Why the EU age-verification tool does not solve privacy concerns](https://edri.org/our-work/eu-age-verification-tool-does-not-solve-privacy-concerns/)
@@ -96,9 +102,3 @@ next = "/page/6/"
 ### [California lawmakers pass bill governing lawyers' use of AI](https://www.reuters.com/legal/government/california-lawmakers-pass-bill-governing-lawyers-use-ai-2026-09-01/)
 
 <span class="news-item__source">reuters.com</span> SB 574 now goes to Newsom; it bars delegating legal work to generative AI and requires verifying citations and disclosing AI use in court filings.
-
-## 31 August 2026
-
-### [Privacy Reform – Consultation on Exposure Draft legislation](https://consultations.ag.gov.au/rights-and-protections/privacy-reform/)
-
-<span class="news-item__source">consultations.ag.gov.au</span> Australia opened consultation on an exposure draft Privacy Amendment (Personal Data Protection) Bill 2026 aimed at AI and wearables. Submissions close 18 September.

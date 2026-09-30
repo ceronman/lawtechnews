@@ -11,6 +11,10 @@ next = "/page/9/"
 
 ## 14 August 2026
 
+### [FTC probes health records giant Epic Systems, sources say](https://www.reuters.com/world/us-ftc-probing-health-records-company-epic-systems-2026-08-14/)
+
+<span class="news-item__source">reuters.com</span> The FTC opened an antitrust probe into whether Epic Systems withholds access to health records data; its platforms hold records on over 300 million patients.
+
 ### [French taxpayers' data stolen in cyber attack, French Finance Ministry says](https://www.reuters.com/legal/litigation/french-taxpayers-data-stolen-cyber-attack-french-finance-ministry-says-2026-08-14/)
 
 <span class="news-item__source">reuters.com</span> France's Finance Ministry confirmed an intruder extracted data on 678,000 taxpayers from the DGFiP in late June; those affected will be notified individually.
@@ -92,9 +96,3 @@ next = "/page/9/"
 ### [Amid Crackdown, Few Signs of a Slowdown in Scam Compounds](https://www.techpolicy.press/amid-crackdown-few-signs-of-a-slowdown-in-scam-compounds/)
 
 <span class="news-item__source">techpolicy.press</span> OHCHR estimates 300,000 trafficked people from 66 countries staff Southeast Asian scam compounds, which relocate faster than sanctions and raids can shut them down.
-
-## 10 August 2026
-
-### [US court rules Meta, other tech firms must face thousands of lawsuits over social media addiction](https://www.reuters.com/world/us-appeals-court-allows-thousands-lawsuits-against-social-media-companies-over-2026-08-10/)
-
-<span class="news-item__source">reuters.com</span> The Ninth Circuit held Section 230 is a liability defence, not immunity, letting 3,000-plus youth addiction suits proceed and clearing a 29-state trial to open Wednesday.
