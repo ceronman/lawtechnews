@@ -11,6 +11,18 @@ next = "/page/3/"
 
 ## 24 September 2026
 
+### [TikTok withdraws two appeals in children's privacy action and accepts £12.7m fine](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/09/tiktok-withdraws-two-appeals-in-children-s-privacy-action-and-accepts-127m-fine/)
+
+<span class="news-item__source">ico.org.uk</span> TikTok dropped its appeal and will pay the ICO's £12.7m fine over under-13s' data, also withdrawing a challenge that had stalled the regulator's probe into its teen recommender systems.
+
+### [Simplification for whom? Open letter to EU Member States to uphold GDPR protections in Digital Omnibus on Data](https://edri.org/our-work/simplification-for-whom-open-letter-uphold-gdpr-protections-in-data-omnibus/)
+
+<span class="news-item__source">edri.org</span> EDRi urged EU states to reject Council Digital Omnibus text that lets pseudonymised data escape GDPR and adds AI as grounds for 'legitimate interest' processing.
+
+### [First draft of the Polish Platform Work Act](https://knowledge.dlapiper.com/dlapiperknowledge/globalemploymentlatestdevelopments/2026/first-draft-of-the-polish-platform-work-act)
+
+<span class="news-item__source">knowledge.dlapiper.com</span> Poland published a draft law transposing the Platform Work Directive, creating a rebuttable employment presumption and fines up to €20m for banned algorithmic data use.
+
 ### [Finnish unions seek review of Wolt employment oversight](https://www.helsinkitimes.fi/finland/finland-news/domestic/29313-finnish-unions-seek-review-of-wolt-employment-oversight.html)
 
 <span class="news-item__source">helsinkitimes.fi</span> Two Finnish unions asked the Parliamentary Ombudsman to probe why labour inspectors have not acted since courts ruled Wolt couriers meet employee criteria.
@@ -84,17 +96,3 @@ next = "/page/3/"
 ### [EDPB harmonises fining methodology and adopts final DSA-GDPR guidelines](https://www.edpb.europa.eu/news/edpb-harmonises-fining-methodology-and-adopts-final-dsa-gdpr-guidelines_en)
 
 <span class="news-item__source">edpb.europa.eu</span> The EDPB adopted a five-step test for DPAs deciding whether to impose GDPR fines and finalised its guidelines on the DSA-GDPR interplay, with 14 worked examples.
-
-### [Data Protection Commission fines Google €403 million following Inquiry into Google's processing of location data](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location)
-
-<span class="news-item__source">dataprotection.ie</span> Ireland's DPC fined Google €403 million for unlawful processing of location data in Web & App Activity and Location History, ordering compliance within six months.
-
-### [AI: EU Member States plan “digital expropriation” of Europeans in the interest of AI companies](https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies)
-
-<span class="news-item__source">noyb.eu</span> A leaked Irish Presidency text adds GDPR Article 88bis, making any personal data use “in the context of AI” lawful by default with no consent required.
-
-## 20 September 2026
-
-### [US employers use software to punish workers at sixteen times the European rate. The gap is the law.](https://thenextweb.com/news/oecd-algorithmic-management-sanction-gap-ai-act-blind-spot)
-
-<span class="news-item__source">thenextweb.com</span> OECD survey of 6,047 firms found 67% of US employers use software to sanction workers vs 4% in Europe; most tools aren't AI and fall outside the AI Act's scope.

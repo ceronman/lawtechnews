@@ -9,6 +9,20 @@ prev = "/page/4/"
 next = "/page/6/"
 +++
 
+## 9 September 2026
+
+### [Non-respect des droits des personnes : sanction de 300 000 euros à l'encontre de la société EXTIA](https://www.cnil.fr/fr/sanction-non-respect-droits-personnes-extia)
+
+<span class="news-item__source">cnil.fr</span> The CNIL fined IT consultancy EXTIA €300,000 after more than three quarters of the 265 erasure requests it received in 2024 went unanswered or badly handled.
+
+### [Judgment of the General Court in Case T-1139/23 Booking Holdings v Commission](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260125en.pdf)
+
+<span class="news-item__source">curia.europa.eu</span> The General Court dismissed Booking's action and upheld the Commission's prohibition of its acquisition of flight-booking provider Etraveli Group.
+
+### [European Commission: Defend the DMA and reject Apple's new App Store terms](https://www.article19.org/resources/european-commission-defend-the-dma-and-reject-apples-new-app-store-terms/)
+
+<span class="news-item__source">article19.org</span> A coalition of app developers and rights groups told the Commission that Apple's new EU App Store terms, due on 1 October, still fail to comply with the DMA.
+
 ## 8 September 2026
 
 ### [Referencia del Consejo de Ministros: real decreto de condiciones laborales transparentes y previsibles](https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2026/20260908-referencia-rueda-de-prensa-ministros.aspx)
@@ -88,15 +102,3 @@ next = "/page/6/"
 ### [Judgment of the General Court in Case T-357/24 Opera Norway v Commission](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260113en.pdf)
 
 <span class="news-item__source">curia.europa.eu</span> The General Court dismissed the first third-party DMA challenge, upholding the Commission's refusal to designate Microsoft Edge as a gatekeeper service.
-
-### [Hey EU, your new rules for ChatGPT don't cover chat](https://www.politico.eu/article/new-eu-rules-for-chatgpt-dont-cover-chat/)
-
-<span class="news-item__source">politico.eu</span> ChatGPT's DSA designation as a search engine covers only its search-like functions, leaving chatbot conversations and companion uses outside the strictest obligations.
-
-### [FinCEN, Agencies, Issue Joint Statement on Suspicious Activity Report Confidentiality Considerations Regarding Communications with Customers](https://www.fincen.gov/news/news-releases/fincen-agencies-issue-joint-statement-suspicious-activity-report-confidentiality)
-
-<span class="news-item__source">fincen.gov</span> FinCEN and the four federal banking agencies said SAR confidentiality does not stop banks telling customers about suspicious transactions or account closures.
-
-### [Data Protection Commission announces Final Decision following Inquiry into the Health Service Executive (HSE)](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-announces-final-decision-following-inquiry-health-service-executive-hse)
-
-<span class="news-item__source">dataprotection.ie</span> The Irish DPC fined the HSE €645,000 for keeping patient paper records in derelict, mould-contaminated buildings, and ordered a nationwide audit of its storage facilities.

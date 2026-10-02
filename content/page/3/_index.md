@@ -9,6 +9,22 @@ prev = "/page/2/"
 next = "/page/4/"
 +++
 
+## 21 September 2026
+
+### [Data Protection Commission fines Google €403 million following Inquiry into Google's processing of location data](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location)
+
+<span class="news-item__source">dataprotection.ie</span> Ireland's DPC fined Google €403 million for unlawful processing of location data in Web & App Activity and Location History, ordering compliance within six months.
+
+### [AI: EU Member States plan “digital expropriation” of Europeans in the interest of AI companies](https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies)
+
+<span class="news-item__source">noyb.eu</span> A leaked Irish Presidency text adds GDPR Article 88bis, making any personal data use “in the context of AI” lawful by default with no consent required.
+
+## 20 September 2026
+
+### [US employers use software to punish workers at sixteen times the European rate. The gap is the law.](https://thenextweb.com/news/oecd-algorithmic-management-sanction-gap-ai-act-blind-spot)
+
+<span class="news-item__source">thenextweb.com</span> OECD survey of 6,047 firms found 67% of US employers use software to sanction workers vs 4% in Europe; most tools aren't AI and fall outside the AI Act's scope.
+
 ## 18 September 2026
 
 ### [Most EU countries late on pay transparency rules](https://www.euractiv.com/news/eu-countries-more-than-100-days-late-on-pay-transparency-rules/)
@@ -82,17 +98,3 @@ next = "/page/4/"
 ### [2026 State of the Union Address by President von der Leyen](https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1868)
 
 <span class="news-item__source">ec.europa.eu</span> Von der Leyen unveiled an EU Kids Act: no social media under 13, no personal account under 15, and parent-supervised mini accounts capped at one hour a day.
-
-## 15 September 2026
-
-### [Leak: EU Commission to pitch social media restrictions for under-15s](https://www.euronews.com/my-europe/2026/09/15/leak-eu-commission-to-pitch-social-media-restrictions-for-under-15s)
-
-<span class="news-item__source">euronews.com</span> A leaked EU Kids Act draft would bar under-15s from social media without parental consent and impose safety-by-design duties on video games and AI chatbots.
-
-### [Commission proposes ambitious measures to strengthen fair labour mobility](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1851)
-
-<span class="news-item__source">ec.europa.eu</span> The Commission adopted the Fair Labour Mobility package: a European Social Security Pass, digital qualifications in the EU Identity Wallet, and a strengthened Labour Authority.
-
-### [Anti-money laundering and asset recovery strategy: 2026 to 2029](https://www.gov.uk/government/publications/anti-money-laundering-and-asset-recovery-strategy-2026-to-2029)
-
-<span class="news-item__source">gov.uk</span> The Home Office set the UK's three-year AML direction, cutting supervisors from 25 to three and moving legal and accountancy firms to the FCA from late 2028.

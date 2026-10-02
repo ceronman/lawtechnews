@@ -8,13 +8,23 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">277 stories on European law, technology regulation and digital rights, latest from 1 October 2026. Every headline links to the original source.</p>
+<p class="news-intro">280 stories on European law, technology regulation and digital rights, latest from 2 October 2026. Every headline links to the original source.</p>
+
+## 2 October 2026
+
+### [119 MEPs Press Commission to Enforce EU Ban on AI 'Nudifier' Systems from First Day](https://eutoday.net/meps-eu-ai-nudifier-ban-enforcement/)
+
+<span class="news-item__source">eutoday.net</span> 119 MEPs asked the Commission and member states to designate enforcers before the AI Act nudifier ban applies on 2 December 2026, and to use the DSA harder.
 
 ## 1 October 2026
 
 ### [Opinion of Advocate General Medina in Case C-12/25 (right to erasure and baptismal registers)](https://curia.europa.eu/site/upload/docs/application/pdf/2026-10/cp260139en.pdf)
 
 <span class="news-item__source">curia.europa.eu</span> Advocate General Medina advised the CJEU that GDPR erasure can in principle apply to baptismal registers, unless the diocese shows overriding legitimate grounds.
+
+### [Italy switches on real-time facial recognition as EU calculates risk to basic rights](https://www.biometricupdate.com/202610/italy-switches-on-real-time-facial-recognition-as-eu-calculates-risk-to-basic-rights)
+
+<span class="news-item__source">biometricupdate.com</span> Italy's decree implementing the AI Act took effect, limiting police real-time facial recognition to specific threats and missing persons; the FRA published a critical report.
 
 ### [AMLA finalises standards on Home-Host Supervisory Cooperation](https://www.amla.europa.eu/press-release-amla-finalises-standards-home-host-supervisory-cooperation_en)
 
@@ -47,6 +57,10 @@ next = "/page/2/"
 ### [Chat control: EU states want to legalize comprehensive mass scans indirectly](https://www.heise.de/en/news/Chat-control-EU-states-want-to-legalize-comprehensive-mass-scans-indirectly-11468680.html)
 
 <span class="news-item__source">heise.de</span> Leaked Council papers show EU states pushing 'search plans' letting authorities order temporary blanket message scanning; the Irish presidency's plan B excludes private chats entirely.
+
+### [Bundesrat fordert strengere Regeln und Direktanstellung für Lieferdienste](https://www.heise.de/news/Bundesrat-fordert-strengere-Regeln-und-Direktanstellung-fuer-Lieferdienste-11468231.html)
+
+<span class="news-item__source">heise.de</span> Germany's Bundesrat urged the federal government to mandate direct employment of delivery couriers, going beyond the Platform Work Directive ahead of its December deadline.
 
 ## 27 September 2026
 
@@ -91,15 +105,3 @@ next = "/page/2/"
 ### [US government seeks to join Elon Musk in challenge against EU's fine on X](https://www.reuters.com/world/us-government-seeks-join-elon-musk-challenge-against-eus-fine-x-2026-09-24/)
 
 <span class="news-item__source">reuters.com</span> The US DOJ asked the EU General Court to back Elon Musk's bid to annul X's €120m DSA fine, calling Brussels' first DSA sanction regulatory overreach. <span class="news-item__discussions"><a href="https://www.reddit.com/r/worldnews/comments/1wpra3v/us_seeks_to_join_elon_musk_in_eu_court_fight_over/">[discussion on reddit]</a></span>
-
-### [TikTok withdraws two appeals in children's privacy action and accepts £12.7m fine](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/09/tiktok-withdraws-two-appeals-in-children-s-privacy-action-and-accepts-127m-fine/)
-
-<span class="news-item__source">ico.org.uk</span> TikTok dropped its appeal and will pay the ICO's £12.7m fine over under-13s' data, also withdrawing a challenge that had stalled the regulator's probe into its teen recommender systems.
-
-### [Simplification for whom? Open letter to EU Member States to uphold GDPR protections in Digital Omnibus on Data](https://edri.org/our-work/simplification-for-whom-open-letter-uphold-gdpr-protections-in-data-omnibus/)
-
-<span class="news-item__source">edri.org</span> EDRi urged EU states to reject Council Digital Omnibus text that lets pseudonymised data escape GDPR and adds AI as grounds for 'legitimate interest' processing.
-
-### [First draft of the Polish Platform Work Act](https://knowledge.dlapiper.com/dlapiperknowledge/globalemploymentlatestdevelopments/2026/first-draft-of-the-polish-platform-work-act)
-
-<span class="news-item__source">knowledge.dlapiper.com</span> Poland published a draft law transposing the Platform Work Directive, creating a rebuttable employment presumption and fines up to €20m for banned algorithmic data use.

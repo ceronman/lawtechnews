@@ -9,6 +9,20 @@ prev = "/page/5/"
 next = "/page/7/"
 +++
 
+## 2 September 2026
+
+### [Hey EU, your new rules for ChatGPT don't cover chat](https://www.politico.eu/article/new-eu-rules-for-chatgpt-dont-cover-chat/)
+
+<span class="news-item__source">politico.eu</span> ChatGPT's DSA designation as a search engine covers only its search-like functions, leaving chatbot conversations and companion uses outside the strictest obligations.
+
+### [FinCEN, Agencies, Issue Joint Statement on Suspicious Activity Report Confidentiality Considerations Regarding Communications with Customers](https://www.fincen.gov/news/news-releases/fincen-agencies-issue-joint-statement-suspicious-activity-report-confidentiality)
+
+<span class="news-item__source">fincen.gov</span> FinCEN and the four federal banking agencies said SAR confidentiality does not stop banks telling customers about suspicious transactions or account closures.
+
+### [Data Protection Commission announces Final Decision following Inquiry into the Health Service Executive (HSE)](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-announces-final-decision-following-inquiry-health-service-executive-hse)
+
+<span class="news-item__source">dataprotection.ie</span> The Irish DPC fined the HSE €645,000 for keeping patient paper records in derelict, mould-contaminated buildings, and ordered a nationwide audit of its storage facilities.
+
 ## 1 September 2026
 
 ### [Supreme Court: CRIF illegally collected data of millions in Austria. Way clear for class action!](https://noyb.eu/en/supreme-court-crif-illegally-collected-data-millions-austria-way-clear-class-action)
@@ -90,17 +104,3 @@ next = "/page/7/"
 ### [Consultatie Wet platformwerk (implementation of Directive (EU) 2024/2831)](https://www.internetconsultatie.nl/wetplatformwerk/b1)
 
 <span class="news-item__source">internetconsultatie.nl</span> The Dutch consultation on the Wet platformwerk closed with 86 public responses; the bill is a pure transposition of the directive, due in national law by 2 December 2026.
-
-## 21 August 2026
-
-### [Uber fined nearly 825 million euros for automated driver blocking](https://www.autoriteitpersoonsgegevens.nl/en/current/uber-fined-nearly-825-million-euros-for-automated-driver-blocking)
-
-<span class="news-item__source">autoriteitpersoonsgegevens.nl</span> The Dutch DPA fined Uber €824.99m for automatically deactivating drivers over fraud flags and low ratings without human review. Uber is appealing.
-
-### [U.S. Citizen Who Deleted Phone's Data Says His Prosecution Puts Privacy at Risk](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
-
-<span class="news-item__source">nytimes.com</span> US prosecutors charged Samuel Tunick with obstruction for entering a duress passcode that wiped his phone during a CBP airport search.
-
-### [TikTok agrees to $400 million US children's privacy settlement](https://www.reuters.com/world/us-justice-department-tiktok-settle-400-million-childrens-privacy-suit-axios-2026-08-21/)
-
-<span class="news-item__source">reuters.com</span> TikTok and ByteDance settled the DOJ's COPPA suit for $400m: $300m now, $100m once the 2019 Musical.ly consent decree is vacated.
