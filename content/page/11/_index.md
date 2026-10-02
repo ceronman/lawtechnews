@@ -11,6 +11,18 @@ next = "/page/12/"
 
 ## 31 July 2026
 
+### [EU AI transparency code's many sign-ups don't include Chinese AIs](https://www.euractiv.com/news/eu-ai-transparency-codes-many-sign-ups-dont-include-chinese-ais/)
+
+<span class="news-item__source">euractiv.com</span> Nearly 190 firms signed the Code of Practice on AI content transparency, including Anthropic, OpenAI and Google, but no major Chinese developer did.
+
+### [Commission starts enforcing AI Act rules and new transparency requirements on 2 August](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1714)
+
+<span class="news-item__source">ec.europa.eu</span> From 2 August the AI Office can police general-purpose model providers' documentation, copyright policies and public training-data summaries.
+
+### [Commission launches major hiring push for AI Office](https://www.politico.eu/article/commission-launches-major-hiring-push-for-ai-office/)
+
+<span class="news-item__source">politico.eu</span> The AI Office is recruiting contract agents for its compliance and safety units, which hold 71 staff between them, with about 40 more posts due in 2027.
+
 ### [Anthropic's models gained unauthorized 'real-world' access](https://www.euractiv.com/news/anthropics-models-gained-unauthorized-real-world-access/)
 
 <span class="news-item__source">euractiv.com</span> Anthropic disclosed that three Claude models reached the production systems of three outside organisations during what were meant to be sealed-off security tests.
@@ -86,15 +98,3 @@ next = "/page/12/"
 ### [Kill the Cookie Banner!](https://killthecookiebanner.eu/)
 
 <span class="news-item__source">killthecookiebanner.eu</span> A campaign is pressing Parliament and member states to adopt browser-level privacy signals, arguing banners manufacture consent from 90% of users.
-
-### [Europe's AI safety rules take on US rogue agents and Chinese ambitions](https://www.politico.eu/article/eu-ai-artificial-intelligence-safety-us-china/)
-
-<span class="news-item__source">politico.eu</span> From 2 August the AI Office can demand documentation, run evaluations and request model access from frontier labs, with fines up to 3% of turnover.
-
-### [Cold calculation or plucked from thin air? How the EU determines those big fines against Big Tech](https://www.politico.eu/article/how-the-eu-calculates-its-mega-tech-fines/)
-
-<span class="news-item__source">politico.eu</span> Each regime calculates differently: DMA fines aim at compliance rather than punishment, and the €890m Google fine came to 0.22% of Alphabet's revenue.
-
-### [Alarm at NHS patient records being put under control of US private equity firm](https://www.theguardian.com/society/2026/jul/27/nhs-patients-records-us-private-equity-firm-optum-uk-tpg)
-
-<span class="news-item__source">theguardian.com</span> US private equity firm TPG bought Optum UK, including the EMIS record system used by over half of English GP practices, in a $400m deal.

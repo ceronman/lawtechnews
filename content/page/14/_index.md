@@ -9,7 +9,21 @@ prev = "/page/13/"
 next = ""
 +++
 
+## 14 July 2026
+
+### [EDPB requires Belgian DPA to handle the merits of NOYB cookie banner complaint](https://www.edpb.europa.eu/news/edpb-requires-belgian-dpa-to-handle-the-merits-of-noyb-cookie-banner-complaint_en)
+
+<span class="news-item__source">edpb.europa.eu</span> A binding EDPB decision requires the Belgian DPA to rule on the merits of NOYB's cookie-banner complaint against VRT rather than dismiss it as an abuse.
+
+### ['Anthropic doesn't care about Europe' — EU officials peeved after AI giant sends junior staffer to testify about safety](https://www.europarl.europa.eu/committees/en/imco/home/highlights)
+
+<span class="news-item__source">europarl.europa.eu</span> Anthropic sent a junior technical employee to answer MEPs' questions on cyber-capable models, leaving policy questions unanswered and lawmakers unimpressed.
+
 ## 13 July 2026
+
+### [US appeals court overturns Clearview AI settlement](https://www.reuters.com/legal/government/us-appeals-court-overturns-clearview-ai-settlement-2026-07-13/)
+
+<span class="news-item__source">reuters.com</span> The 7th Circuit threw out Clearview AI's biometric-privacy settlement, holding that nationwide class members were represented worse than those in four states.
 
 ### [EU wants 13+ age restriction for social media](https://digital-strategy.ec.europa.eu/en/policies/protecting-young-people-online)
 

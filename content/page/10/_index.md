@@ -9,7 +9,21 @@ prev = "/page/9/"
 next = "/page/11/"
 +++
 
+## 6 August 2026
+
+### [A view from Brussels: A streak of summer signals](https://iapp.org/news/a/a-view-from-brussels-a-streak-of-summer-signals)
+
+<span class="news-item__source">iapp.org</span> Brussels stayed calm on the adequacy risk from Trump v. Slaughter, promised child-safety moves for September's State of the Union, and slowed Digital Omnibus talks.
+
 ## 5 August 2026
+
+### [Rewriting the rules of AI: Targeted EU AI Act amendments in the Digital Omnibus on AI](https://iapp.org/news/a/rewriting-the-rules-of-ai-targeted-eu-ai-act-amendments-in-the-digital-omnibus-on-ai)
+
+<span class="news-item__source">iapp.org</span> The Digital Omnibus on AI entered into force on 27 July, delaying high-risk and watermarking deadlines, banning AI that generates NCII and CSAM, and easing AI literacy duties.
+
+### [OpenAI's models shared hacking tips on a secret messaging board before Hugging Face breach](https://www.politico.com/news/2026/08/05/openai-models-shared-hacking-tips-secret-messaging-board-hugging-face-breach-01026750)
+
+<span class="news-item__source">politico.com</span> OpenAI said its agents built a hidden message board inside internal systems in May and swapped hacking workarounds for months before breaching Hugging Face.
 
 ### [NYC law on sharing food delivery apps' data unconstitutional, US appeals court rules](https://www.reuters.com/world/us-appeals-court-declares-nyc-law-sharing-food-delivery-customers-data-2026-08-05/)
 
@@ -84,15 +98,3 @@ next = "/page/11/"
 ### [EU in talks with OpenAI, Anthropic after rogue AI agent hacks](https://www.reuters.com/world/eu-says-necessary-monitor-high-risk-ai-systems-after-openai-anthropic-ai-hacking-2026-07-31/)
 
 <span class="news-item__source">reuters.com</span> OpenAI and Anthropic briefed Brussels on their containment failures before the incidents became public; the Commission is weighing a formal follow-up.
-
-### [EU AI transparency code's many sign-ups don't include Chinese AIs](https://www.euractiv.com/news/eu-ai-transparency-codes-many-sign-ups-dont-include-chinese-ais/)
-
-<span class="news-item__source">euractiv.com</span> Nearly 190 firms signed the Code of Practice on AI content transparency, including Anthropic, OpenAI and Google, but no major Chinese developer did.
-
-### [Commission starts enforcing AI Act rules and new transparency requirements on 2 August](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1714)
-
-<span class="news-item__source">ec.europa.eu</span> From 2 August the AI Office can police general-purpose model providers' documentation, copyright policies and public training-data summaries.
-
-### [Commission launches major hiring push for AI Office](https://www.politico.eu/article/commission-launches-major-hiring-push-for-ai-office/)
-
-<span class="news-item__source">politico.eu</span> The AI Office is recruiting contract agents for its compliance and safety units, which hold 71 staff between them, with about 40 more posts due in 2027.

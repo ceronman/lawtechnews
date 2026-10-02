@@ -11,6 +11,18 @@ next = "/page/6/"
 
 ## 8 September 2026
 
+### [Referencia del Consejo de Ministros: real decreto de condiciones laborales transparentes y previsibles](https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2026/20260908-referencia-rueda-de-prensa-ministros.aspx)
+
+<span class="news-item__source">lamoncloa.gob.es</span> Spain approved a royal decree transposing the transparent working conditions directive, adding an individual right to know which algorithmic systems shape a worker's pay and tasks.
+
+### [Návrh zákona o platformové práci a o změně souvisejících zákonů (zákon o platformové práci)](https://www.zakonyprolidi.cz/monitor/8240702.htm)
+
+<span class="news-item__source">zakonyprolidi.cz</span> The Czech platform work bill reached the Chamber of Deputies, introducing a presumption of employment, algorithmic-management transparency and human review of key decisions.
+
+### [Investigation commenced into X under Online Safety Code](https://www.cnam.ie/investigation-commenced-into-x-under-online-safety-code/)
+
+<span class="news-item__source">cnam.ie</span> Coimisiún na Meán opened the first Online Safety Code investigation, into X's age assurance and parental controls, with fines of up to 10% of turnover possible.
+
 ### [Google warns of lower quality as it revamps Europe search results to avoid EU fines](https://www.reuters.com/world/google-warns-lower-quality-it-revamps-europe-search-results-avoid-eu-fines-2026-09-08/)
 
 <span class="news-item__source">reuters.com</span> Google rolled out its DMA search remedy across the EU and called it the largest reduction in service quality in Search's 29-year history.
@@ -88,17 +100,3 @@ next = "/page/6/"
 ### [Data Protection Commission announces Final Decision following Inquiry into the Health Service Executive (HSE)](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-announces-final-decision-following-inquiry-health-service-executive-hse)
 
 <span class="news-item__source">dataprotection.ie</span> The Irish DPC fined the HSE €645,000 for keeping patient paper records in derelict, mould-contaminated buildings, and ordered a nationwide audit of its storage facilities.
-
-## 1 September 2026
-
-### [Supreme Court: CRIF illegally collected data of millions in Austria. Way clear for class action!](https://noyb.eu/en/supreme-court-crif-illegally-collected-data-millions-austria-way-clear-class-action)
-
-<span class="news-item__source">noyb.eu</span> Austria's Supreme Court held that credit agency CRIF breached GDPR purpose limitation by buying marketing address data, clearing the way for noyb's class action.
-
-### [Germany's Draft Law on AI in Migration Raises Rights and Bias Concerns](https://www.techpolicy.press/germanys-draft-law-on-ai-in-migration-raises-rights-and-bias-concerns/)
-
-<span class="news-item__source">techpolicy.press</span> Germany's cabinet approved the KIMVG draft allowing AI in visa, residence and asylum procedures, including automated cross-checks of applicants' statements against online sources.
-
-### [California lawmakers pass bill governing lawyers' use of AI](https://www.reuters.com/legal/government/california-lawmakers-pass-bill-governing-lawyers-use-ai-2026-09-01/)
-
-<span class="news-item__source">reuters.com</span> SB 574 now goes to Newsom; it bars delegating legal work to generative AI and requires verifying citations and disclosing AI use in court filings.
