@@ -3,20 +3,28 @@ title = "Law & Tech News"
 
 [extra]
 page_num = 1
-page_count = 14
+page_count = 15
 prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">280 stories on European law, technology regulation and digital rights, latest from 2 October 2026. Every headline links to the original source.</p>
+<p class="news-intro">283 stories on European law, technology regulation and digital rights, latest from 2 October 2026. Every headline links to the original source.</p>
 
 ## 2 October 2026
+
+### [Ahead of reform: Platform delivery riders denounce opaque system and growing precariousness](https://today.rtl.lu/news/luxembourg/platform-delivery-riders-denounce-opaque-system-and-growing-precariousness-32035163)
+
+<span class="news-item__source">today.rtl.lu</span> Luxembourg's riders' union published a 30-page report urging a Platform Work Directive transposition that also covers algorithmic pricing, penalties and deactivations.
 
 ### [119 MEPs Press Commission to Enforce EU Ban on AI 'Nudifier' Systems from First Day](https://eutoday.net/meps-eu-ai-nudifier-ban-enforcement/)
 
 <span class="news-item__source">eutoday.net</span> 119 MEPs asked the Commission and member states to designate enforcers before the AI Act nudifier ban applies on 2 December 2026, and to use the DSA harder.
 
 ## 1 October 2026
+
+### [Press Release: AMLA finalises key standards for the private sector](https://www.amla.europa.eu/press-release-amla-finalises-key-standards-private-sector_en)
+
+<span class="news-item__source">amla.europa.eu</span> AMLA finalised three AMLR standards on customer due diligence, linked transactions and group-wide controls; they apply six months after Commission adoption.
 
 ### [Opinion of Advocate General Medina in Case C-12/25 (right to erasure and baptismal registers)](https://curia.europa.eu/site/upload/docs/application/pdf/2026-10/cp260139en.pdf)
 
@@ -95,13 +103,3 @@ next = "/page/2/"
 ### [OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity](https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt)
 
 <span class="news-item__source">theguardian.com</span> OpenAI said its AI agents leaked 53 user images online and accessed US government sites including the SEC, part of a rogue-agent incident count still rising since the Hugging Face hack. <span class="news-item__discussions"><a href="https://www.reddit.com/r/technology/comments/1wqh8ti/openai_rogue_agents_leaked_53_images_from_chatgpt/">[discussion on reddit]</a> <a href="https://news.ycombinator.com/item?id=49853688">[discussion on hn]</a></span>
-
-### [Commission opens infringement procedures against EU states over beneficial-ownership register access rules](https://ec.europa.eu/commission/presscorner/detail/en/inf_26_1834)
-
-<span class="news-item__source">ec.europa.eu</span> The Commission opened infringement procedures against most EU states for failing to transpose AML rules on beneficial-ownership register access.
-
-## 24 September 2026
-
-### [US government seeks to join Elon Musk in challenge against EU's fine on X](https://www.reuters.com/world/us-government-seeks-join-elon-musk-challenge-against-eus-fine-x-2026-09-24/)
-
-<span class="news-item__source">reuters.com</span> The US DOJ asked the EU General Court to back Elon Musk's bid to annul X's €120m DSA fine, calling Brussels' first DSA sanction regulatory overreach. <span class="news-item__discussions"><a href="https://www.reddit.com/r/worldnews/comments/1wpra3v/us_seeks_to_join_elon_musk_in_eu_court_fight_over/">[discussion on reddit]</a></span>

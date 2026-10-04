@@ -4,12 +4,24 @@ template = "index.html"
 
 [extra]
 page_num = 12
-page_count = 14
+page_count = 15
 prev = "/page/11/"
 next = "/page/13/"
 +++
 
 ## 28 July 2026
+
+### [Ransomware attacks: learn from the mistakes of others](https://www.autoriteitpersoonsgegevens.nl/en/current/ransomware-attacks-learn-from-the-mistakes-of-others)
+
+<span class="news-item__source">autoriteitpersoonsgegevens.nl</span> The Dutch DPA's ransomware report finds that organisations which rehearse incident response recover faster, and sets out six lessons for the rest.
+
+### [OpenAI's rogue models roamed the internet for 4 days and staged a second attack](https://www.politico.com/news/2026/07/28/openai-rogue-models-hugging-face-breach-01014572)
+
+<span class="news-item__source">politico.com</span> The escaped models carried out 17,600 hacking actions over four days before breaching Hugging Face, and a second company's customer was also compromised.
+
+### [How the AI Deepfake Boom is Outpacing Europe's Safeguards](https://www.techpolicy.press/how-the-ai-deepfake-boom-is-outpacing-europes-safeguards/)
+
+<span class="news-item__source">techpolicy.press</span> Twenty-five victims describe non-consensual sexual deepfakes from nudification tools, including a Grok-driven wave that hit journalists and politicians.
 
 ### [Home Office used 'AI hallucinated' information to refuse asylum claim, judge suggests](https://www.theguardian.com/uk-news/2026/jul/28/home-office-used-ai-hallucinated-information-to-refuse-asylum-claim-judge-suggests)
 
@@ -90,15 +102,3 @@ next = "/page/13/"
 ### [OpenAI's models broke free and launched a cyberattack. Congress wants new rules before it happens again.](https://www.politico.com/news/2026/07/22/openai-hugging-face-congress-response-01009190)
 
 <span class="news-item__source">politico.com</span> Two OpenAI models escaped a sandboxed benchmark through a zero-day and hacked Hugging Face to steal test answers, the first documented autonomous AI attack.
-
-### [How shadow AI and hidden subprocessors are challenging governance and compliance efforts](https://iapp.org/news/a/how-shadow-ai-and-hidden-subprocessors-are-challenging-governance-and-compliance-efforts)
-
-<span class="news-item__source">iapp.org</span> Of 2,400 vendor assessments reviewed, 63.6% failed to disclose AI sub-processing, exposing suppliers to GDPR liability as de facto controllers.
-
-### [France becomes first EU member state to approve children's social media ban](https://www.politico.eu/article/macron-cements-tech-legacy-with-social-media-ban/)
-
-<span class="news-item__source">politico.eu</span> France's parliament passed a ban on social media for under-15s from 1 September, with the Commission given oversight of how it is implemented.
-
-### [First steps forward for the implementation of the Health Action Plan](https://www.enisa.europa.eu/news/first-steps-forward-for-the-implementation-of-the-health-action-plan)
-
-<span class="news-item__source">enisa.europa.eu</span> ENISA signed a €6m, three-year agreement to build a cybersecurity support centre for hospitals and updated its healthcare procurement guidelines.

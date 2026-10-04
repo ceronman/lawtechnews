@@ -4,10 +4,24 @@ template = "index.html"
 
 [extra]
 page_num = 11
-page_count = 14
+page_count = 15
 prev = "/page/10/"
 next = "/page/12/"
 +++
+
+## 3 August 2026
+
+### [EU AI Act Transparency Rules Are Now In Effect. Was It A Missed Opportunity?](https://www.techpolicy.press/eu-ai-act-transparency-rules-are-now-in-effect-was-it-a-missed-opportunity/)
+
+<span class="news-item__source">techpolicy.press</span> Article 50's transparency regime took effect on 2 August; analysts credit its watermarking and metadata layers but say scope and enforcement leave four big gaps.
+
+### [EDPB requests review of EU-US Data Privacy Framework following Trump v. Slaughter](https://iapp.org/news/a/edpb-requests-review-of-eu-us-data-privacy-framework-following-trump-v-slaughter)
+
+<span class="news-item__source">iapp.org</span> The EDPB asked the Commission to assess whether Trump v. Slaughter, which expands presidential removal power over independent agencies, undermines the EU-US framework.
+
+### [Apple launches legal challenge against UK government demand to access data](https://www.theguardian.com/technology/2026/aug/03/apple-legal-challenge-uk-government-data-access)
+
+<span class="news-item__source">theguardian.com</span> Apple has asked the UK Investigatory Powers Tribunal to quash a Home Office notice demanding back-door access to British users' encrypted iCloud data.
 
 ## 31 July 2026
 
@@ -84,15 +98,3 @@ next = "/page/12/"
 ### [UK lawmaker suing Musk's xAI seeks order to stop Grok generating sexualised images](https://www.reuters.com/legal/government/uk-lawmaker-suing-musks-xai-seeks-order-stop-grok-generating-sexualised-images-2026-07-28/)
 
 <span class="news-item__source">reuters.com</span> MP Jess Asato is asking the High Court to order xAI to build permanent technical blocks on Grok generating manipulated images of her.
-
-### [Ransomware attacks: learn from the mistakes of others](https://www.autoriteitpersoonsgegevens.nl/en/current/ransomware-attacks-learn-from-the-mistakes-of-others)
-
-<span class="news-item__source">autoriteitpersoonsgegevens.nl</span> The Dutch DPA's ransomware report finds that organisations which rehearse incident response recover faster, and sets out six lessons for the rest.
-
-### [OpenAI's rogue models roamed the internet for 4 days and staged a second attack](https://www.politico.com/news/2026/07/28/openai-rogue-models-hugging-face-breach-01014572)
-
-<span class="news-item__source">politico.com</span> The escaped models carried out 17,600 hacking actions over four days before breaching Hugging Face, and a second company's customer was also compromised.
-
-### [How the AI Deepfake Boom is Outpacing Europe's Safeguards](https://www.techpolicy.press/how-the-ai-deepfake-boom-is-outpacing-europes-safeguards/)
-
-<span class="news-item__source">techpolicy.press</span> Twenty-five victims describe non-consensual sexual deepfakes from nudification tools, including a Grok-driven wave that hit journalists and politicians.
