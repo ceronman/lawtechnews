@@ -9,7 +9,25 @@ prev = "/page/3/"
 next = "/page/5/"
 +++
 
+## 17 September 2026
+
+### [EU KIDS Act to restrict social media platforms' access to children in the EU](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1890)
+
+<span class="news-item__source">ec.europa.eu</span> The Commission adopted the EU KIDS Act, reversing the burden of proof onto very large platforms and adding expedited enforcement with investigations closed within 90 days.
+
+### [Bundesgerichtshof legt EuGH Fragen zur "Haushaltsausnahme" nach der DSGVO vor](https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026169.html)
+
+<span class="news-item__source">bundesgerichtshof.de</span> Germany's Federal Court of Justice referred two cases to the CJEU on how far the GDPR household exemption reaches when private chats or home CCTV go to employers or police.
+
 ## 16 September 2026
+
+### [Poland's platform work law could reach far beyond couriers and drivers](https://ceo.com.pl/en/poland-platform-work-law-couriers-freelancers-digital-platforms-90034/)
+
+<span class="news-item__source">ceo.com.pl</span> Poland's Platform Work Directive bill UC160 drew industry objections that its employment presumption and platform definition could capture IT freelancers and B2B marketplaces.
+
+### [Nyt udkast til AI-hjemmelslov sendt i høring](https://www.datatilsynet.dk/presse-og-nyheder/nyhedsarkiv/2026/sep/nyt-udkast-til-ai-hjemmelslov-sendt-i-hoering)
+
+<span class="news-item__source">datatilsynet.dk</span> Denmark sent a redrafted AI authorisation act to consultation, creating a general data-protection legal basis for public bodies to build and run AI on personal data.
 
 ### [Ireland’s domestic AI legislation comes into force](https://www.arthurcox.com/knowledge/irelands-domestic-ai-legislation-comes-into-force/)
 
@@ -82,19 +100,3 @@ next = "/page/5/"
 ### [Sentenza su rider Glovo: da assumere a tempo pieno e indeterminato. "Pagare anche le attese"](https://www.rainews.it/tgr/piemonte/articoli/2026/09/tribunale-torino-rider-nuova-sentenza-lavoratore-da-assumere-a-tempo-pieno-indeterminato-pagare-anche-le-attese-952000e2-f48a-4cd5-b4ba-2e506a54b065.html)
 
 <span class="news-item__source">rainews.it</span> The Turin labour court ordered Glovo to hire a rider on a permanent full-time contract, finding algorithmic control created subordination, and to pay waiting time between orders.
-
-### [SCHUFA insists on shadow database. noyb lawsuit now certain](https://noyb.eu/en/schufa-insists-shadow-database-noyb-lawsuit-now-certain)
-
-<span class="news-item__source">noyb.eu</span> SCHUFA rejected noyb's cease-and-desist over its shadow database, so noyb will file for an injunction and is collecting sign-ups for a possible class action.
-
-### [Open Letter: Civil society coalition urges EU to kill the cookie banner!](https://noyb.eu/en/open-letter-civil-society-coalition-urges-eu-kill-cookie-banner)
-
-<span class="news-item__source">noyb.eu</span> Nineteen civil society groups, businesses and academics urged EU lawmakers to keep Article 88b of the Digital Omnibus after the Council dropped binding automated privacy signals.
-
-### [Governor Newsom signs the strongest child safety chatbot and social media laws in the nation](https://www.gov.ca.gov/2026/09/10/governor-newsom-signs-the-strongest-child-safety-chatbot-and-social-media-laws-in-the-nation/)
-
-<span class="news-item__source">gov.ca.gov</span> California enacted 13 bills, including Adam's Law requiring independent child safety audits of companion chatbots and a ban on addictive feeds for under-16s.
-
-### [EU watchdog probes von der Leyen's AI envoy pick](https://www.politico.eu/article/eu-ombudsman-ursula-von-der-leyen-ai-envoy-jim-hagemann-snabe/)
-
-<span class="news-item__source">politico.eu</span> The European Ombudsman opened an inquiry into the Commission's appointment of Siemens chairman Jim Hagemann Snabe as special envoy for industrial AI.

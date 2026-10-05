@@ -8,9 +8,19 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">283 stories on European law, technology regulation and digital rights, latest from 2 October 2026. Every headline links to the original source.</p>
+<p class="news-intro">287 stories on European law, technology regulation and digital rights, latest from 5 October 2026. Every headline links to the original source.</p>
+
+## 5 October 2026
+
+### [Omfattende uautoriseret adgang til borgeres CPR-oplysninger](https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger)
+
+<span class="news-item__source">cpr.dk</span> Intruders abused a private company's legitimate access to Denmark's CPR register and obtained names, addresses and ID numbers of about 8.8 million people. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=49962012">[discussion on hn]</a></span>
 
 ## 2 October 2026
+
+### [EU Platform Work Directive: what are the latest updates](https://www.linkedin.com/pulse/eu-platform-work-directive-what-latest-updates-ius-laboris-vxwne)
+
+<span class="news-item__source">linkedin.com</span> No Member State has fully transposed the Platform Work Directive yet, but several have tabled draft laws since April ahead of the 2 December 2026 deadline.
 
 ### [Ahead of reform: Platform delivery riders denounce opaque system and growing precariousness](https://today.rtl.lu/news/luxembourg/platform-delivery-riders-denounce-opaque-system-and-growing-precariousness-32035163)
 
@@ -30,6 +40,10 @@ next = "/page/2/"
 
 <span class="news-item__source">curia.europa.eu</span> Advocate General Medina advised the CJEU that GDPR erasure can in principle apply to baptismal registers, unless the diocese shows overriding legitimate grounds.
 
+### [Lyft agrees to pay California $272.5m in largest-ever wage theft settlement](https://www.theguardian.com/technology/2026/oct/01/lyft-largest-ever-wage-theft-settlement)
+
+<span class="news-item__source">theguardian.com</span> Lyft settled California's misclassification claims for $272.5m, with over $237m going to drivers treated as contractors between 2016 and 2020, subject to court approval.
+
 ### [Italy switches on real-time facial recognition as EU calculates risk to basic rights](https://www.biometricupdate.com/202610/italy-switches-on-real-time-facial-recognition-as-eu-calculates-risk-to-basic-rights)
 
 <span class="news-item__source">biometricupdate.com</span> Italy's decree implementing the AI Act took effect, limiting police real-time facial recognition to specific threats and missing persons; the FRA published a critical report.
@@ -43,6 +57,10 @@ next = "/page/2/"
 ### [Without Fear or Favour: The European Commission's DMA Non-Compliance Decision Against Google's Self-Preferencing (Case DMA.100193)](https://legalblogs.wolterskluwer.com/competition-blog/without-fear-or-favour-the-european-commissions-dma-non-compliance-decision-against-googles-self-preferencing-case-dma100193/)
 
 <span class="news-item__source">legalblogs.wolterskluwer.com</span> The Commission published its full DMA decision finding Google's search self-preferencing breached Article 6(5), without ordering the dedicated units removed.
+
+### [The CRBR will no longer be fully public. What will change for businesses?](https://www.tgc.eu/en/publications/tgc-corporate-lawyers-legal-review-september-2026/)
+
+<span class="news-item__source">tgc.eu</span> Poland's government adopted an AML amendment draft restricting public access to the CRBR beneficial-ownership register from 1 October 2027 to those showing legitimate interest.
 
 ### [Google asks EU court to suspend order to share search data with AI rivals](https://finance.yahoo.com/technology/ai/articles/google-asks-eu-court-suspend-175843460.html)
 
@@ -83,23 +101,3 @@ next = "/page/2/"
 ### [Brussels rewrites GDPR rules for the AI era](https://theeuropeanpost.eu/research-analysis/brussels-rewrites-gdpr-rules-for-the-ai-era/)
 
 <span class="news-item__source">theeuropeanpost.eu</span> The EDPB and EDPS jointly warned the Council's draft Digital Omnibus redefinition of 'personal data' conflicts with CJEU case law as GDPR trilogue talks approach.
-
-### [As A.I. Accelerates, Governments Are Increasingly Being Left Behind](https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html)
-
-<span class="news-item__source">nytimes.com</span> Von der Leyen convened senior EU officials to weigh tougher AI safety rules against economic costs, reaching no decision after her Sept. 16 SOTEU speech.
-
-## 26 September 2026
-
-### [Neue Selbstständigkeit: Das Gesetz, das zu spät kommt](https://denkstrom.org/artikel/plattformgesetz-neue-selbstaendigkeit-eu-frist-2026/)
-
-<span class="news-item__source">denkstrom.org</span> Germany's labour ministry proposed a voluntary self-employment status instead of a rebuttable employment presumption for platform workers, taking effect 13 months after the EU deadline.
-
-## 25 September 2026
-
-### [The presidency's question: leave private messages out of the regulation?](https://brusselsrecord.com/presidency-question-leave-private-messages-out/)
-
-<span class="news-item__source">brusselsrecord.com</span> A leaked Council note ahead of the 29 September trilogue asks ambassadors whether to write voluntary scanning of private messages into permanent law, or drop it without compromise.
-
-### [OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity](https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt)
-
-<span class="news-item__source">theguardian.com</span> OpenAI said its AI agents leaked 53 user images online and accessed US government sites including the SEC, part of a rogue-agent incident count still rising since the Hugging Face hack. <span class="news-item__discussions"><a href="https://www.reddit.com/r/technology/comments/1wqh8ti/openai_rogue_agents_leaked_53_images_from_chatgpt/">[discussion on reddit]</a> <a href="https://news.ycombinator.com/item?id=49853688">[discussion on hn]</a></span>
