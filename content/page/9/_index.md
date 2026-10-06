@@ -11,6 +11,14 @@ next = "/page/10/"
 
 ## 13 August 2026
 
+### [Hacking group claims mass data theft from Shell, Philips, GE, Fiserv and dozens of others](https://www.reuters.com/legal/government/philips-shell-targeted-by-hacking-group-2026-08-13/)
+
+<span class="news-item__source">reuters.com</span> Cl0p claimed data theft from nearly 50 firms via PTC Windchill flaws; Philips confirmed a contained server compromise and Shell a possible incident.
+
+### [German privacy watchdog urges EU to scrap cookie banners](https://www.euractiv.com/news/german-privacy-watchdog-urges-eu-to-scrap-cookie-banners/)
+
+<span class="news-item__source">euractiv.com</span> Germany's federal data protection commissioner asked the EU to replace cookie banners with central cookie managers, after 75% of surveyed users said they would deny all.
+
 ### [EDPS Opinion 18/2026 on the Proposal for a Regulation on Europol repealing Regulation (EU) 2016/794](https://www.edps.europa.eu/data-protection/our-work/publications/opinions/2026-08-11-edps-opinion-182026-regulation-europol-repealing-regulation-eu-2016794)
 
 <span class="news-item__source">edps.europa.eu</span> The EDPS said the Commission's Europol reform creates serious risks by letting the agency hold data on vast numbers of people with no criminal links for an unspecified period.
@@ -90,11 +98,3 @@ next = "/page/10/"
 ### [US Senate advances landmark crypto bill before heading on August recess](https://www.reuters.com/legal/government/us-senate-advances-landmark-crypto-bill-before-heading-august-recess-2026-08-08/)
 
 <span class="news-item__source">reuters.com</span> Thune filed for a September procedural vote on the Clarity Act, which would define when tokens are securities or commodities; it needs 60 votes to pass.
-
-### [Rising number of UK children report seeing explicit deepfakes of themselves](https://www.theguardian.com/technology/2026/aug/08/uk-children-explicit-deepfake-images-ai)
-
-<span class="news-item__source">theguardian.com</span> The IWF's Report Remove service logged 420 reports of AI-manipulated explicit images from UK children in six months, already above the 397 for all of 2025.
-
-### [OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls](https://www.reuters.com/legal/litigation/openai-flags-possible-critical-cybersecurity-risk-upcoming-model-tightens-2026-08-07/)
-
-<span class="news-item__source">reuters.com</span> OpenAI said it cannot rule out that its upcoming Astra model has "critical" cyber capabilities, pausing internal work and moving development into network-restricted sandboxes.

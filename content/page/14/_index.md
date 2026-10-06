@@ -9,7 +9,17 @@ prev = "/page/13/"
 next = "/page/15/"
 +++
 
+## 17 July 2026
+
+### ["Made in Europe" password manager Passwork found to share Russian origins and state-certified ties](https://www.occrp.org/en/investigation/european-password-manager-shares-origins-and-updates-with-state-certified-russian-firm)
+
+<span class="news-item__source">occrp.org</span> Passwork, sold as a European password manager and used by Dutch and Irish public bodies, shares code and ties with an FSB-certified Russian firm.
+
 ## 16 July 2026
+
+### [US judge halts sanctions policy that hit ex-EU commissioner Breton](https://www.politico.eu/article/us-judge-pauses-visa-restrictions-thierry-breton-disinformation-researchers/)
+
+<span class="news-item__source">politico.eu</span> A federal judge paused the State Department policy imposing visa bans on officials who enforce platform laws, including Thierry Breton, on First Amendment grounds.
 
 ### [The digital rulebook is fit for purpose: better enforcement is needed, not simplification](https://edri.org/our-work/the-digital-rulebook-is-fit-for-purpose-better-enforcement-is-needed-not-simplification/)
 
@@ -94,11 +104,3 @@ next = "/page/15/"
 ### [EU General Court dismisses Apple's challenge to its gatekeeper designation under the DMA](https://curia.europa.eu/site/upload/docs/application/pdf/2026-07/cp260096en.pdf)
 
 <span class="news-item__source">curia.europa.eu</span> The General Court dismissed Apple's challenge to its DMA gatekeeper designation, confirming that its App Store versions count as a single platform service.
-
-### [EDPB sheds light on anonymisation and web scraping for generative AI and adopts final version of guidelines on blockchain](https://www.edpb.europa.eu/news/edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-and-adopts-final-version_en)
-
-<span class="news-item__source">edpb.europa.eu</span> New draft guidelines set a three-part test for anonymous data and address web scraping for generative AI training; the blockchain guidelines were finalised.
-
-### [AMLA introduces a common EU approach to enforcing anti-money laundering rules](https://www.amla.europa.eu/press-release-amla-introduces-common-eu-approach-enforcing-anti-money-laundering-rules_en)
-
-<span class="news-item__source">amla.europa.eu</span> AMLA's draft technical standards give supervisors in every member state one four-tier method for grading AML breaches and setting enforcement outcomes.

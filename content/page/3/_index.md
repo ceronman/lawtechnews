@@ -11,6 +11,10 @@ next = "/page/4/"
 
 ## 22 September 2026
 
+### [ECB flags AML gap for stablecoin issuers lacking financial licence](https://www.amlintelligence.com/2026/09/news-ecb-flags-aml-gap-for-stablecoin-issuers-lacking-financial-licence/)
+
+<span class="news-item__source">amlintelligence.com</span> The ECB urged EU lawmakers to close a gap letting some stablecoin issuers avoid anti-money-laundering rules that bind other crypto firms.
+
 ### [Council wants privacy enhancing tech incentives in omnibus](https://www.euractiv.com/news/council-wants-privacy-enhancing-tech-incentives-in-omnibus/)
 
 <span class="news-item__source">euractiv.com</span> EU Council ministers want the Digital Omnibus to add incentives for privacy-enhancing tech and want the Commission to assess industry use of it, especially for cookies.
@@ -24,6 +28,10 @@ next = "/page/4/"
 ### [Poor data sharing undermining EU cyber defences, auditors say](https://www.reuters.com/legal/government/poor-data-sharing-undermining-eu-cyber-defences-auditors-say-2026-09-21/)
 
 <span class="news-item__source">reuters.com</span> The European Court of Auditors found EU states rarely share cyber-incident data, noting no 'large-scale' incident has been formally reported since 2016 despite qualifying attacks.
+
+### [Irish data protection watchdog fines Google €403m over GDPR breaches](https://www.irishtimes.com/business/2026/09/21/irish-data-protection-watchdog-fines-google-403m-over-gdpr-breaches/)
+
+<span class="news-item__source">irishtimes.com</span> The Irish DPC fined Google €403m for unlawfully processing location data via three account features and gave it six months to comply; Google may appeal. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=49811802">[discussion on hn]</a></span>
 
 ### [Glovo, il giudice respinge la richiesta del pm sull'assunzione dei rider: "Deve decidere il Tribunale del lavoro"](https://www.ilfattoquotidiano.it/2026/09/21/glovo-il-giudice-respinge-la-richiesta-del-pm-di-assumere-i-rider-deve-decidere-il-tribunale-del-lavoro/8513402/)
 
@@ -90,11 +98,3 @@ next = "/page/4/"
 ### [Opinion of Advocate General Spielmann in Case C-317/25 Groupe Canal +](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260130en.pdf)
 
 <span class="news-item__source">curia.europa.eu</span> AG Spielmann advised that consent for a company's unnamed ‘partners’ to use personal data for direct marketing is invalid unless those partners are identified.
-
-### [Home Office challenged on ‘farcical’ secrecy over Apple ‘backdoor’ order](https://www.computerweekly.com/news/366650612/Home-Office-challenged-on-farcical-secrecy-over-Apple-backdoor-order)
-
-<span class="news-item__source">computerweekly.com</span> Privacy International and Liberty told the Investigatory Powers Tribunal the Home Office's neither-confirm-nor-deny stance on Apple's encryption notice is no longer sustainable.
-
-### [German court rules Meta liable for fake ads on Instagram, Facebook](https://www.reuters.com/legal/litigation/german-court-rules-meta-liable-fake-ads-instagram-facebook-2026-09-17/)
-
-<span class="news-item__source">reuters.com</span> A German court held Meta liable for third-party scam ads, rejecting the DSA lack-of-knowledge defence because its algorithms and ad tools shape what users see.

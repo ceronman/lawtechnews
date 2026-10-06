@@ -11,6 +11,14 @@ next = "/page/9/"
 
 ## 18 August 2026
 
+### [US states take on Meta in pivotal trial over child social media addiction claims](https://www.theguardian.com/technology/2026/aug/18/meta-child-safety-addiction-lawsuit-states)
+
+<span class="news-item__source">theguardian.com</span> Twenty-nine US states opened a jury trial in Oakland accusing Meta of deliberately designing addictive products for minors; damages could reach $200bn.
+
+### [SEC Proposes New Regulation Crypto Assets](https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets)
+
+<span class="news-item__source">sec.gov</span> The SEC proposed exemptions letting crypto issuers raise up to $5m over four years or $75m a year without registration, preempting state securities law.
+
 ### [Piratage du système d'information des impôts : les vérifications sont en cours](https://www.cnil.fr/fr/piratage-du-systeme-dinformation-des-impots-les-verifications-sont-en-cours)
 
 <span class="news-item__source">cnil.fr</span> The CNIL was notified of the DGFiP tax-system breach exposing income, withholding and cadastral data, and may inspect and sanction over security failings.
@@ -90,11 +98,3 @@ next = "/page/9/"
 ### [Hiding your use of AI is about to get much harder — thanks to Brussels](https://www.politico.eu/article/artificial-intelligence-ai-watermark-big-tech/)
 
 <span class="news-item__source">politico.eu</span> AI Act transparency duties applying since 2 August force marking of AI output; Anthropic said every Claude model released after that date embeds invisible text watermarks.
-
-### [Hacking group claims mass data theft from Shell, Philips, GE, Fiserv and dozens of others](https://www.reuters.com/legal/government/philips-shell-targeted-by-hacking-group-2026-08-13/)
-
-<span class="news-item__source">reuters.com</span> Cl0p claimed data theft from nearly 50 firms via PTC Windchill flaws; Philips confirmed a contained server compromise and Shell a possible incident.
-
-### [German privacy watchdog urges EU to scrap cookie banners](https://www.euractiv.com/news/german-privacy-watchdog-urges-eu-to-scrap-cookie-banners/)
-
-<span class="news-item__source">euractiv.com</span> Germany's federal data protection commissioner asked the EU to replace cookie banners with central cookie managers, after 75% of surveyed users said they would deny all.

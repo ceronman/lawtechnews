@@ -11,6 +11,14 @@ next = ""
 
 ## 8 July 2026
 
+### [EDPB sheds light on anonymisation and web scraping for generative AI and adopts final version of guidelines on blockchain](https://www.edpb.europa.eu/news/edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-and-adopts-final-version_en)
+
+<span class="news-item__source">edpb.europa.eu</span> New draft guidelines set a three-part test for anonymous data and address web scraping for generative AI training; the blockchain guidelines were finalised.
+
+### [AMLA introduces a common EU approach to enforcing anti-money laundering rules](https://www.amla.europa.eu/press-release-amla-introduces-common-eu-approach-enforcing-anti-money-laundering-rules_en)
+
+<span class="news-item__source">amla.europa.eu</span> AMLA's draft technical standards give supervisors in every member state one four-tier method for grading AML breaches and setting enforcement outcomes.
+
 ### [AI increases the risks of cyberattacks](https://www.autoriteitpersoonsgegevens.nl/en/current/ai-increases-the-risks-of-cyberattacks)
 
 <span class="news-item__source">autoriteitpersoonsgegevens.nl</span> Account takeovers reported to the Dutch DPA nearly tripled to 1,742 in 2025, which it attributes to increasingly convincing AI-generated phishing.

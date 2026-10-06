@@ -11,6 +11,10 @@ next = "/page/3/"
 
 ## 27 September 2026
 
+### [Brussels rewrites GDPR rules for the AI era](https://theeuropeanpost.eu/research-analysis/brussels-rewrites-gdpr-rules-for-the-ai-era/)
+
+<span class="news-item__source">theeuropeanpost.eu</span> The EDPB and EDPS jointly warned the Council's draft Digital Omnibus redefinition of 'personal data' conflicts with CJEU case law as GDPR trilogue talks approach.
+
 ### [As A.I. Accelerates, Governments Are Increasingly Being Left Behind](https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html)
 
 <span class="news-item__source">nytimes.com</span> Von der Leyen convened senior EU officials to weigh tougher AI safety rules against economic costs, reaching no decision after her Sept. 16 SOTEU speech.
@@ -96,7 +100,3 @@ next = "/page/3/"
 ### [El juez sienta en el banquillo a Oscar Pierre, cofundador de Glovo, por mantener a falsos autónomos](https://elpais.com/espana/catalunya/2026-09-22/el-juez-sienta-en-el-banquillo-a-oscar-pierre-cofundador-de-glovo-por-mantener-a-falsos-autonomos.html)
 
 <span class="news-item__source">elpais.com</span> A Barcelona court ordered Glovo co-founder Oscar Pierre to stand trial for keeping riders as false self-employed, a crime carrying up to six years in prison.
-
-### [ECB flags AML gap for stablecoin issuers lacking financial licence](https://www.amlintelligence.com/2026/09/news-ecb-flags-aml-gap-for-stablecoin-issuers-lacking-financial-licence/)
-
-<span class="news-item__source">amlintelligence.com</span> The ECB urged EU lawmakers to close a gap letting some stablecoin issuers avoid anti-money-laundering rules that bind other crypto firms.

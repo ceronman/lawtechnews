@@ -11,6 +11,14 @@ next = "/page/12/"
 
 ## 4 August 2026
 
+### [European privacy regulators eye Meta's smart glasses](https://www.euractiv.com/news/european-privacy-regulators-eye-metas-smart-glasses/)
+
+<span class="news-item__source">euractiv.com</span> Data protection authorities are moving on camera-equipped smart glasses; Hamburg's regulator floated a German ban and an EDPB report is due by the end of summer.
+
+### [Does the EU's Special Panel Succeed in Charting a Third Path for Child Safety?](https://www.techpolicy.press/does-the-eus-special-panel-succeed-in-charting-a-third-path-for-child-safety/)
+
+<span class="news-item__source">techpolicy.press</span> The Commission's expert panel on protecting minors online backs safety-by-design and shifting the burden of proof to platforms, as four member states go their own way.
+
 ### [Can we solve the cookie banner problem in the EU?](https://iapp.org/news/a/can-we-solve-the-cookie-banner-problem-in-the-eu-)
 
 <span class="news-item__source">iapp.org</span> A proposed GDPR Article 88b would let browsers signal privacy choices automatically, ending per-site consent banners; it now rests on the Digital Omnibus trilogue.
@@ -88,13 +96,3 @@ next = "/page/12/"
 ### [Can AI Agents Be Aligned with Human Rights?](https://www.techpolicy.press/can-ai-agents-be-aligned-with-human-rights/)
 
 <span class="news-item__source">techpolicy.press</span> DeepMind researchers propose training models against the Universal Declaration of Human Rights, testing the taxonomy on 100 simulated agent failures.
-
-### [Brussels Gains New AI Act Enforcement Powers as Autonomous AI Tests Regulators](https://www.techpolicy.press/-brussels-gains-new-ai-act-enforcement-powers-as-autonomous-ai-tests-regulators/)
-
-<span class="news-item__source">techpolicy.press</span> The Commission can now investigate general-purpose model providers and fine them up to €15m or 3% of global turnover; the AI Office is staffed at 145.
-
-## 29 July 2026
-
-### [What X's Corrected Action Under the DSA Fixes on Data Access, and What's Left Open](https://www.techpolicy.press/what-xs-corrected-action-under-the-dsa-fixes-on-data-access-and-whats-left-open/)
-
-<span class="news-item__source">techpolicy.press</span> X's accepted DSA remedies promise free, faster researcher data access, but critics say they fix eligibility screening without guaranteeing useful data.

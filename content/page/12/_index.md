@@ -9,7 +9,17 @@ prev = "/page/11/"
 next = "/page/13/"
 +++
 
+## 30 July 2026
+
+### [Brussels Gains New AI Act Enforcement Powers as Autonomous AI Tests Regulators](https://www.techpolicy.press/-brussels-gains-new-ai-act-enforcement-powers-as-autonomous-ai-tests-regulators/)
+
+<span class="news-item__source">techpolicy.press</span> The Commission can now investigate general-purpose model providers and fine them up to €15m or 3% of global turnover; the AI Office is staffed at 145.
+
 ## 29 July 2026
+
+### [What X's Corrected Action Under the DSA Fixes on Data Access, and What's Left Open](https://www.techpolicy.press/what-xs-corrected-action-under-the-dsa-fixes-on-data-access-and-whats-left-open/)
+
+<span class="news-item__source">techpolicy.press</span> X's accepted DSA remedies promise free, faster researcher data access, but critics say they fix eligibility screening without guaranteeing useful data.
 
 ### [Meet the EU team leading the world's first bona fide regulation of AI](https://www.politico.eu/article/meet-the-eu-team-going-up-against-big-ai-models/)
 
@@ -92,13 +102,3 @@ next = "/page/13/"
 ### [Commission preliminarily finds TikTok in breach of Digital Services Act for failing to ensure safe accounts for minors](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1679)
 
 <span class="news-item__source">ec.europa.eu</span> TikTok received preliminary DSA findings over minors' accounts defaulting to public and weak age assurance. A final decision could cost 6% of turnover.
-
-## 23 July 2026
-
-### [Fighting child sexual abuse online: interim measure protecting children now reinstated](https://www.consilium.europa.eu/en/press/press-releases/2026/07/23/fighting-child-sexual-abuse-online-interim-measure-protecting-children-now-reinstated/)
-
-<span class="news-item__source">consilium.europa.eu</span> The Council approved the renewed interim regulation letting providers voluntarily scan for child sexual abuse material, running until 3 April 2028.
-
-### [EU's Google fine risks triggering Trump as he gears up for more tariffs](https://www.politico.eu/article/eu-google-fine-donald-trump-tariffs/)
-
-<span class="news-item__source">politico.eu</span> The record DMA fine landed as Washington's temporary tariffs expired, with US officials calling it discriminatory and pressing Trump to retaliate.

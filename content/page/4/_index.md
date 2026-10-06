@@ -11,6 +11,14 @@ next = "/page/5/"
 
 ## 17 September 2026
 
+### [Home Office challenged on ‘farcical’ secrecy over Apple ‘backdoor’ order](https://www.computerweekly.com/news/366650612/Home-Office-challenged-on-farcical-secrecy-over-Apple-backdoor-order)
+
+<span class="news-item__source">computerweekly.com</span> Privacy International and Liberty told the Investigatory Powers Tribunal the Home Office's neither-confirm-nor-deny stance on Apple's encryption notice is no longer sustainable.
+
+### [German court rules Meta liable for fake ads on Instagram, Facebook](https://www.reuters.com/legal/litigation/german-court-rules-meta-liable-fake-ads-instagram-facebook-2026-09-17/)
+
+<span class="news-item__source">reuters.com</span> A German court held Meta liable for third-party scam ads, rejecting the DSA lack-of-knowledge defence because its algorithms and ad tools shape what users see.
+
 ### [EU KIDS Act to restrict social media platforms' access to children in the EU](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1890)
 
 <span class="news-item__source">ec.europa.eu</span> The Commission adopted the EU KIDS Act, reversing the burden of proof onto very large platforms and adding expedited enforcement with investigations closed within 90 days.
@@ -90,13 +98,3 @@ next = "/page/5/"
 ### [ICO statement on its investigation into Police Scotland](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/09/ico-statement-on-its-investigation-into-police-scotland/)
 
 <span class="news-item__source">ico.org.uk</span> The ICO opened an investigation into whether Police Scotland handles subject access requests within statutory deadlines under UK GDPR Articles 12 and 15.
-
-### [Dutch Government Advocates for EU-Wide Minimum Age for Social Media](https://www.government.nl/latest/news/2026/09/11/dutch-government-advocates-for-eu-wide-minimum-age-for-social-media)
-
-<span class="news-item__source">government.nl</span> The Netherlands and Spain sent the Commission a joint non-paper backing an EU-wide minimum age for social media, with privacy-friendly age verification and exemptions for safe services.
-
-## 10 September 2026
-
-### [Sentenza su rider Glovo: da assumere a tempo pieno e indeterminato. "Pagare anche le attese"](https://www.rainews.it/tgr/piemonte/articoli/2026/09/tribunale-torino-rider-nuova-sentenza-lavoratore-da-assumere-a-tempo-pieno-indeterminato-pagare-anche-le-attese-952000e2-f48a-4cd5-b4ba-2e506a54b065.html)
-
-<span class="news-item__source">rainews.it</span> The Turin labour court ordered Glovo to hire a rider on a permanent full-time contract, finding algorithmic control created subordination, and to pay waiting time between orders.

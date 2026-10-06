@@ -8,7 +8,7 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">287 stories on European law, technology regulation and digital rights, latest from 5 October 2026. Every headline links to the original source.</p>
+<p class="news-intro">289 stories on European law, technology regulation and digital rights, latest from 5 October 2026. Every headline links to the original source.</p>
 
 ## 5 October 2026
 
@@ -47,6 +47,10 @@ next = "/page/2/"
 ### [Italy switches on real-time facial recognition as EU calculates risk to basic rights](https://www.biometricupdate.com/202610/italy-switches-on-real-time-facial-recognition-as-eu-calculates-risk-to-basic-rights)
 
 <span class="news-item__source">biometricupdate.com</span> Italy's decree implementing the AI Act took effect, limiting police real-time facial recognition to specific threats and missing persons; the FRA published a critical report.
+
+### [Autumn Legislative Programme Signals Further Change for Irish Employers](https://littler.ie/insights/autumn-legislative-programme-signals-further-change-for-irish-employers/)
+
+<span class="news-item__source">littler.ie</span> Ireland's autumn legislative programme omits a Platform Work Directive bill, though the government says it is still on track to transpose by the 2 December 2026 deadline.
 
 ### [AMLA finalises standards on Home-Host Supervisory Cooperation](https://www.amla.europa.eu/press-release-amla-finalises-standards-home-host-supervisory-cooperation_en)
 
@@ -97,7 +101,3 @@ next = "/page/2/"
 ### [EU Chat Control Talks Reach Decisive Moment](https://theeuropeanpost.eu/research-analysis/eu-chat-control-talks-reach-decisive-moment/)
 
 <span class="news-item__source">theeuropeanpost.eu</span> Council, Parliament and Commission hold a sixth chat control trilogue on 29 September; states opposing mandatory scanning are just over two points short of a blocking minority. <span class="news-item__discussions"><a href="https://reddit.com/r/tutanota/comments/1wpyild/next_tuesday_a_permanent_decision_on_chat_control/">[discussion on reddit]</a> <a href="https://news.ycombinator.com/item?id=49854252">[discussion on hn]</a></span>
-
-### [Brussels rewrites GDPR rules for the AI era](https://theeuropeanpost.eu/research-analysis/brussels-rewrites-gdpr-rules-for-the-ai-era/)
-
-<span class="news-item__source">theeuropeanpost.eu</span> The EDPB and EDPS jointly warned the Council's draft Digital Omnibus redefinition of 'personal data' conflicts with CJEU case law as GDPR trilogue talks approach.

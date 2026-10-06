@@ -9,7 +9,17 @@ prev = "/page/4/"
 next = "/page/6/"
 +++
 
+## 11 September 2026
+
+### [Dutch Government Advocates for EU-Wide Minimum Age for Social Media](https://www.government.nl/latest/news/2026/09/11/dutch-government-advocates-for-eu-wide-minimum-age-for-social-media)
+
+<span class="news-item__source">government.nl</span> The Netherlands and Spain sent the Commission a joint non-paper backing an EU-wide minimum age for social media, with privacy-friendly age verification and exemptions for safe services.
+
 ## 10 September 2026
+
+### [Sentenza su rider Glovo: da assumere a tempo pieno e indeterminato. "Pagare anche le attese"](https://www.rainews.it/tgr/piemonte/articoli/2026/09/tribunale-torino-rider-nuova-sentenza-lavoratore-da-assumere-a-tempo-pieno-indeterminato-pagare-anche-le-attese-952000e2-f48a-4cd5-b4ba-2e506a54b065.html)
+
+<span class="news-item__source">rainews.it</span> The Turin labour court ordered Glovo to hire a rider on a permanent full-time contract, finding algorithmic control created subordination, and to pay waiting time between orders.
 
 ### [SCHUFA insists on shadow database. noyb lawsuit now certain](https://noyb.eu/en/schufa-insists-shadow-database-noyb-lawsuit-now-certain)
 
@@ -92,13 +102,3 @@ next = "/page/6/"
 ### [PAM sees no grounds for continuing negotiations with Wolt on couriers' terms and conditions of employment](https://www.pam.fi/en/stories/you-get-nothing-without-even-asking-pam-sees-no-grounds-for-continuing-negotiations-with-wolt-on-couriers-terms-and-conditions-of-employment/)
 
 <span class="news-item__source">pam.fi</span> Finnish union PAM broke off almost three years of talks with Wolt over courier pay and said it will now pursue misclassification through the courts.
-
-## 3 September 2026
-
-### [Violation de données en matière de santé : sanction de 500 000 euros à l'encontre de l'HÔPITAL PRIVÉ DE LA LOIRE](https://www.cnil.fr/fr/sanction-hopital-prive-loire)
-
-<span class="news-item__source">cnil.fr</span> The CNIL fined Hôpital Privé de la Loire €500,000 after an attacker reached 524,867 patients' records via an external account with no VPN, MFA or access limits.
-
-### [Provvedimento del 3 settembre 2026 – Banco Bilbao Vizcaya Argentaria, succursale italiana](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10291895)
-
-<span class="news-item__source">garanteprivacy.it</span> Italy's Garante fined BBVA's Italian branch €5.5 million for sending in-app marketing notifications for seven months to a customer who had opted out.

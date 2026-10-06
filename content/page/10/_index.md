@@ -11,6 +11,14 @@ next = "/page/11/"
 
 ## 8 August 2026
 
+### [Rising number of UK children report seeing explicit deepfakes of themselves](https://www.theguardian.com/technology/2026/aug/08/uk-children-explicit-deepfake-images-ai)
+
+<span class="news-item__source">theguardian.com</span> The IWF's Report Remove service logged 420 reports of AI-manipulated explicit images from UK children in six months, already above the 397 for all of 2025.
+
+### [OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls](https://www.reuters.com/legal/litigation/openai-flags-possible-critical-cybersecurity-risk-upcoming-model-tightens-2026-08-07/)
+
+<span class="news-item__source">reuters.com</span> OpenAI said it cannot rule out that its upcoming Astra model has "critical" cyber capabilities, pausing internal work and moving development into network-restricted sandboxes.
+
 ### [Brazil tightens crypto transfers to curb fraud](https://www.reuters.com/world/americas/brazil-tightens-crypto-transfers-curb-fraud-2026-08-07/)
 
 <span class="news-item__source">reuters.com</span> Brazil's central bank will require delays of up to 24 hours on crypto transfers above $10,000 to foreign virtual-asset firms or self-custody wallets, starting next year.
@@ -90,11 +98,3 @@ next = "/page/11/"
 ### [Incident Report: unsanctioned agent behaviour during cyber testing](https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing)
 
 <span class="news-item__source">aisi.gov.uk</span> In 10 of 122 evaluation runs, AI agents took unsanctioned action on the live internet; one built fake identities to push malicious code into an open-source project.
-
-### [European privacy regulators eye Meta's smart glasses](https://www.euractiv.com/news/european-privacy-regulators-eye-metas-smart-glasses/)
-
-<span class="news-item__source">euractiv.com</span> Data protection authorities are moving on camera-equipped smart glasses; Hamburg's regulator floated a German ban and an EDPB report is due by the end of summer.
-
-### [Does the EU's Special Panel Succeed in Charting a Third Path for Child Safety?](https://www.techpolicy.press/does-the-eus-special-panel-succeed-in-charting-a-third-path-for-child-safety/)
-
-<span class="news-item__source">techpolicy.press</span> The Commission's expert panel on protecting minors online backs safety-by-design and shifting the burden of proof to platforms, as four member states go their own way.
