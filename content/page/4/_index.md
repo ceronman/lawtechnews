@@ -9,7 +9,21 @@ prev = "/page/3/"
 next = "/page/5/"
 +++
 
+## 18 September 2026
+
+### [EXCLUSIVE: OpenAI didn't report safety incident under EU AI rules](https://www.euractiv.com/news/exclusive-openai-didnt-report-another-incident-under-eu-ai-safety-rules/)
+
+<span class="news-item__source">euractiv.com</span> OpenAI filed no serious-incident report with the EU AI Office over the RubyGems episode, suggesting a narrow reading of the AI Act's duty to report without undue delay.
+
 ## 17 September 2026
+
+### [Riigikogu takes Estonia's Platform Work Act (1003 SE) into proceedings](https://www.riigikogu.ee/pressiteated/menetlusse-voeti-eelnou-kinnisasja-omandamise-kitsendamiseks/)
+
+<span class="news-item__source">riigikogu.ee</span> Estonia's government tabled a Platform Work Act covering all platform workers whatever their contract, requiring a human to decide any account suspension or termination.
+
+### [Opinion of Advocate General Spielmann in Case C-317/25 Groupe Canal +](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260130en.pdf)
+
+<span class="news-item__source">curia.europa.eu</span> AG Spielmann advised that consent for a company's unnamed ‘partners’ to use personal data for direct marketing is invalid unless those partners are identified.
 
 ### [Home Office challenged on ‘farcical’ secrecy over Apple ‘backdoor’ order](https://www.computerweekly.com/news/366650612/Home-Office-challenged-on-farcical-secrecy-over-Apple-backdoor-order)
 
@@ -84,17 +98,3 @@ next = "/page/5/"
 ### [France submits new proposal to ban social media for under-15s](https://www.euractiv.com/news/france-submits-new-proposal-to-ban-social-media-for-under-15s/)
 
 <span class="news-item__source">euractiv.com</span> France notified the European Commission of a reworked bill banning social media for under-15s, after the Constitutional Council struck down the previous version in August.
-
-### [eCourier drivers 'likely' to win worker status claim](https://www.personneltoday.com/hr/ecourier-drivers-likely-to-win-worker-status-claim/)
-
-<span class="news-item__source">personneltoday.com</span> An employment tribunal said 46 drivers at Royal Mail-owned eCourier are likely to be found workers rather than self-employed contractors, citing Uber and Pimlico Plumbers.
-
-## 11 September 2026
-
-### [Safer and more secure digital products](https://commission.europa.eu/news-and-media/news/safer-and-more-secure-digital-products-2026-09-11_en)
-
-<span class="news-item__source">commission.europa.eu</span> The Cyber Resilience Act's Article 14 reporting duties took effect: manufacturers must send an early warning within 24 hours via ENISA's Single Reporting Platform and notify fully within 72.
-
-### [ICO statement on its investigation into Police Scotland](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/09/ico-statement-on-its-investigation-into-police-scotland/)
-
-<span class="news-item__source">ico.org.uk</span> The ICO opened an investigation into whether Police Scotland handles subject access requests within statutory deadlines under UK GDPR Articles 12 and 15.

@@ -9,6 +9,22 @@ prev = "/page/5/"
 next = "/page/7/"
 +++
 
+## 5 September 2026
+
+### [Food delivery riders call on platforms to open up AI 'black box' they say has cut pay](https://www.theguardian.com/business/2026/sep/05/food-delivery-riders-platforms-open-ai-black-box-cut-pay)
+
+<span class="news-item__source">theguardian.com</span> Edinburgh riders backed by the Workers' Observatory demanded platforms disclose their pay algorithms; one rider's average fee fell from £3.67 to £3.42 per order since 2023.
+
+## 4 September 2026
+
+### [US court ruling aggravates Brussels' Google problem](https://www.politico.eu/article/us-court-ruling-aggravates-brussels-google-problem/)
+
+<span class="news-item__source">politico.eu</span> Judge Brinkema rejected the DoJ's bid to force Google to divest parts of its ad tech business, leaving the Commission alone in demanding a breakup.
+
+### [PAM sees no grounds for continuing negotiations with Wolt on couriers' terms and conditions of employment](https://www.pam.fi/en/stories/you-get-nothing-without-even-asking-pam-sees-no-grounds-for-continuing-negotiations-with-wolt-on-couriers-terms-and-conditions-of-employment/)
+
+<span class="news-item__source">pam.fi</span> Finnish union PAM broke off almost three years of talks with Wolt over courier pay and said it will now pursue misclassification through the courts.
+
 ## 3 September 2026
 
 ### [Violation de données en matière de santé : sanction de 500 000 euros à l'encontre de l'HÔPITAL PRIVÉ DE LA LOIRE](https://www.cnil.fr/fr/sanction-hopital-prive-loire)
@@ -84,17 +100,3 @@ next = "/page/7/"
 ### [FTC, States Sue Amazon Over Secret Ad Surcharge Scheme](https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-states-sue-amazon-over-secret-ad-surcharge-scheme)
 
 <span class="news-item__source">ftc.gov</span> The complaint alleges Amazon quietly turned its "second price" ad auctions into first price from 2019, extracting tens of billions from over a million sellers.
-
-### [Commission designates ChatGPT, Reddit, Roblox under Digital Services Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1772)
-
-<span class="news-item__source">ec.europa.eu</span> The Commission designated ChatGPT as a very large online search engine and Reddit and Roblox as very large online platforms, giving them until January 2027 to comply.
-
-## 28 August 2026
-
-### [US court rules Pentagon ban of Anthropic unlawful](https://www.euractiv.com/news/us-court-rules-pentagon-ban-of-anthropic-unlawful/)
-
-<span class="news-item__source">euractiv.com</span> A US federal judge held that the government-wide ban on Anthropic products was unlawful retaliation for the firm refusing mass surveillance and autonomous weapons uses.
-
-### [The US got Meta to change Instagram and Facebook. Europe wants in.](https://www.politico.eu/article/meta-kids-safety-us-eu-digital-services-act/)
-
-<span class="news-item__source">politico.eu</span> The Commission signalled Meta's $18bn US settlement falls short of its DSA demands, which target autoplay, infinite scroll and personalised feeds themselves.

@@ -11,6 +11,18 @@ next = "/page/4/"
 
 ## 22 September 2026
 
+### [The Spanish DPA fined Securitas Direct 100 000 EUR for making the exercise of data subject rights more difficult](https://www.edpb.europa.eu/news/national-news/2026/spanish-dpa-fined-securitas-direct-100-000-eur-making-exercise-data-subject_en)
+
+<span class="news-item__source">edpb.europa.eu</span> The Spanish DPA fined Securitas Direct €100,000 for steering data subjects to a chargeable phone number when they tried to exercise their GDPR rights.
+
+### [Sanktionsavgift mot Miljödata för bristande säkerhet](https://www.imy.se/nyheter/sanktionsavgift-mot-miljodata-for-bristande-sakerhet/)
+
+<span class="news-item__source">imy.se</span> Sweden's IMY fined IT vendor Miljödata SEK 1.8m under GDPR Article 32 after a 2025 breach exposed sensitive data of 2.2 million people via unmonitored systems. <span class="news-item__discussions"><a href="https://www.reddit.com/r/pwnhub/comments/1wnv1p4/sweden_fines_miljoumldata_183000_over_breach/">[discussion on reddit]</a></span>
+
+### [El juez sienta en el banquillo a Oscar Pierre, cofundador de Glovo, por mantener a falsos autónomos](https://elpais.com/espana/catalunya/2026-09-22/el-juez-sienta-en-el-banquillo-a-oscar-pierre-cofundador-de-glovo-por-mantener-a-falsos-autonomos.html)
+
+<span class="news-item__source">elpais.com</span> A Barcelona court ordered Glovo co-founder Oscar Pierre to stand trial for keeping riders as false self-employed, a crime carrying up to six years in prison.
+
 ### [ECB flags AML gap for stablecoin issuers lacking financial licence](https://www.amlintelligence.com/2026/09/news-ecb-flags-aml-gap-for-stablecoin-issuers-lacking-financial-licence/)
 
 <span class="news-item__source">amlintelligence.com</span> The ECB urged EU lawmakers to close a gap letting some stablecoin issuers avoid anti-money-laundering rules that bind other crypto firms.
@@ -84,17 +96,3 @@ next = "/page/4/"
 ### [France probes misuse of smart glasses in sexual harassment cases](https://www.reuters.com/technology/french-prosecutors-regulators-step-up-scrutiny-smart-glasses-2026-09-18/)
 
 <span class="news-item__source">reuters.com</span> Paris prosecutors opened at least one criminal probe into smart glasses used to film women in the street; the CNIL has received under 10 workplace complaints about the devices.
-
-### [EXCLUSIVE: OpenAI didn't report safety incident under EU AI rules](https://www.euractiv.com/news/exclusive-openai-didnt-report-another-incident-under-eu-ai-safety-rules/)
-
-<span class="news-item__source">euractiv.com</span> OpenAI filed no serious-incident report with the EU AI Office over the RubyGems episode, suggesting a narrow reading of the AI Act's duty to report without undue delay.
-
-## 17 September 2026
-
-### [Riigikogu takes Estonia's Platform Work Act (1003 SE) into proceedings](https://www.riigikogu.ee/pressiteated/menetlusse-voeti-eelnou-kinnisasja-omandamise-kitsendamiseks/)
-
-<span class="news-item__source">riigikogu.ee</span> Estonia's government tabled a Platform Work Act covering all platform workers whatever their contract, requiring a human to decide any account suspension or termination.
-
-### [Opinion of Advocate General Spielmann in Case C-317/25 Groupe Canal +](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260130en.pdf)
-
-<span class="news-item__source">curia.europa.eu</span> AG Spielmann advised that consent for a company's unnamed ‘partners’ to use personal data for direct marketing is invalid unless those partners are identified.

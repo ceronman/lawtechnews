@@ -8,9 +8,19 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">289 stories on European law, technology regulation and digital rights, latest from 5 October 2026. Every headline links to the original source.</p>
+<p class="news-intro">292 stories on European law, technology regulation and digital rights, latest from 6 October 2026. Every headline links to the original source.</p>
+
+## 6 October 2026
+
+### [Greece: Labour Ministry receives report on transposing the Platform Work Directive](https://www.bankingnews.gr/politiki/articles/903578/kerameus-new-bill-sets-limits-on-artificial-intelligence-in-human-resources-management)
+
+<span class="news-item__source">bankingnews.gr</span> Greece's Labour Ministry received its committee's report transposing the Platform Work Directive, banning algorithmic processing of workers' biometric and emotional data.
 
 ## 5 October 2026
+
+### [OpenAI is adding text watermarking in ChatGPT and Codex](https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act)
+
+<span class="news-item__source">theverge.com</span> OpenAI is rolling out invisible textGrain watermarks in ChatGPT and Codex for EU users to meet AI Act transparency rules, with opt-in for API customers worldwide. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=49980602">[discussion on hn]</a></span>
 
 ### [Omfattende uautoriseret adgang til borgeres CPR-oplysninger](https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger)
 
@@ -21,6 +31,10 @@ next = "/page/2/"
 ### [EU Platform Work Directive: what are the latest updates](https://www.linkedin.com/pulse/eu-platform-work-directive-what-latest-updates-ius-laboris-vxwne)
 
 <span class="news-item__source">linkedin.com</span> No Member State has fully transposed the Platform Work Directive yet, but several have tabled draft laws since April ahead of the 2 December 2026 deadline.
+
+### [Dati sanitari: il Garante privacy sanziona IQVIA per 7 milioni di euro](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10302141)
+
+<span class="news-item__source">garanteprivacy.it</span> Italy's Garante fined IQVIA €7m because health data on one million patients of 800 GPs was not truly anonymised and allowed re-identification.
 
 ### [Ahead of reform: Platform delivery riders denounce opaque system and growing precariousness](https://today.rtl.lu/news/luxembourg/platform-delivery-riders-denounce-opaque-system-and-growing-precariousness-32035163)
 
@@ -87,17 +101,3 @@ next = "/page/2/"
 ### [Chat control: EU states want to legalize comprehensive mass scans indirectly](https://www.heise.de/en/news/Chat-control-EU-states-want-to-legalize-comprehensive-mass-scans-indirectly-11468680.html)
 
 <span class="news-item__source">heise.de</span> Leaked Council papers show EU states pushing 'search plans' letting authorities order temporary blanket message scanning; the Irish presidency's plan B excludes private chats entirely.
-
-### [Bundesrat fordert strengere Regeln und Direktanstellung für Lieferdienste](https://www.heise.de/news/Bundesrat-fordert-strengere-Regeln-und-Direktanstellung-fuer-Lieferdienste-11468231.html)
-
-<span class="news-item__source">heise.de</span> Germany's Bundesrat urged the federal government to mandate direct employment of delivery couriers, going beyond the Platform Work Directive ahead of its December deadline.
-
-## 27 September 2026
-
-### [Russian tech surveillance company infiltrated Europe's law enforcement agencies](https://www.politico.eu/article/russia-tech-surveillance-company-infiltrated-europes-law-enforcement-agencies/)
-
-<span class="news-item__source">politico.eu</span> US prosecutors charged Oxygen Forensics, secretly run from Russia, after EU-funded projects vetted its software and police in Germany, Spain, Italy and Poland bought it. <span class="news-item__discussions"><a href="https://www.reddit.com/r/Intelligence/comments/1wpyy95/us_company_that_sold_phone_hacking_software_to/">[discussion on reddit]</a></span>
-
-### [EU Chat Control Talks Reach Decisive Moment](https://theeuropeanpost.eu/research-analysis/eu-chat-control-talks-reach-decisive-moment/)
-
-<span class="news-item__source">theeuropeanpost.eu</span> Council, Parliament and Commission hold a sixth chat control trilogue on 29 September; states opposing mandatory scanning are just over two points short of a blocking minority. <span class="news-item__discussions"><a href="https://reddit.com/r/tutanota/comments/1wpyild/next_tuesday_a_permanent_decision_on_chat_control/">[discussion on reddit]</a> <a href="https://news.ycombinator.com/item?id=49854252">[discussion on hn]</a></span>

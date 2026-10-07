@@ -9,7 +9,21 @@ prev = "/page/4/"
 next = "/page/6/"
 +++
 
+## 14 September 2026
+
+### [eCourier drivers 'likely' to win worker status claim](https://www.personneltoday.com/hr/ecourier-drivers-likely-to-win-worker-status-claim/)
+
+<span class="news-item__source">personneltoday.com</span> An employment tribunal said 46 drivers at Royal Mail-owned eCourier are likely to be found workers rather than self-employed contractors, citing Uber and Pimlico Plumbers.
+
 ## 11 September 2026
+
+### [Safer and more secure digital products](https://commission.europa.eu/news-and-media/news/safer-and-more-secure-digital-products-2026-09-11_en)
+
+<span class="news-item__source">commission.europa.eu</span> The Cyber Resilience Act's Article 14 reporting duties took effect: manufacturers must send an early warning within 24 hours via ENISA's Single Reporting Platform and notify fully within 72.
+
+### [ICO statement on its investigation into Police Scotland](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/09/ico-statement-on-its-investigation-into-police-scotland/)
+
+<span class="news-item__source">ico.org.uk</span> The ICO opened an investigation into whether Police Scotland handles subject access requests within statutory deadlines under UK GDPR Articles 12 and 15.
 
 ### [Dutch Government Advocates for EU-Wide Minimum Age for Social Media](https://www.government.nl/latest/news/2026/09/11/dutch-government-advocates-for-eu-wide-minimum-age-for-social-media)
 
@@ -86,19 +100,3 @@ next = "/page/6/"
 ### [Why the EU age-verification tool does not solve privacy concerns](https://edri.org/our-work/eu-age-verification-tool-does-not-solve-privacy-concerns/)
 
 <span class="news-item__source">edri.org</span> The Commission's age-verification blueprint makes zero-knowledge proofs optional and relies on batch issuance, leaving credentials linkable back to users.
-
-## 5 September 2026
-
-### [Food delivery riders call on platforms to open up AI 'black box' they say has cut pay](https://www.theguardian.com/business/2026/sep/05/food-delivery-riders-platforms-open-ai-black-box-cut-pay)
-
-<span class="news-item__source">theguardian.com</span> Edinburgh riders backed by the Workers' Observatory demanded platforms disclose their pay algorithms; one rider's average fee fell from £3.67 to £3.42 per order since 2023.
-
-## 4 September 2026
-
-### [US court ruling aggravates Brussels' Google problem](https://www.politico.eu/article/us-court-ruling-aggravates-brussels-google-problem/)
-
-<span class="news-item__source">politico.eu</span> Judge Brinkema rejected the DoJ's bid to force Google to divest parts of its ad tech business, leaving the Commission alone in demanding a breakup.
-
-### [PAM sees no grounds for continuing negotiations with Wolt on couriers' terms and conditions of employment](https://www.pam.fi/en/stories/you-get-nothing-without-even-asking-pam-sees-no-grounds-for-continuing-negotiations-with-wolt-on-couriers-terms-and-conditions-of-employment/)
-
-<span class="news-item__source">pam.fi</span> Finnish union PAM broke off almost three years of talks with Wolt over courier pay and said it will now pursue misclassification through the courts.
