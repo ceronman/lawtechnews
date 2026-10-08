@@ -9,6 +9,18 @@ prev = "/page/14/"
 next = ""
 +++
 
+## 13 July 2026
+
+### [EU wants 13+ age restriction for social media](https://digital-strategy.ec.europa.eu/en/policies/protecting-young-people-online)
+
+<span class="news-item__source">digital-strategy.ec.europa.eu</span> An expert panel report backed by von der Leyen recommends that under-13s get only time-limited, parent-supervised access to social media.
+
+## 10 July 2026
+
+### [Commission preliminarily finds the addictive design of Instagram and Facebook in breach of the DSA](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1579)
+
+<span class="news-item__source">ec.europa.eu</span> The Commission preliminarily found Instagram and Facebook breach the DSA through infinite scroll, autoplay and recommender design that hooks minors.
+
 ## 9 July 2026
 
 ### [Italian DPA fines Character.AI €158,000 over transparency, late DPIA and inadequate protection of minors](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10269571)

@@ -8,7 +8,13 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">292 stories on European law, technology regulation and digital rights, latest from 6 October 2026. Every headline links to the original source.</p>
+<p class="news-intro">294 stories on European law, technology regulation and digital rights, latest from 7 October 2026. Every headline links to the original source.</p>
+
+## 7 October 2026
+
+### [Provvedimento del 6 agosto 2026 [10302032] - Michael Page International Italia](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10302032)
+
+<span class="news-item__source">garanteprivacy.it</span> Italy's Garante fined Michael Page International Italia €225,000 over keeping former employees' mailboxes active and searching their contents after they left.
 
 ## 6 October 2026
 
@@ -25,6 +31,10 @@ next = "/page/2/"
 ### [Omfattende uautoriseret adgang til borgeres CPR-oplysninger](https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger)
 
 <span class="news-item__source">cpr.dk</span> Intruders abused a private company's legitimate access to Denmark's CPR register and obtained names, addresses and ID numbers of about 8.8 million people. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=49962012">[discussion on hn]</a></span>
+
+### [FinCEN Announces Withdrawals of Proposed Digital Asset Related Rules](https://www.fincen.gov/news/news-releases/fincen-announces-withdrawals-proposed-digital-asset-related-rules)
+
+<span class="news-item__source">fincen.gov</span> FinCEN withdrew its 2020 unhosted-wallet reporting proposal and its 2023 finding that crypto mixing is a primary money-laundering concern.
 
 ## 2 October 2026
 
@@ -93,11 +103,3 @@ next = "/page/2/"
 ### [EXCLUSIVE: How ECB's Lagarde helped talk Greece out of licensing Binance](https://www.amlintelligence.com/2026/09/insight-how-ecbs-lagarde-helped-talk-greece-out-of-licensing-binance/)
 
 <span class="news-item__source">amlintelligence.com</span> Christine Lagarde privately warned Greek officials in May against licensing Binance, and the exchange withdrew both its MiCA and stablecoin applications by late June.
-
-### [Decent Work in the Platform Economy Convention No.193 at a glance](https://www.ilo.org/publications/decent-work-platform-economy-convention-no193-glance)
-
-<span class="news-item__source">ilo.org</span> The ILO published a factsheet on Convention No. 193, the first binding global labour standard for platform workers, adopted in June 2026 and now moving to national implementation.
-
-### [Chat control: EU states want to legalize comprehensive mass scans indirectly](https://www.heise.de/en/news/Chat-control-EU-states-want-to-legalize-comprehensive-mass-scans-indirectly-11468680.html)
-
-<span class="news-item__source">heise.de</span> Leaked Council papers show EU states pushing 'search plans' letting authorities order temporary blanket message scanning; the Irish presidency's plan B excludes private chats entirely.

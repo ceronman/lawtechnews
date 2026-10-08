@@ -9,7 +9,17 @@ prev = "/page/2/"
 next = "/page/4/"
 +++
 
+## 23 September 2026
+
+### [European Commission publishes new guidelines on the Cyber Resilience Act](https://www.osborneclarke.com/insights/european-commission-publishes-new-guidelines-cyber-resilience-act)
+
+<span class="news-item__source">osborneclarke.com</span> The European Commission adopted 80-page Cyber Resilience Act guidelines clarifying scope for cloud software and open-source, plus a 5-year minimum vulnerability-support period.
+
 ## 22 September 2026
+
+### [When the algorithm manages the workforce: Sweden's proposed platform work act](https://www.eversheds-sutherland.com/en/sweden/insights/when-the-algorithm-manages-the-workforce)
+
+<span class="news-item__source">eversheds-sutherland.com</span> A Swedish government inquiry proposed a Platform Work Act transposing the EU directive, giving gig workers a right to explanation and human review of algorithmic decisions.
 
 ### [The Spanish DPA fined Securitas Direct 100 000 EUR for making the exercise of data subject rights more difficult](https://www.edpb.europa.eu/news/national-news/2026/spanish-dpa-fined-securitas-direct-100-000-eur-making-exercise-data-subject_en)
 
@@ -88,11 +98,3 @@ next = "/page/4/"
 ### [La AEPD multa con 200.000 euros a una empresa por controlar a trabajadores desde su móvil personal](https://talent24h.okdiario.com/la-aepd-multa-con-200-000-euros-a-una-empresa-por-controlar-a-trabajadores-desde-su-movil-personal/)
 
 <span class="news-item__source">talent24h.okdiario.com</span> Spain's AEPD fined Ares Capital €200,000 after a VTC driver had to install four work apps on his own phone, citing excessive data and no valid legal basis.
-
-### [Governor Newsom issues executive order to accelerate independent oversight and advance the creation of an AI kill switch](https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/)
-
-<span class="news-item__source">gov.ca.gov</span> California ordered an expert panel to report within two months on a verifiable kill switch for frontier AI models and independent third-party safety audits.
-
-### [France probes misuse of smart glasses in sexual harassment cases](https://www.reuters.com/technology/french-prosecutors-regulators-step-up-scrutiny-smart-glasses-2026-09-18/)
-
-<span class="news-item__source">reuters.com</span> Paris prosecutors opened at least one criminal probe into smart glasses used to film women in the street; the CNIL has received under 10 workplace complaints about the devices.

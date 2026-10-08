@@ -11,6 +11,14 @@ next = "/page/15/"
 
 ## 20 July 2026
 
+### [The EU is about to sell our most sensitive data to the US for visa-free travel](https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/)
+
+<span class="news-item__source">edri.org</span> A leaked draft shows the Commission close to granting US border authorities access to EU biometric databases in exchange for continued visa-free travel.
+
+### [Commission publishes final Guidelines on AI Act Article 50 transparency obligations](https://digital-strategy.ec.europa.eu/en/policies/guidelines-transparency-ai-generated-content)
+
+<span class="news-item__source">digital-strategy.ec.europa.eu</span> Final guidelines require providers to mark AI-generated content machine-readably and deployers to disclose deepfakes, emotion recognition and AI-written text.
+
 ### [Commission fines AliExpress €550 million for breaching the Digital Services Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1654)
 
 <span class="news-item__source">ec.europa.eu</span> The Commission fined AliExpress €550m, the largest DSA penalty yet, for failing to curb illegal and unsafe products and under-resourcing moderation.
@@ -94,13 +102,3 @@ next = "/page/15/"
 ### [US appeals court overturns Clearview AI settlement](https://www.reuters.com/legal/government/us-appeals-court-overturns-clearview-ai-settlement-2026-07-13/)
 
 <span class="news-item__source">reuters.com</span> The 7th Circuit threw out Clearview AI's biometric-privacy settlement, holding that nationwide class members were represented worse than those in four states.
-
-### [EU wants 13+ age restriction for social media](https://digital-strategy.ec.europa.eu/en/policies/protecting-young-people-online)
-
-<span class="news-item__source">digital-strategy.ec.europa.eu</span> An expert panel report backed by von der Leyen recommends that under-13s get only time-limited, parent-supervised access to social media.
-
-## 10 July 2026
-
-### [Commission preliminarily finds the addictive design of Instagram and Facebook in breach of the DSA](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1579)
-
-<span class="news-item__source">ec.europa.eu</span> The Commission preliminarily found Instagram and Facebook breach the DSA through infinite scroll, autoplay and recommender design that hooks minors.

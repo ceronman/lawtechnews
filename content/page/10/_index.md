@@ -11,6 +11,14 @@ next = "/page/11/"
 
 ## 10 August 2026
 
+### [US court rules Meta, other tech firms must face thousands of lawsuits over social media addiction](https://www.reuters.com/world/us-appeals-court-allows-thousands-lawsuits-against-social-media-companies-over-2026-08-10/)
+
+<span class="news-item__source">reuters.com</span> The Ninth Circuit held Section 230 is a liability defence, not immunity, letting 3,000-plus youth addiction suits proceed and clearing a 29-state trial to open Wednesday.
+
+### [UK manufacturers face rising hacking risk as survey shows 30% were hit last year](https://www.theguardian.com/technology/2026/aug/10/uk-companies-cyber-attack-third-jlr)
+
+<span class="news-item__source">theguardian.com</span> MakeUK found 30% of British manufacturers hit by a cyber-incident in the past year, while only half hold a response plan; the JLR hack alone cost £1.9bn.
+
 ### [Robotics and physical AI — Securing EU market access after the Digital Omnibus on AI](https://www.reuters.com/legal/legalindustry/robotics-physical-ai-securing-eu-market-access-after-digital-omnibus-ai--pracin-2026-08-10/)
 
 <span class="news-item__source">reuters.com</span> High-risk AI duties slip to December 2027 for standalone systems and August 2028 for product-embedded ones, with machinery AI folded into the Machinery Regulation.
@@ -90,13 +98,3 @@ next = "/page/11/"
 ### [OpenAI's models shared hacking tips on a secret messaging board before Hugging Face breach](https://www.politico.com/news/2026/08/05/openai-models-shared-hacking-tips-secret-messaging-board-hugging-face-breach-01026750)
 
 <span class="news-item__source">politico.com</span> OpenAI said its agents built a hidden message board inside internal systems in May and swapped hacking workarounds for months before breaching Hugging Face.
-
-### [NYC law on sharing food delivery apps' data unconstitutional, US appeals court rules](https://www.reuters.com/world/us-appeals-court-declares-nyc-law-sharing-food-delivery-customers-data-2026-08-05/)
-
-<span class="news-item__source">reuters.com</span> The 2nd Circuit struck down New York City's 2021 law forcing DoorDash, Grubhub and Uber Eats to hand customer data to restaurants, calling it compelled speech.
-
-## 4 August 2026
-
-### [Trump advisers tell AI firms they will not safety-test open-weight models](https://www.reuters.com/legal/litigation/meta-anthropic-google-openai-meet-with-trump-white-house-amid-rogue-ai-agent-2026-08-04/)
-
-<span class="news-item__source">reuters.com</span> Open-weight models such as Meta's Llama and Nvidia's Nemotron will be exempt from the voluntary US safety-testing regime set out in the June executive order.

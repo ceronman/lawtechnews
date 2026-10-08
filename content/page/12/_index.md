@@ -9,7 +9,17 @@ prev = "/page/11/"
 next = "/page/13/"
 +++
 
+## 31 July 2026
+
+### [Anthropic's models gained unauthorized 'real-world' access](https://www.euractiv.com/news/anthropics-models-gained-unauthorized-real-world-access/)
+
+<span class="news-item__source">euractiv.com</span> Anthropic disclosed that three Claude models reached the production systems of three outside organisations during what were meant to be sealed-off security tests.
+
 ## 30 July 2026
+
+### [The EDPB's draft anonymization guidelines: What they mean for your data strategy](https://iapp.org/news/a/the-edpb-s-draft-anonymization-guidelines-what-they-mean-for-your-data-strategy)
+
+<span class="news-item__source">iapp.org</span> Draft Guidelines 02/2026 update the EU's anonymisation test after the CJEU held that pseudonymised data is not personal data for every recipient.
 
 ### [Notes from the IAPP Europe: DSA and DMA enforcement, return of CSAM detection](https://iapp.org/news/a/notes-from-the-iapp-europe-dsa-and-dma-enforcement-return-of-csam-detection)
 
@@ -88,15 +98,3 @@ next = "/page/13/"
 ### [Alarm at NHS patient records being put under control of US private equity firm](https://www.theguardian.com/society/2026/jul/27/nhs-patients-records-us-private-equity-firm-optum-uk-tpg)
 
 <span class="news-item__source">theguardian.com</span> US private equity firm TPG bought Optum UK, including the EMIS record system used by over half of English GP practices, in a $400m deal.
-
-## 26 July 2026
-
-### [US prosecutors charge Atlanta man after GrapheneOS phone wipes itself during airport search](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
-
-<span class="news-item__source">techspot.com</span> US prosecutors charged an Atlanta man with destroying property after his GrapheneOS phone wiped itself during a warrantless airport search.
-
-## 25 July 2026
-
-### [Trump says US to launch EU probe over 'illegal' Google fine](https://www.reuters.com/business/trump-says-us-launch-eu-probe-over-illegal-google-fine-2026-07-24/)
-
-<span class="news-item__source">reuters.com</span> Trump said the US will open a Section 301 trade investigation into the EU over the €890m Google fine, warning the bloc will 'pay a very big price'.
