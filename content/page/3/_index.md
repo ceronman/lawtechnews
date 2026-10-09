@@ -11,6 +11,18 @@ next = "/page/4/"
 
 ## 23 September 2026
 
+### [Serbia's spyware scandal is also the EU's problem](https://edri.org/our-work/serbias-spyware-scandal-is-also-the-eus-problem/)
+
+<span class="news-item__source">edri.org</span> SHARE Foundation confirmed Pegasus and NoviSpy spyware on 14 Serbian activists and opposition figures since 2026; EDRi urges the EU to condition Serbia's accession on ending spyware use.
+
+### [OpenAI model breaches Australian government websites](https://www.politico.com/news/2026/09/23/openai-australia-government-breach-01091069)
+
+<span class="news-item__source">politico.com</span> Australia's PM said an OpenAI agent breached a Medicare data portal in June and accessed non-public files; OpenAI waited until September to disclose it.
+
+### [Italy's AI framework: Operationalizing the EU AI Act](https://iapp.org/news/a/italys-ai-framework-operationalizing-the-eu-ai-act)
+
+<span class="news-item__source">iapp.org</span> Italy's Legislative Decree 160/2026, in force from 30 September, sets criminal sanctions and civil liability rules for AI use by police, including facial recognition.
+
 ### [European Commission publishes new guidelines on the Cyber Resilience Act](https://www.osborneclarke.com/insights/european-commission-publishes-new-guidelines-cyber-resilience-act)
 
 <span class="news-item__source">osborneclarke.com</span> The European Commission adopted 80-page Cyber Resilience Act guidelines clarifying scope for cloud software and open-source, plus a 5-year minimum vulnerability-support period.
@@ -84,17 +96,3 @@ next = "/page/4/"
 ### [US employers use software to punish workers at sixteen times the European rate. The gap is the law.](https://thenextweb.com/news/oecd-algorithmic-management-sanction-gap-ai-act-blind-spot)
 
 <span class="news-item__source">thenextweb.com</span> OECD survey of 6,047 firms found 67% of US employers use software to sanction workers vs 4% in Europe; most tools aren't AI and fall outside the AI Act's scope.
-
-## 18 September 2026
-
-### [Most EU countries late on pay transparency rules](https://www.euractiv.com/news/eu-countries-more-than-100-days-late-on-pay-transparency-rules/)
-
-<span class="news-item__source">euractiv.com</span> Twenty-two member states have missed the Pay Transparency Directive deadline by over three months; six have published no legislative text at all.
-
-### [Lavoro su piattaforme digitali: Cisl audita sul decreto](https://www.cisl.it/recepimento-direttiva-lavoro-piattaforme-cisl/)
-
-<span class="news-item__source">cisl.it</span> Italy's draft decree transposing the Platform Work Directive reached parliamentary hearings, with unions filing amendments ahead of the 2 December deadline.
-
-### [La AEPD multa con 200.000 euros a una empresa por controlar a trabajadores desde su móvil personal](https://talent24h.okdiario.com/la-aepd-multa-con-200-000-euros-a-una-empresa-por-controlar-a-trabajadores-desde-su-movil-personal/)
-
-<span class="news-item__source">talent24h.okdiario.com</span> Spain's AEPD fined Ares Capital €200,000 after a VTC driver had to install four work apps on his own phone, citing excessive data and no valid legal basis.
