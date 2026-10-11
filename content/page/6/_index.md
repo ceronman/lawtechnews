@@ -9,6 +9,12 @@ prev = "/page/5/"
 next = "/page/7/"
 +++
 
+## 9 September 2026
+
+### [European Commission: Defend the DMA and reject Apple's new App Store terms](https://www.article19.org/resources/european-commission-defend-the-dma-and-reject-apples-new-app-store-terms/)
+
+<span class="news-item__source">article19.org</span> A coalition of app developers and rights groups told the Commission that Apple's new EU App Store terms, due on 1 October, still fail to comply with the DMA.
+
 ## 8 September 2026
 
 ### [Referencia del Consejo de Ministros: real decreto de condiciones laborales transparentes y previsibles](https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2026/20260908-referencia-rueda-de-prensa-ministros.aspx)
@@ -96,7 +102,3 @@ next = "/page/7/"
 ### [FinCEN, Agencies, Issue Joint Statement on Suspicious Activity Report Confidentiality Considerations Regarding Communications with Customers](https://www.fincen.gov/news/news-releases/fincen-agencies-issue-joint-statement-suspicious-activity-report-confidentiality)
 
 <span class="news-item__source">fincen.gov</span> FinCEN and the four federal banking agencies said SAR confidentiality does not stop banks telling customers about suspicious transactions or account closures.
-
-### [Data Protection Commission announces Final Decision following Inquiry into the Health Service Executive (HSE)](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-announces-final-decision-following-inquiry-health-service-executive-hse)
-
-<span class="news-item__source">dataprotection.ie</span> The Irish DPC fined the HSE €645,000 for keeping patient paper records in derelict, mould-contaminated buildings, and ordered a nationwide audit of its storage facilities.

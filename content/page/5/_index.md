@@ -9,6 +9,12 @@ prev = "/page/4/"
 next = "/page/6/"
 +++
 
+## 15 September 2026
+
+### [Anti-money laundering and asset recovery strategy: 2026 to 2029](https://www.gov.uk/government/publications/anti-money-laundering-and-asset-recovery-strategy-2026-to-2029)
+
+<span class="news-item__source">gov.uk</span> The Home Office set the UK's three-year AML direction, cutting supervisors from 25 to three and moving legal and accountancy firms to the FCA from late 2028.
+
 ## 14 September 2026
 
 ### [Wide-ranging AI Bill needed to address severe human rights risks posed by AI](https://committees.parliament.uk/committee/93/human-rights-joint-committee/news/217859/wideranging-ai-bill-needed-to-address-severe-human-rights-risks-posed-by-ai/)
@@ -92,7 +98,3 @@ next = "/page/6/"
 ### [Judgment of the General Court in Case T-1139/23 Booking Holdings v Commission](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260125en.pdf)
 
 <span class="news-item__source">curia.europa.eu</span> The General Court dismissed Booking's action and upheld the Commission's prohibition of its acquisition of flight-booking provider Etraveli Group.
-
-### [European Commission: Defend the DMA and reject Apple's new App Store terms](https://www.article19.org/resources/european-commission-defend-the-dma-and-reject-apples-new-app-store-terms/)
-
-<span class="news-item__source">article19.org</span> A coalition of app developers and rights groups told the Commission that Apple's new EU App Store terms, due on 1 October, still fail to comply with the DMA.

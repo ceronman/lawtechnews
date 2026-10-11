@@ -11,6 +11,10 @@ next = ""
 
 ## 14 July 2026
 
+### [When the facts change, adequacy must be reviewed](https://edri.org/our-work/when-the-facts-change-adequacy-must-be-reviewed/)
+
+<span class="news-item__source">edri.org</span> EDRi and 36 other groups asked the Commission to reassess the EU-US adequacy decision, arguing Trump v. Slaughter guts its independent-oversight safeguard.
+
 ### [EDPB requires Belgian DPA to handle the merits of NOYB cookie banner complaint](https://www.edpb.europa.eu/news/edpb-requires-belgian-dpa-to-handle-the-merits-of-noyb-cookie-banner-complaint_en)
 
 <span class="news-item__source">edpb.europa.eu</span> A binding EDPB decision requires the Belgian DPA to rule on the merits of NOYB's cookie-banner complaint against VRT rather than dismiss it as an abuse.

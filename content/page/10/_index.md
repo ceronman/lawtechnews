@@ -11,6 +11,10 @@ next = "/page/11/"
 
 ## 11 August 2026
 
+### [French media asks French anti-trust watchdog to act on Google's AI](https://www.reuters.com/world/french-media-asks-french-anti-trust-watchdog-act-googles-ai-2026-08-11/)
+
+<span class="news-item__source">reuters.com</span> French press publishers asked the Autorite de la concurrence to curb Google's AI summaries, seeking the payment-plan remedy imposed on Meta in July.
+
 ### [FinCEN Permanently Ends Beneficial Ownership Reporting Requirements for Millions of Small Business Owners](https://www.fincen.gov/news/news-releases/fincen-permanently-ends-beneficial-ownership-reporting-requirements-millions)
 
 <span class="news-item__source">fincen.gov</span> FinCEN's final rule permanently exempts US companies and persons from Corporate Transparency Act ownership reporting and deletes their records from the database.
@@ -94,7 +98,3 @@ next = "/page/11/"
 ### [New Mexico court orders Meta to pay $567m over harms to children's mental health](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta)
 
 <span class="news-item__source">theguardian.com</span> A New Mexico judge ordered Meta to pay $567m into a youth mental-health abatement fund and tighten age assurance, taking its total liability to $942m.
-
-### [Europe's Summer of Digital Services Act Enforcement Targets Platform Design](https://www.techpolicy.press/europes-summer-of-digital-services-act-enforcement-targets-platform-design/)
-
-<span class="news-item__source">techpolicy.press</span> The Commission stacked four DSA actions into July, each demanding product redesign rather than just penalties, shifting enforcement toward addictive-design remedies.

@@ -9,6 +9,12 @@ prev = "/page/3/"
 next = "/page/5/"
 +++
 
+## 20 September 2026
+
+### [US employers use software to punish workers at sixteen times the European rate. The gap is the law.](https://thenextweb.com/news/oecd-algorithmic-management-sanction-gap-ai-act-blind-spot)
+
+<span class="news-item__source">thenextweb.com</span> OECD survey of 6,047 firms found 67% of US employers use software to sanction workers vs 4% in Europe; most tools aren't AI and fall outside the AI Act's scope.
+
 ## 18 September 2026
 
 ### [Most EU countries late on pay transparency rules](https://www.euractiv.com/news/eu-countries-more-than-100-days-late-on-pay-transparency-rules/)
@@ -92,7 +98,3 @@ next = "/page/5/"
 ### [Commission proposes ambitious measures to strengthen fair labour mobility](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1851)
 
 <span class="news-item__source">ec.europa.eu</span> The Commission adopted the Fair Labour Mobility package: a European Social Security Pass, digital qualifications in the EU Identity Wallet, and a strengthened Labour Authority.
-
-### [Anti-money laundering and asset recovery strategy: 2026 to 2029](https://www.gov.uk/government/publications/anti-money-laundering-and-asset-recovery-strategy-2026-to-2029)
-
-<span class="news-item__source">gov.uk</span> The Home Office set the UK's three-year AML direction, cutting supervisors from 25 to three and moving legal and accountancy firms to the FCA from late 2028.

@@ -9,6 +9,12 @@ prev = "/page/6/"
 next = "/page/8/"
 +++
 
+## 2 September 2026
+
+### [Data Protection Commission announces Final Decision following Inquiry into the Health Service Executive (HSE)](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-announces-final-decision-following-inquiry-health-service-executive-hse)
+
+<span class="news-item__source">dataprotection.ie</span> The Irish DPC fined the HSE €645,000 for keeping patient paper records in derelict, mould-contaminated buildings, and ordered a nationwide audit of its storage facilities.
+
 ## 1 September 2026
 
 ### [Supreme Court: CRIF illegally collected data of millions in Austria. Way clear for class action!](https://noyb.eu/en/supreme-court-crif-illegally-collected-data-millions-austria-way-clear-class-action)
@@ -100,7 +106,3 @@ next = "/page/8/"
 ### [U.S. Citizen Who Deleted Phone's Data Says His Prosecution Puts Privacy at Risk](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
 
 <span class="news-item__source">nytimes.com</span> US prosecutors charged Samuel Tunick with obstruction for entering a duress passcode that wiped his phone during a CBP airport search.
-
-### [TikTok agrees to $400 million US children's privacy settlement](https://www.reuters.com/world/us-justice-department-tiktok-settle-400-million-childrens-privacy-suit-axios-2026-08-21/)
-
-<span class="news-item__source">reuters.com</span> TikTok and ByteDance settled the DOJ's COPPA suit for $400m: $300m now, $100m once the 2019 Musical.ly consent decree is vacated.
