@@ -8,7 +8,17 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">298 stories on European law, technology regulation and digital rights, latest from 8 October 2026. Every headline links to the original source.</p>
+<p class="news-intro">300 stories on European law, technology regulation and digital rights, latest from 12 October 2026. Every headline links to the original source.</p>
+
+## 12 October 2026
+
+### [Italian DPA fines Wind Tre EUR 16 700 000 for unlawful telemarketing and data protection infringements](https://www.edpb.europa.eu/news/italian-dpa-fines-wind-tre-eur-16-700-000-for-unlawful-telemarketing-and-data-protection_en)
+
+<span class="news-item__source">edpb.europa.eu</span> Italy's Garante fined Wind Tre €16.7m over unsolicited marketing and contracts activated without consent via its sales network, and banned further use of that data.
+
+### [Advocate General: access of data subjects to data processed by FIUs may be restricted, with safeguards](https://curia.europa.eu/site/upload/docs/application/pdf/2026-10/cp260145en.pdf)
+
+<span class="news-item__source">curia.europa.eu</span> CJEU Advocate General Medina said financial intelligence units fall under the Law Enforcement Directive, and may refuse data-subject access if the restriction is proportionate.
 
 ## 8 October 2026
 
@@ -93,13 +103,3 @@ next = "/page/2/"
 ### [AMLA finalises standards on Home-Host Supervisory Cooperation](https://www.amla.europa.eu/press-release-amla-finalises-standards-home-host-supervisory-cooperation_en)
 
 <span class="news-item__source">amla.europa.eu</span> AMLA published its final draft RTS letting EU AML supervisors share information without prior consent and run cross-border inquiries; they bind once the Commission adopts them.
-
-## 30 September 2026
-
-### [Without Fear or Favour: The European Commission's DMA Non-Compliance Decision Against Google's Self-Preferencing (Case DMA.100193)](https://legalblogs.wolterskluwer.com/competition-blog/without-fear-or-favour-the-european-commissions-dma-non-compliance-decision-against-googles-self-preferencing-case-dma100193/)
-
-<span class="news-item__source">legalblogs.wolterskluwer.com</span> The Commission published its full DMA decision finding Google's search self-preferencing breached Article 6(5), without ordering the dedicated units removed.
-
-### [The CRBR will no longer be fully public. What will change for businesses?](https://www.tgc.eu/en/publications/tgc-corporate-lawyers-legal-review-september-2026/)
-
-<span class="news-item__source">tgc.eu</span> Poland's government adopted an AML amendment draft restricting public access to the CRBR beneficial-ownership register from 1 October 2027 to those showing legitimate interest.

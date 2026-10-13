@@ -9,6 +9,16 @@ prev = "/page/14/"
 next = ""
 +++
 
+## 15 July 2026
+
+### [The EU AI Act deadline moved, vendor questionnaires will not](https://iapp.org/news/a/the-eu-ai-act-deadline-moved-vendor-questionnaires-will-not)
+
+<span class="news-item__source">iapp.org</span> Delaying the AI Act's high-risk deadlines to 2027 and 2028 will not slow procurement teams, who keep demanding compliance evidence at contract renewal.
+
+### [Commission accepts X's corrective measures to terminate breaches of the DSA](https://digital-strategy.ec.europa.eu/en/news/commission-accepts-xs-corrective-measures-terminate-breaches-dsa)
+
+<span class="news-item__source">digital-strategy.ec.europa.eu</span> The Commission accepted X's plan to fix its ad repository and researcher data access after last year's €120m fine. X has six months to deliver.
+
 ## 14 July 2026
 
 ### [When the facts change, adequacy must be reviewed](https://edri.org/our-work/when-the-facts-change-adequacy-must-be-reviewed/)
