@@ -3,14 +3,32 @@ title = "Law & Tech News"
 
 [extra]
 page_num = 1
-page_count = 15
+page_count = 16
 prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">300 stories on European law, technology regulation and digital rights, latest from 12 October 2026. Every headline links to the original source.</p>
+<p class="news-intro">304 stories on European law, technology regulation and digital rights, latest from 13 October 2026. Every headline links to the original source.</p>
+
+## 13 October 2026
+
+### [Lithuania Targets Algorithmic Control in Gig Work Rules](https://streamlinefeed.co.ke/news/lithuania-targets-algorithmic-control-in-gig-work-rules)
+
+<span class="news-item__source">streamlinefeed.co.ke</span> Lithuania's Seimas advanced its Platform Work Directive bill 85-0-8, tying worker status to control and requiring human review of account blocks. Committee review follows.
+
+### [EDPB publishes statement on the data protection challenges of smart glasses](https://www.edpb.europa.eu/news/edpb-publishes-statement-on-the-data-protection-challenges-of-smart-glasses_en)
+
+<span class="news-item__source">edpb.europa.eu</span> The EDPB adopted a statement saying smart-glasses makers cannot shift GDPR duties to users and should make recording obvious to bystanders, e.g. via LEDs or audio cues.
+
+### [Bank of America fined $1.2 billion by US government for failing to police suspicious activity](https://www.reuters.com/legal/legalindustry/bofa-fined-12-billion-by-us-government-failing-police-suspicious-activity-2026-10-13/)
+
+<span class="news-item__source">reuters.com</span> Treasury and the OCC fined Bank of America $1.21bn for failing to report over $5bn in suspicious activity, including a record $750m OCC penalty. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50080613">[discussion on hn]</a></span>
 
 ## 12 October 2026
+
+### [Norway fines Microsoft's Xandr $9.6M over Grindr data sharing](https://www.reuters.com/legal/litigation/norway-fines-microsofts-xandr-96-million-over-grindr-data-sharing-2026-10-12/)
+
+<span class="news-item__source">reuters.com</span> Norway's data protection authority fined Microsoft's Xandr about $9.6m (roughly £7m) over sharing Grindr users' data, a record fine for the regulator. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50059950">[discussion on hn]</a></span>
 
 ### [Italian DPA fines Wind Tre EUR 16 700 000 for unlawful telemarketing and data protection infringements](https://www.edpb.europa.eu/news/italian-dpa-fines-wind-tre-eur-16-700-000-for-unlawful-telemarketing-and-data-protection_en)
 
@@ -87,19 +105,3 @@ next = "/page/2/"
 ### [Opinion of Advocate General Medina in Case C-12/25 (right to erasure and baptismal registers)](https://curia.europa.eu/site/upload/docs/application/pdf/2026-10/cp260139en.pdf)
 
 <span class="news-item__source">curia.europa.eu</span> Advocate General Medina advised the CJEU that GDPR erasure can in principle apply to baptismal registers, unless the diocese shows overriding legitimate grounds.
-
-### [Lyft agrees to pay California $272.5m in largest-ever wage theft settlement](https://www.theguardian.com/technology/2026/oct/01/lyft-largest-ever-wage-theft-settlement)
-
-<span class="news-item__source">theguardian.com</span> Lyft settled California's misclassification claims for $272.5m, with over $237m going to drivers treated as contractors between 2016 and 2020, subject to court approval.
-
-### [Italy switches on real-time facial recognition as EU calculates risk to basic rights](https://www.biometricupdate.com/202610/italy-switches-on-real-time-facial-recognition-as-eu-calculates-risk-to-basic-rights)
-
-<span class="news-item__source">biometricupdate.com</span> Italy's decree implementing the AI Act took effect, limiting police real-time facial recognition to specific threats and missing persons; the FRA published a critical report.
-
-### [Autumn Legislative Programme Signals Further Change for Irish Employers](https://littler.ie/insights/autumn-legislative-programme-signals-further-change-for-irish-employers/)
-
-<span class="news-item__source">littler.ie</span> Ireland's autumn legislative programme omits a Platform Work Directive bill, though the government says it is still on track to transpose by the 2 December 2026 deadline.
-
-### [AMLA finalises standards on Home-Host Supervisory Cooperation](https://www.amla.europa.eu/press-release-amla-finalises-standards-home-host-supervisory-cooperation_en)
-
-<span class="news-item__source">amla.europa.eu</span> AMLA published its final draft RTS letting EU AML supervisors share information without prior consent and run cross-border inquiries; they bind once the Commission adopts them.

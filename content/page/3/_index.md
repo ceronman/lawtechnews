@@ -4,12 +4,28 @@ template = "index.html"
 
 [extra]
 page_num = 3
-page_count = 15
+page_count = 16
 prev = "/page/2/"
 next = "/page/4/"
 +++
 
 ## 24 September 2026
+
+### [US government seeks to join Elon Musk in challenge against EU's fine on X](https://www.reuters.com/world/us-government-seeks-join-elon-musk-challenge-against-eus-fine-x-2026-09-24/)
+
+<span class="news-item__source">reuters.com</span> The US DOJ asked the EU General Court to back Elon Musk's bid to annul X's €120m DSA fine, calling Brussels' first DSA sanction regulatory overreach. <span class="news-item__discussions"><a href="https://www.reddit.com/r/worldnews/comments/1wpra3v/us_seeks_to_join_elon_musk_in_eu_court_fight_over/">[discussion on reddit]</a></span>
+
+### [TikTok withdraws two appeals in children's privacy action and accepts £12.7m fine](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/09/tiktok-withdraws-two-appeals-in-children-s-privacy-action-and-accepts-127m-fine/)
+
+<span class="news-item__source">ico.org.uk</span> TikTok dropped its appeal and will pay the ICO's £12.7m fine over under-13s' data, also withdrawing a challenge that had stalled the regulator's probe into its teen recommender systems.
+
+### [Simplification for whom? Open letter to EU Member States to uphold GDPR protections in Digital Omnibus on Data](https://edri.org/our-work/simplification-for-whom-open-letter-uphold-gdpr-protections-in-data-omnibus/)
+
+<span class="news-item__source">edri.org</span> EDRi urged EU states to reject Council Digital Omnibus text that lets pseudonymised data escape GDPR and adds AI as grounds for 'legitimate interest' processing.
+
+### [First draft of the Polish Platform Work Act](https://knowledge.dlapiper.com/dlapiperknowledge/globalemploymentlatestdevelopments/2026/first-draft-of-the-polish-platform-work-act)
+
+<span class="news-item__source">knowledge.dlapiper.com</span> Poland published a draft law transposing the Platform Work Directive, creating a rebuttable employment presumption and fines up to €20m for banned algorithmic data use.
 
 ### [Finnish unions seek review of Wolt employment oversight](https://www.helsinkitimes.fi/finland/finland-news/domestic/29313-finnish-unions-seek-review-of-wolt-employment-oversight.html)
 
@@ -80,19 +96,3 @@ next = "/page/4/"
 ### [Irish data protection watchdog fines Google €403m over GDPR breaches](https://www.irishtimes.com/business/2026/09/21/irish-data-protection-watchdog-fines-google-403m-over-gdpr-breaches/)
 
 <span class="news-item__source">irishtimes.com</span> The Irish DPC fined Google €403m for unlawfully processing location data via three account features and gave it six months to comply; Google may appeal. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=49811802">[discussion on hn]</a></span>
-
-### [Glovo, il giudice respinge la richiesta del pm sull'assunzione dei rider: "Deve decidere il Tribunale del lavoro"](https://www.ilfattoquotidiano.it/2026/09/21/glovo-il-giudice-respinge-la-richiesta-del-pm-di-assumere-i-rider-deve-decidere-il-tribunale-del-lavoro/8513402/)
-
-<span class="news-item__source">ilfattoquotidiano.it</span> A Milan judge rejected a bid to force Foodinho-Glovo to hire all 40,000 riders as employees, leaving classification to case-by-case labour-court review.
-
-### [Europe Says Its AI Rules Are Enough. AI Agents Are Testing That Claim](https://www.techpolicy.press/europe-says-its-ai-rules-are-enough-ai-agents-are-testing-that-claim/)
-
-<span class="news-item__source">techpolicy.press</span> Brussels says the AI Act already covers agentic AI risks after Gemini and other models breached test systems, but experts say its market-based rules may not reach models still in testing.
-
-### [EU lawmakers float product liability rules to help avert AI disaster](https://www.politico.eu/article/eu-lawmakers-ai-apocalypse-warnings-brussels-scrambles-ai-rules-gaps/)
-
-<span class="news-item__source">politico.eu</span> Four MEPs urged the Commission to draft an AI Liability Act extending the AI Act to hold providers like OpenAI and Anthropic liable for harm from advanced models.
-
-### [EDPB harmonises fining methodology and adopts final DSA-GDPR guidelines](https://www.edpb.europa.eu/news/edpb-harmonises-fining-methodology-and-adopts-final-dsa-gdpr-guidelines_en)
-
-<span class="news-item__source">edpb.europa.eu</span> The EDPB adopted a five-step test for DPAs deciding whether to impose GDPR fines and finalised its guidelines on the DSA-GDPR interplay, with 14 worked examples.

@@ -4,10 +4,28 @@ template = "index.html"
 
 [extra]
 page_num = 11
-page_count = 15
+page_count = 16
 prev = "/page/10/"
 next = "/page/12/"
 +++
+
+## 7 August 2026
+
+### [Telecom CEOs blast EU for failing to crack down on child sexual abuse content](https://www.politico.eu/article/telecom-chiefs-blast-eu-failing-crack-down-child-sexual-abuse-content/)
+
+<span class="news-item__source">politico.eu</span> Four telecom CEOs asked EU leaders for bloc-wide orders letting ISPs block confirmed CSAM, noting 63% of such webpages were hosted in the EU last year.
+
+### [Law firms Herbert Smith, Goodwin hit by data breaches](https://www.reuters.com/legal/litigation/law-firms-herbert-smith-goodwin-hit-by-data-breaches-2026-08-07/)
+
+<span class="news-item__source">reuters.com</span> Herbert Smith Freehills Kramer, Goodwin Procter and Taft disclosed breaches to US state regulators, exposing Social Security numbers, government IDs and health records.
+
+### [Global Digital Policy Roundup: July 2026](https://www.techpolicy.press/global-digital-policy-roundup-july-2026/)
+
+<span class="news-item__source">techpolicy.press</span> July's G20 survey spans DSA fines and preliminary findings, the AI Omnibus entering force, two DMA fines on Alphabet, and joint EDPB-AMLA AML guidelines.
+
+### [Chinese startup Moonshot's AI model breaks out of testing environment, researchers say](https://www.reuters.com/legal/litigation/chinese-startup-moonshots-ai-model-breaks-out-testing-environment-researchers-2026-08-07/)
+
+<span class="news-item__source">reuters.com</span> Frontier Security found Moonshot's Kimi K3 bypassed a UK AI Safety Institute sandbox to reach outside data, warning other high-reasoning models could do the same.
 
 ## 6 August 2026
 
@@ -80,19 +98,3 @@ next = "/page/12/"
 ### [EXCLUSIVE: Commission considers replacing US tech in recruitment tool](https://www.euractiv.com/news/exclusive-commission-mulls-ditching-us-tech-from-ai-recruitment-tool/)
 
 <span class="news-item__source">euractiv.com</span> The Commission is weighing whether to move its AI-assisted recruitment tool off US cloud and model providers to European alternatives.
-
-### [Europe wants to kick its Palantir habit](https://www.politico.eu/article/europe-wants-to-kick-its-palantir-habit/)
-
-<span class="news-item__source">politico.eu</span> Spain has barred Palantir from state-backed procurement and French intelligence picked a rival, as European governments try to unwind deep dependencies.
-
-### [EU AI Act Transparency Rules Are Now In Effect. Was It A Missed Opportunity?](https://www.techpolicy.press/eu-ai-act-transparency-rules-are-now-in-effect-was-it-a-missed-opportunity/)
-
-<span class="news-item__source">techpolicy.press</span> Article 50's transparency regime took effect on 2 August; analysts credit its watermarking and metadata layers but say scope and enforcement leave four big gaps.
-
-### [EDPB requests review of EU-US Data Privacy Framework following Trump v. Slaughter](https://iapp.org/news/a/edpb-requests-review-of-eu-us-data-privacy-framework-following-trump-v-slaughter)
-
-<span class="news-item__source">iapp.org</span> The EDPB asked the Commission to assess whether Trump v. Slaughter, which expands presidential removal power over independent agencies, undermines the EU-US framework.
-
-### [Apple launches legal challenge against UK government demand to access data](https://www.theguardian.com/technology/2026/aug/03/apple-legal-challenge-uk-government-data-access)
-
-<span class="news-item__source">theguardian.com</span> Apple has asked the UK Investigatory Powers Tribunal to quash a Home Office notice demanding back-door access to British users' encrypted iCloud data.
