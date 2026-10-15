@@ -11,6 +11,18 @@ next = "/page/16/"
 
 ## 16 July 2026
 
+### [The digital rulebook is fit for purpose: better enforcement is needed, not simplification](https://edri.org/our-work/the-digital-rulebook-is-fit-for-purpose-better-enforcement-is-needed-not-simplification/)
+
+<span class="news-item__source">edri.org</span> EDRi's submission to the Digital Fitness Check argues the rulebook works and asks for enforcement, a spyware ban and AdTech rules instead of simplification.
+
+### [The Digital Omnibus is going on summer break. Your rights are not.](https://edri.org/our-work/the-digital-omnibus-is-going-on-summer-break-your-rights-are-not/)
+
+<span class="news-item__source">edri.org</span> The AI Omnibus is law, but the data package stalled in Council after a blocking minority led by Germany and Poland pushed decisions past the summer.
+
+### [Proposed Europol reform dangerously erodes privacy, automates surveillance, and sidelines oversight](https://edri.org/our-work/proposed-europol-reform-dangerously-erodes-privacy-automates-surveillance-and-sidelines-oversight/)
+
+<span class="news-item__source">edri.org</span> The Commission's third Europol reform in six years adds €3bn, auto-uploads national police data, lowers the biometric threshold and drops prior EDPS approval.
+
 ### [Proposed Europol reform dangerously erodes privacy, automates surveillance, and sidelines oversight](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1420)
 
 <span class="news-item__source">ec.europa.eu</span> The Europol reform would double its budget to €3bn, automate uploads of national police data and let it bypass EDPS approval for urgent sensitive processing.
@@ -90,19 +102,3 @@ next = "/page/16/"
 ### [AMLA introduces a common EU approach to enforcing anti-money laundering rules](https://www.amla.europa.eu/press-release-amla-introduces-common-eu-approach-enforcing-anti-money-laundering-rules_en)
 
 <span class="news-item__source">amla.europa.eu</span> AMLA's draft technical standards give supervisors in every member state one four-tier method for grading AML breaches and setting enforcement outcomes.
-
-### [AI increases the risks of cyberattacks](https://www.autoriteitpersoonsgegevens.nl/en/current/ai-increases-the-risks-of-cyberattacks)
-
-<span class="news-item__source">autoriteitpersoonsgegevens.nl</span> Account takeovers reported to the Dutch DPA nearly tripled to 1,742 in 2025, which it attributes to increasingly convincing AI-generated phishing.
-
-## 7 July 2026
-
-### [Commission refers Ireland, Spain, France and the Netherlands to the Court of Justice for failing to transpose NIS2](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1499)
-
-<span class="news-item__source">ec.europa.eu</span> Ireland, Spain, France and the Netherlands were referred to the CJEU for being over 20 months late transposing NIS2, and now risk financial penalties.
-
-## 6 July 2026
-
-### [Joint Statement: Pegasus in the European Parliament, the EU Must Act Now](https://edri.org/our-work/joint-statement-pegasus-in-the-european-parliament-the-eu-must-act-now/)
-
-<span class="news-item__source">edri.org</span> Citizen Lab found that MEP Stelios Kouloglou was hacked with Pegasus while sitting on Parliament's own committee investigating the spyware.

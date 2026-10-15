@@ -11,6 +11,18 @@ next = "/page/5/"
 
 ## 21 September 2026
 
+### [WHAT TO FIX files DSA complaint over Meta's monetization enforcement and reporting systems](https://www.whattofix.tech/publications/sept-2026-what-to-fix-files-dsa-complaint-monetization-enforcement-reporting/)
+
+<span class="news-item__source">whattofix.tech</span> WHAT TO FIX filed a DSA complaint with the Dutch ACM alleging Meta failed to enforce and process reports of possibly illegal monetization tied to EU-sanctioned actors.
+
+### [Poor data sharing undermining EU cyber defences, auditors say](https://www.reuters.com/legal/government/poor-data-sharing-undermining-eu-cyber-defences-auditors-say-2026-09-21/)
+
+<span class="news-item__source">reuters.com</span> The European Court of Auditors found EU states rarely share cyber-incident data, noting no 'large-scale' incident has been formally reported since 2016 despite qualifying attacks.
+
+### [Irish data protection watchdog fines Google €403m over GDPR breaches](https://www.irishtimes.com/business/2026/09/21/irish-data-protection-watchdog-fines-google-403m-over-gdpr-breaches/)
+
+<span class="news-item__source">irishtimes.com</span> The Irish DPC fined Google €403m for unlawfully processing location data via three account features and gave it six months to comply; Google may appeal. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=49811802">[discussion on hn]</a></span>
+
 ### [Glovo, il giudice respinge la richiesta del pm sull'assunzione dei rider: "Deve decidere il Tribunale del lavoro"](https://www.ilfattoquotidiano.it/2026/09/21/glovo-il-giudice-respinge-la-richiesta-del-pm-di-assumere-i-rider-deve-decidere-il-tribunale-del-lavoro/8513402/)
 
 <span class="news-item__source">ilfattoquotidiano.it</span> A Milan judge rejected a bid to force Foodinho-Glovo to hire all 40,000 riders as employees, leaving classification to case-by-case labour-court review.
@@ -84,17 +96,3 @@ next = "/page/5/"
 ### [German court rules Meta liable for fake ads on Instagram, Facebook](https://www.reuters.com/legal/litigation/german-court-rules-meta-liable-fake-ads-instagram-facebook-2026-09-17/)
 
 <span class="news-item__source">reuters.com</span> A German court held Meta liable for third-party scam ads, rejecting the DSA lack-of-knowledge defence because its algorithms and ad tools shape what users see.
-
-### [EU KIDS Act to restrict social media platforms' access to children in the EU](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1890)
-
-<span class="news-item__source">ec.europa.eu</span> The Commission adopted the EU KIDS Act, reversing the burden of proof onto very large platforms and adding expedited enforcement with investigations closed within 90 days.
-
-### [Bundesgerichtshof legt EuGH Fragen zur "Haushaltsausnahme" nach der DSGVO vor](https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026169.html)
-
-<span class="news-item__source">bundesgerichtshof.de</span> Germany's Federal Court of Justice referred two cases to the CJEU on how far the GDPR household exemption reaches when private chats or home CCTV go to employers or police.
-
-## 16 September 2026
-
-### [Poland's platform work law could reach far beyond couriers and drivers](https://ceo.com.pl/en/poland-platform-work-law-couriers-freelancers-digital-platforms-90034/)
-
-<span class="news-item__source">ceo.com.pl</span> Poland's Platform Work Directive bill UC160 drew industry objections that its employment presumption and platform definition could capture IT freelancers and B2B marketplaces.

@@ -8,13 +8,29 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">304 stories on European law, technology regulation and digital rights, latest from 13 October 2026. Every headline links to the original source.</p>
+<p class="news-intro">307 stories on European law, technology regulation and digital rights, latest from 15 October 2026. Every headline links to the original source.</p>
+
+## 15 October 2026
+
+### [Eurobarometer survey highlights growing use of AI in European companies](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2160)
+
+<span class="news-item__source">ec.europa.eu</span> A Commission survey of 12,826 SMEs found 42% use AI or algorithmic management, mostly experimentally; the upcoming Quality Jobs Act will regulate algorithmic management.
+
+## 14 October 2026
+
+### [EU’s AI rules face first enforcement test over lab incidents](https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents)
+
+<span class="news-item__source">euronews.com</span> The AI Office sent AI Act information requests to OpenAI and Anthropic over agents that hacked outside firms; lawyers dispute its reach over pre-market testing.
 
 ## 13 October 2026
 
 ### [Lithuania Targets Algorithmic Control in Gig Work Rules](https://streamlinefeed.co.ke/news/lithuania-targets-algorithmic-control-in-gig-work-rules)
 
 <span class="news-item__source">streamlinefeed.co.ke</span> Lithuania's Seimas advanced its Platform Work Directive bill 85-0-8, tying worker status to control and requiring human review of account blocks. Committee review follows.
+
+### [Europe’s leaders abandon the race for frontier AI](https://www.politico.eu/article/europe-ai-strategy-frontier-models-us-china/)
+
+<span class="news-item__source">politico.eu</span> EU leaders including von der Leyen are shifting from building frontier AI to promoting adoption; the Commission will hold an Apply AI summit on 16 November. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50092311">[discussion on hn]</a></span>
 
 ### [EDPB publishes statement on the data protection challenges of smart glasses](https://www.edpb.europa.eu/news/edpb-publishes-statement-on-the-data-protection-challenges-of-smart-glasses_en)
 
@@ -91,17 +107,3 @@ next = "/page/2/"
 ### [Ahead of reform: Platform delivery riders denounce opaque system and growing precariousness](https://today.rtl.lu/news/luxembourg/platform-delivery-riders-denounce-opaque-system-and-growing-precariousness-32035163)
 
 <span class="news-item__source">today.rtl.lu</span> Luxembourg's riders' union published a 30-page report urging a Platform Work Directive transposition that also covers algorithmic pricing, penalties and deactivations.
-
-### [119 MEPs Press Commission to Enforce EU Ban on AI 'Nudifier' Systems from First Day](https://eutoday.net/meps-eu-ai-nudifier-ban-enforcement/)
-
-<span class="news-item__source">eutoday.net</span> 119 MEPs asked the Commission and member states to designate enforcers before the AI Act nudifier ban applies on 2 December 2026, and to use the DSA harder.
-
-## 1 October 2026
-
-### [Press Release: AMLA finalises key standards for the private sector](https://www.amla.europa.eu/press-release-amla-finalises-key-standards-private-sector_en)
-
-<span class="news-item__source">amla.europa.eu</span> AMLA finalised three AMLR standards on customer due diligence, linked transactions and group-wide controls; they apply six months after Commission adoption.
-
-### [Opinion of Advocate General Medina in Case C-12/25 (right to erasure and baptismal registers)](https://curia.europa.eu/site/upload/docs/application/pdf/2026-10/cp260139en.pdf)
-
-<span class="news-item__source">curia.europa.eu</span> Advocate General Medina advised the CJEU that GDPR erasure can in principle apply to baptismal registers, unless the diocese shows overriding legitimate grounds.
