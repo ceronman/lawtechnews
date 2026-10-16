@@ -9,6 +9,22 @@ prev = "/page/2/"
 next = "/page/4/"
 +++
 
+## 27 September 2026
+
+### [Brussels rewrites GDPR rules for the AI era](https://theeuropeanpost.eu/research-analysis/brussels-rewrites-gdpr-rules-for-the-ai-era/)
+
+<span class="news-item__source">theeuropeanpost.eu</span> The EDPB and EDPS jointly warned the Council's draft Digital Omnibus redefinition of 'personal data' conflicts with CJEU case law as GDPR trilogue talks approach.
+
+### [As A.I. Accelerates, Governments Are Increasingly Being Left Behind](https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html)
+
+<span class="news-item__source">nytimes.com</span> Von der Leyen convened senior EU officials to weigh tougher AI safety rules against economic costs, reaching no decision after her Sept. 16 SOTEU speech.
+
+## 26 September 2026
+
+### [Neue Selbstständigkeit: Das Gesetz, das zu spät kommt](https://denkstrom.org/artikel/plattformgesetz-neue-selbstaendigkeit-eu-frist-2026/)
+
+<span class="news-item__source">denkstrom.org</span> Germany's labour ministry proposed a voluntary self-employment status instead of a rebuttable employment presumption for platform workers, taking effect 13 months after the EU deadline.
+
 ## 25 September 2026
 
 ### [The presidency's question: leave private messages out of the regulation?](https://brusselsrecord.com/presidency-question-leave-private-messages-out/)
@@ -84,15 +100,3 @@ next = "/page/4/"
 ### [Sanktionsavgift mot Miljödata för bristande säkerhet](https://www.imy.se/nyheter/sanktionsavgift-mot-miljodata-for-bristande-sakerhet/)
 
 <span class="news-item__source">imy.se</span> Sweden's IMY fined IT vendor Miljödata SEK 1.8m under GDPR Article 32 after a 2025 breach exposed sensitive data of 2.2 million people via unmonitored systems. <span class="news-item__discussions"><a href="https://www.reddit.com/r/pwnhub/comments/1wnv1p4/sweden_fines_miljoumldata_183000_over_breach/">[discussion on reddit]</a></span>
-
-### [El juez sienta en el banquillo a Oscar Pierre, cofundador de Glovo, por mantener a falsos autónomos](https://elpais.com/espana/catalunya/2026-09-22/el-juez-sienta-en-el-banquillo-a-oscar-pierre-cofundador-de-glovo-por-mantener-a-falsos-autonomos.html)
-
-<span class="news-item__source">elpais.com</span> A Barcelona court ordered Glovo co-founder Oscar Pierre to stand trial for keeping riders as false self-employed, a crime carrying up to six years in prison.
-
-### [ECB flags AML gap for stablecoin issuers lacking financial licence](https://www.amlintelligence.com/2026/09/news-ecb-flags-aml-gap-for-stablecoin-issuers-lacking-financial-licence/)
-
-<span class="news-item__source">amlintelligence.com</span> The ECB urged EU lawmakers to close a gap letting some stablecoin issuers avoid anti-money-laundering rules that bind other crypto firms.
-
-### [Council wants privacy enhancing tech incentives in omnibus](https://www.euractiv.com/news/council-wants-privacy-enhancing-tech-incentives-in-omnibus/)
-
-<span class="news-item__source">euractiv.com</span> EU Council ministers want the Digital Omnibus to add incentives for privacy-enhancing tech and want the Commission to assess industry use of it, especially for cookies.

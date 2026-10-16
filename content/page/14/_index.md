@@ -9,7 +9,21 @@ prev = "/page/13/"
 next = "/page/15/"
 +++
 
+## 24 July 2026
+
+### [Commission preliminarily finds TikTok in breach of Digital Services Act for failing to ensure safe accounts for minors](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1679)
+
+<span class="news-item__source">ec.europa.eu</span> TikTok received preliminary DSA findings over minors' accounts defaulting to public and weak age assurance. A final decision could cost 6% of turnover.
+
 ## 23 July 2026
+
+### [Fighting child sexual abuse online: interim measure protecting children now reinstated](https://www.consilium.europa.eu/en/press/press-releases/2026/07/23/fighting-child-sexual-abuse-online-interim-measure-protecting-children-now-reinstated/)
+
+<span class="news-item__source">consilium.europa.eu</span> The Council approved the renewed interim regulation letting providers voluntarily scan for child sexual abuse material, running until 3 April 2028.
+
+### [EU's Google fine risks triggering Trump as he gears up for more tariffs](https://www.politico.eu/article/eu-google-fine-donald-trump-tariffs/)
+
+<span class="news-item__source">politico.eu</span> The record DMA fine landed as Washington's temporary tariffs expired, with US officials calling it discriminatory and pressing Trump to retaliate.
 
 ### [Commission fines Google €890 million for breaches of the Digital Markets Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1670)
 
@@ -86,19 +100,3 @@ next = "/page/15/"
 ### [Trump pushes UN 'free speech' declaration in veiled attack on EU tech regulation](https://www.politico.eu/article/trump-administration-will-push-un-free-speech-declaration-that-takes-aim-at-european-tech-regulation/)
 
 <span class="news-item__source">politico.eu</span> A draft US declaration to be circulated at the UN General Assembly frames platform rules such as the DSA as threats to freedom of expression.
-
-## 17 July 2026
-
-### [EDPB calls for legal basis for cross-regulatory information sharing](https://www.edpb.europa.eu/news/edpb-calls-for-legal-basis-for-cross-regulatory-information-sharing_en)
-
-<span class="news-item__source">edpb.europa.eu</span> The EDPB asked the Commission for a legal basis letting data protection authorities share confidential information with regulators in adjacent fields.
-
-### ["Made in Europe" password manager Passwork found to share Russian origins and state-certified ties](https://www.occrp.org/en/investigation/european-password-manager-shares-origins-and-updates-with-state-certified-russian-firm)
-
-<span class="news-item__source">occrp.org</span> Passwork, sold as a European password manager and used by Dutch and Irish public bodies, shares code and ties with an FSB-certified Russian firm.
-
-## 16 July 2026
-
-### [US judge halts sanctions policy that hit ex-EU commissioner Breton](https://www.politico.eu/article/us-judge-pauses-visa-restrictions-thierry-breton-disinformation-researchers/)
-
-<span class="news-item__source">politico.eu</span> A federal judge paused the State Department policy imposing visa bans on officials who enforce platform laws, including Thierry Breton, on First Amendment grounds.

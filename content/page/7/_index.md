@@ -9,7 +9,21 @@ prev = "/page/6/"
 next = "/page/8/"
 +++
 
+## 4 September 2026
+
+### [PAM sees no grounds for continuing negotiations with Wolt on couriers' terms and conditions of employment](https://www.pam.fi/en/stories/you-get-nothing-without-even-asking-pam-sees-no-grounds-for-continuing-negotiations-with-wolt-on-couriers-terms-and-conditions-of-employment/)
+
+<span class="news-item__source">pam.fi</span> Finnish union PAM broke off almost three years of talks with Wolt over courier pay and said it will now pursue misclassification through the courts.
+
 ## 3 September 2026
+
+### [Violation de données en matière de santé : sanction de 500 000 euros à l'encontre de l'HÔPITAL PRIVÉ DE LA LOIRE](https://www.cnil.fr/fr/sanction-hopital-prive-loire)
+
+<span class="news-item__source">cnil.fr</span> The CNIL fined Hôpital Privé de la Loire €500,000 after an attacker reached 524,867 patients' records via an external account with no VPN, MFA or access limits.
+
+### [Provvedimento del 3 settembre 2026 – Banco Bilbao Vizcaya Argentaria, succursale italiana](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10291895)
+
+<span class="news-item__source">garanteprivacy.it</span> Italy's Garante fined BBVA's Italian branch €5.5 million for sending in-app marketing notifications for seven months to a customer who had opted out.
 
 ### [Opinion of Advocate General Szpunar in Case C-661/24 Académie Fiscale and Others](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260117en.pdf)
 
@@ -86,17 +100,3 @@ next = "/page/8/"
 ### [US court rules Pentagon ban of Anthropic unlawful](https://www.euractiv.com/news/us-court-rules-pentagon-ban-of-anthropic-unlawful/)
 
 <span class="news-item__source">euractiv.com</span> A US federal judge held that the government-wide ban on Anthropic products was unlawful retaliation for the firm refusing mass surveillance and autonomous weapons uses.
-
-### [The US got Meta to change Instagram and Facebook. Europe wants in.](https://www.politico.eu/article/meta-kids-safety-us-eu-digital-services-act/)
-
-<span class="news-item__source">politico.eu</span> The Commission signalled Meta's $18bn US settlement falls short of its DSA demands, which target autoplay, infinite scroll and personalised feeds themselves.
-
-### [Musk's AI company sues its users as victim lawsuits over Grok deepfakes mount](https://www.politico.com/news/2026/08/28/elon-musk-xai-lawsuits-grok-deepfakes-01053817)
-
-<span class="news-item__source">politico.com</span> xAI sued two users criminally charged over Grok-made CSAM, seeking its own legal costs and reputational damages for their breach of X's terms of service.
-
-## 27 August 2026
-
-### [Poland asks EU to fine Meta €250 million over scam ads](https://www.politico.eu/article/polish-deputy-pm-krzysztof-gawkowski-says-eu-should-fine-meta-250-million-for-financial-scams/)
-
-<span class="news-item__source">politico.eu</span> Poland's digital minister asked the Commission to fine Meta €250m and investigate six DSA breaches over scam ads, citing a 13% removal rate for reported fakes.
