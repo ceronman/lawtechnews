@@ -11,6 +11,14 @@ next = "/page/4/"
 
 ## 27 September 2026
 
+### [Russian tech surveillance company infiltrated Europe's law enforcement agencies](https://www.politico.eu/article/russia-tech-surveillance-company-infiltrated-europes-law-enforcement-agencies/)
+
+<span class="news-item__source">politico.eu</span> US prosecutors charged Oxygen Forensics, secretly run from Russia, after EU-funded projects vetted its software and police in Germany, Spain, Italy and Poland bought it. <span class="news-item__discussions"><a href="https://www.reddit.com/r/Intelligence/comments/1wpyy95/us_company_that_sold_phone_hacking_software_to/">[discussion on reddit]</a></span>
+
+### [EU Chat Control Talks Reach Decisive Moment](https://theeuropeanpost.eu/research-analysis/eu-chat-control-talks-reach-decisive-moment/)
+
+<span class="news-item__source">theeuropeanpost.eu</span> Council, Parliament and Commission hold a sixth chat control trilogue on 29 September; states opposing mandatory scanning are just over two points short of a blocking minority. <span class="news-item__discussions"><a href="https://reddit.com/r/tutanota/comments/1wpyild/next_tuesday_a_permanent_decision_on_chat_control/">[discussion on reddit]</a> <a href="https://news.ycombinator.com/item?id=49854252">[discussion on hn]</a></span>
+
 ### [Brussels rewrites GDPR rules for the AI era](https://theeuropeanpost.eu/research-analysis/brussels-rewrites-gdpr-rules-for-the-ai-era/)
 
 <span class="news-item__source">theeuropeanpost.eu</span> The EDPB and EDPS jointly warned the Council's draft Digital Omnibus redefinition of 'personal data' conflicts with CJEU case law as GDPR trilogue talks approach.
@@ -92,11 +100,3 @@ next = "/page/4/"
 ### [When the algorithm manages the workforce: Sweden's proposed platform work act](https://www.eversheds-sutherland.com/en/sweden/insights/when-the-algorithm-manages-the-workforce)
 
 <span class="news-item__source">eversheds-sutherland.com</span> A Swedish government inquiry proposed a Platform Work Act transposing the EU directive, giving gig workers a right to explanation and human review of algorithmic decisions.
-
-### [The Spanish DPA fined Securitas Direct 100 000 EUR for making the exercise of data subject rights more difficult](https://www.edpb.europa.eu/news/national-news/2026/spanish-dpa-fined-securitas-direct-100-000-eur-making-exercise-data-subject_en)
-
-<span class="news-item__source">edpb.europa.eu</span> The Spanish DPA fined Securitas Direct €100,000 for steering data subjects to a chargeable phone number when they tried to exercise their GDPR rights.
-
-### [Sanktionsavgift mot Miljödata för bristande säkerhet](https://www.imy.se/nyheter/sanktionsavgift-mot-miljodata-for-bristande-sakerhet/)
-
-<span class="news-item__source">imy.se</span> Sweden's IMY fined IT vendor Miljödata SEK 1.8m under GDPR Article 32 after a 2025 breach exposed sensitive data of 2.2 million people via unmonitored systems. <span class="news-item__discussions"><a href="https://www.reddit.com/r/pwnhub/comments/1wnv1p4/sweden_fines_miljoumldata_183000_over_breach/">[discussion on reddit]</a></span>

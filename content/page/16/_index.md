@@ -9,6 +9,16 @@ prev = "/page/15/"
 next = ""
 +++
 
+## 9 July 2026
+
+### [Italian DPA fines Character.AI €158,000 over transparency, late DPIA and inadequate protection of minors](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10269571)
+
+<span class="news-item__source">garanteprivacy.it</span> Italy's Garante fined Character.AI €158,000 over unclear transparency, a late impact assessment and weak safeguards for minors.
+
+### [Combating child sexual abuse online: support for more limited ePrivacy derogation](https://www.europarl.europa.eu/news/en/press-room/20260706IPR46318/combating-child-sexual-abuse-support-for-a-more-limited-eprivacy-derogation)
+
+<span class="news-item__source">europarl.europa.eu</span> Parliament let the ePrivacy derogation for voluntary CSAM scanning run to April 2028, adding an amendment to exclude end-to-end encrypted messages.
+
 ## 8 July 2026
 
 ### [EU General Court dismisses Apple's challenge to its gatekeeper designation under the DMA](https://curia.europa.eu/site/upload/docs/application/pdf/2026-07/cp260096en.pdf)

@@ -8,7 +8,13 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">310 stories on European law, technology regulation and digital rights, latest from 15 October 2026. Every headline links to the original source.</p>
+<p class="news-intro">312 stories on European law, technology regulation and digital rights, latest from 16 October 2026. Every headline links to the original source.</p>
+
+## 16 October 2026
+
+### [EU AI Act: probes could extend time limit for fines](https://www.actuia.com/en/news/eu-ai-act-probes-could-extend-time-limit-for-fines/)
+
+<span class="news-item__source">actuia.com</span> The Commission opened consultation on a draft AI Act implementing regulation letting AI Office investigation steps restart the five-year fining limitation period, capped at ten years.
 
 ## 15 October 2026
 
@@ -47,6 +53,10 @@ next = "/page/2/"
 ### [EDPB publishes statement on the data protection challenges of smart glasses](https://www.edpb.europa.eu/news/edpb-publishes-statement-on-the-data-protection-challenges-of-smart-glasses_en)
 
 <span class="news-item__source">edpb.europa.eu</span> The EDPB adopted a statement saying smart-glasses makers cannot shift GDPR duties to users and should make recording obvious to bystanders, e.g. via LEDs or audio cues.
+
+### [Delivery workers demand stronger protections as Greece prepares to adopt EU platform work directive](https://thepressproject.gr/delivery-workers-demand-stronger-protections-as-greece-prepares-to-adopt-eu-platform-work-directive/)
+
+<span class="news-item__source">thepressproject.gr</span> Fourteen Greek delivery-worker unions urged the Labour Ministry to add employment-status criteria and algorithm transparency in its Platform Work Directive transposition.
 
 ### [Bank of America fined $1.2 billion by US government for failing to police suspicious activity](https://www.reuters.com/legal/legalindustry/bofa-fined-12-billion-by-us-government-failing-police-suspicious-activity-2026-10-13/)
 
@@ -97,11 +107,3 @@ next = "/page/2/"
 ### [OpenAI is adding text watermarking in ChatGPT and Codex](https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act)
 
 <span class="news-item__source">theverge.com</span> OpenAI is rolling out invisible textGrain watermarks in ChatGPT and Codex for EU users to meet AI Act transparency rules, with opt-in for API customers worldwide. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=49980602">[discussion on hn]</a></span>
-
-### [Omfattende uautoriseret adgang til borgeres CPR-oplysninger](https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger)
-
-<span class="news-item__source">cpr.dk</span> Intruders abused a private company's legitimate access to Denmark's CPR register and obtained names, addresses and ID numbers of about 8.8 million people. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=49962012">[discussion on hn]</a></span>
-
-### [FinCEN Announces Withdrawals of Proposed Digital Asset Related Rules](https://www.fincen.gov/news/news-releases/fincen-announces-withdrawals-proposed-digital-asset-related-rules)
-
-<span class="news-item__source">fincen.gov</span> FinCEN withdrew its 2020 unhosted-wallet reporting proposal and its 2023 finding that crypto mixing is a primary money-laundering concern.

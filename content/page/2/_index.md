@@ -9,6 +9,16 @@ prev = "/"
 next = "/page/3/"
 +++
 
+## 5 October 2026
+
+### [Omfattende uautoriseret adgang til borgeres CPR-oplysninger](https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger)
+
+<span class="news-item__source">cpr.dk</span> Intruders abused a private company's legitimate access to Denmark's CPR register and obtained names, addresses and ID numbers of about 8.8 million people. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=49962012">[discussion on hn]</a></span>
+
+### [FinCEN Announces Withdrawals of Proposed Digital Asset Related Rules](https://www.fincen.gov/news/news-releases/fincen-announces-withdrawals-proposed-digital-asset-related-rules)
+
+<span class="news-item__source">fincen.gov</span> FinCEN withdrew its 2020 unhosted-wallet reporting proposal and its 2023 finding that crypto mixing is a primary money-laundering concern.
+
 ## 2 October 2026
 
 ### [EU Platform Work Directive: what are the latest updates](https://www.linkedin.com/pulse/eu-platform-work-directive-what-latest-updates-ius-laboris-vxwne)
@@ -88,13 +98,3 @@ next = "/page/3/"
 ### [Bundesrat fordert strengere Regeln und Direktanstellung für Lieferdienste](https://www.heise.de/news/Bundesrat-fordert-strengere-Regeln-und-Direktanstellung-fuer-Lieferdienste-11468231.html)
 
 <span class="news-item__source">heise.de</span> Germany's Bundesrat urged the federal government to mandate direct employment of delivery couriers, going beyond the Platform Work Directive ahead of its December deadline.
-
-## 27 September 2026
-
-### [Russian tech surveillance company infiltrated Europe's law enforcement agencies](https://www.politico.eu/article/russia-tech-surveillance-company-infiltrated-europes-law-enforcement-agencies/)
-
-<span class="news-item__source">politico.eu</span> US prosecutors charged Oxygen Forensics, secretly run from Russia, after EU-funded projects vetted its software and police in Germany, Spain, Italy and Poland bought it. <span class="news-item__discussions"><a href="https://www.reddit.com/r/Intelligence/comments/1wpyy95/us_company_that_sold_phone_hacking_software_to/">[discussion on reddit]</a></span>
-
-### [EU Chat Control Talks Reach Decisive Moment](https://theeuropeanpost.eu/research-analysis/eu-chat-control-talks-reach-decisive-moment/)
-
-<span class="news-item__source">theeuropeanpost.eu</span> Council, Parliament and Commission hold a sixth chat control trilogue on 29 September; states opposing mandatory scanning are just over two points short of a blocking minority. <span class="news-item__discussions"><a href="https://reddit.com/r/tutanota/comments/1wpyild/next_tuesday_a_permanent_decision_on_chat_control/">[discussion on reddit]</a> <a href="https://news.ycombinator.com/item?id=49854252">[discussion on hn]</a></span>
