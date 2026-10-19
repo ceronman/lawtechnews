@@ -9,7 +9,23 @@ prev = "/"
 next = "/page/3/"
 +++
 
+## 7 October 2026
+
+### [AMLA consults on draft standards for an EU-wide AML/CFT database](https://www.amla.europa.eu/press-release-amla-consults-draft-standards-eu-wide-amlcft-database_en)
+
+<span class="news-item__source">amla.europa.eu</span> AMLA opened a consultation on draft RTS for the EU-wide AML/CFT supervisory database, with a public hearing on 3 November 2026 and staged entry into force.
+
+## 6 October 2026
+
+### [Greece: Labour Ministry receives report on transposing the Platform Work Directive](https://www.bankingnews.gr/politiki/articles/903578/kerameus-new-bill-sets-limits-on-artificial-intelligence-in-human-resources-management)
+
+<span class="news-item__source">bankingnews.gr</span> Greece's Labour Ministry received its committee's report transposing the Platform Work Directive, banning algorithmic processing of workers' biometric and emotional data.
+
 ## 5 October 2026
+
+### [OpenAI is adding text watermarking in ChatGPT and Codex](https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act)
+
+<span class="news-item__source">theverge.com</span> OpenAI is rolling out invisible textGrain watermarks in ChatGPT and Codex for EU users to meet AI Act transparency rules, with opt-in for API customers worldwide. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=49980602">[discussion on hn]</a></span>
 
 ### [Omfattende uautoriseret adgang til borgeres CPR-oplysninger](https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger)
 
@@ -86,15 +102,3 @@ next = "/page/3/"
 ### [EXCLUSIVE: How ECB's Lagarde helped talk Greece out of licensing Binance](https://www.amlintelligence.com/2026/09/insight-how-ecbs-lagarde-helped-talk-greece-out-of-licensing-binance/)
 
 <span class="news-item__source">amlintelligence.com</span> Christine Lagarde privately warned Greek officials in May against licensing Binance, and the exchange withdrew both its MiCA and stablecoin applications by late June.
-
-### [Decent Work in the Platform Economy Convention No.193 at a glance](https://www.ilo.org/publications/decent-work-platform-economy-convention-no193-glance)
-
-<span class="news-item__source">ilo.org</span> The ILO published a factsheet on Convention No. 193, the first binding global labour standard for platform workers, adopted in June 2026 and now moving to national implementation.
-
-### [Chat control: EU states want to legalize comprehensive mass scans indirectly](https://www.heise.de/en/news/Chat-control-EU-states-want-to-legalize-comprehensive-mass-scans-indirectly-11468680.html)
-
-<span class="news-item__source">heise.de</span> Leaked Council papers show EU states pushing 'search plans' letting authorities order temporary blanket message scanning; the Irish presidency's plan B excludes private chats entirely.
-
-### [Bundesrat fordert strengere Regeln und Direktanstellung für Lieferdienste](https://www.heise.de/news/Bundesrat-fordert-strengere-Regeln-und-Direktanstellung-fuer-Lieferdienste-11468231.html)
-
-<span class="news-item__source">heise.de</span> Germany's Bundesrat urged the federal government to mandate direct employment of delivery couriers, going beyond the Platform Work Directive ahead of its December deadline.

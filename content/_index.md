@@ -8,7 +8,7 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">312 stories on European law, technology regulation and digital rights, latest from 16 October 2026. Every headline links to the original source.</p>
+<p class="news-intro">315 stories on European law, technology regulation and digital rights, latest from 16 October 2026. Every headline links to the original source.</p>
 
 ## 16 October 2026
 
@@ -16,11 +16,19 @@ next = "/page/2/"
 
 <span class="news-item__source">actuia.com</span> The Commission opened consultation on a draft AI Act implementing regulation letting AI Office investigation steps restart the five-year fining limitation period, capped at ten years.
 
+### [Data Privacy Ranking: Data Privacy in the EU Omnibus Amendments](https://gdpr-omnibus.eu/)
+
+<span class="news-item__source">gdpr-omnibus.eu</span> A new tracker scored MEPs' 1,000+ amendments to the GDPR Digital Omnibus; EPP members rank worst for weakening privacy, the Greens and S&D best. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50119435">[discussion on hn]</a></span>
+
 ## 15 October 2026
 
 ### [The EU is facing Big Tech pressure to revamp its AI law](https://www.politico.eu/article/ai-eu-pressure-law-microsoft-brad-smith-google-deepmind-tech/)
 
 <span class="news-item__source">politico.eu</span> Microsoft and Google executives questioned whether the AI Act is still fit for purpose; Commissioners call it adequate while Hungary flags three gaps.
+
+### [Privacy First calls for a ban on automated risk profiling by banks](https://privacyfirst.nl/en/articles/privacy-first-is-calling-for-a-ban-on-automated-risk-profiling-by-banks/)
+
+<span class="news-item__source">privacyfirst.nl</span> Dutch group Privacy First urged a ban on automated risk profiling in AMLA's draft customer-monitoring guidelines; final guidelines are due in Q4 2026.
 
 ### [Opinion of Advocate General Biondi in ByteDance v Commission (TikTok DMA gatekeeper designation)](https://curia.europa.eu/site/upload/docs/application/pdf/2026-10/cp260151en.pdf)
 
@@ -64,6 +72,10 @@ next = "/page/2/"
 
 ## 12 October 2026
 
+### [Parliament to vote this month on social media ban for under-15s](https://www.ekathimerini.com/in-depth/society-in-depth/1317908/parliament-to-vote-this-month-on-social-media-ban-for-under-15s/)
+
+<span class="news-item__source">ekathimerini.com</span> Greece tabled a bill banning under-15s from social media, with a parliamentary vote on 22 October and platform age checks required from 1 January 2027.
+
 ### [Norway fines Microsoft's Xandr $9.6M over Grindr data sharing](https://www.reuters.com/legal/litigation/norway-fines-microsofts-xandr-96-million-over-grindr-data-sharing-2026-10-12/)
 
 <span class="news-item__source">reuters.com</span> Norway's data protection authority fined Microsoft's Xandr about $9.6m (roughly £7m) over sharing Grindr users' data, a record fine for the regulator. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50059950">[discussion on hn]</a></span>
@@ -91,19 +103,3 @@ next = "/page/2/"
 ### [Provvedimento del 6 agosto 2026 [10302032] - Michael Page International Italia](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10302032)
 
 <span class="news-item__source">garanteprivacy.it</span> Italy's Garante fined Michael Page International Italia €225,000 over keeping former employees' mailboxes active and searching their contents after they left.
-
-### [AMLA consults on draft standards for an EU-wide AML/CFT database](https://www.amla.europa.eu/press-release-amla-consults-draft-standards-eu-wide-amlcft-database_en)
-
-<span class="news-item__source">amla.europa.eu</span> AMLA opened a consultation on draft RTS for the EU-wide AML/CFT supervisory database, with a public hearing on 3 November 2026 and staged entry into force.
-
-## 6 October 2026
-
-### [Greece: Labour Ministry receives report on transposing the Platform Work Directive](https://www.bankingnews.gr/politiki/articles/903578/kerameus-new-bill-sets-limits-on-artificial-intelligence-in-human-resources-management)
-
-<span class="news-item__source">bankingnews.gr</span> Greece's Labour Ministry received its committee's report transposing the Platform Work Directive, banning algorithmic processing of workers' biometric and emotional data.
-
-## 5 October 2026
-
-### [OpenAI is adding text watermarking in ChatGPT and Codex](https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act)
-
-<span class="news-item__source">theverge.com</span> OpenAI is rolling out invisible textGrain watermarks in ChatGPT and Codex for EU users to meet AI Act transparency rules, with opt-in for API customers worldwide. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=49980602">[discussion on hn]</a></span>

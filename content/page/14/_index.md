@@ -9,6 +9,24 @@ prev = "/page/13/"
 next = "/page/15/"
 +++
 
+## 27 July 2026
+
+### [Alarm at NHS patient records being put under control of US private equity firm](https://www.theguardian.com/society/2026/jul/27/nhs-patients-records-us-private-equity-firm-optum-uk-tpg)
+
+<span class="news-item__source">theguardian.com</span> US private equity firm TPG bought Optum UK, including the EMIS record system used by over half of English GP practices, in a $400m deal.
+
+## 26 July 2026
+
+### [US prosecutors charge Atlanta man after GrapheneOS phone wipes itself during airport search](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
+
+<span class="news-item__source">techspot.com</span> US prosecutors charged an Atlanta man with destroying property after his GrapheneOS phone wiped itself during a warrantless airport search.
+
+## 25 July 2026
+
+### [Trump says US to launch EU probe over 'illegal' Google fine](https://www.reuters.com/business/trump-says-us-launch-eu-probe-over-illegal-google-fine-2026-07-24/)
+
+<span class="news-item__source">reuters.com</span> Trump said the US will open a Section 301 trade investigation into the EU over the €890m Google fine, warning the bloc will 'pay a very big price'.
+
 ## 24 July 2026
 
 ### [EU telcos ask: Huawei going to afford to replace Chinese equipment?](https://www.theregister.com/networks/2026/07/24/eu-telcos-ask-huawei-going-to-afford-to-replace-chinese-equipment/5278122)
@@ -84,17 +102,3 @@ next = "/page/15/"
 ### [AMLA finalises standards for supervisory cooperation in direct supervision](https://www.amla.europa.eu/press-release-amla-finalises-standards-supervisory-cooperation-direct-supervision_en)
 
 <span class="news-item__source">amla.europa.eu</span> AMLA published final standards for sharing data and supervisory history with national regulators before it takes over direct supervision in 2028.
-
-## 20 July 2026
-
-### [The European Parliament's answer to its AI worries: More AI](https://www.politico.eu/article/the-european-parliaments-answer-to-its-ai-worries-more-ai/)
-
-<span class="news-item__source">politico.eu</span> Parliament is giving MEPs and staff sanctioned access to models from OpenAI, Anthropic, Meta and Mistral after hallucinated citations appeared in drafts.
-
-### [The EU is about to sell our most sensitive data to the US for visa-free travel](https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/)
-
-<span class="news-item__source">edri.org</span> A leaked draft shows the Commission close to granting US border authorities access to EU biometric databases in exchange for continued visa-free travel.
-
-### [Commission publishes final Guidelines on AI Act Article 50 transparency obligations](https://digital-strategy.ec.europa.eu/en/policies/guidelines-transparency-ai-generated-content)
-
-<span class="news-item__source">digital-strategy.ec.europa.eu</span> Final guidelines require providers to mark AI-generated content machine-readably and deployers to disclose deepfakes, emotion recognition and AI-written text.

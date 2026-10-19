@@ -9,6 +9,20 @@ prev = "/page/8/"
 next = "/page/10/"
 +++
 
+## 20 August 2026
+
+### [How the EU's new AML regulation will change personal data processing](https://iapp.org/news/a/how-the-eu-s-new-aml-regulation-will-change-personal-data-processing)
+
+<span class="news-item__source">iapp.org</span> The EU AML Regulation becomes directly applicable on 10 July 2027, adding GDPR-specific rules on automated processing, human oversight and reuse of AML data.
+
+### [eSafety secures court-enforceable undertaking from Roblox to do more to protect Australian kids from grooming and sexual exploitation](https://www.esafety.gov.au/newsroom/media-releases/esafety-secures-court-enforceable-undertaking-from-roblox-to-do-more-to-protect-australian-kids-from-grooming-and-sexual-exploitation)
+
+<span class="news-item__source">esafety.gov.au</span> Roblox has three months to block adult contact with unknown children, make under-16 profiles private by default and let a third party audit its age estimation.
+
+### [AP advises Twitch users: opt out from sharing data with Amazon AI](https://www.autoriteitpersoonsgegevens.nl/en/current/ap-advises-twitch-users-opt-out-from-sharing-data-with-amazon-ai)
+
+<span class="news-item__source">autoriteitpersoonsgegevens.nl</span> The Dutch DPA urged Twitch users to disable the default-on setting letting Amazon train AI on their streams, faces, voices and chats.
+
 ## 19 August 2026
 
 ### [Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits](https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination)
@@ -82,19 +96,3 @@ next = "/page/10/"
 ### [Apple changes its rules for personalised advertising in apps](https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html)
 
 <span class="news-item__source">bundeskartellamt.de</span> Apple gave binding commitments to make its tracking-consent prompts neutral and align them with its own, closing a Section 19a case; they run EU-wide for seven years.
-
-## 15 August 2026
-
-### [Met apologises for exposing 143 email addresses of Mohamed Al Fayed victims](https://www.theguardian.com/world/2026/aug/15/met-police-apologises-exposing-email-addresses-mohamed-al-fayed-victims)
-
-<span class="news-item__source">theguardian.com</span> The Met exposed the email addresses of 143 Al Fayed victims in a group update, blamed human error and referred itself to the Information Commissioner.
-
-## 14 August 2026
-
-### [FTC probes health records giant Epic Systems, sources say](https://www.reuters.com/world/us-ftc-probing-health-records-company-epic-systems-2026-08-14/)
-
-<span class="news-item__source">reuters.com</span> The FTC opened an antitrust probe into whether Epic Systems withholds access to health records data; its platforms hold records on over 300 million patients.
-
-### [French taxpayers' data stolen in cyber attack, French Finance Ministry says](https://www.reuters.com/legal/litigation/french-taxpayers-data-stolen-cyber-attack-french-finance-ministry-says-2026-08-14/)
-
-<span class="news-item__source">reuters.com</span> France's Finance Ministry confirmed an intruder extracted data on 678,000 taxpayers from the DGFiP in late June; those affected will be notified individually.
