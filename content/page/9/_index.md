@@ -11,6 +11,10 @@ next = "/page/10/"
 
 ## 20 August 2026
 
+### [The EU's proposed CADA: Why cloud sovereignty matters for business strategy](https://iapp.org/news/a/the-eu-s-proposed-cada-why-cloud-sovereignty-matters-for-business-strategy)
+
+<span class="news-item__source">iapp.org</span> The Cloud and AI Development Act proposal sets cloud assurance levels and data centre acceleration zones; Ireland targets a Council progress report by year-end.
+
 ### [How the EU's new AML regulation will change personal data processing](https://iapp.org/news/a/how-the-eu-s-new-aml-regulation-will-change-personal-data-processing)
 
 <span class="news-item__source">iapp.org</span> The EU AML Regulation becomes directly applicable on 10 July 2027, adding GDPR-specific rules on automated processing, human oversight and reuse of AML data.
@@ -92,7 +96,3 @@ next = "/page/10/"
 ### [Binance gave Moscow client details used to charge Russian over Ukraine donations, documents show](https://www.reuters.com/legal/government/binance-gave-moscow-client-details-used-charge-russian-over-ukraine-donations-2026-08-17/)
 
 <span class="news-item__source">reuters.com</span> Binance handed Russian investigators a client's passport, address and transaction data, used to charge him with terrorism financing over $700 in Ukraine donations.
-
-### [Apple changes its rules for personalised advertising in apps](https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html)
-
-<span class="news-item__source">bundeskartellamt.de</span> Apple gave binding commitments to make its tracking-consent prompts neutral and align them with its own, closing a Section 19a case; they run EU-wide for seven years.

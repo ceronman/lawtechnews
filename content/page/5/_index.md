@@ -11,6 +11,10 @@ next = "/page/6/"
 
 ## 18 September 2026
 
+### [Lavoro su piattaforme digitali: Cisl audita sul decreto](https://www.cisl.it/recepimento-direttiva-lavoro-piattaforme-cisl/)
+
+<span class="news-item__source">cisl.it</span> Italy's draft decree transposing the Platform Work Directive reached parliamentary hearings, with unions filing amendments ahead of the 2 December deadline.
+
 ### [La AEPD multa con 200.000 euros a una empresa por controlar a trabajadores desde su móvil personal](https://talent24h.okdiario.com/la-aepd-multa-con-200-000-euros-a-una-empresa-por-controlar-a-trabajadores-desde-su-movil-personal/)
 
 <span class="news-item__source">talent24h.okdiario.com</span> Spain's AEPD fined Ares Capital €200,000 after a VTC driver had to install four work apps on his own phone, citing excessive data and no valid legal basis.
@@ -94,7 +98,3 @@ next = "/page/6/"
 ### [Wide-ranging AI Bill needed to address severe human rights risks posed by AI](https://committees.parliament.uk/committee/93/human-rights-joint-committee/news/217859/wideranging-ai-bill-needed-to-address-severe-human-rights-risks-posed-by-ai/)
 
 <span class="news-item__source">committees.parliament.uk</span> The UK Joint Committee on Human Rights called for a risk-tiered AI Bill covering the whole supply chain, outright bans on some uses, and a single statutory AI regulator.
-
-### [Primera notificación de una brecha de datos personales causada por un ataque ejecutado mediante un agente de IA](https://www.aepd.es/prensa-y-comunicacion/blog/primera-notiviacion-brecha-datos-personales-causada-por-ataque-ejecutado-mediante-agente-ia)
-
-<span class="news-item__source">aepd.es</span> The AEPD logged Spain's first breach caused by an AI agent, which autonomously probed for vulnerabilities, logged in, altered personal data and reached invoices.

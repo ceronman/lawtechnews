@@ -8,7 +8,13 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">315 stories on European law, technology regulation and digital rights, latest from 16 October 2026. Every headline links to the original source.</p>
+<p class="news-intro">316 stories on European law, technology regulation and digital rights, latest from 20 October 2026. Every headline links to the original source.</p>
+
+## 20 October 2026
+
+### [Clearview AI faces Court of Appeal test of 7.5m pound UK fine](https://ppc.land/clearview-ai-faces-court-of-appeal-test-of-7-5m-pound-uk-fine/)
+
+<span class="news-item__source">ppc.land</span> Clearview AI began a three-day Court of Appeal hearing on whether the ICO could fine it over UK GDPR monitoring of UK residents for foreign police clients.
 
 ## 16 October 2026
 
@@ -97,9 +103,3 @@ next = "/page/2/"
 ### [ICO secures changes from leading AI developers as scrutiny extends to AI agents](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/10/ico-secures-changes-from-leading-ai-developers-as-scrutiny-extends-to-ai-agents/)
 
 <span class="news-item__source">ico.org.uk</span> The UK ICO said ten AI developers, including OpenAI and Google, made data protection changes, and opened a call for evidence on agentic AI until 20 November.
-
-## 7 October 2026
-
-### [Provvedimento del 6 agosto 2026 [10302032] - Michael Page International Italia](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10302032)
-
-<span class="news-item__source">garanteprivacy.it</span> Italy's Garante fined Michael Page International Italia €225,000 over keeping former employees' mailboxes active and searching their contents after they left.

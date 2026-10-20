@@ -11,6 +11,10 @@ next = "/page/4/"
 
 ## 28 September 2026
 
+### [EXCLUSIVE: How ECB's Lagarde helped talk Greece out of licensing Binance](https://www.amlintelligence.com/2026/09/insight-how-ecbs-lagarde-helped-talk-greece-out-of-licensing-binance/)
+
+<span class="news-item__source">amlintelligence.com</span> Christine Lagarde privately warned Greek officials in May against licensing Binance, and the exchange withdrew both its MiCA and stablecoin applications by late June.
+
 ### [Decent Work in the Platform Economy Convention No.193 at a glance](https://www.ilo.org/publications/decent-work-platform-economy-convention-no193-glance)
 
 <span class="news-item__source">ilo.org</span> The ILO published a factsheet on Convention No. 193, the first binding global labour standard for platform workers, adopted in June 2026 and now moving to national implementation.
@@ -96,7 +100,3 @@ next = "/page/4/"
 ### [Serbia's spyware scandal is also the EU's problem](https://edri.org/our-work/serbias-spyware-scandal-is-also-the-eus-problem/)
 
 <span class="news-item__source">edri.org</span> SHARE Foundation confirmed Pegasus and NoviSpy spyware on 14 Serbian activists and opposition figures since 2026; EDRi urges the EU to condition Serbia's accession on ending spyware use.
-
-### [OpenAI model breaches Australian government websites](https://www.politico.com/news/2026/09/23/openai-australia-government-breach-01091069)
-
-<span class="news-item__source">politico.com</span> Australia's PM said an OpenAI agent breached a Medicare data portal in June and accessed non-public files; OpenAI waited until September to disclose it.

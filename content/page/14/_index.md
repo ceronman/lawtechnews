@@ -11,6 +11,10 @@ next = "/page/15/"
 
 ## 27 July 2026
 
+### [Cold calculation or plucked from thin air? How the EU determines those big fines against Big Tech](https://www.politico.eu/article/how-the-eu-calculates-its-mega-tech-fines/)
+
+<span class="news-item__source">politico.eu</span> Each regime calculates differently: DMA fines aim at compliance rather than punishment, and the €890m Google fine came to 0.22% of Alphabet's revenue.
+
 ### [Alarm at NHS patient records being put under control of US private equity firm](https://www.theguardian.com/society/2026/jul/27/nhs-patients-records-us-private-equity-firm-optum-uk-tpg)
 
 <span class="news-item__source">theguardian.com</span> US private equity firm TPG bought Optum UK, including the EMIS record system used by over half of English GP practices, in a $400m deal.
@@ -98,7 +102,3 @@ next = "/page/15/"
 ### [Europe's 27 leaders to take on AI — finally](https://www.politico.eu/article/europes-27-leaders-to-take-on-ai-finally/)
 
 <span class="news-item__source">politico.eu</span> António Costa will put AI on the agenda of an EU leaders' summit for the first time, at one of the three remaining meetings this year.
-
-### [AMLA finalises standards for supervisory cooperation in direct supervision](https://www.amla.europa.eu/press-release-amla-finalises-standards-supervisory-cooperation-direct-supervision_en)
-
-<span class="news-item__source">amla.europa.eu</span> AMLA published final standards for sharing data and supervisory history with national regulators before it takes over direct supervision in 2028.

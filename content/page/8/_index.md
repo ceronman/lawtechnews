@@ -11,6 +11,10 @@ next = "/page/9/"
 
 ## 1 September 2026
 
+### [Germany's Draft Law on AI in Migration Raises Rights and Bias Concerns](https://www.techpolicy.press/germanys-draft-law-on-ai-in-migration-raises-rights-and-bias-concerns/)
+
+<span class="news-item__source">techpolicy.press</span> Germany's cabinet approved the KIMVG draft allowing AI in visa, residence and asylum procedures, including automated cross-checks of applicants' statements against online sources.
+
 ### [California lawmakers pass bill governing lawyers' use of AI](https://www.reuters.com/legal/government/california-lawmakers-pass-bill-governing-lawyers-use-ai-2026-09-01/)
 
 <span class="news-item__source">reuters.com</span> SB 574 now goes to Newsom; it bars delegating legal work to generative AI and requires verifying citations and disclosing AI use in court filings.
@@ -100,9 +104,3 @@ next = "/page/9/"
 ### [EU's push for watermarking won't worsen AI writing, experts say](https://www.euractiv.com/news/eus-push-for-watermarking-wont-worsen-ai-writing-experts-say/)
 
 <span class="news-item__source">euractiv.com</span> Under the AI transparency code, watermarking applies only to texts over 200 tokens; its co-chairs say quality loss is confined to very short outputs.
-
-## 20 August 2026
-
-### [The EU's proposed CADA: Why cloud sovereignty matters for business strategy](https://iapp.org/news/a/the-eu-s-proposed-cada-why-cloud-sovereignty-matters-for-business-strategy)
-
-<span class="news-item__source">iapp.org</span> The Cloud and AI Development Act proposal sets cloud assurance levels and data centre acceleration zones; Ireland targets a Council progress report by year-end.

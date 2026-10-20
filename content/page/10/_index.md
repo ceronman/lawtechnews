@@ -9,6 +9,12 @@ prev = "/page/9/"
 next = "/page/11/"
 +++
 
+## 17 August 2026
+
+### [Apple changes its rules for personalised advertising in apps](https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html)
+
+<span class="news-item__source">bundeskartellamt.de</span> Apple gave binding commitments to make its tracking-consent prompts neutral and align them with its own, closing a Section 19a case; they run EU-wide for seven years.
+
 ## 15 August 2026
 
 ### [Met apologises for exposing 143 email addresses of Mohamed Al Fayed victims](https://www.theguardian.com/world/2026/aug/15/met-police-apologises-exposing-email-addresses-mohamed-al-fayed-victims)
@@ -94,7 +100,3 @@ next = "/page/11/"
 ### [FinCEN Permanently Ends Beneficial Ownership Reporting Requirements for Millions of Small Business Owners](https://www.fincen.gov/news/news-releases/fincen-permanently-ends-beneficial-ownership-reporting-requirements-millions)
 
 <span class="news-item__source">fincen.gov</span> FinCEN's final rule permanently exempts US companies and persons from Corporate Transparency Act ownership reporting and deletes their records from the database.
-
-### [Démarchage téléphonique interdit : quelles sont les nouvelles règles ?](https://www.service-public.gouv.fr/particuliers/actualites/A19003)
-
-<span class="news-item__source">service-public.gouv.fr</span> Cold calling is banned by default in France from today: firms need free, specific, revocable opt-in consent lasting at most a year, and Bloctel is abolished.

@@ -11,6 +11,10 @@ next = "/page/12/"
 
 ## 11 August 2026
 
+### [Démarchage téléphonique interdit : quelles sont les nouvelles règles ?](https://www.service-public.gouv.fr/particuliers/actualites/A19003)
+
+<span class="news-item__source">service-public.gouv.fr</span> Cold calling is banned by default in France from today: firms need free, specific, revocable opt-in consent lasting at most a year, and Bloctel is abolished.
+
 ### [Amid Crackdown, Few Signs of a Slowdown in Scam Compounds](https://www.techpolicy.press/amid-crackdown-few-signs-of-a-slowdown-in-scam-compounds/)
 
 <span class="news-item__source">techpolicy.press</span> OHCHR estimates 300,000 trafficked people from 66 countries staff Southeast Asian scam compounds, which relocate faster than sanctions and raids can shut them down.
@@ -94,9 +98,3 @@ next = "/page/12/"
 ### [A view from Brussels: A streak of summer signals](https://iapp.org/news/a/a-view-from-brussels-a-streak-of-summer-signals)
 
 <span class="news-item__source">iapp.org</span> Brussels stayed calm on the adequacy risk from Trump v. Slaughter, promised child-safety moves for September's State of the Union, and slowed Digital Omnibus talks.
-
-## 5 August 2026
-
-### [Rewriting the rules of AI: Targeted EU AI Act amendments in the Digital Omnibus on AI](https://iapp.org/news/a/rewriting-the-rules-of-ai-targeted-eu-ai-act-amendments-in-the-digital-omnibus-on-ai)
-
-<span class="news-item__source">iapp.org</span> The Digital Omnibus on AI entered into force on 27 July, delaying high-risk and watermarking deadlines, banning AI that generates NCII and CSAM, and easing AI literacy duties.

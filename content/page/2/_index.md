@@ -11,6 +11,10 @@ next = "/page/3/"
 
 ## 7 October 2026
 
+### [Provvedimento del 6 agosto 2026 [10302032] - Michael Page International Italia](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10302032)
+
+<span class="news-item__source">garanteprivacy.it</span> Italy's Garante fined Michael Page International Italia €225,000 over keeping former employees' mailboxes active and searching their contents after they left.
+
 ### [AMLA consults on draft standards for an EU-wide AML/CFT database](https://www.amla.europa.eu/press-release-amla-consults-draft-standards-eu-wide-amlcft-database_en)
 
 <span class="news-item__source">amla.europa.eu</span> AMLA opened a consultation on draft RTS for the EU-wide AML/CFT supervisory database, with a public hearing on 3 November 2026 and staged entry into force.
@@ -98,7 +102,3 @@ next = "/page/3/"
 ### [Factsheet - How the DMA ensures businesses using Booking.com are free to set their prices on and off Booking.com](https://digital-markets-act.ec.europa.eu/factsheet-how-dma-ensures-businesses-using-bookingcom-are-free-set-their-prices-and-bookingcom-2026-09-28_en)
 
 <span class="news-item__source">digital-markets-act.ec.europa.eu</span> The Commission said Booking.com dropped external-price checks from its Sponsored Benefit programme EEA-wide, its latest step complying with the DMA's parity ban.
-
-### [EXCLUSIVE: How ECB's Lagarde helped talk Greece out of licensing Binance](https://www.amlintelligence.com/2026/09/insight-how-ecbs-lagarde-helped-talk-greece-out-of-licensing-binance/)
-
-<span class="news-item__source">amlintelligence.com</span> Christine Lagarde privately warned Greek officials in May against licensing Binance, and the exchange withdrew both its MiCA and stablecoin applications by late June.

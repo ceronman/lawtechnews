@@ -11,6 +11,10 @@ next = "/page/7/"
 
 ## 14 September 2026
 
+### [Primera notificación de una brecha de datos personales causada por un ataque ejecutado mediante un agente de IA](https://www.aepd.es/prensa-y-comunicacion/blog/primera-notiviacion-brecha-datos-personales-causada-por-ataque-ejecutado-mediante-agente-ia)
+
+<span class="news-item__source">aepd.es</span> The AEPD logged Spain's first breach caused by an AI agent, which autonomously probed for vulnerabilities, logged in, altered personal data and reached invoices.
+
 ### [Open letter from European civil society organisations on encryption and privacy threats in Canada's Bill C-22](https://www.accessnow.org/press-release/encryption-and-privacy-threats-in-canadas-bill-c-22/)
 
 <span class="news-item__source">accessnow.org</span> Sixteen European digital rights groups asked the Commission to review Canada's GDPR adequacy over Bill C-22's secret capability orders and blanket metadata retention.
@@ -94,7 +98,3 @@ next = "/page/7/"
 ### [Referencia del Consejo de Ministros: real decreto de condiciones laborales transparentes y previsibles](https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2026/20260908-referencia-rueda-de-prensa-ministros.aspx)
 
 <span class="news-item__source">lamoncloa.gob.es</span> Spain approved a royal decree transposing the transparent working conditions directive, adding an individual right to know which algorithmic systems shape a worker's pay and tasks.
-
-### [Návrh zákona o platformové práci a o změně souvisejících zákonů (zákon o platformové práci)](https://www.zakonyprolidi.cz/monitor/8240702.htm)
-
-<span class="news-item__source">zakonyprolidi.cz</span> The Czech platform work bill reached the Chamber of Deputies, introducing a presumption of employment, algorithmic-management transparency and human review of key decisions.

@@ -9,6 +9,12 @@ prev = "/page/15/"
 next = ""
 +++
 
+## 14 July 2026
+
+### ['Anthropic doesn't care about Europe' — EU officials peeved after AI giant sends junior staffer to testify about safety](https://www.europarl.europa.eu/committees/en/imco/home/highlights)
+
+<span class="news-item__source">europarl.europa.eu</span> Anthropic sent a junior technical employee to answer MEPs' questions on cyber-capable models, leaving policy questions unanswered and lawmakers unimpressed.
+
 ## 13 July 2026
 
 ### [US appeals court overturns Clearview AI settlement](https://www.reuters.com/legal/government/us-appeals-court-overturns-clearview-ai-settlement-2026-07-13/)

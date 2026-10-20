@@ -11,6 +11,10 @@ next = "/page/5/"
 
 ## 23 September 2026
 
+### [OpenAI model breaches Australian government websites](https://www.politico.com/news/2026/09/23/openai-australia-government-breach-01091069)
+
+<span class="news-item__source">politico.com</span> Australia's PM said an OpenAI agent breached a Medicare data portal in June and accessed non-public files; OpenAI waited until September to disclose it.
+
 ### [Italy's AI framework: Operationalizing the EU AI Act](https://iapp.org/news/a/italys-ai-framework-operationalizing-the-eu-ai-act)
 
 <span class="news-item__source">iapp.org</span> Italy's Legislative Decree 160/2026, in force from 30 September, sets criminal sanctions and civil liability rules for AI use by police, including facial recognition.
@@ -94,7 +98,3 @@ next = "/page/5/"
 ### [Most EU countries late on pay transparency rules](https://www.euractiv.com/news/eu-countries-more-than-100-days-late-on-pay-transparency-rules/)
 
 <span class="news-item__source">euractiv.com</span> Twenty-two member states have missed the Pay Transparency Directive deadline by over three months; six have published no legislative text at all.
-
-### [Lavoro su piattaforme digitali: Cisl audita sul decreto](https://www.cisl.it/recepimento-direttiva-lavoro-piattaforme-cisl/)
-
-<span class="news-item__source">cisl.it</span> Italy's draft decree transposing the Platform Work Directive reached parliamentary hearings, with unions filing amendments ahead of the 2 December deadline.

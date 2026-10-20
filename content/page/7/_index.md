@@ -11,6 +11,10 @@ next = "/page/8/"
 
 ## 8 September 2026
 
+### [Návrh zákona o platformové práci a o změně souvisejících zákonů (zákon o platformové práci)](https://www.zakonyprolidi.cz/monitor/8240702.htm)
+
+<span class="news-item__source">zakonyprolidi.cz</span> The Czech platform work bill reached the Chamber of Deputies, introducing a presumption of employment, algorithmic-management transparency and human review of key decisions.
+
 ### [Investigation commenced into X under Online Safety Code](https://www.cnam.ie/investigation-commenced-into-x-under-online-safety-code/)
 
 <span class="news-item__source">cnam.ie</span> Coimisiún na Meán opened the first Online Safety Code investigation, into X's age assurance and parental controls, with fines of up to 10% of turnover possible.
@@ -98,7 +102,3 @@ next = "/page/8/"
 ### [Supreme Court: CRIF illegally collected data of millions in Austria. Way clear for class action!](https://noyb.eu/en/supreme-court-crif-illegally-collected-data-millions-austria-way-clear-class-action)
 
 <span class="news-item__source">noyb.eu</span> Austria's Supreme Court held that credit agency CRIF breached GDPR purpose limitation by buying marketing address data, clearing the way for noyb's class action.
-
-### [Germany's Draft Law on AI in Migration Raises Rights and Bias Concerns](https://www.techpolicy.press/germanys-draft-law-on-ai-in-migration-raises-rights-and-bias-concerns/)
-
-<span class="news-item__source">techpolicy.press</span> Germany's cabinet approved the KIMVG draft allowing AI in visa, residence and asylum procedures, including automated cross-checks of applicants' statements against online sources.
