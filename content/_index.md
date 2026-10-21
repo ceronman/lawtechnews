@@ -8,9 +8,19 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">316 stories on European law, technology regulation and digital rights, latest from 20 October 2026. Every headline links to the original source.</p>
+<p class="news-intro">318 stories on European law, technology regulation and digital rights, latest from 21 October 2026. Every headline links to the original source.</p>
+
+## 21 October 2026
+
+### [Berlin finds CDU, SPD, Greens and Left broke GDPR with Facebook targeting](https://ppc.land/berlin-finds-cdu-spd-greens-and-left-broke-gdpr-with-facebook-targeting/)
+
+<span class="news-item__source">ppc.land</span> Berlin's DPA found CDU, SPD, Greens and Die Linke unlawfully targeted Facebook voters by political interest in 2021, after noyb complaints. No fines were issued.
 
 ## 20 October 2026
+
+### [EU Cyber Resilience Act: Germany adopts CRA Implementation Act as national enforcement regimes take shape across the EU](https://www.hlc.com/en/publications/eu-cyber-resilience-act-germany-adopts-cra-implementation-act-as-national-enforcement-regimes)
+
+<span class="news-item__source">hlc.com</span> Germany adopted its Cyber Resilience Act Implementation Act, designating the national market surveillance, notifying and CSIRT authorities for CRA enforcement.
 
 ### [Clearview AI faces Court of Appeal test of 7.5m pound UK fine](https://ppc.land/clearview-ai-faces-court-of-appeal-test-of-7-5m-pound-uk-fine/)
 
@@ -93,13 +103,3 @@ next = "/page/2/"
 ### [Advocate General: access of data subjects to data processed by FIUs may be restricted, with safeguards](https://curia.europa.eu/site/upload/docs/application/pdf/2026-10/cp260145en.pdf)
 
 <span class="news-item__source">curia.europa.eu</span> CJEU Advocate General Medina said financial intelligence units fall under the Law Enforcement Directive, and may refuse data-subject access if the restriction is proportionate.
-
-## 8 October 2026
-
-### [The Danish Government's Legislative Programme for the Parliamentary Year 2026/2027 with a focus on employment law](https://www.twobirds.com/en/insights/2026/denmark/regeringens-lovprogram-for-folketingsret-20262027-med-fokus-p-det-ansttelsesretlige-omrde)
-
-<span class="news-item__source">twobirds.com</span> Denmark's government put its Platform Work Act on the 2026/27 legislative programme, with the bill due in February, after the 2 December 2026 transposition deadline.
-
-### [ICO secures changes from leading AI developers as scrutiny extends to AI agents](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/10/ico-secures-changes-from-leading-ai-developers-as-scrutiny-extends-to-ai-agents/)
-
-<span class="news-item__source">ico.org.uk</span> The UK ICO said ten AI developers, including OpenAI and Google, made data protection changes, and opened a call for evidence on agentic AI until 20 November.

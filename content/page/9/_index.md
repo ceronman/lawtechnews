@@ -9,6 +9,16 @@ prev = "/page/8/"
 next = "/page/10/"
 +++
 
+## 21 August 2026
+
+### [TikTok agrees to $400 million US children's privacy settlement](https://www.reuters.com/world/us-justice-department-tiktok-settle-400-million-childrens-privacy-suit-axios-2026-08-21/)
+
+<span class="news-item__source">reuters.com</span> TikTok and ByteDance settled the DOJ's COPPA suit for $400m: $300m now, $100m once the 2019 Musical.ly consent decree is vacated.
+
+### [EU's push for watermarking won't worsen AI writing, experts say](https://www.euractiv.com/news/eus-push-for-watermarking-wont-worsen-ai-writing-experts-say/)
+
+<span class="news-item__source">euractiv.com</span> Under the AI transparency code, watermarking applies only to texts over 200 tokens; its co-chairs say quality loss is confined to very short outputs.
+
 ## 20 August 2026
 
 ### [The EU's proposed CADA: Why cloud sovereignty matters for business strategy](https://iapp.org/news/a/the-eu-s-proposed-cada-why-cloud-sovereignty-matters-for-business-strategy)
@@ -88,11 +98,3 @@ next = "/page/10/"
 ### [Report supporting Australia's teen social media ban appears to contain AI hallucinations, Senate hears](https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb)
 
 <span class="news-item__source">theguardian.com</span> Six references in the $3.48m age-assurance trial report point to non-existent or wrong papers; the contractor conceded ChatGPT was used to rewrite text.
-
-### [Minnesota defends AI 'nudification' ban after lawsuit from Musk's xAI](https://www.reuters.com/legal/government/minnesota-defends-ai-nudification-ban-after-lawsuit-musks-xai-2026-08-17/)
-
-<span class="news-item__source">reuters.com</span> Minnesota's attorney general urged a judge to reject xAI's First Amendment bid to halt the first US nudification ban, which carries $500,000 per violation.
-
-### [Binance gave Moscow client details used to charge Russian over Ukraine donations, documents show](https://www.reuters.com/legal/government/binance-gave-moscow-client-details-used-charge-russian-over-ukraine-donations-2026-08-17/)
-
-<span class="news-item__source">reuters.com</span> Binance handed Russian investigators a client's passport, address and transaction data, used to charge him with terrorism financing over $700 in Ukraine donations.

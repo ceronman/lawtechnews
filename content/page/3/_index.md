@@ -9,7 +9,17 @@ prev = "/page/2/"
 next = "/page/4/"
 +++
 
+## 30 September 2026
+
+### [Google asks EU court to suspend order to share search data with AI rivals](https://finance.yahoo.com/technology/ai/articles/google-asks-eu-court-suspend-175843460.html)
+
+<span class="news-item__source">finance.yahoo.com</span> Google asked the EU General Court to suspend the Commission's order to share search data with rival engines and AI chatbots, citing privacy harm, and sued to annul it. <span class="news-item__discussions"><a href="https://www.reddit.com/r/Android/comments/1wt3dzu/google_is_going_to_court_to_stop_the_eu_opening/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/europeanunion/comments/1wthfw3/google_appeals_eu_requests_on_android_ai_access/">[discussion on reddit]</a></span>
+
 ## 28 September 2026
+
+### [Factsheet - How the DMA ensures businesses using Booking.com are free to set their prices on and off Booking.com](https://digital-markets-act.ec.europa.eu/factsheet-how-dma-ensures-businesses-using-bookingcom-are-free-set-their-prices-and-bookingcom-2026-09-28_en)
+
+<span class="news-item__source">digital-markets-act.ec.europa.eu</span> The Commission said Booking.com dropped external-price checks from its Sponsored Benefit programme EEA-wide, its latest step complying with the DMA's parity ban.
 
 ### [EXCLUSIVE: How ECB's Lagarde helped talk Greece out of licensing Binance](https://www.amlintelligence.com/2026/09/insight-how-ecbs-lagarde-helped-talk-greece-out-of-licensing-binance/)
 
@@ -92,11 +102,3 @@ next = "/page/4/"
 ### [What you need to know about the EU's new digital deportation regime](https://edri.org/our-work/what-you-need-to-know-about-the-eus-new-digital-deportation-regime/)
 
 <span class="news-item__source">edri.org</span> EDRi detailed the EU's Return Regulation, which lets states search phones, force biometric data collection, share health data with third countries, and flag 'security risks' via SIS.
-
-### [The Slovak Parliament has passed a law on the protection of digital platform workers](https://kompas.guide/sk/en/news/parlament-slovachchyny-ukhvalyv-zakon-pro-zakhyst-pratsivnykiv-tsyfrovykh)
-
-<span class="news-item__source">kompas.guide</span> Slovakia's parliament adopted its platform work act, presuming employment, requiring human review of deactivations and setting fines up to €50,000; it applies from 2 December 2026.
-
-### [Serbia's spyware scandal is also the EU's problem](https://edri.org/our-work/serbias-spyware-scandal-is-also-the-eus-problem/)
-
-<span class="news-item__source">edri.org</span> SHARE Foundation confirmed Pegasus and NoviSpy spyware on 14 Serbian activists and opposition figures since 2026; EDRi urges the EU to condition Serbia's accession on ending spyware use.

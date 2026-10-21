@@ -9,6 +9,16 @@ prev = "/"
 next = "/page/3/"
 +++
 
+## 8 October 2026
+
+### [The Danish Government's Legislative Programme for the Parliamentary Year 2026/2027 with a focus on employment law](https://www.twobirds.com/en/insights/2026/denmark/regeringens-lovprogram-for-folketingsret-20262027-med-fokus-p-det-ansttelsesretlige-omrde)
+
+<span class="news-item__source">twobirds.com</span> Denmark's government put its Platform Work Act on the 2026/27 legislative programme, with the bill due in February, after the 2 December 2026 transposition deadline.
+
+### [ICO secures changes from leading AI developers as scrutiny extends to AI agents](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/10/ico-secures-changes-from-leading-ai-developers-as-scrutiny-extends-to-ai-agents/)
+
+<span class="news-item__source">ico.org.uk</span> The UK ICO said ten AI developers, including OpenAI and Google, made data protection changes, and opened a call for evidence on agentic AI until 20 November.
+
 ## 7 October 2026
 
 ### [Provvedimento del 6 agosto 2026 [10302032] - Michael Page International Italia](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10302032)
@@ -92,13 +102,3 @@ next = "/page/3/"
 ### [The CRBR will no longer be fully public. What will change for businesses?](https://www.tgc.eu/en/publications/tgc-corporate-lawyers-legal-review-september-2026/)
 
 <span class="news-item__source">tgc.eu</span> Poland's government adopted an AML amendment draft restricting public access to the CRBR beneficial-ownership register from 1 October 2027 to those showing legitimate interest.
-
-### [Google asks EU court to suspend order to share search data with AI rivals](https://finance.yahoo.com/technology/ai/articles/google-asks-eu-court-suspend-175843460.html)
-
-<span class="news-item__source">finance.yahoo.com</span> Google asked the EU General Court to suspend the Commission's order to share search data with rival engines and AI chatbots, citing privacy harm, and sued to annul it. <span class="news-item__discussions"><a href="https://www.reddit.com/r/Android/comments/1wt3dzu/google_is_going_to_court_to_stop_the_eu_opening/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/europeanunion/comments/1wthfw3/google_appeals_eu_requests_on_android_ai_access/">[discussion on reddit]</a></span>
-
-## 28 September 2026
-
-### [Factsheet - How the DMA ensures businesses using Booking.com are free to set their prices on and off Booking.com](https://digital-markets-act.ec.europa.eu/factsheet-how-dma-ensures-businesses-using-bookingcom-are-free-set-their-prices-and-bookingcom-2026-09-28_en)
-
-<span class="news-item__source">digital-markets-act.ec.europa.eu</span> The Commission said Booking.com dropped external-price checks from its Sponsored Benefit programme EEA-wide, its latest step complying with the DMA's parity ban.
