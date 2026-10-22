@@ -4,12 +4,26 @@ template = "index.html"
 
 [extra]
 page_num = 15
-page_count = 16
+page_count = 17
 prev = "/page/14/"
 next = "/page/16/"
 +++
 
+## 22 July 2026
+
+### [First steps forward for the implementation of the Health Action Plan](https://www.enisa.europa.eu/news/first-steps-forward-for-the-implementation-of-the-health-action-plan)
+
+<span class="news-item__source">enisa.europa.eu</span> ENISA signed a €6m, three-year agreement to build a cybersecurity support centre for hospitals and updated its healthcare procurement guidelines.
+
+### [Commission concludes eligibility checks for two European Citizens' Initiatives on digital identity and age-verification, and on migration and asylum](https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1669)
+
+<span class="news-item__source">ec.europa.eu</span> A citizens' initiative against mandatory digital ID and age verification was ruled admissible; organisers need one million signatures within 12 months.
+
 ## 21 July 2026
+
+### [US lawmakers urge Trump to act against EU tech rules, suggest trade probes](https://www.reuters.com/legal/government/us-lawmakers-urge-trump-act-against-eu-tech-rules-suggest-trade-probes-2026-07-21/)
+
+<span class="news-item__source">reuters.com</span> Twenty-five Republican lawmakers urged Trump to open Section 301 investigations and consider tariffs over the Digital Markets Act.
 
 ### [French lawmakers vote on social media ban for children](https://www.reuters.com/legal/litigation/french-lawmakers-vote-social-media-ban-children-2026-07-21/)
 
@@ -86,17 +100,3 @@ next = "/page/16/"
 ### [Hadopi law (2009–2026): French Conseil d'État finds the surveillance system breaches EU fundamental rights](https://edri.org/our-work/hadopi-law-2009-2026/)
 
 <span class="news-item__source">edri.org</span> France's Conseil d'État found the Hadopi graduated-response system breaches EU fundamental rights and ordered the government to repeal the key decree provisions.
-
-### [EU debuts new digital sovereignty assessment tools](https://commission.europa.eu/news-and-media/news/sovereign-cloud-framework-explained-2026-06-01_en)
-
-<span class="news-item__source">commission.europa.eu</span> The Commission published guidance letting organisations score cloud and AI providers against its eight sovereignty criteria, after questions over a €180m award.
-
-## 15 July 2026
-
-### [The EU AI Act deadline moved, vendor questionnaires will not](https://iapp.org/news/a/the-eu-ai-act-deadline-moved-vendor-questionnaires-will-not)
-
-<span class="news-item__source">iapp.org</span> Delaying the AI Act's high-risk deadlines to 2027 and 2028 will not slow procurement teams, who keep demanding compliance evidence at contract renewal.
-
-### [Commission accepts X's corrective measures to terminate breaches of the DSA](https://digital-strategy.ec.europa.eu/en/news/commission-accepts-xs-corrective-measures-terminate-breaches-dsa)
-
-<span class="news-item__source">digital-strategy.ec.europa.eu</span> The Commission accepted X's plan to fix its ad repository and researcher data access after last year's €120m fine. X has six months to deliver.

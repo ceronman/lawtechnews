@@ -4,10 +4,24 @@ template = "index.html"
 
 [extra]
 page_num = 5
-page_count = 16
+page_count = 17
 prev = "/page/4/"
 next = "/page/6/"
 +++
+
+## 21 September 2026
+
+### [EDPB harmonises fining methodology and adopts final DSA-GDPR guidelines](https://www.edpb.europa.eu/news/edpb-harmonises-fining-methodology-and-adopts-final-dsa-gdpr-guidelines_en)
+
+<span class="news-item__source">edpb.europa.eu</span> The EDPB adopted a five-step test for DPAs deciding whether to impose GDPR fines and finalised its guidelines on the DSA-GDPR interplay, with 14 worked examples.
+
+### [Data Protection Commission fines Google €403 million following Inquiry into Google's processing of location data](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location)
+
+<span class="news-item__source">dataprotection.ie</span> Ireland's DPC fined Google €403 million for unlawful processing of location data in Web & App Activity and Location History, ordering compliance within six months.
+
+### [AI: EU Member States plan “digital expropriation” of Europeans in the interest of AI companies](https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies)
+
+<span class="news-item__source">noyb.eu</span> A leaked Irish Presidency text adds GDPR Article 88bis, making any personal data use “in the context of AI” lawful by default with no consent required.
 
 ## 20 September 2026
 
@@ -84,17 +98,3 @@ next = "/page/6/"
 ### [EU chief to host safety talks with leading AI labs](https://www.euractiv.com/news/eu-chief-to-host-safety-talks-with-leading-ai-labs-per-draft-speech/)
 
 <span class="news-item__source">euractiv.com</span> Von der Leyen will convene frontier AI labs on slowing self-recursive models and team up with Canada and the UK on model evaluation and early warning.
-
-### [2026 State of the Union Address by President von der Leyen](https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1868)
-
-<span class="news-item__source">ec.europa.eu</span> Von der Leyen unveiled an EU Kids Act: no social media under 13, no personal account under 15, and parent-supervised mini accounts capped at one hour a day.
-
-## 15 September 2026
-
-### [Leak: EU Commission to pitch social media restrictions for under-15s](https://www.euronews.com/my-europe/2026/09/15/leak-eu-commission-to-pitch-social-media-restrictions-for-under-15s)
-
-<span class="news-item__source">euronews.com</span> A leaked EU Kids Act draft would bar under-15s from social media without parental consent and impose safety-by-design duties on video games and AI chatbots.
-
-### [Commission proposes ambitious measures to strengthen fair labour mobility](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1851)
-
-<span class="news-item__source">ec.europa.eu</span> The Commission adopted the Fair Labour Mobility package: a European Social Security Pass, digital qualifications in the EU Identity Wallet, and a strengthened Labour Authority.

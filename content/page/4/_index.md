@@ -4,12 +4,26 @@ template = "index.html"
 
 [extra]
 page_num = 4
-page_count = 16
+page_count = 17
 prev = "/page/3/"
 next = "/page/5/"
 +++
 
+## 24 September 2026
+
+### [First draft of the Polish Platform Work Act](https://knowledge.dlapiper.com/dlapiperknowledge/globalemploymentlatestdevelopments/2026/first-draft-of-the-polish-platform-work-act)
+
+<span class="news-item__source">knowledge.dlapiper.com</span> Poland published a draft law transposing the Platform Work Directive, creating a rebuttable employment presumption and fines up to €20m for banned algorithmic data use.
+
+### [Finnish unions seek review of Wolt employment oversight](https://www.helsinkitimes.fi/finland/finland-news/domestic/29313-finnish-unions-seek-review-of-wolt-employment-oversight.html)
+
+<span class="news-item__source">helsinkitimes.fi</span> Two Finnish unions asked the Parliamentary Ombudsman to probe why labour inspectors have not acted since courts ruled Wolt couriers meet employee criteria.
+
 ## 23 September 2026
+
+### [What you need to know about the EU's new digital deportation regime](https://edri.org/our-work/what-you-need-to-know-about-the-eus-new-digital-deportation-regime/)
+
+<span class="news-item__source">edri.org</span> EDRi detailed the EU's Return Regulation, which lets states search phones, force biometric data collection, share health data with third countries, and flag 'security risks' via SIS.
 
 ### [The Slovak Parliament has passed a law on the protection of digital platform workers](https://kompas.guide/sk/en/news/parlament-slovachchyny-ukhvalyv-zakon-pro-zakhyst-pratsivnykiv-tsyfrovykh)
 
@@ -82,15 +96,3 @@ next = "/page/5/"
 ### [EU lawmakers float product liability rules to help avert AI disaster](https://www.politico.eu/article/eu-lawmakers-ai-apocalypse-warnings-brussels-scrambles-ai-rules-gaps/)
 
 <span class="news-item__source">politico.eu</span> Four MEPs urged the Commission to draft an AI Liability Act extending the AI Act to hold providers like OpenAI and Anthropic liable for harm from advanced models.
-
-### [EDPB harmonises fining methodology and adopts final DSA-GDPR guidelines](https://www.edpb.europa.eu/news/edpb-harmonises-fining-methodology-and-adopts-final-dsa-gdpr-guidelines_en)
-
-<span class="news-item__source">edpb.europa.eu</span> The EDPB adopted a five-step test for DPAs deciding whether to impose GDPR fines and finalised its guidelines on the DSA-GDPR interplay, with 14 worked examples.
-
-### [Data Protection Commission fines Google €403 million following Inquiry into Google's processing of location data](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location)
-
-<span class="news-item__source">dataprotection.ie</span> Ireland's DPC fined Google €403 million for unlawful processing of location data in Web & App Activity and Location History, ordering compliance within six months.
-
-### [AI: EU Member States plan “digital expropriation” of Europeans in the interest of AI companies](https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies)
-
-<span class="news-item__source">noyb.eu</span> A leaked Irish Presidency text adds GDPR Article 88bis, making any personal data use “in the context of AI” lawful by default with no consent required.

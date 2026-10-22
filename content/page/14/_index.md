@@ -4,12 +4,26 @@ template = "index.html"
 
 [extra]
 page_num = 14
-page_count = 16
+page_count = 17
 prev = "/page/13/"
 next = "/page/15/"
 +++
 
+## 28 July 2026
+
+### [How the AI Deepfake Boom is Outpacing Europe's Safeguards](https://www.techpolicy.press/how-the-ai-deepfake-boom-is-outpacing-europes-safeguards/)
+
+<span class="news-item__source">techpolicy.press</span> Twenty-five victims describe non-consensual sexual deepfakes from nudification tools, including a Grok-driven wave that hit journalists and politicians.
+
+### [Home Office used 'AI hallucinated' information to refuse asylum claim, judge suggests](https://www.theguardian.com/uk-news/2026/jul/28/home-office-used-ai-hallucinated-information-to-refuse-asylum-claim-judge-suggests)
+
+<span class="news-item__source">theguardian.com</span> An Upper Tribunal judge found the Home Office refused an asylum claim by citing a policy note that does not exist and bears the hallmarks of AI generation.
+
 ## 27 July 2026
+
+### [PSA: Your Claude shared chats and Artifacts may have ended up on Google](https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/)
+
+<span class="news-item__source">techcrunch.com</span> Shared Claude chat links and Artifacts turned up in Google's index, exposing health records, company documents and children's contact details.
 
 ### [Kill the Cookie Banner!](https://killthecookiebanner.eu/)
 
@@ -88,17 +102,3 @@ next = "/page/15/"
 ### [France becomes first EU member state to approve children's social media ban](https://www.politico.eu/article/macron-cements-tech-legacy-with-social-media-ban/)
 
 <span class="news-item__source">politico.eu</span> France's parliament passed a ban on social media for under-15s from 1 September, with the Commission given oversight of how it is implemented.
-
-### [First steps forward for the implementation of the Health Action Plan](https://www.enisa.europa.eu/news/first-steps-forward-for-the-implementation-of-the-health-action-plan)
-
-<span class="news-item__source">enisa.europa.eu</span> ENISA signed a €6m, three-year agreement to build a cybersecurity support centre for hospitals and updated its healthcare procurement guidelines.
-
-### [Commission concludes eligibility checks for two European Citizens' Initiatives on digital identity and age-verification, and on migration and asylum](https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1669)
-
-<span class="news-item__source">ec.europa.eu</span> A citizens' initiative against mandatory digital ID and age verification was ruled admissible; organisers need one million signatures within 12 months.
-
-## 21 July 2026
-
-### [US lawmakers urge Trump to act against EU tech rules, suggest trade probes](https://www.reuters.com/legal/government/us-lawmakers-urge-trump-act-against-eu-tech-rules-suggest-trade-probes-2026-07-21/)
-
-<span class="news-item__source">reuters.com</span> Twenty-five Republican lawmakers urged Trump to open Section 301 investigations and consider tariffs over the Digital Markets Act.

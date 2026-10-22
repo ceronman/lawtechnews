@@ -4,10 +4,26 @@ template = "index.html"
 
 [extra]
 page_num = 16
-page_count = 16
+page_count = 17
 prev = "/page/15/"
-next = ""
+next = "/page/17/"
 +++
+
+## 16 July 2026
+
+### [EU debuts new digital sovereignty assessment tools](https://commission.europa.eu/news-and-media/news/sovereign-cloud-framework-explained-2026-06-01_en)
+
+<span class="news-item__source">commission.europa.eu</span> The Commission published guidance letting organisations score cloud and AI providers against its eight sovereignty criteria, after questions over a €180m award.
+
+## 15 July 2026
+
+### [The EU AI Act deadline moved, vendor questionnaires will not](https://iapp.org/news/a/the-eu-ai-act-deadline-moved-vendor-questionnaires-will-not)
+
+<span class="news-item__source">iapp.org</span> Delaying the AI Act's high-risk deadlines to 2027 and 2028 will not slow procurement teams, who keep demanding compliance evidence at contract renewal.
+
+### [Commission accepts X's corrective measures to terminate breaches of the DSA](https://digital-strategy.ec.europa.eu/en/news/commission-accepts-xs-corrective-measures-terminate-breaches-dsa)
+
+<span class="news-item__source">digital-strategy.ec.europa.eu</span> The Commission accepted X's plan to fix its ad repository and researcher data access after last year's €120m fine. X has six months to deliver.
 
 ## 14 July 2026
 
@@ -94,9 +110,3 @@ next = ""
 ### [Artificial Intelligence: Council gives final green light to simplify and streamline rules](https://www.consilium.europa.eu/en/press/press-releases/2026/06/29/artificial-intelligence-council-gives-final-green-light-to-simplify-and-streamline-rules/)
 
 <span class="news-item__source">consilium.europa.eu</span> The Council adopted the Digital Omnibus on AI, pushing high-risk compliance to December 2027 and August 2028 and delaying regulatory sandboxes to August 2027.
-
-## 16 June 2026
-
-### [Gerechtshof Amsterdam, ECLI:NL:GHAMS:2026:1612 (FNV en CNV / Temper)](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:1612)
-
-<span class="news-item__source">uitspraken.rechtspraak.nl</span> The Amsterdam Court of Appeal held that people working via the Temper platform are temporary agency employees of Temper, not self-employed, covering some 61,000 workers.

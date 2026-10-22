@@ -4,12 +4,26 @@ template = "index.html"
 
 [extra]
 page_num = 9
-page_count = 16
+page_count = 17
 prev = "/page/8/"
 next = "/page/10/"
 +++
 
+## 24 August 2026
+
+### [Consultatie Wet platformwerk (implementation of Directive (EU) 2024/2831)](https://www.internetconsultatie.nl/wetplatformwerk/b1)
+
+<span class="news-item__source">internetconsultatie.nl</span> The Dutch consultation on the Wet platformwerk closed with 86 public responses; the bill is a pure transposition of the directive, due in national law by 2 December 2026.
+
 ## 21 August 2026
+
+### [Uber fined nearly 825 million euros for automated driver blocking](https://www.autoriteitpersoonsgegevens.nl/en/current/uber-fined-nearly-825-million-euros-for-automated-driver-blocking)
+
+<span class="news-item__source">autoriteitpersoonsgegevens.nl</span> The Dutch DPA fined Uber €824.99m for automatically deactivating drivers over fraud flags and low ratings without human review. Uber is appealing.
+
+### [U.S. Citizen Who Deleted Phone's Data Says His Prosecution Puts Privacy at Risk](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
+
+<span class="news-item__source">nytimes.com</span> US prosecutors charged Samuel Tunick with obstruction for entering a duress passcode that wiped his phone during a CBP airport search.
 
 ### [TikTok agrees to $400 million US children's privacy settlement](https://www.reuters.com/world/us-justice-department-tiktok-settle-400-million-childrens-privacy-suit-axios-2026-08-21/)
 
@@ -84,17 +98,3 @@ next = "/page/10/"
 ### [17 Iranians Charged With Conducting Massive Cyber Theft Campaign On Behalf Of The Islamic Revolutionary Guard Corps](https://www.justice.gov/usao-sdny/pr/17-iranians-charged-conducting-massive-cyber-theft-campaign-behalf-islamic)
 
 <span class="news-item__source">justice.gov</span> Prosecutors charged 17 Mabna Institute members over IRGC-directed intrusions at 322 universities that took 31.5 terabytes of research data.
-
-## 17 August 2026
-
-### [Vietnam Tightens Online Speech Controls as Cyber Law Takes Effect](https://www.techpolicy.press/vietnam-tightens-online-speech-controls-as-cyber-law-takes-effect/)
-
-<span class="news-item__source">techpolicy.press</span> Vietnam's revised Cybersecurity Law took effect on 1 July, giving platforms six hours to remove content in urgent cases and fining users up to $1,900.
-
-### [Sainsbury's store pauses AI scanning after false shoplifting accusation](https://www.theguardian.com/technology/2026/aug/17/humiliated-sainsburys-store-pauses-ai-scanning-after-false-shoplifting-accusation)
-
-<span class="news-item__source">theguardian.com</span> Sainsbury's suspended Facewatch facial recognition at its East Dulwich store after a customer was wrongly ejected as a shoplifter; it blamed human error, not the tech.
-
-### [Report supporting Australia's teen social media ban appears to contain AI hallucinations, Senate hears](https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb)
-
-<span class="news-item__source">theguardian.com</span> Six references in the $3.48m age-assurance trial report point to non-existent or wrong papers; the contractor conceded ChatGPT was used to rewrite text.
