@@ -11,6 +11,26 @@ next = "/page/4/"
 
 ## 1 October 2026
 
+### [Press Release: AMLA finalises key standards for the private sector](https://www.amla.europa.eu/press-release-amla-finalises-key-standards-private-sector_en)
+
+<span class="news-item__source">amla.europa.eu</span> AMLA finalised three AMLR standards on customer due diligence, linked transactions and group-wide controls; they apply six months after Commission adoption.
+
+### [Opinion of Advocate General Medina in Case C-12/25 (right to erasure and baptismal registers)](https://curia.europa.eu/site/upload/docs/application/pdf/2026-10/cp260139en.pdf)
+
+<span class="news-item__source">curia.europa.eu</span> Advocate General Medina advised the CJEU that GDPR erasure can in principle apply to baptismal registers, unless the diocese shows overriding legitimate grounds.
+
+### [Lyft agrees to pay California $272.5m in largest-ever wage theft settlement](https://www.theguardian.com/technology/2026/oct/01/lyft-largest-ever-wage-theft-settlement)
+
+<span class="news-item__source">theguardian.com</span> Lyft settled California's misclassification claims for $272.5m, with over $237m going to drivers treated as contractors between 2016 and 2020, subject to court approval.
+
+### [Italy switches on real-time facial recognition as EU calculates risk to basic rights](https://www.biometricupdate.com/202610/italy-switches-on-real-time-facial-recognition-as-eu-calculates-risk-to-basic-rights)
+
+<span class="news-item__source">biometricupdate.com</span> Italy's decree implementing the AI Act took effect, limiting police real-time facial recognition to specific threats and missing persons; the FRA published a critical report.
+
+### [Autumn Legislative Programme Signals Further Change for Irish Employers](https://littler.ie/insights/autumn-legislative-programme-signals-further-change-for-irish-employers/)
+
+<span class="news-item__source">littler.ie</span> Ireland's autumn legislative programme omits a Platform Work Directive bill, though the government says it is still on track to transpose by the 2 December 2026 deadline.
+
 ### [AMLA finalises standards on Home-Host Supervisory Cooperation](https://www.amla.europa.eu/press-release-amla-finalises-standards-home-host-supervisory-cooperation_en)
 
 <span class="news-item__source">amla.europa.eu</span> AMLA published its final draft RTS letting EU AML supervisors share information without prior consent and run cross-border inquiries; they bind once the Commission adopts them.
@@ -80,25 +100,3 @@ next = "/page/4/"
 ### [The presidency's question: leave private messages out of the regulation?](https://brusselsrecord.com/presidency-question-leave-private-messages-out/)
 
 <span class="news-item__source">brusselsrecord.com</span> A leaked Council note ahead of the 29 September trilogue asks ambassadors whether to write voluntary scanning of private messages into permanent law, or drop it without compromise.
-
-### [OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity](https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt)
-
-<span class="news-item__source">theguardian.com</span> OpenAI said its AI agents leaked 53 user images online and accessed US government sites including the SEC, part of a rogue-agent incident count still rising since the Hugging Face hack. <span class="news-item__discussions"><a href="https://www.reddit.com/r/technology/comments/1wqh8ti/openai_rogue_agents_leaked_53_images_from_chatgpt/">[discussion on reddit]</a> <a href="https://news.ycombinator.com/item?id=49853688">[discussion on hn]</a></span>
-
-### [Commission opens infringement procedures against EU states over beneficial-ownership register access rules](https://ec.europa.eu/commission/presscorner/detail/en/inf_26_1834)
-
-<span class="news-item__source">ec.europa.eu</span> The Commission opened infringement procedures against most EU states for failing to transpose AML rules on beneficial-ownership register access.
-
-## 24 September 2026
-
-### [US government seeks to join Elon Musk in challenge against EU's fine on X](https://www.reuters.com/world/us-government-seeks-join-elon-musk-challenge-against-eus-fine-x-2026-09-24/)
-
-<span class="news-item__source">reuters.com</span> The US DOJ asked the EU General Court to back Elon Musk's bid to annul X's €120m DSA fine, calling Brussels' first DSA sanction regulatory overreach. <span class="news-item__discussions"><a href="https://www.reddit.com/r/worldnews/comments/1wpra3v/us_seeks_to_join_elon_musk_in_eu_court_fight_over/">[discussion on reddit]</a></span>
-
-### [TikTok withdraws two appeals in children's privacy action and accepts £12.7m fine](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/09/tiktok-withdraws-two-appeals-in-children-s-privacy-action-and-accepts-127m-fine/)
-
-<span class="news-item__source">ico.org.uk</span> TikTok dropped its appeal and will pay the ICO's £12.7m fine over under-13s' data, also withdrawing a challenge that had stalled the regulator's probe into its teen recommender systems.
-
-### [Simplification for whom? Open letter to EU Member States to uphold GDPR protections in Digital Omnibus on Data](https://edri.org/our-work/simplification-for-whom-open-letter-uphold-gdpr-protections-in-data-omnibus/)
-
-<span class="news-item__source">edri.org</span> EDRi urged EU states to reject Council Digital Omnibus text that lets pseudonymised data escape GDPR and adds AI as grounds for 'legitimate interest' processing.

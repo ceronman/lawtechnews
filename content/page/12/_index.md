@@ -11,6 +11,26 @@ next = "/page/13/"
 
 ## 7 August 2026
 
+### [Who is liable when AI goes rogue? Lawyers see new risks](https://www.reuters.com/business/who-is-liable-when-ai-goes-rogue-lawyers-see-new-risks-2026-08-07/)
+
+<span class="news-item__source">reuters.com</span> Negligence and computer-misuse claims are the likely routes to hold AI labs liable for autonomous agent breaches, but no court has ruled on intent when no human acts.
+
+### [US sanctions Dubai crypto exchange for aiding Iran's IRGC, following a Reuters report](https://www.reuters.com/world/middle-east/us-sanctions-dubai-crypto-exchange-aiding-irans-irgc-following-reuters-report-2026-08-07/)
+
+<span class="news-item__source">reuters.com</span> OFAC sanctioned Dubai exchange Shelbit and its founder over a $4bn Iranian sanctions-evasion scheme, weeks after Dubai's VARA flagged money-laundering violations.
+
+### [Telecom CEOs blast EU for failing to crack down on child sexual abuse content](https://www.politico.eu/article/telecom-chiefs-blast-eu-failing-crack-down-child-sexual-abuse-content/)
+
+<span class="news-item__source">politico.eu</span> Four telecom CEOs asked EU leaders for bloc-wide orders letting ISPs block confirmed CSAM, noting 63% of such webpages were hosted in the EU last year.
+
+### [Law firms Herbert Smith, Goodwin hit by data breaches](https://www.reuters.com/legal/litigation/law-firms-herbert-smith-goodwin-hit-by-data-breaches-2026-08-07/)
+
+<span class="news-item__source">reuters.com</span> Herbert Smith Freehills Kramer, Goodwin Procter and Taft disclosed breaches to US state regulators, exposing Social Security numbers, government IDs and health records.
+
+### [Global Digital Policy Roundup: July 2026](https://www.techpolicy.press/global-digital-policy-roundup-july-2026/)
+
+<span class="news-item__source">techpolicy.press</span> July's G20 survey spans DSA fines and preliminary findings, the AI Omnibus entering force, two DMA fines on Alphabet, and joint EDPB-AMLA AML guidelines.
+
 ### [Chinese startup Moonshot's AI model breaks out of testing environment, researchers say](https://www.reuters.com/legal/litigation/chinese-startup-moonshots-ai-model-breaks-out-testing-environment-researchers-2026-08-07/)
 
 <span class="news-item__source">reuters.com</span> Frontier Security found Moonshot's Kimi K3 bypassed a UK AI Safety Institute sandbox to reach outside data, warning other high-reasoning models could do the same.
@@ -76,25 +96,3 @@ next = "/page/13/"
 ### [Can we solve the cookie banner problem in the EU?](https://iapp.org/news/a/can-we-solve-the-cookie-banner-problem-in-the-eu-)
 
 <span class="news-item__source">iapp.org</span> A proposed GDPR Article 88b would let browsers signal privacy choices automatically, ending per-site consent banners; it now rests on the Digital Omnibus trilogue.
-
-## 3 August 2026
-
-### [UBS fined $125 million by US regulators for money laundering violations](https://www.reuters.com/world/us-treasury-fines-ubs-financial-services-125-million-secrecy-violations-2026-08-03/)
-
-<span class="news-item__source">reuters.com</span> FinCEN fined UBS Financial Services $125m, its largest ever against a broker-dealer, for failing to run an AML programme or file suspicious activity reports.
-
-### [EXCLUSIVE: Commission considers replacing US tech in recruitment tool](https://www.euractiv.com/news/exclusive-commission-mulls-ditching-us-tech-from-ai-recruitment-tool/)
-
-<span class="news-item__source">euractiv.com</span> The Commission is weighing whether to move its AI-assisted recruitment tool off US cloud and model providers to European alternatives.
-
-### [Europe wants to kick its Palantir habit](https://www.politico.eu/article/europe-wants-to-kick-its-palantir-habit/)
-
-<span class="news-item__source">politico.eu</span> Spain has barred Palantir from state-backed procurement and French intelligence picked a rival, as European governments try to unwind deep dependencies.
-
-### [EU AI Act Transparency Rules Are Now In Effect. Was It A Missed Opportunity?](https://www.techpolicy.press/eu-ai-act-transparency-rules-are-now-in-effect-was-it-a-missed-opportunity/)
-
-<span class="news-item__source">techpolicy.press</span> Article 50's transparency regime took effect on 2 August; analysts credit its watermarking and metadata layers but say scope and enforcement leave four big gaps.
-
-### [EDPB requests review of EU-US Data Privacy Framework following Trump v. Slaughter](https://iapp.org/news/a/edpb-requests-review-of-eu-us-data-privacy-framework-following-trump-v-slaughter)
-
-<span class="news-item__source">iapp.org</span> The EDPB asked the Commission to assess whether Trump v. Slaughter, which expands presidential removal power over independent agencies, undermines the EU-US framework.

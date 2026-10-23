@@ -9,7 +9,29 @@ prev = "/page/5/"
 next = "/page/7/"
 +++
 
+## 17 September 2026
+
+### [Bundesgerichtshof legt EuGH Fragen zur "Haushaltsausnahme" nach der DSGVO vor](https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026169.html)
+
+<span class="news-item__source">bundesgerichtshof.de</span> Germany's Federal Court of Justice referred two cases to the CJEU on how far the GDPR household exemption reaches when private chats or home CCTV go to employers or police.
+
 ## 16 September 2026
+
+### [Poland's platform work law could reach far beyond couriers and drivers](https://ceo.com.pl/en/poland-platform-work-law-couriers-freelancers-digital-platforms-90034/)
+
+<span class="news-item__source">ceo.com.pl</span> Poland's Platform Work Directive bill UC160 drew industry objections that its employment presumption and platform definition could capture IT freelancers and B2B marketplaces.
+
+### [Nyt udkast til AI-hjemmelslov sendt i høring](https://www.datatilsynet.dk/presse-og-nyheder/nyhedsarkiv/2026/sep/nyt-udkast-til-ai-hjemmelslov-sendt-i-hoering)
+
+<span class="news-item__source">datatilsynet.dk</span> Denmark sent a redrafted AI authorisation act to consultation, creating a general data-protection legal basis for public bodies to build and run AI on personal data.
+
+### [Ireland’s domestic AI legislation comes into force](https://www.arthurcox.com/knowledge/irelands-domestic-ai-legislation-comes-into-force/)
+
+<span class="news-item__source">arthurcox.com</span> Ireland’s Regulation of Artificial Intelligence Act 2026 took effect, creating an AI Office and making the Central Bank and the DPC market surveillance authorities under the EU AI Act.
+
+### [EU chief to host safety talks with leading AI labs](https://www.euractiv.com/news/eu-chief-to-host-safety-talks-with-leading-ai-labs-per-draft-speech/)
+
+<span class="news-item__source">euractiv.com</span> Von der Leyen will convene frontier AI labs on slowing self-recursive models and team up with Canada and the UK on model evaluation and early warning.
 
 ### [2026 State of the Union Address by President von der Leyen](https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1868)
 
@@ -78,23 +100,3 @@ next = "/page/7/"
 ### [SCHUFA insists on shadow database. noyb lawsuit now certain](https://noyb.eu/en/schufa-insists-shadow-database-noyb-lawsuit-now-certain)
 
 <span class="news-item__source">noyb.eu</span> SCHUFA rejected noyb's cease-and-desist over its shadow database, so noyb will file for an injunction and is collecting sign-ups for a possible class action.
-
-### [Open Letter: Civil society coalition urges EU to kill the cookie banner!](https://noyb.eu/en/open-letter-civil-society-coalition-urges-eu-kill-cookie-banner)
-
-<span class="news-item__source">noyb.eu</span> Nineteen civil society groups, businesses and academics urged EU lawmakers to keep Article 88b of the Digital Omnibus after the Council dropped binding automated privacy signals.
-
-### [Governor Newsom signs the strongest child safety chatbot and social media laws in the nation](https://www.gov.ca.gov/2026/09/10/governor-newsom-signs-the-strongest-child-safety-chatbot-and-social-media-laws-in-the-nation/)
-
-<span class="news-item__source">gov.ca.gov</span> California enacted 13 bills, including Adam's Law requiring independent child safety audits of companion chatbots and a ban on addictive feeds for under-16s.
-
-### [EU watchdog probes von der Leyen's AI envoy pick](https://www.politico.eu/article/eu-ombudsman-ursula-von-der-leyen-ai-envoy-jim-hagemann-snabe/)
-
-<span class="news-item__source">politico.eu</span> The European Ombudsman opened an inquiry into the Commission's appointment of Siemens chairman Jim Hagemann Snabe as special envoy for industrial AI.
-
-### [Detecting and countering misuse of AI: September 2026](https://www.anthropic.com/threat-intelligence-report-september-2026)
-
-<span class="news-item__source">anthropic.com</span> Anthropic detailed misuse of Claude it disrupted between December 2025 and August 2026 across seven harm areas, including cyber operations, surveillance and biological misuse.
-
-### [California gig drivers secure collective bargaining power in historic first](https://www.latimes.com/business/story/2026-09-10/california-clears-way-for-uber-lyft-driver-union)
-
-<span class="news-item__source">latimes.com</span> California's labour board certified the SEIU-backed Gig Workers Union as statewide bargaining agent for Uber and Lyft drivers, covering pay, deactivations and safety.

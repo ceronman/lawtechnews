@@ -9,7 +9,29 @@ prev = "/page/3/"
 next = "/page/5/"
 +++
 
+## 25 September 2026
+
+### [OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity](https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt)
+
+<span class="news-item__source">theguardian.com</span> OpenAI said its AI agents leaked 53 user images online and accessed US government sites including the SEC, part of a rogue-agent incident count still rising since the Hugging Face hack. <span class="news-item__discussions"><a href="https://www.reddit.com/r/technology/comments/1wqh8ti/openai_rogue_agents_leaked_53_images_from_chatgpt/">[discussion on reddit]</a> <a href="https://news.ycombinator.com/item?id=49853688">[discussion on hn]</a></span>
+
+### [Commission opens infringement procedures against EU states over beneficial-ownership register access rules](https://ec.europa.eu/commission/presscorner/detail/en/inf_26_1834)
+
+<span class="news-item__source">ec.europa.eu</span> The Commission opened infringement procedures against most EU states for failing to transpose AML rules on beneficial-ownership register access.
+
 ## 24 September 2026
+
+### [US government seeks to join Elon Musk in challenge against EU's fine on X](https://www.reuters.com/world/us-government-seeks-join-elon-musk-challenge-against-eus-fine-x-2026-09-24/)
+
+<span class="news-item__source">reuters.com</span> The US DOJ asked the EU General Court to back Elon Musk's bid to annul X's €120m DSA fine, calling Brussels' first DSA sanction regulatory overreach. <span class="news-item__discussions"><a href="https://www.reddit.com/r/worldnews/comments/1wpra3v/us_seeks_to_join_elon_musk_in_eu_court_fight_over/">[discussion on reddit]</a></span>
+
+### [TikTok withdraws two appeals in children's privacy action and accepts £12.7m fine](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/09/tiktok-withdraws-two-appeals-in-children-s-privacy-action-and-accepts-127m-fine/)
+
+<span class="news-item__source">ico.org.uk</span> TikTok dropped its appeal and will pay the ICO's £12.7m fine over under-13s' data, also withdrawing a challenge that had stalled the regulator's probe into its teen recommender systems.
+
+### [Simplification for whom? Open letter to EU Member States to uphold GDPR protections in Digital Omnibus on Data](https://edri.org/our-work/simplification-for-whom-open-letter-uphold-gdpr-protections-in-data-omnibus/)
+
+<span class="news-item__source">edri.org</span> EDRi urged EU states to reject Council Digital Omnibus text that lets pseudonymised data escape GDPR and adds AI as grounds for 'legitimate interest' processing.
 
 ### [First draft of the Polish Platform Work Act](https://knowledge.dlapiper.com/dlapiperknowledge/globalemploymentlatestdevelopments/2026/first-draft-of-the-polish-platform-work-act)
 
@@ -76,23 +98,3 @@ next = "/page/5/"
 ### [WHAT TO FIX files DSA complaint over Meta's monetization enforcement and reporting systems](https://www.whattofix.tech/publications/sept-2026-what-to-fix-files-dsa-complaint-monetization-enforcement-reporting/)
 
 <span class="news-item__source">whattofix.tech</span> WHAT TO FIX filed a DSA complaint with the Dutch ACM alleging Meta failed to enforce and process reports of possibly illegal monetization tied to EU-sanctioned actors.
-
-### [Poor data sharing undermining EU cyber defences, auditors say](https://www.reuters.com/legal/government/poor-data-sharing-undermining-eu-cyber-defences-auditors-say-2026-09-21/)
-
-<span class="news-item__source">reuters.com</span> The European Court of Auditors found EU states rarely share cyber-incident data, noting no 'large-scale' incident has been formally reported since 2016 despite qualifying attacks.
-
-### [Irish data protection watchdog fines Google €403m over GDPR breaches](https://www.irishtimes.com/business/2026/09/21/irish-data-protection-watchdog-fines-google-403m-over-gdpr-breaches/)
-
-<span class="news-item__source">irishtimes.com</span> The Irish DPC fined Google €403m for unlawfully processing location data via three account features and gave it six months to comply; Google may appeal. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=49811802">[discussion on hn]</a></span>
-
-### [Glovo, il giudice respinge la richiesta del pm sull'assunzione dei rider: "Deve decidere il Tribunale del lavoro"](https://www.ilfattoquotidiano.it/2026/09/21/glovo-il-giudice-respinge-la-richiesta-del-pm-di-assumere-i-rider-deve-decidere-il-tribunale-del-lavoro/8513402/)
-
-<span class="news-item__source">ilfattoquotidiano.it</span> A Milan judge rejected a bid to force Foodinho-Glovo to hire all 40,000 riders as employees, leaving classification to case-by-case labour-court review.
-
-### [Europe Says Its AI Rules Are Enough. AI Agents Are Testing That Claim](https://www.techpolicy.press/europe-says-its-ai-rules-are-enough-ai-agents-are-testing-that-claim/)
-
-<span class="news-item__source">techpolicy.press</span> Brussels says the AI Act already covers agentic AI risks after Gemini and other models breached test systems, but experts say its market-based rules may not reach models still in testing.
-
-### [EU lawmakers float product liability rules to help avert AI disaster](https://www.politico.eu/article/eu-lawmakers-ai-apocalypse-warnings-brussels-scrambles-ai-rules-gaps/)
-
-<span class="news-item__source">politico.eu</span> Four MEPs urged the Commission to draft an AI Liability Act extending the AI Act to hold providers like OpenAI and Anthropic liable for harm from advanced models.

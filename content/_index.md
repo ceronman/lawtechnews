@@ -8,7 +8,23 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">321 stories on European law, technology regulation and digital rights, latest from 21 October 2026. Every headline links to the original source.</p>
+<p class="news-intro">326 stories on European law, technology regulation and digital rights, latest from 23 October 2026. Every headline links to the original source.</p>
+
+## 23 October 2026
+
+### [Decreto legislativo 7 ottobre 2026, n. 179 (Italian AI Act adaptation decree)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-10-07;179)
+
+<span class="news-item__source">normattiva.it</span> Italy's AI Act decree took effect, giving ACN and financial regulators sanctioning powers and requiring a human to make final AI-assisted hiring and dismissal decisions.
+
+## 22 October 2026
+
+### [Poland's Sejm adopts Senate amendments to the DSA implementation law, expanding UKE's content-blocking powers](https://www.uke.gov.pl/akt/nowe-zadania-prezesa-uke-w-systemie-nadzoru-nad-dsa,708.html)
+
+<span class="news-item__source">uke.gov.pl</span> The law goes to the president; UKE can order blocking of listed illegal content, keep a domain register ISPs must block within 48 hours, and reverse wrongful takedowns.
+
+### [Farewell, France](https://quad9.net/news/blog/au-revoir-france/)
+
+<span class="news-item__source">quad9.net</span> A Paris court ordered Quad9 to block beIN-flagged piracy domains under a €1,000 daily penalty; Quad9 will stop serving French users from 24 November and is appealing. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50195959">[discussion on hn]</a> <a href="https://www.reddit.com/r/france/comments/1xcnugx/farewell_france/">[discussion on reddit]</a> <a href="https://linuxfr.org/users/pas_pey/liens/quad9-ferme-ses-services-dns-en-france">[discussion on linuxfr]</a></span>
 
 ## 21 October 2026
 
@@ -74,34 +90,20 @@ next = "/page/2/"
 
 <span class="news-item__source">curia.europa.eu</span> The EU General Court dismissed Stripchat's challenge to its designation as a very large online platform under the DSA, upholding the Commission's 2023 decision.
 
+### [First harmonised standard supporting the AI Act published in the Official Journal](https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal)
+
+<span class="news-item__source">digital-strategy.ec.europa.eu</span> Implementing Decision (EU) 2026/2274 cites EN 18286:2026, giving high-risk AI providers a presumption of conformity for their quality management system only. <span class="news-item__discussions"><a href="https://www.reddit.com/r/grc/comments/1x8kyuq/europe_just_released_en_18286_its_iso_42001like/">[discussion on reddit]</a></span>
+
 ### [EU’s AI rules face first enforcement test over lab incidents](https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents)
 
 <span class="news-item__source">euronews.com</span> The AI Office sent AI Act information requests to OpenAI and Anthropic over agents that hacked outside firms; lawyers dispute its reach over pre-market testing.
 
 ## 13 October 2026
 
+### [Riigikogu completes first reading of Estonia's Platform Work Act (1003 SE)](https://www.riigikogu.ee/pressiteated/riigikogu-lopetas-nelja-eelnou-esimese-lugemise-2/)
+
+<span class="news-item__source">riigikogu.ee</span> Estonia's Platform Work Act passed first reading; it requires a human to decide account suspensions and bars systems from inferring workers' health, beliefs or union membership.
+
 ### [Lithuania Targets Algorithmic Control in Gig Work Rules](https://streamlinefeed.co.ke/news/lithuania-targets-algorithmic-control-in-gig-work-rules)
 
 <span class="news-item__source">streamlinefeed.co.ke</span> Lithuania's Seimas advanced its Platform Work Directive bill 85-0-8, tying worker status to control and requiring human review of account blocks. Committee review follows.
-
-### [Europe’s leaders abandon the race for frontier AI](https://www.politico.eu/article/europe-ai-strategy-frontier-models-us-china/)
-
-<span class="news-item__source">politico.eu</span> EU leaders including von der Leyen are shifting from building frontier AI to promoting adoption; the Commission will hold an Apply AI summit on 16 November. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50092311">[discussion on hn]</a></span>
-
-### [EDPB publishes statement on the data protection challenges of smart glasses](https://www.edpb.europa.eu/news/edpb-publishes-statement-on-the-data-protection-challenges-of-smart-glasses_en)
-
-<span class="news-item__source">edpb.europa.eu</span> The EDPB adopted a statement saying smart-glasses makers cannot shift GDPR duties to users and should make recording obvious to bystanders, e.g. via LEDs or audio cues.
-
-### [Delivery workers demand stronger protections as Greece prepares to adopt EU platform work directive](https://thepressproject.gr/delivery-workers-demand-stronger-protections-as-greece-prepares-to-adopt-eu-platform-work-directive/)
-
-<span class="news-item__source">thepressproject.gr</span> Fourteen Greek delivery-worker unions urged the Labour Ministry to add employment-status criteria and algorithm transparency in its Platform Work Directive transposition.
-
-### [Bank of America fined $1.2 billion by US government for failing to police suspicious activity](https://www.reuters.com/legal/legalindustry/bofa-fined-12-billion-by-us-government-failing-police-suspicious-activity-2026-10-13/)
-
-<span class="news-item__source">reuters.com</span> Treasury and the OCC fined Bank of America $1.21bn for failing to report over $5bn in suspicious activity, including a record $750m OCC penalty. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50080613">[discussion on hn]</a></span>
-
-## 12 October 2026
-
-### [Parliament to vote this month on social media ban for under-15s](https://www.ekathimerini.com/in-depth/society-in-depth/1317908/parliament-to-vote-this-month-on-social-media-ban-for-under-15s/)
-
-<span class="news-item__source">ekathimerini.com</span> Greece tabled a bill banning under-15s from social media, with a parliamentary vote on 22 October and platform age checks required from 1 January 2027.
