@@ -9,6 +9,30 @@ prev = "/page/2/"
 next = "/page/4/"
 +++
 
+## 5 October 2026
+
+### [FinCEN Announces Withdrawals of Proposed Digital Asset Related Rules](https://www.fincen.gov/news/news-releases/fincen-announces-withdrawals-proposed-digital-asset-related-rules)
+
+<span class="news-item__source">fincen.gov</span> FinCEN withdrew its 2020 unhosted-wallet reporting proposal and its 2023 finding that crypto mixing is a primary money-laundering concern.
+
+## 2 October 2026
+
+### [EU Platform Work Directive: what are the latest updates](https://www.linkedin.com/pulse/eu-platform-work-directive-what-latest-updates-ius-laboris-vxwne)
+
+<span class="news-item__source">linkedin.com</span> No Member State has fully transposed the Platform Work Directive yet, but several have tabled draft laws since April ahead of the 2 December 2026 deadline.
+
+### [Dati sanitari: il Garante privacy sanziona IQVIA per 7 milioni di euro](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10302141)
+
+<span class="news-item__source">garanteprivacy.it</span> Italy's Garante fined IQVIA €7m because health data on one million patients of 800 GPs was not truly anonymised and allowed re-identification.
+
+### [Ahead of reform: Platform delivery riders denounce opaque system and growing precariousness](https://today.rtl.lu/news/luxembourg/platform-delivery-riders-denounce-opaque-system-and-growing-precariousness-32035163)
+
+<span class="news-item__source">today.rtl.lu</span> Luxembourg's riders' union published a 30-page report urging a Platform Work Directive transposition that also covers algorithmic pricing, penalties and deactivations.
+
+### [119 MEPs Press Commission to Enforce EU Ban on AI 'Nudifier' Systems from First Day](https://eutoday.net/meps-eu-ai-nudifier-ban-enforcement/)
+
+<span class="news-item__source">eutoday.net</span> 119 MEPs asked the Commission and member states to designate enforcers before the AI Act nudifier ban applies on 2 December 2026, and to use the DSA harder.
+
 ## 1 October 2026
 
 ### [Press Release: AMLA finalises key standards for the private sector](https://www.amla.europa.eu/press-release-amla-finalises-key-standards-private-sector_en)
@@ -76,27 +100,3 @@ next = "/page/4/"
 ### [Russian tech surveillance company infiltrated Europe's law enforcement agencies](https://www.politico.eu/article/russia-tech-surveillance-company-infiltrated-europes-law-enforcement-agencies/)
 
 <span class="news-item__source">politico.eu</span> US prosecutors charged Oxygen Forensics, secretly run from Russia, after EU-funded projects vetted its software and police in Germany, Spain, Italy and Poland bought it. <span class="news-item__discussions"><a href="https://www.reddit.com/r/Intelligence/comments/1wpyy95/us_company_that_sold_phone_hacking_software_to/">[discussion on reddit]</a></span>
-
-### [EU Chat Control Talks Reach Decisive Moment](https://theeuropeanpost.eu/research-analysis/eu-chat-control-talks-reach-decisive-moment/)
-
-<span class="news-item__source">theeuropeanpost.eu</span> Council, Parliament and Commission hold a sixth chat control trilogue on 29 September; states opposing mandatory scanning are just over two points short of a blocking minority. <span class="news-item__discussions"><a href="https://reddit.com/r/tutanota/comments/1wpyild/next_tuesday_a_permanent_decision_on_chat_control/">[discussion on reddit]</a> <a href="https://news.ycombinator.com/item?id=49854252">[discussion on hn]</a></span>
-
-### [Brussels rewrites GDPR rules for the AI era](https://theeuropeanpost.eu/research-analysis/brussels-rewrites-gdpr-rules-for-the-ai-era/)
-
-<span class="news-item__source">theeuropeanpost.eu</span> The EDPB and EDPS jointly warned the Council's draft Digital Omnibus redefinition of 'personal data' conflicts with CJEU case law as GDPR trilogue talks approach.
-
-### [As A.I. Accelerates, Governments Are Increasingly Being Left Behind](https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html)
-
-<span class="news-item__source">nytimes.com</span> Von der Leyen convened senior EU officials to weigh tougher AI safety rules against economic costs, reaching no decision after her Sept. 16 SOTEU speech.
-
-## 26 September 2026
-
-### [Neue Selbstständigkeit: Das Gesetz, das zu spät kommt](https://denkstrom.org/artikel/plattformgesetz-neue-selbstaendigkeit-eu-frist-2026/)
-
-<span class="news-item__source">denkstrom.org</span> Germany's labour ministry proposed a voluntary self-employment status instead of a rebuttable employment presumption for platform workers, taking effect 13 months after the EU deadline.
-
-## 25 September 2026
-
-### [The presidency's question: leave private messages out of the regulation?](https://brusselsrecord.com/presidency-question-leave-private-messages-out/)
-
-<span class="news-item__source">brusselsrecord.com</span> A leaked Council note ahead of the 29 September trilogue asks ambassadors whether to write voluntary scanning of private messages into permanent law, or drop it without compromise.

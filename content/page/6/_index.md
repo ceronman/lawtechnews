@@ -11,6 +11,26 @@ next = "/page/7/"
 
 ## 17 September 2026
 
+### [Riigikogu takes Estonia's Platform Work Act (1003 SE) into proceedings](https://www.riigikogu.ee/pressiteated/menetlusse-voeti-eelnou-kinnisasja-omandamise-kitsendamiseks/)
+
+<span class="news-item__source">riigikogu.ee</span> Estonia's government tabled a Platform Work Act covering all platform workers whatever their contract, requiring a human to decide any account suspension or termination.
+
+### [Opinion of Advocate General Spielmann in Case C-317/25 Groupe Canal +](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260130en.pdf)
+
+<span class="news-item__source">curia.europa.eu</span> AG Spielmann advised that consent for a company's unnamed ‘partners’ to use personal data for direct marketing is invalid unless those partners are identified.
+
+### [Home Office challenged on ‘farcical’ secrecy over Apple ‘backdoor’ order](https://www.computerweekly.com/news/366650612/Home-Office-challenged-on-farcical-secrecy-over-Apple-backdoor-order)
+
+<span class="news-item__source">computerweekly.com</span> Privacy International and Liberty told the Investigatory Powers Tribunal the Home Office's neither-confirm-nor-deny stance on Apple's encryption notice is no longer sustainable.
+
+### [German court rules Meta liable for fake ads on Instagram, Facebook](https://www.reuters.com/legal/litigation/german-court-rules-meta-liable-fake-ads-instagram-facebook-2026-09-17/)
+
+<span class="news-item__source">reuters.com</span> A German court held Meta liable for third-party scam ads, rejecting the DSA lack-of-knowledge defence because its algorithms and ad tools shape what users see.
+
+### [EU KIDS Act to restrict social media platforms' access to children in the EU](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1890)
+
+<span class="news-item__source">ec.europa.eu</span> The Commission adopted the EU KIDS Act, reversing the burden of proof onto very large platforms and adding expedited enforcement with investigations closed within 90 days.
+
 ### [Bundesgerichtshof legt EuGH Fragen zur "Haushaltsausnahme" nach der DSGVO vor](https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026169.html)
 
 <span class="news-item__source">bundesgerichtshof.de</span> Germany's Federal Court of Justice referred two cases to the CJEU on how far the GDPR household exemption reaches when private chats or home CCTV go to employers or police.
@@ -76,27 +96,3 @@ next = "/page/7/"
 ### [eCourier drivers 'likely' to win worker status claim](https://www.personneltoday.com/hr/ecourier-drivers-likely-to-win-worker-status-claim/)
 
 <span class="news-item__source">personneltoday.com</span> An employment tribunal said 46 drivers at Royal Mail-owned eCourier are likely to be found workers rather than self-employed contractors, citing Uber and Pimlico Plumbers.
-
-## 11 September 2026
-
-### [Safer and more secure digital products](https://commission.europa.eu/news-and-media/news/safer-and-more-secure-digital-products-2026-09-11_en)
-
-<span class="news-item__source">commission.europa.eu</span> The Cyber Resilience Act's Article 14 reporting duties took effect: manufacturers must send an early warning within 24 hours via ENISA's Single Reporting Platform and notify fully within 72.
-
-### [ICO statement on its investigation into Police Scotland](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/09/ico-statement-on-its-investigation-into-police-scotland/)
-
-<span class="news-item__source">ico.org.uk</span> The ICO opened an investigation into whether Police Scotland handles subject access requests within statutory deadlines under UK GDPR Articles 12 and 15.
-
-### [Dutch Government Advocates for EU-Wide Minimum Age for Social Media](https://www.government.nl/latest/news/2026/09/11/dutch-government-advocates-for-eu-wide-minimum-age-for-social-media)
-
-<span class="news-item__source">government.nl</span> The Netherlands and Spain sent the Commission a joint non-paper backing an EU-wide minimum age for social media, with privacy-friendly age verification and exemptions for safe services.
-
-## 10 September 2026
-
-### [Sentenza su rider Glovo: da assumere a tempo pieno e indeterminato. "Pagare anche le attese"](https://www.rainews.it/tgr/piemonte/articoli/2026/09/tribunale-torino-rider-nuova-sentenza-lavoratore-da-assumere-a-tempo-pieno-indeterminato-pagare-anche-le-attese-952000e2-f48a-4cd5-b4ba-2e506a54b065.html)
-
-<span class="news-item__source">rainews.it</span> The Turin labour court ordered Glovo to hire a rider on a permanent full-time contract, finding algorithmic control created subordination, and to pay waiting time between orders.
-
-### [SCHUFA insists on shadow database. noyb lawsuit now certain](https://noyb.eu/en/schufa-insists-shadow-database-noyb-lawsuit-now-certain)
-
-<span class="news-item__source">noyb.eu</span> SCHUFA rejected noyb's cease-and-desist over its shadow database, so noyb will file for an injunction and is collecting sign-ups for a possible class action.

@@ -9,7 +9,29 @@ prev = "/page/14/"
 next = "/page/16/"
 +++
 
+## 24 July 2026
+
+### [Digital Omnibus on AI — Regulation (EU) 2026/1744 — published in the Official Journal](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601744)
+
+<span class="news-item__source">eur-lex.europa.eu</span> Regulation (EU) 2026/1744 was published in the Official Journal and enters into force on 27 July, making the AI Act's delayed deadlines binding law.
+
+### [Commission preliminarily finds TikTok in breach of Digital Services Act for failing to ensure safe accounts for minors](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1679)
+
+<span class="news-item__source">ec.europa.eu</span> TikTok received preliminary DSA findings over minors' accounts defaulting to public and weak age assurance. A final decision could cost 6% of turnover.
+
 ## 23 July 2026
+
+### [Fighting child sexual abuse online: interim measure protecting children now reinstated](https://www.consilium.europa.eu/en/press/press-releases/2026/07/23/fighting-child-sexual-abuse-online-interim-measure-protecting-children-now-reinstated/)
+
+<span class="news-item__source">consilium.europa.eu</span> The Council approved the renewed interim regulation letting providers voluntarily scan for child sexual abuse material, running until 3 April 2028.
+
+### [EU's Google fine risks triggering Trump as he gears up for more tariffs](https://www.politico.eu/article/eu-google-fine-donald-trump-tariffs/)
+
+<span class="news-item__source">politico.eu</span> The record DMA fine landed as Washington's temporary tariffs expired, with US officials calling it discriminatory and pressing Trump to retaliate.
+
+### [Commission fines Google €890 million for breaches of the Digital Markets Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1670)
+
+<span class="news-item__source">ec.europa.eu</span> The Commission fined Google €890m for self-preferencing in Search and blocking Play developers from steering users elsewhere. It has 60 days to comply.
 
 ### [Commission finds that Republic of Korea continues to provide an adequate level of protection of personal data](https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1675)
 
@@ -76,29 +98,3 @@ next = "/page/16/"
 ### [Commission fines AliExpress €550 million for breaching the Digital Services Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1654)
 
 <span class="news-item__source">ec.europa.eu</span> The Commission fined AliExpress €550m, the largest DSA penalty yet, for failing to curb illegal and unsafe products and under-resourcing moderation.
-
-## 19 July 2026
-
-### [Trump pushes UN 'free speech' declaration in veiled attack on EU tech regulation](https://www.politico.eu/article/trump-administration-will-push-un-free-speech-declaration-that-takes-aim-at-european-tech-regulation/)
-
-<span class="news-item__source">politico.eu</span> A draft US declaration to be circulated at the UN General Assembly frames platform rules such as the DSA as threats to freedom of expression.
-
-## 17 July 2026
-
-### [EDPB calls for legal basis for cross-regulatory information sharing](https://www.edpb.europa.eu/news/edpb-calls-for-legal-basis-for-cross-regulatory-information-sharing_en)
-
-<span class="news-item__source">edpb.europa.eu</span> The EDPB asked the Commission for a legal basis letting data protection authorities share confidential information with regulators in adjacent fields.
-
-### ["Made in Europe" password manager Passwork found to share Russian origins and state-certified ties](https://www.occrp.org/en/investigation/european-password-manager-shares-origins-and-updates-with-state-certified-russian-firm)
-
-<span class="news-item__source">occrp.org</span> Passwork, sold as a European password manager and used by Dutch and Irish public bodies, shares code and ties with an FSB-certified Russian firm.
-
-## 16 July 2026
-
-### [US judge halts sanctions policy that hit ex-EU commissioner Breton](https://www.politico.eu/article/us-judge-pauses-visa-restrictions-thierry-breton-disinformation-researchers/)
-
-<span class="news-item__source">politico.eu</span> A federal judge paused the State Department policy imposing visa bans on officials who enforce platform laws, including Thierry Breton, on First Amendment grounds.
-
-### [The digital rulebook is fit for purpose: better enforcement is needed, not simplification](https://edri.org/our-work/the-digital-rulebook-is-fit-for-purpose-better-enforcement-is-needed-not-simplification/)
-
-<span class="news-item__source">edri.org</span> EDRi's submission to the Digital Fitness Check argues the rulebook works and asks for enforcement, a spyware ban and AdTech rules instead of simplification.
