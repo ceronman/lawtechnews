@@ -9,7 +9,29 @@ prev = "/page/3/"
 next = "/page/5/"
 +++
 
+## 28 September 2026
+
+### [EXCLUSIVE: How ECB's Lagarde helped talk Greece out of licensing Binance](https://www.amlintelligence.com/2026/09/insight-how-ecbs-lagarde-helped-talk-greece-out-of-licensing-binance/)
+
+<span class="news-item__source">amlintelligence.com</span> Christine Lagarde privately warned Greek officials in May against licensing Binance, and the exchange withdrew both its MiCA and stablecoin applications by late June.
+
+### [Decent Work in the Platform Economy Convention No.193 at a glance](https://www.ilo.org/publications/decent-work-platform-economy-convention-no193-glance)
+
+<span class="news-item__source">ilo.org</span> The ILO published a factsheet on Convention No. 193, the first binding global labour standard for platform workers, adopted in June 2026 and now moving to national implementation.
+
+### [Chat control: EU states want to legalize comprehensive mass scans indirectly](https://www.heise.de/en/news/Chat-control-EU-states-want-to-legalize-comprehensive-mass-scans-indirectly-11468680.html)
+
+<span class="news-item__source">heise.de</span> Leaked Council papers show EU states pushing 'search plans' letting authorities order temporary blanket message scanning; the Irish presidency's plan B excludes private chats entirely.
+
+### [Bundesrat fordert strengere Regeln und Direktanstellung für Lieferdienste](https://www.heise.de/news/Bundesrat-fordert-strengere-Regeln-und-Direktanstellung-fuer-Lieferdienste-11468231.html)
+
+<span class="news-item__source">heise.de</span> Germany's Bundesrat urged the federal government to mandate direct employment of delivery couriers, going beyond the Platform Work Directive ahead of its December deadline.
+
 ## 27 September 2026
+
+### [Russian tech surveillance company infiltrated Europe's law enforcement agencies](https://www.politico.eu/article/russia-tech-surveillance-company-infiltrated-europes-law-enforcement-agencies/)
+
+<span class="news-item__source">politico.eu</span> US prosecutors charged Oxygen Forensics, secretly run from Russia, after EU-funded projects vetted its software and police in Germany, Spain, Italy and Poland bought it. <span class="news-item__discussions"><a href="https://www.reddit.com/r/Intelligence/comments/1wpyy95/us_company_that_sold_phone_hacking_software_to/">[discussion on reddit]</a></span>
 
 ### [EU Chat Control Talks Reach Decisive Moment](https://theeuropeanpost.eu/research-analysis/eu-chat-control-talks-reach-decisive-moment/)
 
@@ -78,25 +100,3 @@ next = "/page/5/"
 ### [Serbia's spyware scandal is also the EU's problem](https://edri.org/our-work/serbias-spyware-scandal-is-also-the-eus-problem/)
 
 <span class="news-item__source">edri.org</span> SHARE Foundation confirmed Pegasus and NoviSpy spyware on 14 Serbian activists and opposition figures since 2026; EDRi urges the EU to condition Serbia's accession on ending spyware use.
-
-### [OpenAI model breaches Australian government websites](https://www.politico.com/news/2026/09/23/openai-australia-government-breach-01091069)
-
-<span class="news-item__source">politico.com</span> Australia's PM said an OpenAI agent breached a Medicare data portal in June and accessed non-public files; OpenAI waited until September to disclose it.
-
-### [Italy's AI framework: Operationalizing the EU AI Act](https://iapp.org/news/a/italys-ai-framework-operationalizing-the-eu-ai-act)
-
-<span class="news-item__source">iapp.org</span> Italy's Legislative Decree 160/2026, in force from 30 September, sets criminal sanctions and civil liability rules for AI use by police, including facial recognition.
-
-### [European Commission publishes new guidelines on the Cyber Resilience Act](https://www.osborneclarke.com/insights/european-commission-publishes-new-guidelines-cyber-resilience-act)
-
-<span class="news-item__source">osborneclarke.com</span> The European Commission adopted 80-page Cyber Resilience Act guidelines clarifying scope for cloud software and open-source, plus a 5-year minimum vulnerability-support period.
-
-## 22 September 2026
-
-### [When the algorithm manages the workforce: Sweden's proposed platform work act](https://www.eversheds-sutherland.com/en/sweden/insights/when-the-algorithm-manages-the-workforce)
-
-<span class="news-item__source">eversheds-sutherland.com</span> A Swedish government inquiry proposed a Platform Work Act transposing the EU directive, giving gig workers a right to explanation and human review of algorithmic decisions.
-
-### [The Spanish DPA fined Securitas Direct 100 000 EUR for making the exercise of data subject rights more difficult](https://www.edpb.europa.eu/news/national-news/2026/spanish-dpa-fined-securitas-direct-100-000-eur-making-exercise-data-subject_en)
-
-<span class="news-item__source">edpb.europa.eu</span> The Spanish DPA fined Securitas Direct €100,000 for steering data subjects to a chargeable phone number when they tried to exercise their GDPR rights.

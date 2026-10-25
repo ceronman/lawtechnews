@@ -8,9 +8,17 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">331 stories on European law, technology regulation and digital rights, latest from 23 October 2026. Every headline links to the original source.</p>
+<p class="news-intro">336 stories on European law, technology regulation and digital rights, latest from 23 October 2026. Every headline links to the original source.</p>
 
 ## 23 October 2026
+
+### [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update)
+
+<span class="news-item__source">theverge.com</span> Since 16 October Google's privacy policy lets it target ads using Gmail, Drive and Photos data that users connect to AI Mode via Personal Intelligence. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50214218">[discussion on hn]</a> <a href="https://www.reddit.com/r/technology/comments/1xdpddf/google_quietly_changes_privacy_policy_so_your/">[discussion on reddit]</a></span>
+
+### [Meta delays AI business terms amid media sector outcry](https://www.rapporteur.com/news/meta-delays-ai-business-terms-until-20-november/)
+
+<span class="news-item__source">rapporteur.com</span> Meta pushed its new AI business terms for Facebook and Instagram from 30 October to 20 November after publishers objected; the Commission is weighing them under the DMA.
 
 ### [Decreto legislativo 7 ottobre 2026, n. 179 (Italian AI Act adaptation decree)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-10-07;179)
 
@@ -36,6 +44,10 @@ next = "/page/2/"
 
 ## 21 October 2026
 
+### [Transposing the Platform Work Directive: Comparative Assessment and Good Practices](https://ecipe.org/publications/transposing-platform-work-directive/)
+
+<span class="news-item__source">ecipe.org</span> ECIPE compared draft transpositions in Austria, Czechia, Estonia, the Netherlands and Sweden, finding none complete and urging clear presumption rules and joint liability for intermediaries.
+
 ### [The New Mexico Department of Justice Secures Another Landmark Victory Against Big Tech, with Historic $25 Billion Penalty Against Facebook](https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/)
 
 <span class="news-item__source">nmdoj.gov</span> A judge ordered Meta to pay $25bn after jurors found nearly 44 million state-law violations over Cambridge Analytica-era privacy claims; Meta will appeal. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50184820">[discussion on hn]</a> <a href="https://www.reddit.com/r/technology/comments/1xbtfk5/meta_ordered_to_pay_25_billion_penalty_in_new/">[discussion on reddit]</a> <a href="https://yro.slashdot.org/story/26/10/21/188251/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook">[discussion on slashdot]</a></span>
@@ -57,6 +69,10 @@ next = "/page/2/"
 <span class="news-item__source">ppc.land</span> Berlin's DPA found CDU, SPD, Greens and Die Linke unlawfully targeted Facebook voters by political interest in 2021, after noyb complaints. No fines were issued.
 
 ## 20 October 2026
+
+### [Google Earth/Google Maps: No publication of images of private property (LG Frankfurt, 2-03 O 388/25)](https://ordentliche-gerichtsbarkeit.hessen.de/presse/keine-veroeffentlichung-von-bildern-eines-privaten-grundstuecks)
+
+<span class="news-item__source">ordentliche-gerichtsbarkeit.hessen.de</span> The Frankfurt Regional Court barred Google from showing 3D aerial images of a private property on Earth and Maps over the owner's objection; Google will appeal. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50216142">[discussion on hn]</a> <a href="https://www.reddit.com/r/privacy/comments/1xbok66/google_needs_consent_to_publish_private_property/">[discussion on reddit]</a></span>
 
 ### [EU Cyber Resilience Act: Germany adopts CRA Implementation Act as national enforcement regimes take shape across the EU](https://www.hlc.com/en/publications/eu-cyber-resilience-act-germany-adopts-cra-implementation-act-as-national-enforcement-regimes)
 
@@ -85,21 +101,3 @@ next = "/page/2/"
 ### [Czech platform work bill (print 301) passes first reading in the Chamber of Deputies](https://www.psp.cz/sqw/historie.sqw?o=10&t=301)
 
 <span class="news-item__source">psp.cz</span> Czech MPs passed the platform work bill at first reading and sent it to committees; it adds a rebuttable employment presumption and algorithm rules from 1 January 2027.
-
-## 15 October 2026
-
-### [The EU is facing Big Tech pressure to revamp its AI law](https://www.politico.eu/article/ai-eu-pressure-law-microsoft-brad-smith-google-deepmind-tech/)
-
-<span class="news-item__source">politico.eu</span> Microsoft and Google executives questioned whether the AI Act is still fit for purpose; Commissioners call it adequate while Hungary flags three gaps.
-
-### [Privacy First calls for a ban on automated risk profiling by banks](https://privacyfirst.nl/en/articles/privacy-first-is-calling-for-a-ban-on-automated-risk-profiling-by-banks/)
-
-<span class="news-item__source">privacyfirst.nl</span> Dutch group Privacy First urged a ban on automated risk profiling in AMLA's draft customer-monitoring guidelines; final guidelines are due in Q4 2026.
-
-### [Opinion of Advocate General Biondi in ByteDance v Commission (TikTok DMA gatekeeper designation)](https://curia.europa.eu/site/upload/docs/application/pdf/2026-10/cp260151en.pdf)
-
-<span class="news-item__source">curia.europa.eu</span> Advocate General Biondi advised the CJEU to dismiss ByteDance's appeal against TikTok's DMA gatekeeper designation, in the first DMA case to reach the Court of Justice.
-
-### [Eurobarometer survey highlights growing use of AI in European companies](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2160)
-
-<span class="news-item__source">ec.europa.eu</span> A Commission survey of 12,826 SMEs found 42% use AI or algorithmic management, mostly experimentally; the upcoming Quality Jobs Act will regulate algorithmic management.

@@ -9,6 +9,28 @@ prev = "/page/5/"
 next = "/page/7/"
 +++
 
+## 18 September 2026
+
+### [Lavoro su piattaforme digitali: Cisl audita sul decreto](https://www.cisl.it/recepimento-direttiva-lavoro-piattaforme-cisl/)
+
+<span class="news-item__source">cisl.it</span> Italy's draft decree transposing the Platform Work Directive reached parliamentary hearings, with unions filing amendments ahead of the 2 December deadline.
+
+### [La AEPD multa con 200.000 euros a una empresa por controlar a trabajadores desde su móvil personal](https://talent24h.okdiario.com/la-aepd-multa-con-200-000-euros-a-una-empresa-por-controlar-a-trabajadores-desde-su-movil-personal/)
+
+<span class="news-item__source">talent24h.okdiario.com</span> Spain's AEPD fined Ares Capital €200,000 after a VTC driver had to install four work apps on his own phone, citing excessive data and no valid legal basis.
+
+### [Governor Newsom issues executive order to accelerate independent oversight and advance the creation of an AI kill switch](https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/)
+
+<span class="news-item__source">gov.ca.gov</span> California ordered an expert panel to report within two months on a verifiable kill switch for frontier AI models and independent third-party safety audits.
+
+### [France probes misuse of smart glasses in sexual harassment cases](https://www.reuters.com/technology/french-prosecutors-regulators-step-up-scrutiny-smart-glasses-2026-09-18/)
+
+<span class="news-item__source">reuters.com</span> Paris prosecutors opened at least one criminal probe into smart glasses used to film women in the street; the CNIL has received under 10 workplace complaints about the devices.
+
+### [EXCLUSIVE: OpenAI didn't report safety incident under EU AI rules](https://www.euractiv.com/news/exclusive-openai-didnt-report-another-incident-under-eu-ai-safety-rules/)
+
+<span class="news-item__source">euractiv.com</span> OpenAI filed no serious-incident report with the EU AI Office over the RubyGems episode, suggesting a narrow reading of the AI Act's duty to report without undue delay.
+
 ## 17 September 2026
 
 ### [Riigikogu takes Estonia's Platform Work Act (1003 SE) into proceedings](https://www.riigikogu.ee/pressiteated/menetlusse-voeti-eelnou-kinnisasja-omandamise-kitsendamiseks/)
@@ -76,23 +98,3 @@ next = "/page/7/"
 ### [Wide-ranging AI Bill needed to address severe human rights risks posed by AI](https://committees.parliament.uk/committee/93/human-rights-joint-committee/news/217859/wideranging-ai-bill-needed-to-address-severe-human-rights-risks-posed-by-ai/)
 
 <span class="news-item__source">committees.parliament.uk</span> The UK Joint Committee on Human Rights called for a risk-tiered AI Bill covering the whole supply chain, outright bans on some uses, and a single statutory AI regulator.
-
-### [Primera notificación de una brecha de datos personales causada por un ataque ejecutado mediante un agente de IA](https://www.aepd.es/prensa-y-comunicacion/blog/primera-notiviacion-brecha-datos-personales-causada-por-ataque-ejecutado-mediante-agente-ia)
-
-<span class="news-item__source">aepd.es</span> The AEPD logged Spain's first breach caused by an AI agent, which autonomously probed for vulnerabilities, logged in, altered personal data and reached invoices.
-
-### [Open letter from European civil society organisations on encryption and privacy threats in Canada's Bill C-22](https://www.accessnow.org/press-release/encryption-and-privacy-threats-in-canadas-bill-c-22/)
-
-<span class="news-item__source">accessnow.org</span> Sixteen European digital rights groups asked the Commission to review Canada's GDPR adequacy over Bill C-22's secret capability orders and blanket metadata retention.
-
-### [Hungary moves to amend controversial child protection law after EU court ruling](https://www.euronews.com/my-europe/2026/09/14/hungary-moves-to-amend-controversial-child-protection-law-after-eu-court-ruling)
-
-<span class="news-item__source">euronews.com</span> Hungary tabled amendments stripping the 2021 child protection law of its restrictions on depicting homosexuality to minors, hoping to unlock €500 million in EU education funds.
-
-### [France submits new proposal to ban social media for under-15s](https://www.euractiv.com/news/france-submits-new-proposal-to-ban-social-media-for-under-15s/)
-
-<span class="news-item__source">euractiv.com</span> France notified the European Commission of a reworked bill banning social media for under-15s, after the Constitutional Council struck down the previous version in August.
-
-### [eCourier drivers 'likely' to win worker status claim](https://www.personneltoday.com/hr/ecourier-drivers-likely-to-win-worker-status-claim/)
-
-<span class="news-item__source">personneltoday.com</span> An employment tribunal said 46 drivers at Royal Mail-owned eCourier are likely to be found workers rather than self-employed contractors, citing Uber and Pimlico Plumbers.
