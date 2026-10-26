@@ -9,7 +9,23 @@ prev = "/page/5/"
 next = "/page/7/"
 +++
 
+## 21 September 2026
+
+### [AI: EU Member States plan “digital expropriation” of Europeans in the interest of AI companies](https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies)
+
+<span class="news-item__source">noyb.eu</span> A leaked Irish Presidency text adds GDPR Article 88bis, making any personal data use “in the context of AI” lawful by default with no consent required.
+
+## 20 September 2026
+
+### [US employers use software to punish workers at sixteen times the European rate. The gap is the law.](https://thenextweb.com/news/oecd-algorithmic-management-sanction-gap-ai-act-blind-spot)
+
+<span class="news-item__source">thenextweb.com</span> OECD survey of 6,047 firms found 67% of US employers use software to sanction workers vs 4% in Europe; most tools aren't AI and fall outside the AI Act's scope.
+
 ## 18 September 2026
+
+### [Most EU countries late on pay transparency rules](https://www.euractiv.com/news/eu-countries-more-than-100-days-late-on-pay-transparency-rules/)
+
+<span class="news-item__source">euractiv.com</span> Twenty-two member states have missed the Pay Transparency Directive deadline by over three months; six have published no legislative text at all.
 
 ### [Lavoro su piattaforme digitali: Cisl audita sul decreto](https://www.cisl.it/recepimento-direttiva-lavoro-piattaforme-cisl/)
 
@@ -84,17 +100,3 @@ next = "/page/7/"
 ### [Leak: EU Commission to pitch social media restrictions for under-15s](https://www.euronews.com/my-europe/2026/09/15/leak-eu-commission-to-pitch-social-media-restrictions-for-under-15s)
 
 <span class="news-item__source">euronews.com</span> A leaked EU Kids Act draft would bar under-15s from social media without parental consent and impose safety-by-design duties on video games and AI chatbots.
-
-### [Commission proposes ambitious measures to strengthen fair labour mobility](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1851)
-
-<span class="news-item__source">ec.europa.eu</span> The Commission adopted the Fair Labour Mobility package: a European Social Security Pass, digital qualifications in the EU Identity Wallet, and a strengthened Labour Authority.
-
-### [Anti-money laundering and asset recovery strategy: 2026 to 2029](https://www.gov.uk/government/publications/anti-money-laundering-and-asset-recovery-strategy-2026-to-2029)
-
-<span class="news-item__source">gov.uk</span> The Home Office set the UK's three-year AML direction, cutting supervisors from 25 to three and moving legal and accountancy firms to the FCA from late 2028.
-
-## 14 September 2026
-
-### [Wide-ranging AI Bill needed to address severe human rights risks posed by AI](https://committees.parliament.uk/committee/93/human-rights-joint-committee/news/217859/wideranging-ai-bill-needed-to-address-severe-human-rights-risks-posed-by-ai/)
-
-<span class="news-item__source">committees.parliament.uk</span> The UK Joint Committee on Human Rights called for a risk-tiered AI Bill covering the whole supply chain, outright bans on some uses, and a single statutory AI regulator.

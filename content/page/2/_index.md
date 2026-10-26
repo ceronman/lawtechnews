@@ -9,6 +9,20 @@ prev = "/"
 next = "/page/3/"
 +++
 
+## 16 October 2026
+
+### [EU AI Act: probes could extend time limit for fines](https://www.actuia.com/en/news/eu-ai-act-probes-could-extend-time-limit-for-fines/)
+
+<span class="news-item__source">actuia.com</span> The Commission opened consultation on a draft AI Act implementing regulation letting AI Office investigation steps restart the five-year fining limitation period, capped at ten years.
+
+### [Data Privacy Ranking: Data Privacy in the EU Omnibus Amendments](https://gdpr-omnibus.eu/)
+
+<span class="news-item__source">gdpr-omnibus.eu</span> A new tracker scored MEPs' 1,000+ amendments to the GDPR Digital Omnibus; EPP members rank worst for weakening privacy, the Greens and S&D best. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50119435">[discussion on hn]</a></span>
+
+### [Czech platform work bill (print 301) passes first reading in the Chamber of Deputies](https://www.psp.cz/sqw/historie.sqw?o=10&t=301)
+
+<span class="news-item__source">psp.cz</span> Czech MPs passed the platform work bill at first reading and sent it to committees; it adds a rebuttable employment presumption and algorithm rules from 1 January 2027.
+
 ## 15 October 2026
 
 ### [The EU is facing Big Tech pressure to revamp its AI law](https://www.politico.eu/article/ai-eu-pressure-law-microsoft-brad-smith-google-deepmind-tech/)
@@ -84,17 +98,3 @@ next = "/page/3/"
 ### [Italian DPA fines Wind Tre EUR 16 700 000 for unlawful telemarketing and data protection infringements](https://www.edpb.europa.eu/news/italian-dpa-fines-wind-tre-eur-16-700-000-for-unlawful-telemarketing-and-data-protection_en)
 
 <span class="news-item__source">edpb.europa.eu</span> Italy's Garante fined Wind Tre €16.7m over unsolicited marketing and contracts activated without consent via its sales network, and banned further use of that data.
-
-### [Advocate General: access of data subjects to data processed by FIUs may be restricted, with safeguards](https://curia.europa.eu/site/upload/docs/application/pdf/2026-10/cp260145en.pdf)
-
-<span class="news-item__source">curia.europa.eu</span> CJEU Advocate General Medina said financial intelligence units fall under the Law Enforcement Directive, and may refuse data-subject access if the restriction is proportionate.
-
-## 8 October 2026
-
-### [The Danish Government's Legislative Programme for the Parliamentary Year 2026/2027 with a focus on employment law](https://www.twobirds.com/en/insights/2026/denmark/regeringens-lovprogram-for-folketingsret-20262027-med-fokus-p-det-ansttelsesretlige-omrde)
-
-<span class="news-item__source">twobirds.com</span> Denmark's government put its Platform Work Act on the 2026/27 legislative programme, with the bill due in February, after the 2 December 2026 transposition deadline.
-
-### [ICO secures changes from leading AI developers as scrutiny extends to AI agents](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/10/ico-secures-changes-from-leading-ai-developers-as-scrutiny-extends-to-ai-agents/)
-
-<span class="news-item__source">ico.org.uk</span> The UK ICO said ten AI developers, including OpenAI and Google, made data protection changes, and opened a call for evidence on agentic AI until 20 November.
