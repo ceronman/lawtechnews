@@ -3,12 +3,40 @@ title = "Law & Tech News"
 
 [extra]
 page_num = 1
-page_count = 17
+page_count = 18
 prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">339 stories on European law, technology regulation and digital rights, latest from 23 October 2026. Every headline links to the original source.</p>
+<p class="news-intro">344 stories on European law, technology regulation and digital rights, latest from 29 October 2026. Every headline links to the original source.</p>
+
+## 29 October 2026
+
+### [Cookies et application mobile : sanctions de 7 millions d'euros à l'encontre des sociétés FNAC DARTY PARTICIPATIONS ET SERVICES et FNAC DIRECT](https://www.cnil.fr/fr/sanction-cookies-app-fnac)
+
+<span class="news-item__source">cnil.fr</span> The CNIL fined Fnac Darty €7m for an app tracker feeding browsing history to its recommendation algorithm without consent, with a €10,000 daily penalty if not fixed in a month. <span class="news-item__discussions"><a href="https://www.reddit.com/r/france/comments/1xii2ep/continuer_sans_accepter_fnac_darty_vous_tra%C3%A7ait/">[discussion on reddit]</a></span>
+
+## 28 October 2026
+
+### [Plattformarbeit: Arbeitsgericht soll künftig über Status von Lieferfahrern entscheiden](https://www.tageblatt.lu/Luxemburg/Plattformarbeit-Arbeitsgericht-soll-kuenftig-ueber-Status-von-Lieferfahrern-entscheiden-114063.html)
+
+<span class="news-item__source">tageblatt.lu</span> Labour minister Marc Spautz said Luxembourg's Platform Work Directive bill, due by early December, will move worker-status disputes from administrative to labour courts.
+
+## 27 October 2026
+
+### [AI training platform Outlier illegally surveils European platform workers](https://noyb.eu/en/ai-training-platform-outlier-illegally-surveils-european-platform-workers)
+
+<span class="news-item__source">noyb.eu</span> noyb filed 5 GDPR complaints in France, Italy, the Netherlands and Austria over Outlier's trackers and forced biometric checks on its 900,000 AI-training gig workers. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50281071">[discussion on hn]</a></span>
+
+## 26 October 2026
+
+### [Commission brings banks and online platforms together in the fight against online scams](https://digital-strategy.ec.europa.eu/en/news/commission-brings-banks-and-online-platforms-together-fight-against-online-scams)
+
+<span class="news-item__source">digital-strategy.ec.europa.eu</span> The Commission is consulting banks, trusted flaggers and platforms on a voluntary DSA anti-scam code covering advertiser verification and bank–platform signal sharing.
+
+### [Commission accepts Temu's action plan to remedy the breach of the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-action-plan-remedy-breach-digital-services-act)
+
+<span class="news-item__source">digital-strategy.ec.europa.eu</span> After its €200m DSA fine, Temu committed to five measures, including a recommender-system review, and must file an interim risk assessment within four months. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50256431">[discussion on hn]</a> <a href="https://www.reddit.com/r/EU_Economics/comments/1xgkr80/temu_falls_into_line_as_eu_backs_its_action_plan/">[discussion on reddit]</a></span>
 
 ## 23 October 2026
 
@@ -75,27 +103,3 @@ next = "/page/2/"
 ### [Berlin finds CDU, SPD, Greens and Left broke GDPR with Facebook targeting](https://ppc.land/berlin-finds-cdu-spd-greens-and-left-broke-gdpr-with-facebook-targeting/)
 
 <span class="news-item__source">ppc.land</span> Berlin's DPA found CDU, SPD, Greens and Die Linke unlawfully targeted Facebook voters by political interest in 2021, after noyb complaints. No fines were issued.
-
-## 20 October 2026
-
-### [Google Earth/Google Maps: No publication of images of private property (LG Frankfurt, 2-03 O 388/25)](https://ordentliche-gerichtsbarkeit.hessen.de/presse/keine-veroeffentlichung-von-bildern-eines-privaten-grundstuecks)
-
-<span class="news-item__source">ordentliche-gerichtsbarkeit.hessen.de</span> The Frankfurt Regional Court barred Google from showing 3D aerial images of a private property on Earth and Maps over the owner's objection; Google will appeal. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50216142">[discussion on hn]</a> <a href="https://www.reddit.com/r/privacy/comments/1xbok66/google_needs_consent_to_publish_private_property/">[discussion on reddit]</a></span>
-
-### [EU Cyber Resilience Act: Germany adopts CRA Implementation Act as national enforcement regimes take shape across the EU](https://www.hlc.com/en/publications/eu-cyber-resilience-act-germany-adopts-cra-implementation-act-as-national-enforcement-regimes)
-
-<span class="news-item__source">hlc.com</span> Germany adopted its Cyber Resilience Act Implementation Act, designating the national market surveillance, notifying and CSIRT authorities for CRA enforcement.
-
-### [Clearview AI faces Court of Appeal test of 7.5m pound UK fine](https://ppc.land/clearview-ai-faces-court-of-appeal-test-of-7-5m-pound-uk-fine/)
-
-<span class="news-item__source">ppc.land</span> Clearview AI began a three-day Court of Appeal hearing on whether the ICO could fine it over UK GDPR monitoring of UK residents for foreign police clients.
-
-### [City Attorney secures additional $2.3 million settlement for delivery drivers misclassified by WorkWhile](https://www.sf.gov/news-city-attorney-secures-additional-23-million-settlement-for-delivery-drivers-misclassified-by-workwhile)
-
-<span class="news-item__source">sf.gov</span> A San Francisco court approved a final judgment rejecting WorkWhile's Prop 22 defence; the app must treat all California workers as employees from 2027.
-
-## 19 October 2026
-
-### [WhatsApp's Hidden Notes Told AI Not to Recommend a Regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)
-
-<span class="news-item__source">redact.dev</span> Redact found 102 hidden blocks on 80 WhatsApp help pages telling its support AI not to recommend DPAs or cite GDPR; Meta blamed a bug and removed them. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50159341">[discussion on hn]</a> <a href="https://www.reddit.com/r/SecOpsDaily/comments/1xbw905/whatsapps_chatbot_was_given_hidden_instructions/">[discussion on reddit]</a></span>

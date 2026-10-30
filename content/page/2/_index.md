@@ -4,10 +4,34 @@ template = "index.html"
 
 [extra]
 page_num = 2
-page_count = 17
+page_count = 18
 prev = "/"
 next = "/page/3/"
 +++
+
+## 20 October 2026
+
+### [Google Earth/Google Maps: No publication of images of private property (LG Frankfurt, 2-03 O 388/25)](https://ordentliche-gerichtsbarkeit.hessen.de/presse/keine-veroeffentlichung-von-bildern-eines-privaten-grundstuecks)
+
+<span class="news-item__source">ordentliche-gerichtsbarkeit.hessen.de</span> The Frankfurt Regional Court barred Google from showing 3D aerial images of a private property on Earth and Maps over the owner's objection; Google will appeal. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50216142">[discussion on hn]</a> <a href="https://www.reddit.com/r/privacy/comments/1xbok66/google_needs_consent_to_publish_private_property/">[discussion on reddit]</a></span>
+
+### [EU Cyber Resilience Act: Germany adopts CRA Implementation Act as national enforcement regimes take shape across the EU](https://www.hlc.com/en/publications/eu-cyber-resilience-act-germany-adopts-cra-implementation-act-as-national-enforcement-regimes)
+
+<span class="news-item__source">hlc.com</span> Germany adopted its Cyber Resilience Act Implementation Act, designating the national market surveillance, notifying and CSIRT authorities for CRA enforcement.
+
+### [Clearview AI faces Court of Appeal test of 7.5m pound UK fine](https://ppc.land/clearview-ai-faces-court-of-appeal-test-of-7-5m-pound-uk-fine/)
+
+<span class="news-item__source">ppc.land</span> Clearview AI began a three-day Court of Appeal hearing on whether the ICO could fine it over UK GDPR monitoring of UK residents for foreign police clients.
+
+### [City Attorney secures additional $2.3 million settlement for delivery drivers misclassified by WorkWhile](https://www.sf.gov/news-city-attorney-secures-additional-23-million-settlement-for-delivery-drivers-misclassified-by-workwhile)
+
+<span class="news-item__source">sf.gov</span> A San Francisco court approved a final judgment rejecting WorkWhile's Prop 22 defence; the app must treat all California workers as employees from 2027.
+
+## 19 October 2026
+
+### [WhatsApp's Hidden Notes Told AI Not to Recommend a Regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)
+
+<span class="news-item__source">redact.dev</span> Redact found 102 hidden blocks on 80 WhatsApp help pages telling its support AI not to recommend DPAs or cite GDPR; Meta blamed a bug and removed them. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50159341">[discussion on hn]</a> <a href="https://www.reddit.com/r/SecOpsDaily/comments/1xbw905/whatsapps_chatbot_was_given_hidden_instructions/">[discussion on reddit]</a></span>
 
 ## 16 October 2026
 
@@ -76,25 +100,3 @@ next = "/page/3/"
 ### [EDPB publishes statement on the data protection challenges of smart glasses](https://www.edpb.europa.eu/news/edpb-publishes-statement-on-the-data-protection-challenges-of-smart-glasses_en)
 
 <span class="news-item__source">edpb.europa.eu</span> The EDPB adopted a statement saying smart-glasses makers cannot shift GDPR duties to users and should make recording obvious to bystanders, e.g. via LEDs or audio cues.
-
-### [Delivery workers demand stronger protections as Greece prepares to adopt EU platform work directive](https://thepressproject.gr/delivery-workers-demand-stronger-protections-as-greece-prepares-to-adopt-eu-platform-work-directive/)
-
-<span class="news-item__source">thepressproject.gr</span> Fourteen Greek delivery-worker unions urged the Labour Ministry to add employment-status criteria and algorithm transparency in its Platform Work Directive transposition.
-
-### [Bank of America fined $1.2 billion by US government for failing to police suspicious activity](https://www.reuters.com/legal/legalindustry/bofa-fined-12-billion-by-us-government-failing-police-suspicious-activity-2026-10-13/)
-
-<span class="news-item__source">reuters.com</span> Treasury and the OCC fined Bank of America $1.21bn for failing to report over $5bn in suspicious activity, including a record $750m OCC penalty. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50080613">[discussion on hn]</a></span>
-
-## 12 October 2026
-
-### [Parliament to vote this month on social media ban for under-15s](https://www.ekathimerini.com/in-depth/society-in-depth/1317908/parliament-to-vote-this-month-on-social-media-ban-for-under-15s/)
-
-<span class="news-item__source">ekathimerini.com</span> Greece tabled a bill banning under-15s from social media, with a parliamentary vote on 22 October and platform age checks required from 1 January 2027.
-
-### [Norway fines Microsoft's Xandr $9.6M over Grindr data sharing](https://www.reuters.com/legal/litigation/norway-fines-microsofts-xandr-96-million-over-grindr-data-sharing-2026-10-12/)
-
-<span class="news-item__source">reuters.com</span> Norway's data protection authority fined Microsoft's Xandr about $9.6m (roughly £7m) over sharing Grindr users' data, a record fine for the regulator. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50059950">[discussion on hn]</a></span>
-
-### [Italian DPA fines Wind Tre EUR 16 700 000 for unlawful telemarketing and data protection infringements](https://www.edpb.europa.eu/news/italian-dpa-fines-wind-tre-eur-16-700-000-for-unlawful-telemarketing-and-data-protection_en)
-
-<span class="news-item__source">edpb.europa.eu</span> Italy's Garante fined Wind Tre €16.7m over unsolicited marketing and contracts activated without consent via its sales network, and banned further use of that data.

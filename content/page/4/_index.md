@@ -4,12 +4,34 @@ template = "index.html"
 
 [extra]
 page_num = 4
-page_count = 17
+page_count = 18
 prev = "/page/3/"
 next = "/page/5/"
 +++
 
+## 1 October 2026
+
+### [Lyft agrees to pay California $272.5m in largest-ever wage theft settlement](https://www.theguardian.com/technology/2026/oct/01/lyft-largest-ever-wage-theft-settlement)
+
+<span class="news-item__source">theguardian.com</span> Lyft settled California's misclassification claims for $272.5m, with over $237m going to drivers treated as contractors between 2016 and 2020, subject to court approval.
+
+### [Italy switches on real-time facial recognition as EU calculates risk to basic rights](https://www.biometricupdate.com/202610/italy-switches-on-real-time-facial-recognition-as-eu-calculates-risk-to-basic-rights)
+
+<span class="news-item__source">biometricupdate.com</span> Italy's decree implementing the AI Act took effect, limiting police real-time facial recognition to specific threats and missing persons; the FRA published a critical report.
+
+### [Autumn Legislative Programme Signals Further Change for Irish Employers](https://littler.ie/insights/autumn-legislative-programme-signals-further-change-for-irish-employers/)
+
+<span class="news-item__source">littler.ie</span> Ireland's autumn legislative programme omits a Platform Work Directive bill, though the government says it is still on track to transpose by the 2 December 2026 deadline.
+
+### [AMLA finalises standards on Home-Host Supervisory Cooperation](https://www.amla.europa.eu/press-release-amla-finalises-standards-home-host-supervisory-cooperation_en)
+
+<span class="news-item__source">amla.europa.eu</span> AMLA published its final draft RTS letting EU AML supervisors share information without prior consent and run cross-border inquiries; they bind once the Commission adopts them.
+
 ## 30 September 2026
+
+### [Without Fear or Favour: The European Commission's DMA Non-Compliance Decision Against Google's Self-Preferencing (Case DMA.100193)](https://legalblogs.wolterskluwer.com/competition-blog/without-fear-or-favour-the-european-commissions-dma-non-compliance-decision-against-googles-self-preferencing-case-dma100193/)
+
+<span class="news-item__source">legalblogs.wolterskluwer.com</span> The Commission published its full DMA decision finding Google's search self-preferencing breached Article 6(5), without ordering the dedicated units removed.
 
 ### [The CRBR will no longer be fully public. What will change for businesses?](https://www.tgc.eu/en/publications/tgc-corporate-lawyers-legal-review-september-2026/)
 
@@ -78,25 +100,3 @@ next = "/page/5/"
 ### [Commission opens infringement procedures against EU states over beneficial-ownership register access rules](https://ec.europa.eu/commission/presscorner/detail/en/inf_26_1834)
 
 <span class="news-item__source">ec.europa.eu</span> The Commission opened infringement procedures against most EU states for failing to transpose AML rules on beneficial-ownership register access.
-
-## 24 September 2026
-
-### [US government seeks to join Elon Musk in challenge against EU's fine on X](https://www.reuters.com/world/us-government-seeks-join-elon-musk-challenge-against-eus-fine-x-2026-09-24/)
-
-<span class="news-item__source">reuters.com</span> The US DOJ asked the EU General Court to back Elon Musk's bid to annul X's €120m DSA fine, calling Brussels' first DSA sanction regulatory overreach. <span class="news-item__discussions"><a href="https://www.reddit.com/r/worldnews/comments/1wpra3v/us_seeks_to_join_elon_musk_in_eu_court_fight_over/">[discussion on reddit]</a></span>
-
-### [TikTok withdraws two appeals in children's privacy action and accepts £12.7m fine](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/09/tiktok-withdraws-two-appeals-in-children-s-privacy-action-and-accepts-127m-fine/)
-
-<span class="news-item__source">ico.org.uk</span> TikTok dropped its appeal and will pay the ICO's £12.7m fine over under-13s' data, also withdrawing a challenge that had stalled the regulator's probe into its teen recommender systems.
-
-### [Simplification for whom? Open letter to EU Member States to uphold GDPR protections in Digital Omnibus on Data](https://edri.org/our-work/simplification-for-whom-open-letter-uphold-gdpr-protections-in-data-omnibus/)
-
-<span class="news-item__source">edri.org</span> EDRi urged EU states to reject Council Digital Omnibus text that lets pseudonymised data escape GDPR and adds AI as grounds for 'legitimate interest' processing.
-
-### [First draft of the Polish Platform Work Act](https://knowledge.dlapiper.com/dlapiperknowledge/globalemploymentlatestdevelopments/2026/first-draft-of-the-polish-platform-work-act)
-
-<span class="news-item__source">knowledge.dlapiper.com</span> Poland published a draft law transposing the Platform Work Directive, creating a rebuttable employment presumption and fines up to €20m for banned algorithmic data use.
-
-### [Finnish unions seek review of Wolt employment oversight](https://www.helsinkitimes.fi/finland/finland-news/domestic/29313-finnish-unions-seek-review-of-wolt-employment-oversight.html)
-
-<span class="news-item__source">helsinkitimes.fi</span> Two Finnish unions asked the Parliamentary Ombudsman to probe why labour inspectors have not acted since courts ruled Wolt couriers meet employee criteria.
