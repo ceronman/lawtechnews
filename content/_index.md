@@ -8,7 +8,7 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">349 stories on European law, technology regulation and digital rights, latest from 30 October 2026. Every headline links to the original source.</p>
+<p class="news-intro">354 stories on European law, technology regulation and digital rights, latest from 30 October 2026. Every headline links to the original source.</p>
 
 ## 30 October 2026
 
@@ -26,7 +26,15 @@ next = "/page/2/"
 
 <span class="news-item__source">cnil.fr</span> The CNIL fined Fnac Darty €7m for an app tracker feeding browsing history to its recommendation algorithm without consent, with a €10,000 daily penalty if not fixed in a month. <span class="news-item__discussions"><a href="https://www.reddit.com/r/france/comments/1xii2ep/continuer_sans_accepter_fnac_darty_vous_tra%C3%A7ait/">[discussion on reddit]</a></span>
 
+### [Amazon, Uber, Instacart sue to block NYC law over delivery worker deactivation](https://www.reuters.com/legal/litigation/amazon-uber-instacart-sue-block-nyc-law-over-delivery-worker-deactivation-2026-10-29/)
+
+<span class="news-item__source">reuters.com</span> The three apps sued in Manhattan federal court to block a NYC law, effective January, requiring just cause and notice before deactivating delivery workers.
+
 ## 28 October 2026
+
+### [The Star ordered to pay $260 million for serious AML/CTF breaches](https://www.austrac.gov.au/news-and-media/media-release/star-ordered-pay-260-million-serious-amlctf-breaches)
+
+<span class="news-item__source">austrac.gov.au</span> Australia's Federal Court fined The Star A$260m for AML/CTF failures that let over 1,200 high-risk customers gamble through high-risk channels without source-of-funds checks. <span class="news-item__discussions"><a href="https://www.reddit.com/r/australia/comments/1xh8s6e/star_casino_fined_260_million_for_historical/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/auslaw/comments/1xhb9vg/star_casino_fined_260m_for_money_laundering/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/brisbane/comments/1xh98yt/star_casino_fined_260_million_for_historical/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/aussie/comments/1xh8sxo/star_casino_fined_260m_for_money_laundering/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/ASX_Bets/comments/1xha6do/star_group_liquidation_star_casino_fined_260/">[discussion on reddit]</a></span>
 
 ### [Portugal to reform labour laws](https://www.theportugalnews.com/news/2026-10-28/portugal-to-reform-labour-laws/1107935)
 
@@ -42,9 +50,17 @@ next = "/page/2/"
 
 ## 27 October 2026
 
+### [French government mulled blocking social networks and mobile internet amid protests](https://www.politico.eu/article/french-government-mulled-blocking-social-network-amid-protests/)
+
+<span class="news-item__source">politico.eu</span> PM Lecornu asked telecom operators to be ready to block TikTok, Instagram, Snapchat and X during the 24 October protests; a pending riot bill adds 1-hour takedowns. <span class="news-item__discussions"><a href="https://www.reddit.com/r/france/comments/1xefu3a/information_exclusive_blast_le_premier_ministre_a/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/france/comments/1xguc2v/nous_y_sommes_lautoritarisme/">[discussion on reddit]</a></span>
+
 ### [Commission proposes to reinforce Frontex: stronger border protection, a greater role on returns and more effective crisis response](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2260)
 
 <span class="news-item__source">ec.europa.eu</span> The Commission proposed a Frontex centre to monitor public social media and DSA trusted-flagger status to report illegal content, alongside a 30,000-officer corps. <span class="news-item__discussions"><a href="https://www.reddit.com/r/worldnews/comments/1xgtmvn/eu_proposes_sweeping_new_powers_for_border_agency/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/de/comments/1xhlljb/eukommission_frontex_soll_zur_abschiebeagentur/">[discussion on reddit]</a></span>
+
+### [CCOO acuerda mejoras laborales para más de 8.000 personas repartidoras con Uber Eats](https://www.ccoo.es/noticia:771055--CCOO_acuerda_mejoras_laborales_para_mas_de_8_000_personas_repartidoras_con_Uber_Eats)
+
+<span class="news-item__source">ccoo.es</span> Uber Eats agreed with CCOO and UGT to move its last 4,286 self-employed riders onto Quinde Crew payrolls by 30 November, with a joint committee on algorithmic management.
 
 ### [AI training platform Outlier illegally surveils European platform workers](https://noyb.eu/en/ai-training-platform-outlier-illegally-surveils-european-platform-workers)
 
@@ -87,21 +103,3 @@ next = "/page/2/"
 ### [Poland's Sejm adopts Senate amendments to the DSA implementation law, expanding UKE's content-blocking powers](https://www.uke.gov.pl/akt/nowe-zadania-prezesa-uke-w-systemie-nadzoru-nad-dsa,708.html)
 
 <span class="news-item__source">uke.gov.pl</span> The law goes to the president; UKE can order blocking of listed illegal content, keep a domain register ISPs must block within 48 hours, and reverse wrongful takedowns.
-
-### [Farewell, France](https://quad9.net/news/blog/au-revoir-france/)
-
-<span class="news-item__source">quad9.net</span> A Paris court ordered Quad9 to block beIN-flagged piracy domains under a €1,000 daily penalty; Quad9 will stop serving French users from 24 November and is appealing. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50195959">[discussion on hn]</a> <a href="https://www.reddit.com/r/france/comments/1xcnugx/farewell_france/">[discussion on reddit]</a> <a href="https://linuxfr.org/users/pas_pey/liens/quad9-ferme-ses-services-dns-en-france">[discussion on linuxfr]</a></span>
-
-### [Directive sur les travailleurs de plateformes : pourquoi la France traîne les pieds (et comment elle sape le texte)](https://nvo.fr/directive-sur-les-travailleurs-de-plateformes-pourquoi-la-france-traine-les-pieds-et-comment-elle-sape-le-texte/)
-
-<span class="news-item__source">nvo.fr</span> France will miss the 2 December deadline; its transposition mission advises no automatic employment presumption, only faster labour-court claims.
-
-### [AMLA and OLAF strengthen cooperation in the fight against financial crime](https://www.amla.europa.eu/press-release-amla-and-olaf-strengthen-cooperation-fight-against-financial-crime_en)
-
-<span class="news-item__source">amla.europa.eu</span> AMLA and OLAF signed a working arrangement to share operational intelligence and let OLAF join AMLA-coordinated FIU analyses of fraud-linked laundering.
-
-## 21 October 2026
-
-### [Transposing the Platform Work Directive: Comparative Assessment and Good Practices](https://ecipe.org/publications/transposing-platform-work-directive/)
-
-<span class="news-item__source">ecipe.org</span> ECIPE compared draft transpositions in Austria, Czechia, Estonia, the Netherlands and Sweden, finding none complete and urging clear presumption rules and joint liability for intermediaries.

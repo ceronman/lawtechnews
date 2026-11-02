@@ -9,7 +9,29 @@ prev = "/page/5/"
 next = "/page/7/"
 +++
 
+## 23 September 2026
+
+### [European Commission publishes new guidelines on the Cyber Resilience Act](https://www.osborneclarke.com/insights/european-commission-publishes-new-guidelines-cyber-resilience-act)
+
+<span class="news-item__source">osborneclarke.com</span> The European Commission adopted 80-page Cyber Resilience Act guidelines clarifying scope for cloud software and open-source, plus a 5-year minimum vulnerability-support period.
+
 ## 22 September 2026
+
+### [When the algorithm manages the workforce: Sweden's proposed platform work act](https://www.eversheds-sutherland.com/en/sweden/insights/when-the-algorithm-manages-the-workforce)
+
+<span class="news-item__source">eversheds-sutherland.com</span> A Swedish government inquiry proposed a Platform Work Act transposing the EU directive, giving gig workers a right to explanation and human review of algorithmic decisions.
+
+### [The Spanish DPA fined Securitas Direct 100 000 EUR for making the exercise of data subject rights more difficult](https://www.edpb.europa.eu/news/national-news/2026/spanish-dpa-fined-securitas-direct-100-000-eur-making-exercise-data-subject_en)
+
+<span class="news-item__source">edpb.europa.eu</span> The Spanish DPA fined Securitas Direct €100,000 for steering data subjects to a chargeable phone number when they tried to exercise their GDPR rights.
+
+### [Sanktionsavgift mot Miljödata för bristande säkerhet](https://www.imy.se/nyheter/sanktionsavgift-mot-miljodata-for-bristande-sakerhet/)
+
+<span class="news-item__source">imy.se</span> Sweden's IMY fined IT vendor Miljödata SEK 1.8m under GDPR Article 32 after a 2025 breach exposed sensitive data of 2.2 million people via unmonitored systems. <span class="news-item__discussions"><a href="https://www.reddit.com/r/pwnhub/comments/1wnv1p4/sweden_fines_miljoumldata_183000_over_breach/">[discussion on reddit]</a></span>
+
+### [El juez sienta en el banquillo a Oscar Pierre, cofundador de Glovo, por mantener a falsos autónomos](https://elpais.com/espana/catalunya/2026-09-22/el-juez-sienta-en-el-banquillo-a-oscar-pierre-cofundador-de-glovo-por-mantener-a-falsos-autonomos.html)
+
+<span class="news-item__source">elpais.com</span> A Barcelona court ordered Glovo co-founder Oscar Pierre to stand trial for keeping riders as false self-employed, a crime carrying up to six years in prison.
 
 ### [ECB flags AML gap for stablecoin issuers lacking financial licence](https://www.amlintelligence.com/2026/09/news-ecb-flags-aml-gap-for-stablecoin-issuers-lacking-financial-licence/)
 
@@ -76,25 +98,3 @@ next = "/page/7/"
 ### [La AEPD multa con 200.000 euros a una empresa por controlar a trabajadores desde su móvil personal](https://talent24h.okdiario.com/la-aepd-multa-con-200-000-euros-a-una-empresa-por-controlar-a-trabajadores-desde-su-movil-personal/)
 
 <span class="news-item__source">talent24h.okdiario.com</span> Spain's AEPD fined Ares Capital €200,000 after a VTC driver had to install four work apps on his own phone, citing excessive data and no valid legal basis.
-
-### [Governor Newsom issues executive order to accelerate independent oversight and advance the creation of an AI kill switch](https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/)
-
-<span class="news-item__source">gov.ca.gov</span> California ordered an expert panel to report within two months on a verifiable kill switch for frontier AI models and independent third-party safety audits.
-
-### [France probes misuse of smart glasses in sexual harassment cases](https://www.reuters.com/technology/french-prosecutors-regulators-step-up-scrutiny-smart-glasses-2026-09-18/)
-
-<span class="news-item__source">reuters.com</span> Paris prosecutors opened at least one criminal probe into smart glasses used to film women in the street; the CNIL has received under 10 workplace complaints about the devices.
-
-### [EXCLUSIVE: OpenAI didn't report safety incident under EU AI rules](https://www.euractiv.com/news/exclusive-openai-didnt-report-another-incident-under-eu-ai-safety-rules/)
-
-<span class="news-item__source">euractiv.com</span> OpenAI filed no serious-incident report with the EU AI Office over the RubyGems episode, suggesting a narrow reading of the AI Act's duty to report without undue delay.
-
-## 17 September 2026
-
-### [Riigikogu takes Estonia's Platform Work Act (1003 SE) into proceedings](https://www.riigikogu.ee/pressiteated/menetlusse-voeti-eelnou-kinnisasja-omandamise-kitsendamiseks/)
-
-<span class="news-item__source">riigikogu.ee</span> Estonia's government tabled a Platform Work Act covering all platform workers whatever their contract, requiring a human to decide any account suspension or termination.
-
-### [Opinion of Advocate General Spielmann in Case C-317/25 Groupe Canal +](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260130en.pdf)
-
-<span class="news-item__source">curia.europa.eu</span> AG Spielmann advised that consent for a company's unnamed ‘partners’ to use personal data for direct marketing is invalid unless those partners are identified.

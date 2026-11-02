@@ -9,7 +9,25 @@ prev = "/"
 next = "/page/3/"
 +++
 
+## 22 October 2026
+
+### [Farewell, France](https://quad9.net/news/blog/au-revoir-france/)
+
+<span class="news-item__source">quad9.net</span> A Paris court ordered Quad9 to block beIN-flagged piracy domains under a €1,000 daily penalty; Quad9 will stop serving French users from 24 November and is appealing. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50195959">[discussion on hn]</a> <a href="https://www.reddit.com/r/france/comments/1xcnugx/farewell_france/">[discussion on reddit]</a> <a href="https://linuxfr.org/users/pas_pey/liens/quad9-ferme-ses-services-dns-en-france">[discussion on linuxfr]</a></span>
+
+### [Directive sur les travailleurs de plateformes : pourquoi la France traîne les pieds (et comment elle sape le texte)](https://nvo.fr/directive-sur-les-travailleurs-de-plateformes-pourquoi-la-france-traine-les-pieds-et-comment-elle-sape-le-texte/)
+
+<span class="news-item__source">nvo.fr</span> France will miss the 2 December deadline; its transposition mission advises no automatic employment presumption, only faster labour-court claims.
+
+### [AMLA and OLAF strengthen cooperation in the fight against financial crime](https://www.amla.europa.eu/press-release-amla-and-olaf-strengthen-cooperation-fight-against-financial-crime_en)
+
+<span class="news-item__source">amla.europa.eu</span> AMLA and OLAF signed a working arrangement to share operational intelligence and let OLAF join AMLA-coordinated FIU analyses of fraud-linked laundering.
+
 ## 21 October 2026
+
+### [Transposing the Platform Work Directive: Comparative Assessment and Good Practices](https://ecipe.org/publications/transposing-platform-work-directive/)
+
+<span class="news-item__source">ecipe.org</span> ECIPE compared draft transpositions in Austria, Czechia, Estonia, the Netherlands and Sweden, finding none complete and urging clear presumption rules and joint liability for intermediaries.
 
 ### [The New Mexico Department of Justice Secures Another Landmark Victory Against Big Tech, with Historic $25 Billion Penalty Against Facebook](https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/)
 
@@ -57,6 +75,10 @@ next = "/page/3/"
 
 ## 16 October 2026
 
+### [商务部 科技部公告2026年第48号 (MOFCOM Announcement No. 48 on AI technology export controls)](https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_0a31a3c9ac404f7a9b0e917ce3412997.html)
+
+<span class="news-item__source">mofcom.gov.cn</span> China proposed export controls on 23 AI technologies, including frontier model weights and agents, with pre-export registration in force now; comments close 15 November. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50334038">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50120897">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50127369">[discussion on hn]</a> <a href="https://www.reddit.com/r/LocalLLaMA/comments/1x7g3zq/china_proposes_export_controls_on_23_ai/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/SillyTavernAI/comments/1x7o1f0/chinese_govt_to_prevent_release_of_future_open/">[discussion on reddit]</a></span>
+
 ### [EU AI Act: probes could extend time limit for fines](https://www.actuia.com/en/news/eu-ai-act-probes-could-extend-time-limit-for-fines/)
 
 <span class="news-item__source">actuia.com</span> The Commission opened consultation on a draft AI Act implementing regulation letting AI Office investigation steps restart the five-year fining limitation period, capped at ten years.
@@ -78,25 +100,3 @@ next = "/page/3/"
 ### [Privacy First calls for a ban on automated risk profiling by banks](https://privacyfirst.nl/en/articles/privacy-first-is-calling-for-a-ban-on-automated-risk-profiling-by-banks/)
 
 <span class="news-item__source">privacyfirst.nl</span> Dutch group Privacy First urged a ban on automated risk profiling in AMLA's draft customer-monitoring guidelines; final guidelines are due in Q4 2026.
-
-### [Opinion of Advocate General Biondi in ByteDance v Commission (TikTok DMA gatekeeper designation)](https://curia.europa.eu/site/upload/docs/application/pdf/2026-10/cp260151en.pdf)
-
-<span class="news-item__source">curia.europa.eu</span> Advocate General Biondi advised the CJEU to dismiss ByteDance's appeal against TikTok's DMA gatekeeper designation, in the first DMA case to reach the Court of Justice.
-
-### [Eurobarometer survey highlights growing use of AI in European companies](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2160)
-
-<span class="news-item__source">ec.europa.eu</span> A Commission survey of 12,826 SMEs found 42% use AI or algorithmic management, mostly experimentally; the upcoming Quality Jobs Act will regulate algorithmic management.
-
-## 14 October 2026
-
-### [Judgment of the General Court in Case T-134/24 Technius v Commission (Stripchat DSA designation)](https://curia.europa.eu/site/upload/docs/application/pdf/2026-10/cp260146en.pdf)
-
-<span class="news-item__source">curia.europa.eu</span> The EU General Court dismissed Stripchat's challenge to its designation as a very large online platform under the DSA, upholding the Commission's 2023 decision.
-
-### [First harmonised standard supporting the AI Act published in the Official Journal](https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal)
-
-<span class="news-item__source">digital-strategy.ec.europa.eu</span> Implementing Decision (EU) 2026/2274 cites EN 18286:2026, giving high-risk AI providers a presumption of conformity for their quality management system only. <span class="news-item__discussions"><a href="https://www.reddit.com/r/grc/comments/1x8kyuq/europe_just_released_en_18286_its_iso_42001like/">[discussion on reddit]</a></span>
-
-### [EU’s AI rules face first enforcement test over lab incidents](https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents)
-
-<span class="news-item__source">euronews.com</span> The AI Office sent AI Act information requests to OpenAI and Anthropic over agents that hacked outside firms; lawyers dispute its reach over pre-market testing.
