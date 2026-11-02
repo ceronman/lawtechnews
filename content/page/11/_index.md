@@ -11,6 +11,26 @@ next = "/page/12/"
 
 ## 18 August 2026
 
+### [US states take on Meta in pivotal trial over child social media addiction claims](https://www.theguardian.com/technology/2026/aug/18/meta-child-safety-addiction-lawsuit-states)
+
+<span class="news-item__source">theguardian.com</span> Twenty-nine US states opened a jury trial in Oakland accusing Meta of deliberately designing addictive products for minors; damages could reach $200bn.
+
+### [SEC Proposes New Regulation Crypto Assets](https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets)
+
+<span class="news-item__source">sec.gov</span> The SEC proposed exemptions letting crypto issuers raise up to $5m over four years or $75m a year without registration, preempting state securities law.
+
+### [Piratage du système d'information des impôts : les vérifications sont en cours](https://www.cnil.fr/fr/piratage-du-systeme-dinformation-des-impots-les-verifications-sont-en-cours)
+
+<span class="news-item__source">cnil.fr</span> The CNIL was notified of the DGFiP tax-system breach exposing income, withholding and cadastral data, and may inspect and sanction over security failings.
+
+### [OpenAI announces slowing pace of development after hack by rogue agent](https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack)
+
+<span class="news-item__source">theguardian.com</span> OpenAI paused model testing for two weeks and put major training runs on hold, saying Astra may near its critical cybersecurity threshold.
+
+### [Facial recognition in policing: earning public trust through strong data protection governance](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/08/facial-recognition-in-policing/)
+
+<span class="news-item__source">ico.org.uk</span> The ICO audited five English and Welsh police forces on facial recognition and issued 107 recommendations, finding inconsistent data protection compliance.
+
 ### [ChatGPT Ads expands across Europe](https://openai.com/index/chatgpt-ads-expands-across-europe/)
 
 <span class="news-item__source">openai.com</span> ChatGPT Ads reaches 31 European countries next week, shown only to Free and Go users, with OpenAI saying conversations stay private from advertisers.
@@ -78,23 +98,3 @@ next = "/page/12/"
 ### [Hiding your use of AI is about to get much harder — thanks to Brussels](https://www.politico.eu/article/artificial-intelligence-ai-watermark-big-tech/)
 
 <span class="news-item__source">politico.eu</span> AI Act transparency duties applying since 2 August force marking of AI output; Anthropic said every Claude model released after that date embeds invisible text watermarks.
-
-### [Hacking group claims mass data theft from Shell, Philips, GE, Fiserv and dozens of others](https://www.reuters.com/legal/government/philips-shell-targeted-by-hacking-group-2026-08-13/)
-
-<span class="news-item__source">reuters.com</span> Cl0p claimed data theft from nearly 50 firms via PTC Windchill flaws; Philips confirmed a contained server compromise and Shell a possible incident.
-
-### [German privacy watchdog urges EU to scrap cookie banners](https://www.euractiv.com/news/german-privacy-watchdog-urges-eu-to-scrap-cookie-banners/)
-
-<span class="news-item__source">euractiv.com</span> Germany's federal data protection commissioner asked the EU to replace cookie banners with central cookie managers, after 75% of surveyed users said they would deny all.
-
-### [EDPS Opinion 18/2026 on the Proposal for a Regulation on Europol repealing Regulation (EU) 2016/794](https://www.edps.europa.eu/data-protection/our-work/publications/opinions/2026-08-11-edps-opinion-182026-regulation-europol-repealing-regulation-eu-2016794)
-
-<span class="news-item__source">edps.europa.eu</span> The EDPS said the Commission's Europol reform creates serious risks by letting the agency hold data on vast numbers of people with no criminal links for an unspecified period.
-
-### [Brazil's Data Protection Agency Faces Landmark Test on Kids and Facial Recognition](https://www.techpolicy.press/brazils-data-protection-agency-faces-landmark-test-on-kids-and-facial-recognition/)
-
-<span class="news-item__source">techpolicy.press</span> Brazil's ANPD ordered the immediate suspension of biometric processing of schoolchildren in Parana, where facial recognition tracked attendance tied to welfare eligibility.
-
-### [AI agents aren't legally responsible for any harm that they cause, experts say. So who is?](https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is)
-
-<span class="news-item__source">theguardian.com</span> After Australia's first reported agentic AI hacking incident, legal experts said deployers bear liability for their bots, with developers exposed where guardrails are inadequate.

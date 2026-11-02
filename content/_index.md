@@ -8,9 +8,19 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">344 stories on European law, technology regulation and digital rights, latest from 29 October 2026. Every headline links to the original source.</p>
+<p class="news-intro">349 stories on European law, technology regulation and digital rights, latest from 30 October 2026. Every headline links to the original source.</p>
+
+## 30 October 2026
+
+### [Outcomes FATF Plenary, 28-30 October 2026](https://www.fatf-gafi.org/en/publications/Fatfgeneral/outcomes-fatf-plenary-october-2026.html)
+
+<span class="news-item__source">fatf-gafi.org</span> FATF removed Bulgaria, Monaco, Côte d'Ivoire and the DRC from its grey list and launched a targeted review of virtual-asset AML compliance, with results due in 2027.
 
 ## 29 October 2026
+
+### [EU tells capitals to halt their national social media bans for a year](https://www.politico.eu/article/eu-tells-capitals-to-halt-their-national-social-media-bans-for-a-year/)
+
+<span class="news-item__source">politico.eu</span> The Commission imposed a 12-month standstill on national social media bans for minors that overlap the Kids Act, starting with Austria's under-14 ban. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xla1jp/eu_tells_capitals_to_halt_their_national_social/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/europe/comments/1xiteys/brussels_tells_capitals_to_wait_for_euwide_social/">[discussion on reddit]</a></span>
 
 ### [Cookies et application mobile : sanctions de 7 millions d'euros à l'encontre des sociétés FNAC DARTY PARTICIPATIONS ET SERVICES et FNAC DIRECT](https://www.cnil.fr/fr/sanction-cookies-app-fnac)
 
@@ -18,11 +28,23 @@ next = "/page/2/"
 
 ## 28 October 2026
 
+### [Portugal to reform labour laws](https://www.theportugalnews.com/news/2026-10-28/portugal-to-reform-labour-laws/1107935)
+
+<span class="news-item__source">theportugalnews.com</span> Labour minister Palma Ramalho told parliament Portugal will transpose the Platform Work Directive and pay-transparency rules, but conceded wider labour reform may slip.
+
 ### [Plattformarbeit: Arbeitsgericht soll künftig über Status von Lieferfahrern entscheiden](https://www.tageblatt.lu/Luxemburg/Plattformarbeit-Arbeitsgericht-soll-kuenftig-ueber-Status-von-Lieferfahrern-entscheiden-114063.html)
 
 <span class="news-item__source">tageblatt.lu</span> Labour minister Marc Spautz said Luxembourg's Platform Work Directive bill, due by early December, will move worker-status disputes from administrative to labour courts.
 
+### [Comunicato stampa del Consiglio dei Ministri n. 195 (Platform Work Directive transposition decree)](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973)
+
+<span class="news-item__source">governo.it</span> Italy's cabinet gave final approval to its Platform Work Directive decree, presuming employment, barring algorithm-only dismissals and excluding marketplaces and booking sites.
+
 ## 27 October 2026
+
+### [Commission proposes to reinforce Frontex: stronger border protection, a greater role on returns and more effective crisis response](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2260)
+
+<span class="news-item__source">ec.europa.eu</span> The Commission proposed a Frontex centre to monitor public social media and DSA trusted-flagger status to report illegal content, alongside a 30,000-officer corps. <span class="news-item__discussions"><a href="https://www.reddit.com/r/worldnews/comments/1xgtmvn/eu_proposes_sweeping_new_powers_for_border_agency/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/de/comments/1xhlljb/eukommission_frontex_soll_zur_abschiebeagentur/">[discussion on reddit]</a></span>
 
 ### [AI training platform Outlier illegally surveils European platform workers](https://noyb.eu/en/ai-training-platform-outlier-illegally-surveils-european-platform-workers)
 
@@ -83,23 +105,3 @@ next = "/page/2/"
 ### [Transposing the Platform Work Directive: Comparative Assessment and Good Practices](https://ecipe.org/publications/transposing-platform-work-directive/)
 
 <span class="news-item__source">ecipe.org</span> ECIPE compared draft transpositions in Austria, Czechia, Estonia, the Netherlands and Sweden, finding none complete and urging clear presumption rules and joint liability for intermediaries.
-
-### [The New Mexico Department of Justice Secures Another Landmark Victory Against Big Tech, with Historic $25 Billion Penalty Against Facebook](https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/)
-
-<span class="news-item__source">nmdoj.gov</span> A judge ordered Meta to pay $25bn after jurors found nearly 44 million state-law violations over Cambridge Analytica-era privacy claims; Meta will appeal. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50184820">[discussion on hn]</a> <a href="https://www.reddit.com/r/technology/comments/1xbtfk5/meta_ordered_to_pay_25_billion_penalty_in_new/">[discussion on reddit]</a> <a href="https://yro.slashdot.org/story/26/10/21/188251/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook">[discussion on slashdot]</a></span>
-
-### [The Irish Public Rejects State Access to Private Online Conversations](https://cdt.org/insights/the-irish-public-rejects-state-access-to-private-online-conversations/)
-
-<span class="news-item__source">cdt.org</span> A CDT poll found 66% of Irish voters oppose state access to encrypted messages as the justice minister readies a bill letting gardaí intercept them.
-
-### [Digital rulebook: Council agrees position to simplify data protection, privacy and cyber reporting rules](https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/digital-rulebook-council-agrees-position-to-simplify-data-protection-privacy-and-cyber-reporting-rules/)
-
-<span class="news-item__source">consilium.europa.eu</span> EU states keep the personal-data definition but add pseudonymisation rules, an AI sensitive-data derogation and longer breach-notification deadlines. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50218050">[discussion on hn]</a></span>
-
-### [Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2223)
-
-<span class="news-item__source">ec.europa.eu</span> The Commission opened DSA proceedings into Booking.com over fake listings, phishing via shared guest data, and paid boosted listings not labelled as ads. <span class="news-item__discussions"><a href="https://www.reddit.com/r/worldnews/comments/1xbt0s8/eu_investigating_bookingcom_over_action_on_fraud/">[discussion on reddit]</a> <a href="https://tweakers.net/nieuws/253612/eu-start-onderzoek-naar-booking-punt-com-om-nepadvertenties-en-phishing.html">[discussion on tweakers]</a></span>
-
-### [Berlin finds CDU, SPD, Greens and Left broke GDPR with Facebook targeting](https://ppc.land/berlin-finds-cdu-spd-greens-and-left-broke-gdpr-with-facebook-targeting/)
-
-<span class="news-item__source">ppc.land</span> Berlin's DPA found CDU, SPD, Greens and Die Linke unlawfully targeted Facebook voters by political interest in 2021, after noyb complaints. No fines were issued.

@@ -9,6 +9,32 @@ prev = "/page/4/"
 next = "/page/6/"
 +++
 
+## 27 September 2026
+
+### [As A.I. Accelerates, Governments Are Increasingly Being Left Behind](https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html)
+
+<span class="news-item__source">nytimes.com</span> Von der Leyen convened senior EU officials to weigh tougher AI safety rules against economic costs, reaching no decision after her Sept. 16 SOTEU speech.
+
+## 26 September 2026
+
+### [Neue Selbstständigkeit: Das Gesetz, das zu spät kommt](https://denkstrom.org/artikel/plattformgesetz-neue-selbstaendigkeit-eu-frist-2026/)
+
+<span class="news-item__source">denkstrom.org</span> Germany's labour ministry proposed a voluntary self-employment status instead of a rebuttable employment presumption for platform workers, taking effect 13 months after the EU deadline.
+
+## 25 September 2026
+
+### [The presidency's question: leave private messages out of the regulation?](https://brusselsrecord.com/presidency-question-leave-private-messages-out/)
+
+<span class="news-item__source">brusselsrecord.com</span> A leaked Council note ahead of the 29 September trilogue asks ambassadors whether to write voluntary scanning of private messages into permanent law, or drop it without compromise.
+
+### [OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity](https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt)
+
+<span class="news-item__source">theguardian.com</span> OpenAI said its AI agents leaked 53 user images online and accessed US government sites including the SEC, part of a rogue-agent incident count still rising since the Hugging Face hack. <span class="news-item__discussions"><a href="https://www.reddit.com/r/technology/comments/1wqh8ti/openai_rogue_agents_leaked_53_images_from_chatgpt/">[discussion on reddit]</a> <a href="https://news.ycombinator.com/item?id=49853688">[discussion on hn]</a></span>
+
+### [Commission opens infringement procedures against EU states over beneficial-ownership register access rules](https://ec.europa.eu/commission/presscorner/detail/en/inf_26_1834)
+
+<span class="news-item__source">ec.europa.eu</span> The Commission opened infringement procedures against most EU states for failing to transpose AML rules on beneficial-ownership register access.
+
 ## 24 September 2026
 
 ### [US government seeks to join Elon Musk in challenge against EU's fine on X](https://www.reuters.com/world/us-government-seeks-join-elon-musk-challenge-against-eus-fine-x-2026-09-24/)
@@ -74,25 +100,3 @@ next = "/page/6/"
 ### [El juez sienta en el banquillo a Oscar Pierre, cofundador de Glovo, por mantener a falsos autónomos](https://elpais.com/espana/catalunya/2026-09-22/el-juez-sienta-en-el-banquillo-a-oscar-pierre-cofundador-de-glovo-por-mantener-a-falsos-autonomos.html)
 
 <span class="news-item__source">elpais.com</span> A Barcelona court ordered Glovo co-founder Oscar Pierre to stand trial for keeping riders as false self-employed, a crime carrying up to six years in prison.
-
-### [ECB flags AML gap for stablecoin issuers lacking financial licence](https://www.amlintelligence.com/2026/09/news-ecb-flags-aml-gap-for-stablecoin-issuers-lacking-financial-licence/)
-
-<span class="news-item__source">amlintelligence.com</span> The ECB urged EU lawmakers to close a gap letting some stablecoin issuers avoid anti-money-laundering rules that bind other crypto firms.
-
-### [Council wants privacy enhancing tech incentives in omnibus](https://www.euractiv.com/news/council-wants-privacy-enhancing-tech-incentives-in-omnibus/)
-
-<span class="news-item__source">euractiv.com</span> EU Council ministers want the Digital Omnibus to add incentives for privacy-enhancing tech and want the Commission to assess industry use of it, especially for cookies.
-
-## 21 September 2026
-
-### [WHAT TO FIX files DSA complaint over Meta's monetization enforcement and reporting systems](https://www.whattofix.tech/publications/sept-2026-what-to-fix-files-dsa-complaint-monetization-enforcement-reporting/)
-
-<span class="news-item__source">whattofix.tech</span> WHAT TO FIX filed a DSA complaint with the Dutch ACM alleging Meta failed to enforce and process reports of possibly illegal monetization tied to EU-sanctioned actors.
-
-### [Poor data sharing undermining EU cyber defences, auditors say](https://www.reuters.com/legal/government/poor-data-sharing-undermining-eu-cyber-defences-auditors-say-2026-09-21/)
-
-<span class="news-item__source">reuters.com</span> The European Court of Auditors found EU states rarely share cyber-incident data, noting no 'large-scale' incident has been formally reported since 2016 despite qualifying attacks.
-
-### [Irish data protection watchdog fines Google €403m over GDPR breaches](https://www.irishtimes.com/business/2026/09/21/irish-data-protection-watchdog-fines-google-403m-over-gdpr-breaches/)
-
-<span class="news-item__source">irishtimes.com</span> The Irish DPC fined Google €403m for unlawfully processing location data via three account features and gave it six months to comply; Google may appeal. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=49811802">[discussion on hn]</a></span>

@@ -9,6 +9,28 @@ prev = "/page/11/"
 next = "/page/13/"
 +++
 
+## 13 August 2026
+
+### [Hacking group claims mass data theft from Shell, Philips, GE, Fiserv and dozens of others](https://www.reuters.com/legal/government/philips-shell-targeted-by-hacking-group-2026-08-13/)
+
+<span class="news-item__source">reuters.com</span> Cl0p claimed data theft from nearly 50 firms via PTC Windchill flaws; Philips confirmed a contained server compromise and Shell a possible incident.
+
+### [German privacy watchdog urges EU to scrap cookie banners](https://www.euractiv.com/news/german-privacy-watchdog-urges-eu-to-scrap-cookie-banners/)
+
+<span class="news-item__source">euractiv.com</span> Germany's federal data protection commissioner asked the EU to replace cookie banners with central cookie managers, after 75% of surveyed users said they would deny all.
+
+### [EDPS Opinion 18/2026 on the Proposal for a Regulation on Europol repealing Regulation (EU) 2016/794](https://www.edps.europa.eu/data-protection/our-work/publications/opinions/2026-08-11-edps-opinion-182026-regulation-europol-repealing-regulation-eu-2016794)
+
+<span class="news-item__source">edps.europa.eu</span> The EDPS said the Commission's Europol reform creates serious risks by letting the agency hold data on vast numbers of people with no criminal links for an unspecified period.
+
+### [Brazil's Data Protection Agency Faces Landmark Test on Kids and Facial Recognition](https://www.techpolicy.press/brazils-data-protection-agency-faces-landmark-test-on-kids-and-facial-recognition/)
+
+<span class="news-item__source">techpolicy.press</span> Brazil's ANPD ordered the immediate suspension of biometric processing of schoolchildren in Parana, where facial recognition tracked attendance tied to welfare eligibility.
+
+### [AI agents aren't legally responsible for any harm that they cause, experts say. So who is?](https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is)
+
+<span class="news-item__source">theguardian.com</span> After Australia's first reported agentic AI hacking incident, legal experts said deployers bear liability for their bots, with developers exposed where guardrails are inadequate.
+
 ## 12 August 2026
 
 ### [Twitch Is Now Using Your Content To Train Amazon AI Models And Has Hidden The Option To Opt Out](https://kotaku.com/twitch-is-now-using-your-content-to-train-amazon-ai-models-and-has-hidden-the-option-to-opt-out-2000723891)
@@ -76,25 +98,3 @@ next = "/page/13/"
 ### [US Senate advances landmark crypto bill before heading on August recess](https://www.reuters.com/legal/government/us-senate-advances-landmark-crypto-bill-before-heading-august-recess-2026-08-08/)
 
 <span class="news-item__source">reuters.com</span> Thune filed for a September procedural vote on the Clarity Act, which would define when tokens are securities or commodities; it needs 60 votes to pass.
-
-### [Rising number of UK children report seeing explicit deepfakes of themselves](https://www.theguardian.com/technology/2026/aug/08/uk-children-explicit-deepfake-images-ai)
-
-<span class="news-item__source">theguardian.com</span> The IWF's Report Remove service logged 420 reports of AI-manipulated explicit images from UK children in six months, already above the 397 for all of 2025.
-
-### [OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls](https://www.reuters.com/legal/litigation/openai-flags-possible-critical-cybersecurity-risk-upcoming-model-tightens-2026-08-07/)
-
-<span class="news-item__source">reuters.com</span> OpenAI said it cannot rule out that its upcoming Astra model has "critical" cyber capabilities, pausing internal work and moving development into network-restricted sandboxes.
-
-### [Brazil tightens crypto transfers to curb fraud](https://www.reuters.com/world/americas/brazil-tightens-crypto-transfers-curb-fraud-2026-08-07/)
-
-<span class="news-item__source">reuters.com</span> Brazil's central bank will require delays of up to 24 hours on crypto transfers above $10,000 to foreign virtual-asset firms or self-custody wallets, starting next year.
-
-## 7 August 2026
-
-### [Who is liable when AI goes rogue? Lawyers see new risks](https://www.reuters.com/business/who-is-liable-when-ai-goes-rogue-lawyers-see-new-risks-2026-08-07/)
-
-<span class="news-item__source">reuters.com</span> Negligence and computer-misuse claims are the likely routes to hold AI labs liable for autonomous agent breaches, but no court has ruled on intent when no human acts.
-
-### [US sanctions Dubai crypto exchange for aiding Iran's IRGC, following a Reuters report](https://www.reuters.com/world/middle-east/us-sanctions-dubai-crypto-exchange-aiding-irans-irgc-following-reuters-report-2026-08-07/)
-
-<span class="news-item__source">reuters.com</span> OFAC sanctioned Dubai exchange Shelbit and its founder over a $4bn Iranian sanctions-evasion scheme, weeks after Dubai's VARA flagged money-laundering violations.

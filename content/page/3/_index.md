@@ -9,7 +9,29 @@ prev = "/page/2/"
 next = "/page/4/"
 +++
 
+## 14 October 2026
+
+### [EU signs Protocol to strengthen asset recovery and anti-money laundering cooperation](https://home-affairs.ec.europa.eu/news/eu-signs-protocol-strengthen-asset-recovery-and-anti-money-laundering-cooperation-2026-10-14_en)
+
+<span class="news-item__source">home-affairs.ec.europa.eu</span> The EU signed the Council of Europe protocol updating the Warsaw Convention on freezing, confiscation and asset management; conclusion needs Council and Parliament consent.
+
 ## 13 October 2026
+
+### [Riigikogu completes first reading of Estonia's Platform Work Act (1003 SE)](https://www.riigikogu.ee/pressiteated/riigikogu-lopetas-nelja-eelnou-esimese-lugemise-2/)
+
+<span class="news-item__source">riigikogu.ee</span> Estonia's Platform Work Act passed first reading; it requires a human to decide account suspensions and bars systems from inferring workers' health, beliefs or union membership.
+
+### [Lithuania Targets Algorithmic Control in Gig Work Rules](https://streamlinefeed.co.ke/news/lithuania-targets-algorithmic-control-in-gig-work-rules)
+
+<span class="news-item__source">streamlinefeed.co.ke</span> Lithuania's Seimas advanced its Platform Work Directive bill 85-0-8, tying worker status to control and requiring human review of account blocks. Committee review follows.
+
+### [Europe’s leaders abandon the race for frontier AI](https://www.politico.eu/article/europe-ai-strategy-frontier-models-us-china/)
+
+<span class="news-item__source">politico.eu</span> EU leaders including von der Leyen are shifting from building frontier AI to promoting adoption; the Commission will hold an Apply AI summit on 16 November. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50092311">[discussion on hn]</a></span>
+
+### [EDPB publishes statement on the data protection challenges of smart glasses](https://www.edpb.europa.eu/news/edpb-publishes-statement-on-the-data-protection-challenges-of-smart-glasses_en)
+
+<span class="news-item__source">edpb.europa.eu</span> The EDPB adopted a statement saying smart-glasses makers cannot shift GDPR duties to users and should make recording obvious to bystanders, e.g. via LEDs or audio cues.
 
 ### [Delivery workers demand stronger protections as Greece prepares to adopt EU platform work directive](https://thepressproject.gr/delivery-workers-demand-stronger-protections-as-greece-prepares-to-adopt-eu-platform-work-directive/)
 
@@ -82,25 +104,3 @@ next = "/page/4/"
 ### [EU Platform Work Directive: what are the latest updates](https://www.linkedin.com/pulse/eu-platform-work-directive-what-latest-updates-ius-laboris-vxwne)
 
 <span class="news-item__source">linkedin.com</span> No Member State has fully transposed the Platform Work Directive yet, but several have tabled draft laws since April ahead of the 2 December 2026 deadline.
-
-### [Dati sanitari: il Garante privacy sanziona IQVIA per 7 milioni di euro](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10302141)
-
-<span class="news-item__source">garanteprivacy.it</span> Italy's Garante fined IQVIA €7m because health data on one million patients of 800 GPs was not truly anonymised and allowed re-identification.
-
-### [Ahead of reform: Platform delivery riders denounce opaque system and growing precariousness](https://today.rtl.lu/news/luxembourg/platform-delivery-riders-denounce-opaque-system-and-growing-precariousness-32035163)
-
-<span class="news-item__source">today.rtl.lu</span> Luxembourg's riders' union published a 30-page report urging a Platform Work Directive transposition that also covers algorithmic pricing, penalties and deactivations.
-
-### [119 MEPs Press Commission to Enforce EU Ban on AI 'Nudifier' Systems from First Day](https://eutoday.net/meps-eu-ai-nudifier-ban-enforcement/)
-
-<span class="news-item__source">eutoday.net</span> 119 MEPs asked the Commission and member states to designate enforcers before the AI Act nudifier ban applies on 2 December 2026, and to use the DSA harder.
-
-## 1 October 2026
-
-### [Press Release: AMLA finalises key standards for the private sector](https://www.amla.europa.eu/press-release-amla-finalises-key-standards-private-sector_en)
-
-<span class="news-item__source">amla.europa.eu</span> AMLA finalised three AMLR standards on customer due diligence, linked transactions and group-wide controls; they apply six months after Commission adoption.
-
-### [Opinion of Advocate General Medina in Case C-12/25 (right to erasure and baptismal registers)](https://curia.europa.eu/site/upload/docs/application/pdf/2026-10/cp260139en.pdf)
-
-<span class="news-item__source">curia.europa.eu</span> Advocate General Medina advised the CJEU that GDPR erasure can in principle apply to baptismal registers, unless the diocese shows overriding legitimate grounds.

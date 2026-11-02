@@ -9,6 +9,28 @@ prev = "/"
 next = "/page/3/"
 +++
 
+## 21 October 2026
+
+### [The New Mexico Department of Justice Secures Another Landmark Victory Against Big Tech, with Historic $25 Billion Penalty Against Facebook](https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/)
+
+<span class="news-item__source">nmdoj.gov</span> A judge ordered Meta to pay $25bn after jurors found nearly 44 million state-law violations over Cambridge Analytica-era privacy claims; Meta will appeal. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50184820">[discussion on hn]</a> <a href="https://www.reddit.com/r/technology/comments/1xbtfk5/meta_ordered_to_pay_25_billion_penalty_in_new/">[discussion on reddit]</a> <a href="https://yro.slashdot.org/story/26/10/21/188251/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook">[discussion on slashdot]</a></span>
+
+### [The Irish Public Rejects State Access to Private Online Conversations](https://cdt.org/insights/the-irish-public-rejects-state-access-to-private-online-conversations/)
+
+<span class="news-item__source">cdt.org</span> A CDT poll found 66% of Irish voters oppose state access to encrypted messages as the justice minister readies a bill letting gardaí intercept them.
+
+### [Digital rulebook: Council agrees position to simplify data protection, privacy and cyber reporting rules](https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/digital-rulebook-council-agrees-position-to-simplify-data-protection-privacy-and-cyber-reporting-rules/)
+
+<span class="news-item__source">consilium.europa.eu</span> EU states keep the personal-data definition but add pseudonymisation rules, an AI sensitive-data derogation and longer breach-notification deadlines. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50218050">[discussion on hn]</a></span>
+
+### [Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2223)
+
+<span class="news-item__source">ec.europa.eu</span> The Commission opened DSA proceedings into Booking.com over fake listings, phishing via shared guest data, and paid boosted listings not labelled as ads. <span class="news-item__discussions"><a href="https://www.reddit.com/r/worldnews/comments/1xbt0s8/eu_investigating_bookingcom_over_action_on_fraud/">[discussion on reddit]</a> <a href="https://tweakers.net/nieuws/253612/eu-start-onderzoek-naar-booking-punt-com-om-nepadvertenties-en-phishing.html">[discussion on tweakers]</a></span>
+
+### [Berlin finds CDU, SPD, Greens and Left broke GDPR with Facebook targeting](https://ppc.land/berlin-finds-cdu-spd-greens-and-left-broke-gdpr-with-facebook-targeting/)
+
+<span class="news-item__source">ppc.land</span> Berlin's DPA found CDU, SPD, Greens and Die Linke unlawfully targeted Facebook voters by political interest in 2021, after noyb complaints. No fines were issued.
+
 ## 20 October 2026
 
 ### [Google Earth/Google Maps: No publication of images of private property (LG Frankfurt, 2-03 O 388/25)](https://ordentliche-gerichtsbarkeit.hessen.de/presse/keine-veroeffentlichung-von-bildern-eines-privaten-grundstuecks)
@@ -78,25 +100,3 @@ next = "/page/3/"
 ### [EU’s AI rules face first enforcement test over lab incidents](https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents)
 
 <span class="news-item__source">euronews.com</span> The AI Office sent AI Act information requests to OpenAI and Anthropic over agents that hacked outside firms; lawyers dispute its reach over pre-market testing.
-
-### [EU signs Protocol to strengthen asset recovery and anti-money laundering cooperation](https://home-affairs.ec.europa.eu/news/eu-signs-protocol-strengthen-asset-recovery-and-anti-money-laundering-cooperation-2026-10-14_en)
-
-<span class="news-item__source">home-affairs.ec.europa.eu</span> The EU signed the Council of Europe protocol updating the Warsaw Convention on freezing, confiscation and asset management; conclusion needs Council and Parliament consent.
-
-## 13 October 2026
-
-### [Riigikogu completes first reading of Estonia's Platform Work Act (1003 SE)](https://www.riigikogu.ee/pressiteated/riigikogu-lopetas-nelja-eelnou-esimese-lugemise-2/)
-
-<span class="news-item__source">riigikogu.ee</span> Estonia's Platform Work Act passed first reading; it requires a human to decide account suspensions and bars systems from inferring workers' health, beliefs or union membership.
-
-### [Lithuania Targets Algorithmic Control in Gig Work Rules](https://streamlinefeed.co.ke/news/lithuania-targets-algorithmic-control-in-gig-work-rules)
-
-<span class="news-item__source">streamlinefeed.co.ke</span> Lithuania's Seimas advanced its Platform Work Directive bill 85-0-8, tying worker status to control and requiring human review of account blocks. Committee review follows.
-
-### [Europe’s leaders abandon the race for frontier AI](https://www.politico.eu/article/europe-ai-strategy-frontier-models-us-china/)
-
-<span class="news-item__source">politico.eu</span> EU leaders including von der Leyen are shifting from building frontier AI to promoting adoption; the Commission will hold an Apply AI summit on 16 November. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50092311">[discussion on hn]</a></span>
-
-### [EDPB publishes statement on the data protection challenges of smart glasses](https://www.edpb.europa.eu/news/edpb-publishes-statement-on-the-data-protection-challenges-of-smart-glasses_en)
-
-<span class="news-item__source">edpb.europa.eu</span> The EDPB adopted a statement saying smart-glasses makers cannot shift GDPR duties to users and should make recording obvious to bystanders, e.g. via LEDs or audio cues.
