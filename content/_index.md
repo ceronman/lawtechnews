@@ -8,13 +8,33 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">354 stories on European law, technology regulation and digital rights, latest from 30 October 2026. Every headline links to the original source.</p>
+<p class="news-intro">358 stories on European law, technology regulation and digital rights, latest from 3 November 2026. Every headline links to the original source.</p>
+
+## 3 November 2026
+
+### [Opinion of Advocate General Szpunar in Case C-250/25 Like Company (Google Gemini and press publishers' rights)](https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260155en.pdf)
+
+<span class="news-item__source">curia.europa.eu</span> In the first generative AI case at the CJEU, the AG said Gemini answers may infringe press publishers' rights if they reuse recognisable expression; LLM training is generally TDM-exempt.
+
+## 2 November 2026
+
+### [ΥΠΕΚΑ Ν. Κεραμέως: Θέτουμε κανόνες στη χρήση της τεχνητής νοημοσύνης στην αγορά εργασίας (Greek Platform Work Directive transposition bill)](https://ypergasias.gov.gr/ypeka-n-kerameos-thetoume-kanones-sti-chrisi-tis-technitis-noimosynis-stin-agora-ergasias/)
+
+<span class="news-item__source">ypergasias.gov.gr</span> Labour minister Kerameus presented Greece's Platform Work Directive bill to cabinet, mandating human oversight of algorithmic management and correct classification of platform workers.
+
+### [EU Commission to probe supermarket cyberattacks](https://www.politico.eu/article/european-commission-probe-supermarket-cyberattack-christophe-hansen/)
+
+<span class="news-item__source">politico.eu</span> The Commission's Security College will assess retailers' cyber preparedness after hackers knocked out fridges in supermarkets across at least six EU countries. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50344433">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50341699">[discussion on hn]</a></span>
 
 ## 30 October 2026
 
 ### [Outcomes FATF Plenary, 28-30 October 2026](https://www.fatf-gafi.org/en/publications/Fatfgeneral/outcomes-fatf-plenary-october-2026.html)
 
 <span class="news-item__source">fatf-gafi.org</span> FATF removed Bulgaria, Monaco, Côte d'Ivoire and the DRC from its grey list and launched a targeted review of virtual-asset AML compliance, with results due in 2027.
+
+### [Dh200 million fine: UAE penalises foreign bank branch for violating money laundering laws](https://www.khaleejtimes.com/uae/dh200-million-fine-foreign-bank-branch-money-laundering-laws)
+
+<span class="news-item__source">khaleejtimes.com</span> The UAE central bank fined an unnamed foreign bank branch Dh200m for repeated AML/CFT and sanctions failures, plus personal fines on its CEO and compliance officer.
 
 ## 29 October 2026
 
@@ -85,21 +105,3 @@ next = "/page/2/"
 ### [Meta delays AI business terms amid media sector outcry](https://www.rapporteur.com/news/meta-delays-ai-business-terms-until-20-november/)
 
 <span class="news-item__source">rapporteur.com</span> Meta pushed its new AI business terms for Facebook and Instagram from 30 October to 20 November after publishers objected; the Commission is weighing them under the DMA.
-
-### [Greece passes social media ban for children under 15](https://www.reuters.com/legal/litigation/greece-passes-social-media-ban-children-under-15-2026-10-23/)
-
-<span class="news-item__source">reuters.com</span> Greek MPs banned social media for under-15s from 1 January 2027; platforms have about 2.5 months to build age verification that protects user privacy. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50216105">[discussion on hn]</a> <a href="https://www.reddit.com/r/technology/comments/1xdo5q0/greece_enacts_social_media_ban_for_kids_under_15/">[discussion on reddit]</a> <a href="https://tech.slashdot.org/story/26/10/23/1928227/greece-enacts-social-media-ban-for-kids-under-15">[discussion on slashdot]</a></span>
-
-### [Decreto legislativo 7 ottobre 2026, n. 179 (Italian AI Act adaptation decree)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-10-07;179)
-
-<span class="news-item__source">normattiva.it</span> Italy's AI Act decree took effect, giving ACN and financial regulators sanctioning powers and requiring a human to make final AI-assisted hiring and dismissal decisions.
-
-## 22 October 2026
-
-### [US renews push for EU to soften Big Tech rules](https://www.politico.eu/article/us-renews-push-for-eu-to-soften-big-tech-rules/)
-
-<span class="news-item__source">politico.eu</span> Washington told the Commission it won't cut tariffs on EU steel and other goods unless Brussels eases DMA enforcement; the Commission reports on the deal by year-end. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xe790q/us_renews_pressure_on_eu_ease_big_tech_rules_to/">[discussion on reddit]</a></span>
-
-### [Poland's Sejm adopts Senate amendments to the DSA implementation law, expanding UKE's content-blocking powers](https://www.uke.gov.pl/akt/nowe-zadania-prezesa-uke-w-systemie-nadzoru-nad-dsa,708.html)
-
-<span class="news-item__source">uke.gov.pl</span> The law goes to the president; UKE can order blocking of listed illegal content, keep a domain register ISPs must block within 48 hours, and reverse wrongful takedowns.

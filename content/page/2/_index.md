@@ -9,7 +9,25 @@ prev = "/"
 next = "/page/3/"
 +++
 
+## 23 October 2026
+
+### [Greece passes social media ban for children under 15](https://www.reuters.com/legal/litigation/greece-passes-social-media-ban-children-under-15-2026-10-23/)
+
+<span class="news-item__source">reuters.com</span> Greek MPs banned social media for under-15s from 1 January 2027; platforms have about 2.5 months to build age verification that protects user privacy. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50216105">[discussion on hn]</a> <a href="https://www.reddit.com/r/technology/comments/1xdo5q0/greece_enacts_social_media_ban_for_kids_under_15/">[discussion on reddit]</a> <a href="https://tech.slashdot.org/story/26/10/23/1928227/greece-enacts-social-media-ban-for-kids-under-15">[discussion on slashdot]</a></span>
+
+### [Decreto legislativo 7 ottobre 2026, n. 179 (Italian AI Act adaptation decree)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-10-07;179)
+
+<span class="news-item__source">normattiva.it</span> Italy's AI Act decree took effect, giving ACN and financial regulators sanctioning powers and requiring a human to make final AI-assisted hiring and dismissal decisions.
+
 ## 22 October 2026
+
+### [US renews push for EU to soften Big Tech rules](https://www.politico.eu/article/us-renews-push-for-eu-to-soften-big-tech-rules/)
+
+<span class="news-item__source">politico.eu</span> Washington told the Commission it won't cut tariffs on EU steel and other goods unless Brussels eases DMA enforcement; the Commission reports on the deal by year-end. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xe790q/us_renews_pressure_on_eu_ease_big_tech_rules_to/">[discussion on reddit]</a></span>
+
+### [Poland's Sejm adopts Senate amendments to the DSA implementation law, expanding UKE's content-blocking powers](https://www.uke.gov.pl/akt/nowe-zadania-prezesa-uke-w-systemie-nadzoru-nad-dsa,708.html)
+
+<span class="news-item__source">uke.gov.pl</span> The law goes to the president; UKE can order blocking of listed illegal content, keep a domain register ISPs must block within 48 hours, and reverse wrongful takedowns.
 
 ### [Farewell, France](https://quad9.net/news/blog/au-revoir-france/)
 
@@ -82,21 +100,3 @@ next = "/page/3/"
 ### [EU AI Act: probes could extend time limit for fines](https://www.actuia.com/en/news/eu-ai-act-probes-could-extend-time-limit-for-fines/)
 
 <span class="news-item__source">actuia.com</span> The Commission opened consultation on a draft AI Act implementing regulation letting AI Office investigation steps restart the five-year fining limitation period, capped at ten years.
-
-### [Data Privacy Ranking: Data Privacy in the EU Omnibus Amendments](https://gdpr-omnibus.eu/)
-
-<span class="news-item__source">gdpr-omnibus.eu</span> A new tracker scored MEPs' 1,000+ amendments to the GDPR Digital Omnibus; EPP members rank worst for weakening privacy, the Greens and S&D best. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50119435">[discussion on hn]</a></span>
-
-### [Czech platform work bill (print 301) passes first reading in the Chamber of Deputies](https://www.psp.cz/sqw/historie.sqw?o=10&t=301)
-
-<span class="news-item__source">psp.cz</span> Czech MPs passed the platform work bill at first reading and sent it to committees; it adds a rebuttable employment presumption and algorithm rules from 1 January 2027.
-
-## 15 October 2026
-
-### [The EU is facing Big Tech pressure to revamp its AI law](https://www.politico.eu/article/ai-eu-pressure-law-microsoft-brad-smith-google-deepmind-tech/)
-
-<span class="news-item__source">politico.eu</span> Microsoft and Google executives questioned whether the AI Act is still fit for purpose; Commissioners call it adequate while Hungary flags three gaps.
-
-### [Privacy First calls for a ban on automated risk profiling by banks](https://privacyfirst.nl/en/articles/privacy-first-is-calling-for-a-ban-on-automated-risk-profiling-by-banks/)
-
-<span class="news-item__source">privacyfirst.nl</span> Dutch group Privacy First urged a ban on automated risk profiling in AMLA's draft customer-monitoring guidelines; final guidelines are due in Q4 2026.

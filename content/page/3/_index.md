@@ -9,7 +9,25 @@ prev = "/page/2/"
 next = "/page/4/"
 +++
 
+## 16 October 2026
+
+### [Data Privacy Ranking: Data Privacy in the EU Omnibus Amendments](https://gdpr-omnibus.eu/)
+
+<span class="news-item__source">gdpr-omnibus.eu</span> A new tracker scored MEPs' 1,000+ amendments to the GDPR Digital Omnibus; EPP members rank worst for weakening privacy, the Greens and S&D best. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50119435">[discussion on hn]</a></span>
+
+### [Czech platform work bill (print 301) passes first reading in the Chamber of Deputies](https://www.psp.cz/sqw/historie.sqw?o=10&t=301)
+
+<span class="news-item__source">psp.cz</span> Czech MPs passed the platform work bill at first reading and sent it to committees; it adds a rebuttable employment presumption and algorithm rules from 1 January 2027.
+
 ## 15 October 2026
+
+### [The EU is facing Big Tech pressure to revamp its AI law](https://www.politico.eu/article/ai-eu-pressure-law-microsoft-brad-smith-google-deepmind-tech/)
+
+<span class="news-item__source">politico.eu</span> Microsoft and Google executives questioned whether the AI Act is still fit for purpose; Commissioners call it adequate while Hungary flags three gaps.
+
+### [Privacy First calls for a ban on automated risk profiling by banks](https://privacyfirst.nl/en/articles/privacy-first-is-calling-for-a-ban-on-automated-risk-profiling-by-banks/)
+
+<span class="news-item__source">privacyfirst.nl</span> Dutch group Privacy First urged a ban on automated risk profiling in AMLA's draft customer-monitoring guidelines; final guidelines are due in Q4 2026.
 
 ### [Opinion of Advocate General Biondi in ByteDance v Commission (TikTok DMA gatekeeper designation)](https://curia.europa.eu/site/upload/docs/application/pdf/2026-10/cp260151en.pdf)
 
@@ -80,23 +98,3 @@ next = "/page/4/"
 ### [Advocate General: access of data subjects to data processed by FIUs may be restricted, with safeguards](https://curia.europa.eu/site/upload/docs/application/pdf/2026-10/cp260145en.pdf)
 
 <span class="news-item__source">curia.europa.eu</span> CJEU Advocate General Medina said financial intelligence units fall under the Law Enforcement Directive, and may refuse data-subject access if the restriction is proportionate.
-
-## 8 October 2026
-
-### [The Danish Government's Legislative Programme for the Parliamentary Year 2026/2027 with a focus on employment law](https://www.twobirds.com/en/insights/2026/denmark/regeringens-lovprogram-for-folketingsret-20262027-med-fokus-p-det-ansttelsesretlige-omrde)
-
-<span class="news-item__source">twobirds.com</span> Denmark's government put its Platform Work Act on the 2026/27 legislative programme, with the bill due in February, after the 2 December 2026 transposition deadline.
-
-### [ICO secures changes from leading AI developers as scrutiny extends to AI agents](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/10/ico-secures-changes-from-leading-ai-developers-as-scrutiny-extends-to-ai-agents/)
-
-<span class="news-item__source">ico.org.uk</span> The UK ICO said ten AI developers, including OpenAI and Google, made data protection changes, and opened a call for evidence on agentic AI until 20 November.
-
-## 7 October 2026
-
-### [Provvedimento del 6 agosto 2026 [10302032] - Michael Page International Italia](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10302032)
-
-<span class="news-item__source">garanteprivacy.it</span> Italy's Garante fined Michael Page International Italia €225,000 over keeping former employees' mailboxes active and searching their contents after they left.
-
-### [AMLA consults on draft standards for an EU-wide AML/CFT database](https://www.amla.europa.eu/press-release-amla-consults-draft-standards-eu-wide-amlcft-database_en)
-
-<span class="news-item__source">amla.europa.eu</span> AMLA opened a consultation on draft RTS for the EU-wide AML/CFT supervisory database, with a public hearing on 3 November 2026 and staged entry into force.
