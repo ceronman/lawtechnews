@@ -3,12 +3,18 @@ title = "Law & Tech News"
 
 [extra]
 page_num = 1
-page_count = 18
+page_count = 19
 prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">358 stories on European law, technology regulation and digital rights, latest from 3 November 2026. Every headline links to the original source.</p>
+<p class="news-intro">362 stories on European law, technology regulation and digital rights, latest from 4 November 2026. Every headline links to the original source.</p>
+
+## 4 November 2026
+
+### [Uber Australia Pty Ltd v Chief Commissioner of State Revenue [2026] HCA 40](https://www.hcourt.gov.au/sites/default/files/judgment-summaries/2026-11/hca-40-2026-11-04.pdf)
+
+<span class="news-item__source">hcourt.gov.au</span> Australia's High Court ruled 6–1 that Uber's payments to NSW drivers are wages under payroll-tax contractor provisions, leaving Uber with an A$81m bill for 2015–2020. <span class="news-item__discussions"><a href="https://www.reddit.com/r/australia/comments/1xn9idp/uber_to_pay_81_million_in_payroll_tax_to_nsw_tax/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/auslaw/comments/1xn9vvl/uber_to_py_81_million_in_payroll_tax_to_nsw_tax/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/uberdrivers/comments/1xnbzkp/81m_nsw_payroll_tax_bill_for_uber_after_the_high/">[discussion on reddit]</a></span>
 
 ## 3 November 2026
 
@@ -16,11 +22,19 @@ next = "/page/2/"
 
 <span class="news-item__source">curia.europa.eu</span> In the first generative AI case at the CJEU, the AG said Gemini answers may infringe press publishers' rights if they reuse recognisable expression; LLM training is generally TDM-exempt.
 
+### [Brussels sets slimline legislative agenda for 2027](https://www.politico.eu/article/brussels-sets-slimline-legislative-agenda-for-2027/)
+
+<span class="news-item__source">politico.eu</span> The Commission's leaked 2027 Work Programme withdraws FIDA and the digital-tax proposals, plans a mid-2027 digital package, and reviews political-ad and data retention rules.
+
 ## 2 November 2026
 
 ### [ΥΠΕΚΑ Ν. Κεραμέως: Θέτουμε κανόνες στη χρήση της τεχνητής νοημοσύνης στην αγορά εργασίας (Greek Platform Work Directive transposition bill)](https://ypergasias.gov.gr/ypeka-n-kerameos-thetoume-kanones-sti-chrisi-tis-technitis-noimosynis-stin-agora-ergasias/)
 
 <span class="news-item__source">ypergasias.gov.gr</span> Labour minister Kerameus presented Greece's Platform Work Directive bill to cabinet, mandating human oversight of algorithmic management and correct classification of platform workers.
+
+### [Επιβολή προστίμου σε εταιρεία για παραβίαση των αρχών νομιμότητας επεξεργασίας (Greek DPA fines Teleperformance Greece)](https://www.dpa.gr/el/enimerwtiko/prakseisArxis/epiboli-prostimoy-se-etaireia-gia-parabiasi-ton-arhon-nomimotitas)
+
+<span class="news-item__source">dpa.gr</span> Greece's DPA fined Teleperformance Greece €100,000 for deleting a former employee's data while his legal claims were pending and mishandling his access request.
 
 ### [EU Commission to probe supermarket cyberattacks](https://www.politico.eu/article/european-commission-probe-supermarket-cyberattack-christophe-hansen/)
 
@@ -35,6 +49,10 @@ next = "/page/2/"
 ### [Dh200 million fine: UAE penalises foreign bank branch for violating money laundering laws](https://www.khaleejtimes.com/uae/dh200-million-fine-foreign-bank-branch-money-laundering-laws)
 
 <span class="news-item__source">khaleejtimes.com</span> The UAE central bank fined an unnamed foreign bank branch Dh200m for repeated AML/CFT and sanctions failures, plus personal fines on its CEO and compliance officer.
+
+### [CMA opens investigation into Meta's commercial terms](https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2)
+
+<span class="news-item__source">gov.uk</span> The CMA opened a Competition Act probe into whether Meta abuses dominance by forcing publishers to accept terms letting it reuse their content for AI; Meta has paused the rollout. <span class="news-item__discussions"><a href="https://www.reddit.com/r/prsuk/comments/1xjcjk6/cma_opens_investigation_into_metas_commercial/">[discussion on reddit]</a></span>
 
 ## 29 October 2026
 
@@ -85,23 +103,3 @@ next = "/page/2/"
 ### [AI training platform Outlier illegally surveils European platform workers](https://noyb.eu/en/ai-training-platform-outlier-illegally-surveils-european-platform-workers)
 
 <span class="news-item__source">noyb.eu</span> noyb filed 5 GDPR complaints in France, Italy, the Netherlands and Austria over Outlier's trackers and forced biometric checks on its 900,000 AI-training gig workers. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50281071">[discussion on hn]</a></span>
-
-## 26 October 2026
-
-### [Commission brings banks and online platforms together in the fight against online scams](https://digital-strategy.ec.europa.eu/en/news/commission-brings-banks-and-online-platforms-together-fight-against-online-scams)
-
-<span class="news-item__source">digital-strategy.ec.europa.eu</span> The Commission is consulting banks, trusted flaggers and platforms on a voluntary DSA anti-scam code covering advertiser verification and bank–platform signal sharing.
-
-### [Commission accepts Temu's action plan to remedy the breach of the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-action-plan-remedy-breach-digital-services-act)
-
-<span class="news-item__source">digital-strategy.ec.europa.eu</span> After its €200m DSA fine, Temu committed to five measures, including a recommender-system review, and must file an interim risk assessment within four months. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50256431">[discussion on hn]</a> <a href="https://www.reddit.com/r/EU_Economics/comments/1xgkr80/temu_falls_into_line_as_eu_backs_its_action_plan/">[discussion on reddit]</a></span>
-
-## 23 October 2026
-
-### [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update)
-
-<span class="news-item__source">theverge.com</span> Since 16 October Google's privacy policy lets it target ads using Gmail, Drive and Photos data that users connect to AI Mode via Personal Intelligence. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50214218">[discussion on hn]</a> <a href="https://www.reddit.com/r/technology/comments/1xdpddf/google_quietly_changes_privacy_policy_so_your/">[discussion on reddit]</a></span>
-
-### [Meta delays AI business terms amid media sector outcry](https://www.rapporteur.com/news/meta-delays-ai-business-terms-until-20-november/)
-
-<span class="news-item__source">rapporteur.com</span> Meta pushed its new AI business terms for Facebook and Instagram from 30 October to 20 November after publishers objected; the Commission is weighing them under the DMA.
