@@ -9,6 +9,28 @@ prev = "/page/3/"
 next = "/page/5/"
 +++
 
+## 13 October 2026
+
+### [Lithuania Targets Algorithmic Control in Gig Work Rules](https://streamlinefeed.co.ke/news/lithuania-targets-algorithmic-control-in-gig-work-rules)
+
+<span class="news-item__source">streamlinefeed.co.ke</span> Lithuania's Seimas advanced its Platform Work Directive bill 85-0-8, tying worker status to control and requiring human review of account blocks. Committee review follows.
+
+### [Europe’s leaders abandon the race for frontier AI](https://www.politico.eu/article/europe-ai-strategy-frontier-models-us-china/)
+
+<span class="news-item__source">politico.eu</span> EU leaders including von der Leyen are shifting from building frontier AI to promoting adoption; the Commission will hold an Apply AI summit on 16 November. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50092311">[discussion on hn]</a></span>
+
+### [EDPB publishes statement on the data protection challenges of smart glasses](https://www.edpb.europa.eu/news/edpb-publishes-statement-on-the-data-protection-challenges-of-smart-glasses_en)
+
+<span class="news-item__source">edpb.europa.eu</span> The EDPB adopted a statement saying smart-glasses makers cannot shift GDPR duties to users and should make recording obvious to bystanders, e.g. via LEDs or audio cues.
+
+### [Delivery workers demand stronger protections as Greece prepares to adopt EU platform work directive](https://thepressproject.gr/delivery-workers-demand-stronger-protections-as-greece-prepares-to-adopt-eu-platform-work-directive/)
+
+<span class="news-item__source">thepressproject.gr</span> Fourteen Greek delivery-worker unions urged the Labour Ministry to add employment-status criteria and algorithm transparency in its Platform Work Directive transposition.
+
+### [Bank of America fined $1.2 billion by US government for failing to police suspicious activity](https://www.reuters.com/legal/legalindustry/bofa-fined-12-billion-by-us-government-failing-police-suspicious-activity-2026-10-13/)
+
+<span class="news-item__source">reuters.com</span> Treasury and the OCC fined Bank of America $1.21bn for failing to report over $5bn in suspicious activity, including a record $750m OCC penalty. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50080613">[discussion on hn]</a></span>
+
 ## 12 October 2026
 
 ### [Parliament to vote this month on social media ban for under-15s](https://www.ekathimerini.com/in-depth/society-in-depth/1317908/parliament-to-vote-this-month-on-social-media-ban-for-under-15s/)
@@ -80,25 +102,3 @@ next = "/page/5/"
 ### [Ahead of reform: Platform delivery riders denounce opaque system and growing precariousness](https://today.rtl.lu/news/luxembourg/platform-delivery-riders-denounce-opaque-system-and-growing-precariousness-32035163)
 
 <span class="news-item__source">today.rtl.lu</span> Luxembourg's riders' union published a 30-page report urging a Platform Work Directive transposition that also covers algorithmic pricing, penalties and deactivations.
-
-### [119 MEPs Press Commission to Enforce EU Ban on AI 'Nudifier' Systems from First Day](https://eutoday.net/meps-eu-ai-nudifier-ban-enforcement/)
-
-<span class="news-item__source">eutoday.net</span> 119 MEPs asked the Commission and member states to designate enforcers before the AI Act nudifier ban applies on 2 December 2026, and to use the DSA harder.
-
-## 1 October 2026
-
-### [Press Release: AMLA finalises key standards for the private sector](https://www.amla.europa.eu/press-release-amla-finalises-key-standards-private-sector_en)
-
-<span class="news-item__source">amla.europa.eu</span> AMLA finalised three AMLR standards on customer due diligence, linked transactions and group-wide controls; they apply six months after Commission adoption.
-
-### [Opinion of Advocate General Medina in Case C-12/25 (right to erasure and baptismal registers)](https://curia.europa.eu/site/upload/docs/application/pdf/2026-10/cp260139en.pdf)
-
-<span class="news-item__source">curia.europa.eu</span> Advocate General Medina advised the CJEU that GDPR erasure can in principle apply to baptismal registers, unless the diocese shows overriding legitimate grounds.
-
-### [Lyft agrees to pay California $272.5m in largest-ever wage theft settlement](https://www.theguardian.com/technology/2026/oct/01/lyft-largest-ever-wage-theft-settlement)
-
-<span class="news-item__source">theguardian.com</span> Lyft settled California's misclassification claims for $272.5m, with over $237m going to drivers treated as contractors between 2016 and 2020, subject to court approval.
-
-### [Italy switches on real-time facial recognition as EU calculates risk to basic rights](https://www.biometricupdate.com/202610/italy-switches-on-real-time-facial-recognition-as-eu-calculates-risk-to-basic-rights)
-
-<span class="news-item__source">biometricupdate.com</span> Italy's decree implementing the AI Act took effect, limiting police real-time facial recognition to specific threats and missing persons; the FRA published a critical report.

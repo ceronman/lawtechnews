@@ -9,6 +9,30 @@ prev = "/"
 next = "/page/3/"
 +++
 
+## 28 October 2026
+
+### [Comunicato stampa del Consiglio dei Ministri n. 195 (Platform Work Directive transposition decree)](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973)
+
+<span class="news-item__source">governo.it</span> Italy's cabinet gave final approval to its Platform Work Directive decree, presuming employment, barring algorithm-only dismissals and excluding marketplaces and booking sites.
+
+## 27 October 2026
+
+### [French government mulled blocking social networks and mobile internet amid protests](https://www.politico.eu/article/french-government-mulled-blocking-social-network-amid-protests/)
+
+<span class="news-item__source">politico.eu</span> PM Lecornu asked telecom operators to be ready to block TikTok, Instagram, Snapchat and X during the 24 October protests; a pending riot bill adds 1-hour takedowns. <span class="news-item__discussions"><a href="https://www.reddit.com/r/france/comments/1xefu3a/information_exclusive_blast_le_premier_ministre_a/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/france/comments/1xguc2v/nous_y_sommes_lautoritarisme/">[discussion on reddit]</a></span>
+
+### [Commission proposes to reinforce Frontex: stronger border protection, a greater role on returns and more effective crisis response](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2260)
+
+<span class="news-item__source">ec.europa.eu</span> The Commission proposed a Frontex centre to monitor public social media and DSA trusted-flagger status to report illegal content, alongside a 30,000-officer corps. <span class="news-item__discussions"><a href="https://www.reddit.com/r/worldnews/comments/1xgtmvn/eu_proposes_sweeping_new_powers_for_border_agency/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/de/comments/1xhlljb/eukommission_frontex_soll_zur_abschiebeagentur/">[discussion on reddit]</a></span>
+
+### [CCOO acuerda mejoras laborales para más de 8.000 personas repartidoras con Uber Eats](https://www.ccoo.es/noticia:771055--CCOO_acuerda_mejoras_laborales_para_mas_de_8_000_personas_repartidoras_con_Uber_Eats)
+
+<span class="news-item__source">ccoo.es</span> Uber Eats agreed with CCOO and UGT to move its last 4,286 self-employed riders onto Quinde Crew payrolls by 30 November, with a joint committee on algorithmic management.
+
+### [AI training platform Outlier illegally surveils European platform workers](https://noyb.eu/en/ai-training-platform-outlier-illegally-surveils-european-platform-workers)
+
+<span class="news-item__source">noyb.eu</span> noyb filed 5 GDPR complaints in France, Italy, the Netherlands and Austria over Outlier's trackers and forced biometric checks on its 900,000 AI-training gig workers. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50281071">[discussion on hn]</a></span>
+
 ## 26 October 2026
 
 ### [Commission brings banks and online platforms together in the fight against online scams](https://digital-strategy.ec.europa.eu/en/news/commission-brings-banks-and-online-platforms-together-fight-against-online-scams)
@@ -76,25 +100,3 @@ next = "/page/3/"
 ### [Digital rulebook: Council agrees position to simplify data protection, privacy and cyber reporting rules](https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/digital-rulebook-council-agrees-position-to-simplify-data-protection-privacy-and-cyber-reporting-rules/)
 
 <span class="news-item__source">consilium.europa.eu</span> EU states keep the personal-data definition but add pseudonymisation rules, an AI sensitive-data derogation and longer breach-notification deadlines. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50218050">[discussion on hn]</a></span>
-
-### [Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2223)
-
-<span class="news-item__source">ec.europa.eu</span> The Commission opened DSA proceedings into Booking.com over fake listings, phishing via shared guest data, and paid boosted listings not labelled as ads. <span class="news-item__discussions"><a href="https://www.reddit.com/r/worldnews/comments/1xbt0s8/eu_investigating_bookingcom_over_action_on_fraud/">[discussion on reddit]</a> <a href="https://tweakers.net/nieuws/253612/eu-start-onderzoek-naar-booking-punt-com-om-nepadvertenties-en-phishing.html">[discussion on tweakers]</a></span>
-
-### [Berlin finds CDU, SPD, Greens and Left broke GDPR with Facebook targeting](https://ppc.land/berlin-finds-cdu-spd-greens-and-left-broke-gdpr-with-facebook-targeting/)
-
-<span class="news-item__source">ppc.land</span> Berlin's DPA found CDU, SPD, Greens and Die Linke unlawfully targeted Facebook voters by political interest in 2021, after noyb complaints. No fines were issued.
-
-## 20 October 2026
-
-### [Google Earth/Google Maps: No publication of images of private property (LG Frankfurt, 2-03 O 388/25)](https://ordentliche-gerichtsbarkeit.hessen.de/presse/keine-veroeffentlichung-von-bildern-eines-privaten-grundstuecks)
-
-<span class="news-item__source">ordentliche-gerichtsbarkeit.hessen.de</span> The Frankfurt Regional Court barred Google from showing 3D aerial images of a private property on Earth and Maps over the owner's objection; Google will appeal. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50216142">[discussion on hn]</a> <a href="https://www.reddit.com/r/privacy/comments/1xbok66/google_needs_consent_to_publish_private_property/">[discussion on reddit]</a></span>
-
-### [EU Cyber Resilience Act: Germany adopts CRA Implementation Act as national enforcement regimes take shape across the EU](https://www.hlc.com/en/publications/eu-cyber-resilience-act-germany-adopts-cra-implementation-act-as-national-enforcement-regimes)
-
-<span class="news-item__source">hlc.com</span> Germany adopted its Cyber Resilience Act Implementation Act, designating the national market surveillance, notifying and CSIRT authorities for CRA enforcement.
-
-### [Clearview AI faces Court of Appeal test of 7.5m pound UK fine](https://ppc.land/clearview-ai-faces-court-of-appeal-test-of-7-5m-pound-uk-fine/)
-
-<span class="news-item__source">ppc.land</span> Clearview AI began a three-day Court of Appeal hearing on whether the ICO could fine it over UK GDPR monitoring of UK residents for foreign police clients.

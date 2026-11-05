@@ -8,7 +8,17 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">362 stories on European law, technology regulation and digital rights, latest from 4 November 2026. Every headline links to the original source.</p>
+<p class="news-intro">367 stories on European law, technology regulation and digital rights, latest from 5 November 2026. Every headline links to the original source.</p>
+
+## 5 November 2026
+
+### [Tinder owners say they will appeal €11m fine imposed by Irish data watchdog](https://www.independent.ie/business/irish-business/tinder-owners-say-they-will-appeal-11m-fine-imposed-by-irish-data-watchdog/a/164062273.html)
+
+<span class="news-item__source">independent.ie</span> Ireland's DPC fined Match Group €11m for GDPR breaches tied to Tinder's safety and privacy practices; Match says it will appeal.
+
+### [Judgment of the Court in Case C-205/25 Bayerisches Landesamt für Datenschutzaufsicht (complainants' right of access to DPA files)](https://curia.europa.eu/juris/liste.jsf?num=C-205/25&language=en)
+
+<span class="news-item__source">curia.europa.eu</span> The CJEU held that a DPA handling a GDPR complaint is a controller and must give the complainant Article 15 access to their data; national laws barring this are precluded.
 
 ## 4 November 2026
 
@@ -16,7 +26,15 @@ next = "/page/2/"
 
 <span class="news-item__source">hcourt.gov.au</span> Australia's High Court ruled 6–1 that Uber's payments to NSW drivers are wages under payroll-tax contractor provisions, leaving Uber with an A$81m bill for 2015–2020. <span class="news-item__discussions"><a href="https://www.reddit.com/r/australia/comments/1xn9idp/uber_to_pay_81_million_in_payroll_tax_to_nsw_tax/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/auslaw/comments/1xn9vvl/uber_to_py_81_million_in_payroll_tax_to_nsw_tax/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/uberdrivers/comments/1xnbzkp/81m_nsw_payroll_tax_bill_for_uber_after_the_high/">[discussion on reddit]</a></span>
 
+### [Independent data protection oversight and effective access to justice essential to protecting privacy rights: UN experts](https://www.ohchr.org/en/press-releases/2026/11/independent-data-protection-oversight-and-effective-access-justice-essential)
+
+<span class="news-item__source">ohchr.org</span> Two UN Special Rapporteurs pressed Ireland on the DPC's independence, urging rigorous appointment and conflict checks and looser litigation-funding limits for collective GDPR actions.
+
 ## 3 November 2026
+
+### [Rapport de la mission sur la transposition de la directive Plateformes](https://travail-emploi.gouv.fr/rapport-de-la-mission-sur-la-transposition-de-la-directive-plateformes)
+
+<span class="news-item__source">travail-emploi.gouv.fr</span> France's transposition mission made 30 recommendations: no automatic employment presumption but a burden-of-proof shift, a legal minimum pay for mobility workers and a new platform regulator.
 
 ### [Opinion of Advocate General Szpunar in Case C-250/25 Like Company (Google Gemini and press publishers' rights)](https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260155en.pdf)
 
@@ -25,6 +43,10 @@ next = "/page/2/"
 ### [Brussels sets slimline legislative agenda for 2027](https://www.politico.eu/article/brussels-sets-slimline-legislative-agenda-for-2027/)
 
 <span class="news-item__source">politico.eu</span> The Commission's leaked 2027 Work Programme withdraws FIDA and the digital-tax proposals, plans a mid-2027 digital package, and reviews political-ad and data retention rules.
+
+### [Block lifts profit outlook on Cash App strength, reaches preliminary DOJ settlement](https://www.reuters.com/business/block-lifts-profit-outlook-cash-app-strength-reaches-preliminary-doj-settlement-2026-11-03/)
+
+<span class="news-item__source">reuters.com</span> Block agreed in principle to a three-year DOJ deferred prosecution over Cash App's Bank Secrecy Act AML failures, with a net payment of about $764m pending court approval.
 
 ## 2 November 2026
 
@@ -81,25 +103,3 @@ next = "/page/2/"
 ### [Plattformarbeit: Arbeitsgericht soll künftig über Status von Lieferfahrern entscheiden](https://www.tageblatt.lu/Luxemburg/Plattformarbeit-Arbeitsgericht-soll-kuenftig-ueber-Status-von-Lieferfahrern-entscheiden-114063.html)
 
 <span class="news-item__source">tageblatt.lu</span> Labour minister Marc Spautz said Luxembourg's Platform Work Directive bill, due by early December, will move worker-status disputes from administrative to labour courts.
-
-### [Comunicato stampa del Consiglio dei Ministri n. 195 (Platform Work Directive transposition decree)](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973)
-
-<span class="news-item__source">governo.it</span> Italy's cabinet gave final approval to its Platform Work Directive decree, presuming employment, barring algorithm-only dismissals and excluding marketplaces and booking sites.
-
-## 27 October 2026
-
-### [French government mulled blocking social networks and mobile internet amid protests](https://www.politico.eu/article/french-government-mulled-blocking-social-network-amid-protests/)
-
-<span class="news-item__source">politico.eu</span> PM Lecornu asked telecom operators to be ready to block TikTok, Instagram, Snapchat and X during the 24 October protests; a pending riot bill adds 1-hour takedowns. <span class="news-item__discussions"><a href="https://www.reddit.com/r/france/comments/1xefu3a/information_exclusive_blast_le_premier_ministre_a/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/france/comments/1xguc2v/nous_y_sommes_lautoritarisme/">[discussion on reddit]</a></span>
-
-### [Commission proposes to reinforce Frontex: stronger border protection, a greater role on returns and more effective crisis response](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2260)
-
-<span class="news-item__source">ec.europa.eu</span> The Commission proposed a Frontex centre to monitor public social media and DSA trusted-flagger status to report illegal content, alongside a 30,000-officer corps. <span class="news-item__discussions"><a href="https://www.reddit.com/r/worldnews/comments/1xgtmvn/eu_proposes_sweeping_new_powers_for_border_agency/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/de/comments/1xhlljb/eukommission_frontex_soll_zur_abschiebeagentur/">[discussion on reddit]</a></span>
-
-### [CCOO acuerda mejoras laborales para más de 8.000 personas repartidoras con Uber Eats](https://www.ccoo.es/noticia:771055--CCOO_acuerda_mejoras_laborales_para_mas_de_8_000_personas_repartidoras_con_Uber_Eats)
-
-<span class="news-item__source">ccoo.es</span> Uber Eats agreed with CCOO and UGT to move its last 4,286 self-employed riders onto Quinde Crew payrolls by 30 November, with a joint committee on algorithmic management.
-
-### [AI training platform Outlier illegally surveils European platform workers](https://noyb.eu/en/ai-training-platform-outlier-illegally-surveils-european-platform-workers)
-
-<span class="news-item__source">noyb.eu</span> noyb filed 5 GDPR complaints in France, Italy, the Netherlands and Austria over Outlier's trackers and forced biometric checks on its 900,000 AI-training gig workers. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50281071">[discussion on hn]</a></span>
