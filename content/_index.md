@@ -8,7 +8,7 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">367 stories on European law, technology regulation and digital rights, latest from 5 November 2026. Every headline links to the original source.</p>
+<p class="news-intro">372 stories on European law, technology regulation and digital rights, latest from 5 November 2026. Every headline links to the original source.</p>
 
 ## 5 November 2026
 
@@ -20,6 +20,18 @@ next = "/page/2/"
 
 <span class="news-item__source">curia.europa.eu</span> The CJEU held that a DPA handling a GDPR complaint is a controller and must give the complainant Article 15 access to their data; national laws barring this are precluded.
 
+### [Government submits proposal for Platform Work Act](https://valtioneuvosto.fi/en/-/1410877/government-submits-proposal-for-platform-work-act)
+
+<span class="news-item__source">valtioneuvosto.fi</span> Finland's government sent Parliament its Platform Work Act, introducing a legal presumption of employment and more transparency on how algorithms organise platform work.
+
+### [France, US clash over G7 effort on AI safety](https://www.politico.eu/article/france-us-clash-ai-safety-talks-a-g7/)
+
+<span class="news-item__source">politico.eu</span> The US blocked a French push for a G7 group to test frontier AI and share incident data, calling it unnecessary bureaucracy; France plans to resume talks in December. <span class="news-item__discussions"><a href="https://www.reddit.com/r/EUnews/comments/1xop6w3/france_us_clash_over_g7_effort_on_ai_safety/">[discussion on reddit]</a></span>
+
+### [FINRA Fines Webull $4.2 Million for Anti-Money Laundering and Best Execution Violations](https://www.finra.org/media-center/newsreleases/2026/finra-fines-webull-42-million-anti-money-laundering-and-best)
+
+<span class="news-item__source">finra.org</span> Webull opened 120,000+ accounts without reasonable ID checks, some backed by landscape photos instead of IDs, and missed suspicious transfers; it must certify AML remediation.
+
 ## 4 November 2026
 
 ### [Uber Australia Pty Ltd v Chief Commissioner of State Revenue [2026] HCA 40](https://www.hcourt.gov.au/sites/default/files/judgment-summaries/2026-11/hca-40-2026-11-04.pdf)
@@ -30,6 +42,10 @@ next = "/page/2/"
 
 <span class="news-item__source">ohchr.org</span> Two UN Special Rapporteurs pressed Ireland on the DPC's independence, urging rigorous appointment and conflict checks and looser litigation-funding limits for collective GDPR actions.
 
+### [Commission seeks feedback on advertising repositories under the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-seeks-feedback-advertising-repositories-under-digital-services-act)
+
+<span class="news-item__source">digital-strategy.ec.europa.eu</span> The Commission opened a call for evidence on technical guidelines for VLOP and VLOSE ad repositories under the DSA, open until 2 December 2026.
+
 ## 3 November 2026
 
 ### [Rapport de la mission sur la transposition de la directive Plateformes](https://travail-emploi.gouv.fr/rapport-de-la-mission-sur-la-transposition-de-la-directive-plateformes)
@@ -39,6 +55,10 @@ next = "/page/2/"
 ### [Opinion of Advocate General Szpunar in Case C-250/25 Like Company (Google Gemini and press publishers' rights)](https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260155en.pdf)
 
 <span class="news-item__source">curia.europa.eu</span> In the first generative AI case at the CJEU, the AG said Gemini answers may infringe press publishers' rights if they reuse recognisable expression; LLM training is generally TDM-exempt.
+
+### [La CNMC inicia un expediente sancionador contra Apple y Amazon](https://www.cnmc.es/prensa/sancionador-apple-amazon-20261103)
+
+<span class="news-item__source">cnmc.es</span> Spain's CNMC opened sanctioning proceedings against Apple and Amazon for keeping until May 2025 the brand-gating clauses it fined €194m in 2023; it has three months to rule.
 
 ### [Brussels sets slimline legislative agenda for 2027](https://www.politico.eu/article/brussels-sets-slimline-legislative-agenda-for-2027/)
 
@@ -81,25 +101,3 @@ next = "/page/2/"
 ### [EU tells capitals to halt their national social media bans for a year](https://www.politico.eu/article/eu-tells-capitals-to-halt-their-national-social-media-bans-for-a-year/)
 
 <span class="news-item__source">politico.eu</span> The Commission imposed a 12-month standstill on national social media bans for minors that overlap the Kids Act, starting with Austria's under-14 ban. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xla1jp/eu_tells_capitals_to_halt_their_national_social/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/europe/comments/1xiteys/brussels_tells_capitals_to_wait_for_euwide_social/">[discussion on reddit]</a></span>
-
-### [Cookies et application mobile : sanctions de 7 millions d'euros à l'encontre des sociétés FNAC DARTY PARTICIPATIONS ET SERVICES et FNAC DIRECT](https://www.cnil.fr/fr/sanction-cookies-app-fnac)
-
-<span class="news-item__source">cnil.fr</span> The CNIL fined Fnac Darty €7m for an app tracker feeding browsing history to its recommendation algorithm without consent, with a €10,000 daily penalty if not fixed in a month. <span class="news-item__discussions"><a href="https://www.reddit.com/r/france/comments/1xii2ep/continuer_sans_accepter_fnac_darty_vous_tra%C3%A7ait/">[discussion on reddit]</a></span>
-
-### [Amazon, Uber, Instacart sue to block NYC law over delivery worker deactivation](https://www.reuters.com/legal/litigation/amazon-uber-instacart-sue-block-nyc-law-over-delivery-worker-deactivation-2026-10-29/)
-
-<span class="news-item__source">reuters.com</span> The three apps sued in Manhattan federal court to block a NYC law, effective January, requiring just cause and notice before deactivating delivery workers.
-
-## 28 October 2026
-
-### [The Star ordered to pay $260 million for serious AML/CTF breaches](https://www.austrac.gov.au/news-and-media/media-release/star-ordered-pay-260-million-serious-amlctf-breaches)
-
-<span class="news-item__source">austrac.gov.au</span> Australia's Federal Court fined The Star A$260m for AML/CTF failures that let over 1,200 high-risk customers gamble through high-risk channels without source-of-funds checks. <span class="news-item__discussions"><a href="https://www.reddit.com/r/australia/comments/1xh8s6e/star_casino_fined_260_million_for_historical/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/auslaw/comments/1xhb9vg/star_casino_fined_260m_for_money_laundering/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/brisbane/comments/1xh98yt/star_casino_fined_260_million_for_historical/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/aussie/comments/1xh8sxo/star_casino_fined_260m_for_money_laundering/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/ASX_Bets/comments/1xha6do/star_group_liquidation_star_casino_fined_260/">[discussion on reddit]</a></span>
-
-### [Portugal to reform labour laws](https://www.theportugalnews.com/news/2026-10-28/portugal-to-reform-labour-laws/1107935)
-
-<span class="news-item__source">theportugalnews.com</span> Labour minister Palma Ramalho told parliament Portugal will transpose the Platform Work Directive and pay-transparency rules, but conceded wider labour reform may slip.
-
-### [Plattformarbeit: Arbeitsgericht soll künftig über Status von Lieferfahrern entscheiden](https://www.tageblatt.lu/Luxemburg/Plattformarbeit-Arbeitsgericht-soll-kuenftig-ueber-Status-von-Lieferfahrern-entscheiden-114063.html)
-
-<span class="news-item__source">tageblatt.lu</span> Labour minister Marc Spautz said Luxembourg's Platform Work Directive bill, due by early December, will move worker-status disputes from administrative to labour courts.
