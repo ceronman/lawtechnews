@@ -9,6 +9,30 @@ prev = "/page/3/"
 next = "/page/5/"
 +++
 
+## 16 October 2026
+
+### [Czech platform work bill (print 301) passes first reading in the Chamber of Deputies](https://www.psp.cz/sqw/historie.sqw?o=10&t=301)
+
+<span class="news-item__source">psp.cz</span> Czech MPs passed the platform work bill at first reading and sent it to committees; it adds a rebuttable employment presumption and algorithm rules from 1 January 2027.
+
+## 15 October 2026
+
+### [The EU is facing Big Tech pressure to revamp its AI law](https://www.politico.eu/article/ai-eu-pressure-law-microsoft-brad-smith-google-deepmind-tech/)
+
+<span class="news-item__source">politico.eu</span> Microsoft and Google executives questioned whether the AI Act is still fit for purpose; Commissioners call it adequate while Hungary flags three gaps.
+
+### [Privacy First calls for a ban on automated risk profiling by banks](https://privacyfirst.nl/en/articles/privacy-first-is-calling-for-a-ban-on-automated-risk-profiling-by-banks/)
+
+<span class="news-item__source">privacyfirst.nl</span> Dutch group Privacy First urged a ban on automated risk profiling in AMLA's draft customer-monitoring guidelines; final guidelines are due in Q4 2026.
+
+### [Opinion of Advocate General Biondi in ByteDance v Commission (TikTok DMA gatekeeper designation)](https://curia.europa.eu/site/upload/docs/application/pdf/2026-10/cp260151en.pdf)
+
+<span class="news-item__source">curia.europa.eu</span> Advocate General Biondi advised the CJEU to dismiss ByteDance's appeal against TikTok's DMA gatekeeper designation, in the first DMA case to reach the Court of Justice.
+
+### [Eurobarometer survey highlights growing use of AI in European companies](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2160)
+
+<span class="news-item__source">ec.europa.eu</span> A Commission survey of 12,826 SMEs found 42% use AI or algorithmic management, mostly experimentally; the upcoming Quality Jobs Act will regulate algorithmic management.
+
 ## 14 October 2026
 
 ### [Judgment of the General Court in Case T-134/24 Technius v Commission (Stripchat DSA designation)](https://curia.europa.eu/site/upload/docs/application/pdf/2026-10/cp260146en.pdf)
@@ -76,29 +100,3 @@ next = "/page/5/"
 ### [The Danish Government's Legislative Programme for the Parliamentary Year 2026/2027 with a focus on employment law](https://www.twobirds.com/en/insights/2026/denmark/regeringens-lovprogram-for-folketingsret-20262027-med-fokus-p-det-ansttelsesretlige-omrde)
 
 <span class="news-item__source">twobirds.com</span> Denmark's government put its Platform Work Act on the 2026/27 legislative programme, with the bill due in February, after the 2 December 2026 transposition deadline.
-
-### [ICO secures changes from leading AI developers as scrutiny extends to AI agents](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/10/ico-secures-changes-from-leading-ai-developers-as-scrutiny-extends-to-ai-agents/)
-
-<span class="news-item__source">ico.org.uk</span> The UK ICO said ten AI developers, including OpenAI and Google, made data protection changes, and opened a call for evidence on agentic AI until 20 November.
-
-## 7 October 2026
-
-### [Provvedimento del 6 agosto 2026 [10302032] - Michael Page International Italia](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10302032)
-
-<span class="news-item__source">garanteprivacy.it</span> Italy's Garante fined Michael Page International Italia €225,000 over keeping former employees' mailboxes active and searching their contents after they left.
-
-### [AMLA consults on draft standards for an EU-wide AML/CFT database](https://www.amla.europa.eu/press-release-amla-consults-draft-standards-eu-wide-amlcft-database_en)
-
-<span class="news-item__source">amla.europa.eu</span> AMLA opened a consultation on draft RTS for the EU-wide AML/CFT supervisory database, with a public hearing on 3 November 2026 and staged entry into force.
-
-## 6 October 2026
-
-### [Greece: Labour Ministry receives report on transposing the Platform Work Directive](https://www.bankingnews.gr/politiki/articles/903578/kerameus-new-bill-sets-limits-on-artificial-intelligence-in-human-resources-management)
-
-<span class="news-item__source">bankingnews.gr</span> Greece's Labour Ministry received its committee's report transposing the Platform Work Directive, banning algorithmic processing of workers' biometric and emotional data.
-
-## 5 October 2026
-
-### [OpenAI is adding text watermarking in ChatGPT and Codex](https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act)
-
-<span class="news-item__source">theverge.com</span> OpenAI is rolling out invisible textGrain watermarks in ChatGPT and Codex for EU users to meet AI Act transparency rules, with opt-in for API customers worldwide. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=49980602">[discussion on hn]</a></span>

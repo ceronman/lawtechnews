@@ -9,7 +9,33 @@ prev = "/page/4/"
 next = "/page/6/"
 +++
 
+## 8 October 2026
+
+### [ICO secures changes from leading AI developers as scrutiny extends to AI agents](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/10/ico-secures-changes-from-leading-ai-developers-as-scrutiny-extends-to-ai-agents/)
+
+<span class="news-item__source">ico.org.uk</span> The UK ICO said ten AI developers, including OpenAI and Google, made data protection changes, and opened a call for evidence on agentic AI until 20 November.
+
+## 7 October 2026
+
+### [Provvedimento del 6 agosto 2026 [10302032] - Michael Page International Italia](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10302032)
+
+<span class="news-item__source">garanteprivacy.it</span> Italy's Garante fined Michael Page International Italia €225,000 over keeping former employees' mailboxes active and searching their contents after they left.
+
+### [AMLA consults on draft standards for an EU-wide AML/CFT database](https://www.amla.europa.eu/press-release-amla-consults-draft-standards-eu-wide-amlcft-database_en)
+
+<span class="news-item__source">amla.europa.eu</span> AMLA opened a consultation on draft RTS for the EU-wide AML/CFT supervisory database, with a public hearing on 3 November 2026 and staged entry into force.
+
+## 6 October 2026
+
+### [Greece: Labour Ministry receives report on transposing the Platform Work Directive](https://www.bankingnews.gr/politiki/articles/903578/kerameus-new-bill-sets-limits-on-artificial-intelligence-in-human-resources-management)
+
+<span class="news-item__source">bankingnews.gr</span> Greece's Labour Ministry received its committee's report transposing the Platform Work Directive, banning algorithmic processing of workers' biometric and emotional data.
+
 ## 5 October 2026
+
+### [OpenAI is adding text watermarking in ChatGPT and Codex](https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act)
+
+<span class="news-item__source">theverge.com</span> OpenAI is rolling out invisible textGrain watermarks in ChatGPT and Codex for EU users to meet AI Act transparency rules, with opt-in for API customers worldwide. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=49980602">[discussion on hn]</a></span>
 
 ### [Omfattende uautoriseret adgang til borgeres CPR-oplysninger](https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger)
 
@@ -76,25 +102,3 @@ next = "/page/6/"
 ### [Google asks EU court to suspend order to share search data with AI rivals](https://finance.yahoo.com/technology/ai/articles/google-asks-eu-court-suspend-175843460.html)
 
 <span class="news-item__source">finance.yahoo.com</span> Google asked the EU General Court to suspend the Commission's order to share search data with rival engines and AI chatbots, citing privacy harm, and sued to annul it. <span class="news-item__discussions"><a href="https://www.reddit.com/r/Android/comments/1wt3dzu/google_is_going_to_court_to_stop_the_eu_opening/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/europeanunion/comments/1wthfw3/google_appeals_eu_requests_on_android_ai_access/">[discussion on reddit]</a></span>
-
-## 28 September 2026
-
-### [Factsheet - How the DMA ensures businesses using Booking.com are free to set their prices on and off Booking.com](https://digital-markets-act.ec.europa.eu/factsheet-how-dma-ensures-businesses-using-bookingcom-are-free-set-their-prices-and-bookingcom-2026-09-28_en)
-
-<span class="news-item__source">digital-markets-act.ec.europa.eu</span> The Commission said Booking.com dropped external-price checks from its Sponsored Benefit programme EEA-wide, its latest step complying with the DMA's parity ban.
-
-### [EXCLUSIVE: How ECB's Lagarde helped talk Greece out of licensing Binance](https://www.amlintelligence.com/2026/09/insight-how-ecbs-lagarde-helped-talk-greece-out-of-licensing-binance/)
-
-<span class="news-item__source">amlintelligence.com</span> Christine Lagarde privately warned Greek officials in May against licensing Binance, and the exchange withdrew both its MiCA and stablecoin applications by late June.
-
-### [Decent Work in the Platform Economy Convention No.193 at a glance](https://www.ilo.org/publications/decent-work-platform-economy-convention-no193-glance)
-
-<span class="news-item__source">ilo.org</span> The ILO published a factsheet on Convention No. 193, the first binding global labour standard for platform workers, adopted in June 2026 and now moving to national implementation.
-
-### [Chat control: EU states want to legalize comprehensive mass scans indirectly](https://www.heise.de/en/news/Chat-control-EU-states-want-to-legalize-comprehensive-mass-scans-indirectly-11468680.html)
-
-<span class="news-item__source">heise.de</span> Leaked Council papers show EU states pushing 'search plans' letting authorities order temporary blanket message scanning; the Irish presidency's plan B excludes private chats entirely.
-
-### [Bundesrat fordert strengere Regeln und Direktanstellung für Lieferdienste](https://www.heise.de/news/Bundesrat-fordert-strengere-Regeln-und-Direktanstellung-fuer-Lieferdienste-11468231.html)
-
-<span class="news-item__source">heise.de</span> Germany's Bundesrat urged the federal government to mandate direct employment of delivery couriers, going beyond the Platform Work Directive ahead of its December deadline.

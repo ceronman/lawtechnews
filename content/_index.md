@@ -8,7 +8,25 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">372 stories on European law, technology regulation and digital rights, latest from 5 November 2026. Every headline links to the original source.</p>
+<p class="news-intro">377 stories on European law, technology regulation and digital rights, latest from 6 November 2026. Every headline links to the original source.</p>
+
+## 6 November 2026
+
+### [Watchdog investigates Europol over 'irregular' data processing claims](https://www.computerweekly.com/news/366653892/Watchdog-investigates-Europol-over-irregular-data-processing-claims)
+
+<span class="news-item__source">computerweekly.com</span> The EDPS confirmed a fact-finding probe into Europol's data environment, focused on its 'Pressure Cooker' tools for fast-processing data scraped from the internet.
+
+### [Ustawa o pracy platformowej na ostatniej prostej. Domniemanie etatu i większa kontrola algorytmów](https://www.pulshr.pl/prawo-pracy/ustawa-o-pracy-platformowej-na-ostatniej-prostej-domniemanie-etatu-i-wieksza-kontrola-algorytmow,123066.html)
+
+<span class="news-item__source">pulshr.pl</span> Poland's labour minister said the Platform Work Act will reach the Sejm in the coming months and apply next year, missing the 2 December deadline; only one state has transposed so far.
+
+### [Travailleurs des plateformes : la France ne tiendra pas le délai européen](https://www.lenouveleconomiste.fr/economie/travailleurs-des-plateformes-la-france-ne-tiendra-/)
+
+<span class="news-item__source">lenouveleconomiste.fr</span> France's labour minister confirmed the country will not transpose the Platform Work Directive by the 2 December 2026 deadline, so its employment presumption will not apply on time.
+
+### [Commission preliminarily finds TikTok's 'For You' feed in breach of Digital Services Act for harmful 'rabbit holes' effect](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2361)
+
+<span class="news-item__source">ec.europa.eu</span> The Commission said TikTok must redesign its For You feed, e.g. stop using viewing time as a ranking signal; a final decision could bring fines up to 6% of global turnover. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xpfbln/preliminary_ruling_by_the_eu_commission_tiktoks/">[discussion on reddit]</a> <a href="https://news.ycombinator.com/item?id=50391911">[discussion on hn]</a> <a href="https://tech.slashdot.org/story/26/11/06/2210231/eu-says-tiktoks-rabbit-hole-effect-must-stop">[discussion on slashdot]</a></span>
 
 ## 5 November 2026
 
@@ -31,6 +49,10 @@ next = "/page/2/"
 ### [FINRA Fines Webull $4.2 Million for Anti-Money Laundering and Best Execution Violations](https://www.finra.org/media-center/newsreleases/2026/finra-fines-webull-42-million-anti-money-laundering-and-best)
 
 <span class="news-item__source">finra.org</span> Webull opened 120,000+ accounts without reasonable ID checks, some backed by landscape photos instead of IDs, and missed suspicious transfers; it must certify AML remediation.
+
+### [Budget 2026: Ottawa plans to shift oversight of banks' anti-money-laundering efforts from FinTRAC to OSFI](https://www.theglobeandmail.com/business/article-budget-money-laundering-supervision-fintrac-osfi/)
+
+<span class="news-item__source">theglobeandmail.com</span> Canada's 2026 budget moves AML supervision of federally regulated banks from FINTRAC to OSFI, after FATF and Auditor-General criticism of FINTRAC's oversight.
 
 ## 4 November 2026
 
@@ -77,27 +99,3 @@ next = "/page/2/"
 ### [Επιβολή προστίμου σε εταιρεία για παραβίαση των αρχών νομιμότητας επεξεργασίας (Greek DPA fines Teleperformance Greece)](https://www.dpa.gr/el/enimerwtiko/prakseisArxis/epiboli-prostimoy-se-etaireia-gia-parabiasi-ton-arhon-nomimotitas)
 
 <span class="news-item__source">dpa.gr</span> Greece's DPA fined Teleperformance Greece €100,000 for deleting a former employee's data while his legal claims were pending and mishandling his access request.
-
-### [EU Commission to probe supermarket cyberattacks](https://www.politico.eu/article/european-commission-probe-supermarket-cyberattack-christophe-hansen/)
-
-<span class="news-item__source">politico.eu</span> The Commission's Security College will assess retailers' cyber preparedness after hackers knocked out fridges in supermarkets across at least six EU countries. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50344433">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50341699">[discussion on hn]</a></span>
-
-## 30 October 2026
-
-### [Outcomes FATF Plenary, 28-30 October 2026](https://www.fatf-gafi.org/en/publications/Fatfgeneral/outcomes-fatf-plenary-october-2026.html)
-
-<span class="news-item__source">fatf-gafi.org</span> FATF removed Bulgaria, Monaco, Côte d'Ivoire and the DRC from its grey list and launched a targeted review of virtual-asset AML compliance, with results due in 2027.
-
-### [Dh200 million fine: UAE penalises foreign bank branch for violating money laundering laws](https://www.khaleejtimes.com/uae/dh200-million-fine-foreign-bank-branch-money-laundering-laws)
-
-<span class="news-item__source">khaleejtimes.com</span> The UAE central bank fined an unnamed foreign bank branch Dh200m for repeated AML/CFT and sanctions failures, plus personal fines on its CEO and compliance officer.
-
-### [CMA opens investigation into Meta's commercial terms](https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2)
-
-<span class="news-item__source">gov.uk</span> The CMA opened a Competition Act probe into whether Meta abuses dominance by forcing publishers to accept terms letting it reuse their content for AI; Meta has paused the rollout. <span class="news-item__discussions"><a href="https://www.reddit.com/r/prsuk/comments/1xjcjk6/cma_opens_investigation_into_metas_commercial/">[discussion on reddit]</a></span>
-
-## 29 October 2026
-
-### [EU tells capitals to halt their national social media bans for a year](https://www.politico.eu/article/eu-tells-capitals-to-halt-their-national-social-media-bans-for-a-year/)
-
-<span class="news-item__source">politico.eu</span> The Commission imposed a 12-month standstill on national social media bans for minors that overlap the Kids Act, starting with Austria's under-14 ban. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xla1jp/eu_tells_capitals_to_halt_their_national_social/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/europe/comments/1xiteys/brussels_tells_capitals_to_wait_for_euwide_social/">[discussion on reddit]</a></span>
