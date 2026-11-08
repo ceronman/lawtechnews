@@ -3,12 +3,12 @@ title = "Law & Tech News"
 
 [extra]
 page_num = 1
-page_count = 19
+page_count = 20
 prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">377 stories on European law, technology regulation and digital rights, latest from 6 November 2026. Every headline links to the original source.</p>
+<p class="news-intro">382 stories on European law, technology regulation and digital rights, latest from 6 November 2026. Every headline links to the original source.</p>
 
 ## 6 November 2026
 
@@ -24,6 +24,14 @@ next = "/page/2/"
 
 <span class="news-item__source">lenouveleconomiste.fr</span> France's labour minister confirmed the country will not transpose the Platform Work Directive by the 2 December 2026 deadline, so its employment presumption will not apply on time.
 
+### [Ofcom provides update following its call to action on tech industry to improve protections for children](https://www.ofcom.org.uk/online-safety/protecting-children/ofcom-provides-update-following-its-call-to-action-on-tech-industry-to-improve-protections-for-children)
+
+<span class="news-item__source">ofcom.org.uk</span> Under Ofcom pressure, Snapchat began switching off Find Friends by default for UK child users and pledged highly effective age checks for all under-18s by year-end.
+
+### [Nordea Bank Risks Almost $1 Billion Fine in Denmark Money Laundering Case](https://www.insurancejournal.com/news/international/2026/11/06/891807.htm)
+
+<span class="news-item__source">insurancejournal.com</span> Danish prosecutors seek a DKK 6.6bn fine over DKK 26bn of suspicious 2012-15 flows in Denmark's first bank AML case to reach court; the ruling is due 9 November.
+
 ### [Commission preliminarily finds TikTok's 'For You' feed in breach of Digital Services Act for harmful 'rabbit holes' effect](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2361)
 
 <span class="news-item__source">ec.europa.eu</span> The Commission said TikTok must redesign its For You feed, e.g. stop using viewing time as a ranking signal; a final decision could bring fines up to 6% of global turnover. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xpfbln/preliminary_ruling_by_the_eu_commission_tiktoks/">[discussion on reddit]</a> <a href="https://news.ycombinator.com/item?id=50391911">[discussion on hn]</a> <a href="https://tech.slashdot.org/story/26/11/06/2210231/eu-says-tiktoks-rabbit-hole-effect-must-stop">[discussion on slashdot]</a></span>
@@ -33,6 +41,10 @@ next = "/page/2/"
 ### [Tinder owners say they will appeal €11m fine imposed by Irish data watchdog](https://www.independent.ie/business/irish-business/tinder-owners-say-they-will-appeal-11m-fine-imposed-by-irish-data-watchdog/a/164062273.html)
 
 <span class="news-item__source">independent.ie</span> Ireland's DPC fined Match Group €11m for GDPR breaches tied to Tinder's safety and privacy practices; Match says it will appeal.
+
+### [New freelancer law doesn't create more clarity, but more uncertainty: Advisory body](https://nltimes.nl/2026/11/05/new-freelancer-law-doesnt-create-clarity-uncertainty-advisory-body)
+
+<span class="news-item__source">nltimes.nl</span> The Dutch regulatory burden board ATR said Minister Aartsen's bogus self-employment bill adds uncertainty, as its two tests only help freelancers who meet them exactly. <span class="news-item__discussions"><a href="https://www.reddit.com/r/FreelanceNL/comments/1xoejtn/nieuwe_zelfstandigenwet_krijgt_flinke_kritiek_atr/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/ZZPNederland/comments/1xoekn5/nieuwe_zelfstandigenwet_krijgt_flinke_kritiek_atr/">[discussion on reddit]</a></span>
 
 ### [Judgment of the Court in Case C-205/25 Bayerisches Landesamt für Datenschutzaufsicht (complainants' right of access to DPA files)](https://curia.europa.eu/juris/liste.jsf?num=C-205/25&language=en)
 
@@ -49,6 +61,10 @@ next = "/page/2/"
 ### [FINRA Fines Webull $4.2 Million for Anti-Money Laundering and Best Execution Violations](https://www.finra.org/media-center/newsreleases/2026/finra-fines-webull-42-million-anti-money-laundering-and-best)
 
 <span class="news-item__source">finra.org</span> Webull opened 120,000+ accounts without reasonable ID checks, some backed by landscape photos instead of IDs, and missed suspicious transfers; it must certify AML remediation.
+
+### [El juez rechaza el recurso del jefe de Glovo y mantiene su decisión de enviarlo a juicio](https://www.infobae.com/espana/agencias/2026/11/05/el-juez-rechaza-el-recurso-del-jefe-de-glovo-y-mantiene-su-decision-de-enviarlo-a-juicio/)
+
+<span class="news-item__source">infobae.com</span> A Barcelona judge rejected Óscar Pierre's bid to annul the case, keeping him headed for trial for employing riders as false self-employed despite inspectorate orders.
 
 ### [Budget 2026: Ottawa plans to shift oversight of banks' anti-money-laundering efforts from FinTRAC to OSFI](https://www.theglobeandmail.com/business/article-budget-money-laundering-supervision-fintrac-osfi/)
 
@@ -81,21 +97,3 @@ next = "/page/2/"
 ### [La CNMC inicia un expediente sancionador contra Apple y Amazon](https://www.cnmc.es/prensa/sancionador-apple-amazon-20261103)
 
 <span class="news-item__source">cnmc.es</span> Spain's CNMC opened sanctioning proceedings against Apple and Amazon for keeping until May 2025 the brand-gating clauses it fined €194m in 2023; it has three months to rule.
-
-### [Brussels sets slimline legislative agenda for 2027](https://www.politico.eu/article/brussels-sets-slimline-legislative-agenda-for-2027/)
-
-<span class="news-item__source">politico.eu</span> The Commission's leaked 2027 Work Programme withdraws FIDA and the digital-tax proposals, plans a mid-2027 digital package, and reviews political-ad and data retention rules.
-
-### [Block lifts profit outlook on Cash App strength, reaches preliminary DOJ settlement](https://www.reuters.com/business/block-lifts-profit-outlook-cash-app-strength-reaches-preliminary-doj-settlement-2026-11-03/)
-
-<span class="news-item__source">reuters.com</span> Block agreed in principle to a three-year DOJ deferred prosecution over Cash App's Bank Secrecy Act AML failures, with a net payment of about $764m pending court approval.
-
-## 2 November 2026
-
-### [ΥΠΕΚΑ Ν. Κεραμέως: Θέτουμε κανόνες στη χρήση της τεχνητής νοημοσύνης στην αγορά εργασίας (Greek Platform Work Directive transposition bill)](https://ypergasias.gov.gr/ypeka-n-kerameos-thetoume-kanones-sti-chrisi-tis-technitis-noimosynis-stin-agora-ergasias/)
-
-<span class="news-item__source">ypergasias.gov.gr</span> Labour minister Kerameus presented Greece's Platform Work Directive bill to cabinet, mandating human oversight of algorithmic management and correct classification of platform workers.
-
-### [Επιβολή προστίμου σε εταιρεία για παραβίαση των αρχών νομιμότητας επεξεργασίας (Greek DPA fines Teleperformance Greece)](https://www.dpa.gr/el/enimerwtiko/prakseisArxis/epiboli-prostimoy-se-etaireia-gia-parabiasi-ton-arhon-nomimotitas)
-
-<span class="news-item__source">dpa.gr</span> Greece's DPA fined Teleperformance Greece €100,000 for deleting a former employee's data while his legal claims were pending and mishandling his access request.

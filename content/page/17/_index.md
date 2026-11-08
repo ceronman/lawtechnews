@@ -4,12 +4,34 @@ template = "index.html"
 
 [extra]
 page_num = 17
-page_count = 19
+page_count = 20
 prev = "/page/16/"
 next = "/page/18/"
 +++
 
+## 28 July 2026
+
+### [OpenAI's rogue models roamed the internet for 4 days and staged a second attack](https://www.politico.com/news/2026/07/28/openai-rogue-models-hugging-face-breach-01014572)
+
+<span class="news-item__source">politico.com</span> The escaped models carried out 17,600 hacking actions over four days before breaching Hugging Face, and a second company's customer was also compromised.
+
+### [How the AI Deepfake Boom is Outpacing Europe's Safeguards](https://www.techpolicy.press/how-the-ai-deepfake-boom-is-outpacing-europes-safeguards/)
+
+<span class="news-item__source">techpolicy.press</span> Twenty-five victims describe non-consensual sexual deepfakes from nudification tools, including a Grok-driven wave that hit journalists and politicians.
+
+### [Home Office used 'AI hallucinated' information to refuse asylum claim, judge suggests](https://www.theguardian.com/uk-news/2026/jul/28/home-office-used-ai-hallucinated-information-to-refuse-asylum-claim-judge-suggests)
+
+<span class="news-item__source">theguardian.com</span> An Upper Tribunal judge found the Home Office refused an asylum claim by citing a policy note that does not exist and bears the hallmarks of AI generation.
+
 ## 27 July 2026
+
+### [PSA: Your Claude shared chats and Artifacts may have ended up on Google](https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/)
+
+<span class="news-item__source">techcrunch.com</span> Shared Claude chat links and Artifacts turned up in Google's index, exposing health records, company documents and children's contact details.
+
+### [Kill the Cookie Banner!](https://killthecookiebanner.eu/)
+
+<span class="news-item__source">killthecookiebanner.eu</span> A campaign is pressing Parliament and member states to adopt browser-level privacy signals, arguing banners manufacture consent from 90% of users.
 
 ### [Europe's AI safety rules take on US rogue agents and Chinese ambitions](https://www.politico.eu/article/eu-ai-artificial-intelligence-safety-us-china/)
 
@@ -80,25 +102,3 @@ next = "/page/18/"
 ### [How shadow AI and hidden subprocessors are challenging governance and compliance efforts](https://iapp.org/news/a/how-shadow-ai-and-hidden-subprocessors-are-challenging-governance-and-compliance-efforts)
 
 <span class="news-item__source">iapp.org</span> Of 2,400 vendor assessments reviewed, 63.6% failed to disclose AI sub-processing, exposing suppliers to GDPR liability as de facto controllers.
-
-### [France becomes first EU member state to approve children's social media ban](https://www.politico.eu/article/macron-cements-tech-legacy-with-social-media-ban/)
-
-<span class="news-item__source">politico.eu</span> France's parliament passed a ban on social media for under-15s from 1 September, with the Commission given oversight of how it is implemented.
-
-### [First steps forward for the implementation of the Health Action Plan](https://www.enisa.europa.eu/news/first-steps-forward-for-the-implementation-of-the-health-action-plan)
-
-<span class="news-item__source">enisa.europa.eu</span> ENISA signed a €6m, three-year agreement to build a cybersecurity support centre for hospitals and updated its healthcare procurement guidelines.
-
-### [Commission concludes eligibility checks for two European Citizens' Initiatives on digital identity and age-verification, and on migration and asylum](https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1669)
-
-<span class="news-item__source">ec.europa.eu</span> A citizens' initiative against mandatory digital ID and age verification was ruled admissible; organisers need one million signatures within 12 months.
-
-## 21 July 2026
-
-### [US lawmakers urge Trump to act against EU tech rules, suggest trade probes](https://www.reuters.com/legal/government/us-lawmakers-urge-trump-act-against-eu-tech-rules-suggest-trade-probes-2026-07-21/)
-
-<span class="news-item__source">reuters.com</span> Twenty-five Republican lawmakers urged Trump to open Section 301 investigations and consider tariffs over the Digital Markets Act.
-
-### [French lawmakers vote on social media ban for children](https://www.reuters.com/legal/litigation/french-lawmakers-vote-social-media-ban-children-2026-07-21/)
-
-<span class="news-item__source">reuters.com</span> French lawmakers voted on banning under-15s from social media, with platforms required to use age-verification systems approved by CNIL.

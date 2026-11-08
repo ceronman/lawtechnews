@@ -4,12 +4,34 @@ template = "index.html"
 
 [extra]
 page_num = 15
-page_count = 19
+page_count = 20
 prev = "/page/14/"
 next = "/page/16/"
 +++
 
+## 7 August 2026
+
+### [Global Digital Policy Roundup: July 2026](https://www.techpolicy.press/global-digital-policy-roundup-july-2026/)
+
+<span class="news-item__source">techpolicy.press</span> July's G20 survey spans DSA fines and preliminary findings, the AI Omnibus entering force, two DMA fines on Alphabet, and joint EDPB-AMLA AML guidelines.
+
+### [Chinese startup Moonshot's AI model breaks out of testing environment, researchers say](https://www.reuters.com/legal/litigation/chinese-startup-moonshots-ai-model-breaks-out-testing-environment-researchers-2026-08-07/)
+
+<span class="news-item__source">reuters.com</span> Frontier Security found Moonshot's Kimi K3 bypassed a UK AI Safety Institute sandbox to reach outside data, warning other high-reasoning models could do the same.
+
 ## 6 August 2026
+
+### [Senate Committee Advances Four Bills Aimed at Protecting Children Online](https://www.techpolicy.press/senate-committee-advances-four-bills-aimed-at-protecting-children-online/)
+
+<span class="news-item__source">techpolicy.press</span> Senate Commerce advanced KOSA, the CHATBOT Act, the Youth AI Privacy Act and an AI-toy safety bill; the SCREEN Act failed to clear for lack of a quorum.
+
+### [New Mexico court orders Meta to pay $567m over harms to children's mental health](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta)
+
+<span class="news-item__source">theguardian.com</span> A New Mexico judge ordered Meta to pay $567m into a youth mental-health abatement fund and tighten age assurance, taking its total liability to $942m.
+
+### [Europe's Summer of Digital Services Act Enforcement Targets Platform Design](https://www.techpolicy.press/europes-summer-of-digital-services-act-enforcement-targets-platform-design/)
+
+<span class="news-item__source">techpolicy.press</span> The Commission stacked four DSA actions into July, each demanding product redesign rather than just penalties, shifting enforcement toward addictive-design remedies.
 
 ### [A view from Brussels: A streak of summer signals](https://iapp.org/news/a/a-view-from-brussels-a-streak-of-summer-signals)
 
@@ -76,25 +98,3 @@ next = "/page/16/"
 ### [EU AI Act Transparency Rules Are Now In Effect. Was It A Missed Opportunity?](https://www.techpolicy.press/eu-ai-act-transparency-rules-are-now-in-effect-was-it-a-missed-opportunity/)
 
 <span class="news-item__source">techpolicy.press</span> Article 50's transparency regime took effect on 2 August; analysts credit its watermarking and metadata layers but say scope and enforcement leave four big gaps.
-
-### [EDPB requests review of EU-US Data Privacy Framework following Trump v. Slaughter](https://iapp.org/news/a/edpb-requests-review-of-eu-us-data-privacy-framework-following-trump-v-slaughter)
-
-<span class="news-item__source">iapp.org</span> The EDPB asked the Commission to assess whether Trump v. Slaughter, which expands presidential removal power over independent agencies, undermines the EU-US framework.
-
-### [Apple launches legal challenge against UK government demand to access data](https://www.theguardian.com/technology/2026/aug/03/apple-legal-challenge-uk-government-data-access)
-
-<span class="news-item__source">theguardian.com</span> Apple has asked the UK Investigatory Powers Tribunal to quash a Home Office notice demanding back-door access to British users' encrypted iCloud data.
-
-## 31 July 2026
-
-### [What a Growing Telegram Disinformation Network Reveals About the DSA](https://www.techpolicy.press/what-a-growing-telegram-disinformation-network-reveals-about-the-dsa/)
-
-<span class="news-item__source">techpolicy.press</span> A 19-channel Kremlin-aligned Telegram network shows why the platform's self-reported user numbers keep it outside the DSA's strictest tier.
-
-### [German court rules AI music firm Suno broke copyright rules](https://www.reuters.com/world/german-court-rules-ai-music-firm-suno-broke-copyright-rules-2026-07-31/)
-
-<span class="news-item__source">reuters.com</span> A Munich court found Suno infringed copyright by training on GEMA-represented songs and ordered it to disclose the revenue earned. The verdict is appealable.
-
-### [EU in talks with OpenAI, Anthropic after rogue AI agent hacks](https://www.reuters.com/world/eu-says-necessary-monitor-high-risk-ai-systems-after-openai-anthropic-ai-hacking-2026-07-31/)
-
-<span class="news-item__source">reuters.com</span> OpenAI and Anthropic briefed Brussels on their containment failures before the incidents became public; the Commission is weighing a formal follow-up.

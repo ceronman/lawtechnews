@@ -4,12 +4,34 @@ template = "index.html"
 
 [extra]
 page_num = 2
-page_count = 19
+page_count = 20
 prev = "/"
 next = "/page/3/"
 +++
 
+## 3 November 2026
+
+### [Brussels sets slimline legislative agenda for 2027](https://www.politico.eu/article/brussels-sets-slimline-legislative-agenda-for-2027/)
+
+<span class="news-item__source">politico.eu</span> The Commission's leaked 2027 Work Programme withdraws FIDA and the digital-tax proposals, plans a mid-2027 digital package, and reviews political-ad and data retention rules.
+
+### [Block lifts profit outlook on Cash App strength, reaches preliminary DOJ settlement](https://www.reuters.com/business/block-lifts-profit-outlook-cash-app-strength-reaches-preliminary-doj-settlement-2026-11-03/)
+
+<span class="news-item__source">reuters.com</span> Block agreed in principle to a three-year DOJ deferred prosecution over Cash App's Bank Secrecy Act AML failures, with a net payment of about $764m pending court approval.
+
 ## 2 November 2026
+
+### [ΥΠΕΚΑ Ν. Κεραμέως: Θέτουμε κανόνες στη χρήση της τεχνητής νοημοσύνης στην αγορά εργασίας (Greek Platform Work Directive transposition bill)](https://ypergasias.gov.gr/ypeka-n-kerameos-thetoume-kanones-sti-chrisi-tis-technitis-noimosynis-stin-agora-ergasias/)
+
+<span class="news-item__source">ypergasias.gov.gr</span> Labour minister Kerameus presented Greece's Platform Work Directive bill to cabinet, mandating human oversight of algorithmic management and correct classification of platform workers.
+
+### [Επιβολή προστίμου σε εταιρεία για παραβίαση των αρχών νομιμότητας επεξεργασίας (Greek DPA fines Teleperformance Greece)](https://www.dpa.gr/el/enimerwtiko/prakseisArxis/epiboli-prostimoy-se-etaireia-gia-parabiasi-ton-arhon-nomimotitas)
+
+<span class="news-item__source">dpa.gr</span> Greece's DPA fined Teleperformance Greece €100,000 for deleting a former employee's data while his legal claims were pending and mishandling his access request.
+
+### [La Inspección de Trabajo de Cataluña investiga si Amazon, Glovo y Uber Eats hicieron trabajar a sus repartidores durante las alertas por lluvias torrenciales](https://www.infobae.com/espana/2026/11/02/la-inspeccion-de-trabajo-de-cataluna-investiga-si-amazon-glovo-y-uber-eats-hicieron-trabajar-a-sus-repartidores-durante-las-alertas-por-lluvias-torrenciales/)
+
+<span class="news-item__source">infobae.com</span> Catalonia's labour inspectorate opened an ex officio probe into whether Glovo, Uber Eats and Amazon kept riders working during rain alerts, demanding their safety protocols.
 
 ### [EU Commission to probe supermarket cyberattacks](https://www.politico.eu/article/european-commission-probe-supermarket-cyberattack-christophe-hansen/)
 
@@ -78,27 +100,3 @@ next = "/page/3/"
 ### [AI training platform Outlier illegally surveils European platform workers](https://noyb.eu/en/ai-training-platform-outlier-illegally-surveils-european-platform-workers)
 
 <span class="news-item__source">noyb.eu</span> noyb filed 5 GDPR complaints in France, Italy, the Netherlands and Austria over Outlier's trackers and forced biometric checks on its 900,000 AI-training gig workers. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50281071">[discussion on hn]</a></span>
-
-## 26 October 2026
-
-### [Commission brings banks and online platforms together in the fight against online scams](https://digital-strategy.ec.europa.eu/en/news/commission-brings-banks-and-online-platforms-together-fight-against-online-scams)
-
-<span class="news-item__source">digital-strategy.ec.europa.eu</span> The Commission is consulting banks, trusted flaggers and platforms on a voluntary DSA anti-scam code covering advertiser verification and bank–platform signal sharing.
-
-### [Commission accepts Temu's action plan to remedy the breach of the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-action-plan-remedy-breach-digital-services-act)
-
-<span class="news-item__source">digital-strategy.ec.europa.eu</span> After its €200m DSA fine, Temu committed to five measures, including a recommender-system review, and must file an interim risk assessment within four months. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50256431">[discussion on hn]</a> <a href="https://www.reddit.com/r/EU_Economics/comments/1xgkr80/temu_falls_into_line_as_eu_backs_its_action_plan/">[discussion on reddit]</a></span>
-
-## 23 October 2026
-
-### [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update)
-
-<span class="news-item__source">theverge.com</span> Since 16 October Google's privacy policy lets it target ads using Gmail, Drive and Photos data that users connect to AI Mode via Personal Intelligence. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50214218">[discussion on hn]</a> <a href="https://www.reddit.com/r/technology/comments/1xdpddf/google_quietly_changes_privacy_policy_so_your/">[discussion on reddit]</a></span>
-
-### [Meta delays AI business terms amid media sector outcry](https://www.rapporteur.com/news/meta-delays-ai-business-terms-until-20-november/)
-
-<span class="news-item__source">rapporteur.com</span> Meta pushed its new AI business terms for Facebook and Instagram from 30 October to 20 November after publishers objected; the Commission is weighing them under the DMA.
-
-### [Greece passes social media ban for children under 15](https://www.reuters.com/legal/litigation/greece-passes-social-media-ban-children-under-15-2026-10-23/)
-
-<span class="news-item__source">reuters.com</span> Greek MPs banned social media for under-15s from 1 January 2027; platforms have about 2.5 months to build age verification that protects user privacy. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50216105">[discussion on hn]</a> <a href="https://www.reddit.com/r/technology/comments/1xdo5q0/greece_enacts_social_media_ban_for_kids_under_15/">[discussion on reddit]</a> <a href="https://tech.slashdot.org/story/26/10/23/1928227/greece-enacts-social-media-ban-for-kids-under-15">[discussion on slashdot]</a></span>
