@@ -9,7 +9,29 @@ prev = "/"
 next = "/page/3/"
 +++
 
+## 4 November 2026
+
+### [Independent data protection oversight and effective access to justice essential to protecting privacy rights: UN experts](https://www.ohchr.org/en/press-releases/2026/11/independent-data-protection-oversight-and-effective-access-justice-essential)
+
+<span class="news-item__source">ohchr.org</span> Two UN Special Rapporteurs pressed Ireland on the DPC's independence, urging rigorous appointment and conflict checks and looser litigation-funding limits for collective GDPR actions.
+
+### [Commission seeks feedback on advertising repositories under the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-seeks-feedback-advertising-repositories-under-digital-services-act)
+
+<span class="news-item__source">digital-strategy.ec.europa.eu</span> The Commission opened a call for evidence on technical guidelines for VLOP and VLOSE ad repositories under the DSA, open until 2 December 2026.
+
 ## 3 November 2026
+
+### [Rapport de la mission sur la transposition de la directive Plateformes](https://travail-emploi.gouv.fr/rapport-de-la-mission-sur-la-transposition-de-la-directive-plateformes)
+
+<span class="news-item__source">travail-emploi.gouv.fr</span> France's transposition mission made 30 recommendations: no automatic employment presumption but a burden-of-proof shift, a legal minimum pay for mobility workers and a new platform regulator.
+
+### [Opinion of Advocate General Szpunar in Case C-250/25 Like Company (Google Gemini and press publishers' rights)](https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260155en.pdf)
+
+<span class="news-item__source">curia.europa.eu</span> In the first generative AI case at the CJEU, the AG said Gemini answers may infringe press publishers' rights if they reuse recognisable expression; LLM training is generally TDM-exempt.
+
+### [La CNMC inicia un expediente sancionador contra Apple y Amazon](https://www.cnmc.es/prensa/sancionador-apple-amazon-20261103)
+
+<span class="news-item__source">cnmc.es</span> Spain's CNMC opened sanctioning proceedings against Apple and Amazon for keeping until May 2025 the brand-gating clauses it fined €194m in 2023; it has three months to rule.
 
 ### [Brussels sets slimline legislative agenda for 2027](https://www.politico.eu/article/brussels-sets-slimline-legislative-agenda-for-2027/)
 
@@ -78,25 +100,3 @@ next = "/page/3/"
 ### [Plattformarbeit: Arbeitsgericht soll künftig über Status von Lieferfahrern entscheiden](https://www.tageblatt.lu/Luxemburg/Plattformarbeit-Arbeitsgericht-soll-kuenftig-ueber-Status-von-Lieferfahrern-entscheiden-114063.html)
 
 <span class="news-item__source">tageblatt.lu</span> Labour minister Marc Spautz said Luxembourg's Platform Work Directive bill, due by early December, will move worker-status disputes from administrative to labour courts.
-
-### [Comunicato stampa del Consiglio dei Ministri n. 195 (Platform Work Directive transposition decree)](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973)
-
-<span class="news-item__source">governo.it</span> Italy's cabinet gave final approval to its Platform Work Directive decree, presuming employment, barring algorithm-only dismissals and excluding marketplaces and booking sites.
-
-## 27 October 2026
-
-### [French government mulled blocking social networks and mobile internet amid protests](https://www.politico.eu/article/french-government-mulled-blocking-social-network-amid-protests/)
-
-<span class="news-item__source">politico.eu</span> PM Lecornu asked telecom operators to be ready to block TikTok, Instagram, Snapchat and X during the 24 October protests; a pending riot bill adds 1-hour takedowns. <span class="news-item__discussions"><a href="https://www.reddit.com/r/france/comments/1xefu3a/information_exclusive_blast_le_premier_ministre_a/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/france/comments/1xguc2v/nous_y_sommes_lautoritarisme/">[discussion on reddit]</a></span>
-
-### [Commission proposes to reinforce Frontex: stronger border protection, a greater role on returns and more effective crisis response](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2260)
-
-<span class="news-item__source">ec.europa.eu</span> The Commission proposed a Frontex centre to monitor public social media and DSA trusted-flagger status to report illegal content, alongside a 30,000-officer corps. <span class="news-item__discussions"><a href="https://www.reddit.com/r/worldnews/comments/1xgtmvn/eu_proposes_sweeping_new_powers_for_border_agency/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/de/comments/1xhlljb/eukommission_frontex_soll_zur_abschiebeagentur/">[discussion on reddit]</a></span>
-
-### [CCOO acuerda mejoras laborales para más de 8.000 personas repartidoras con Uber Eats](https://www.ccoo.es/noticia:771055--CCOO_acuerda_mejoras_laborales_para_mas_de_8_000_personas_repartidoras_con_Uber_Eats)
-
-<span class="news-item__source">ccoo.es</span> Uber Eats agreed with CCOO and UGT to move its last 4,286 self-employed riders onto Quinde Crew payrolls by 30 November, with a joint committee on algorithmic management.
-
-### [AI training platform Outlier illegally surveils European platform workers](https://noyb.eu/en/ai-training-platform-outlier-illegally-surveils-european-platform-workers)
-
-<span class="news-item__source">noyb.eu</span> noyb filed 5 GDPR complaints in France, Italy, the Netherlands and Austria over Outlier's trackers and forced biometric checks on its 900,000 AI-training gig workers. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50281071">[discussion on hn]</a></span>

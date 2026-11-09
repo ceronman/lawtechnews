@@ -8,7 +8,23 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">382 stories on European law, technology regulation and digital rights, latest from 6 November 2026. Every headline links to the original source.</p>
+<p class="news-intro">387 stories on European law, technology regulation and digital rights, latest from 9 November 2026. Every headline links to the original source.</p>
+
+## 9 November 2026
+
+### [Nordea comments on verdict in case about anti-money laundering measures from 2012 to 2015](https://www.nordea.com/en/news/nordea-comments-on-verdict-in-case-about-anti-money-laundering-measures-from-2012-to-2015)
+
+<span class="news-item__source">nordea.com</span> Copenhagen City Court acquitted Nordea on 5 of 7 AML counts over its 2012-15 controls and fined it DKK 155m, far below the DKK 6.6bn prosecutors sought. <span class="news-item__discussions"><a href="https://www.reddit.com/r/Denmark/comments/1xrpq01/nu_falder_dommen_over_nordea_i_historisk/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/TrueCrimeDK/comments/1xrq2in/nordea_i_historisk_sag_om_hvidvask/">[discussion on reddit]</a></span>
+
+## 8 November 2026
+
+### [Hamburg regulator uses OpenAI model to draft letters as complaints rise 62%](https://ppc.land/hamburg-regulator-uses-openai-model-to-draft-letters-as-complaints-rise-62/)
+
+<span class="news-item__source">ppc.land</span> Hamburg's DPA cleared a city chatbot built on an OpenAI model it deems likely non-anonymous under EDPB Opinion 28/2024, and now uses it to draft letters on complaints. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xqtz0b/hamburg_regulator_uses_openai_model_to_draft/">[discussion on reddit]</a></span>
+
+### [EU countries still can't get it together on AI](https://www.politico.eu/article/eu-countries-still-cant-get-it-together-on-ai/)
+
+<span class="news-item__source">politico.eu</span> Sixteen member states missed the AI Act deadline to name enforcement authorities; six have none and ten only provisional picks, and an MEP urged infringement action.
 
 ## 6 November 2026
 
@@ -24,6 +40,10 @@ next = "/page/2/"
 
 <span class="news-item__source">lenouveleconomiste.fr</span> France's labour minister confirmed the country will not transpose the Platform Work Directive by the 2 December 2026 deadline, so its employment presumption will not apply on time.
 
+### [Operation Economic Outcast Severs MEXC Global's Access to the U.S. Financial System](https://www.fincen.gov/news/news-releases/operation-economic-outcast-severs-mexc-globals-access-us-financial-system)
+
+<span class="news-item__source">fincen.gov</span> FinCEN barred US financial institutions from processing transfers involving crypto exchange MEXC Global, citing at least $16bn in sanctions-evasion and cybercrime flows. <span class="news-item__discussions"><a href="https://www.reddit.com/r/MyCoinDeck/comments/1xqzaai/us_treasury_moves_to_cut_off_crypto_exchange_mexc/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/RegulatoryReporting/comments/1xra23r/mexc_global_order_has_no_deemedcompliance_clause/">[discussion on reddit]</a></span>
+
 ### [Ofcom provides update following its call to action on tech industry to improve protections for children](https://www.ofcom.org.uk/online-safety/protecting-children/ofcom-provides-update-following-its-call-to-action-on-tech-industry-to-improve-protections-for-children)
 
 <span class="news-item__source">ofcom.org.uk</span> Under Ofcom pressure, Snapchat began switching off Find Friends by default for UK child users and pledged highly effective age checks for all under-18s by year-end.
@@ -31,6 +51,10 @@ next = "/page/2/"
 ### [Nordea Bank Risks Almost $1 Billion Fine in Denmark Money Laundering Case](https://www.insurancejournal.com/news/international/2026/11/06/891807.htm)
 
 <span class="news-item__source">insurancejournal.com</span> Danish prosecutors seek a DKK 6.6bn fine over DKK 26bn of suspicious 2012-15 flows in Denmark's first bank AML case to reach court; the ruling is due 9 November.
+
+### [Court suspends 201.1 bln-won fine imposed on Coupang for unauthorized user data collection](https://en.yna.co.kr/view/AEN20261106008000315)
+
+<span class="news-item__source">en.yna.co.kr</span> A Seoul court suspended Coupang's ₩201.1bn PIPC fine for collecting 11.17m users' activity data without consent, while another panel kept its record ₩423.6bn breach fine in force.
 
 ### [Commission preliminarily finds TikTok's 'For You' feed in breach of Digital Services Act for harmful 'rabbit holes' effect](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2361)
 
@@ -75,25 +99,3 @@ next = "/page/2/"
 ### [Uber Australia Pty Ltd v Chief Commissioner of State Revenue [2026] HCA 40](https://www.hcourt.gov.au/sites/default/files/judgment-summaries/2026-11/hca-40-2026-11-04.pdf)
 
 <span class="news-item__source">hcourt.gov.au</span> Australia's High Court ruled 6–1 that Uber's payments to NSW drivers are wages under payroll-tax contractor provisions, leaving Uber with an A$81m bill for 2015–2020. <span class="news-item__discussions"><a href="https://www.reddit.com/r/australia/comments/1xn9idp/uber_to_pay_81_million_in_payroll_tax_to_nsw_tax/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/auslaw/comments/1xn9vvl/uber_to_py_81_million_in_payroll_tax_to_nsw_tax/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/uberdrivers/comments/1xnbzkp/81m_nsw_payroll_tax_bill_for_uber_after_the_high/">[discussion on reddit]</a></span>
-
-### [Independent data protection oversight and effective access to justice essential to protecting privacy rights: UN experts](https://www.ohchr.org/en/press-releases/2026/11/independent-data-protection-oversight-and-effective-access-justice-essential)
-
-<span class="news-item__source">ohchr.org</span> Two UN Special Rapporteurs pressed Ireland on the DPC's independence, urging rigorous appointment and conflict checks and looser litigation-funding limits for collective GDPR actions.
-
-### [Commission seeks feedback on advertising repositories under the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-seeks-feedback-advertising-repositories-under-digital-services-act)
-
-<span class="news-item__source">digital-strategy.ec.europa.eu</span> The Commission opened a call for evidence on technical guidelines for VLOP and VLOSE ad repositories under the DSA, open until 2 December 2026.
-
-## 3 November 2026
-
-### [Rapport de la mission sur la transposition de la directive Plateformes](https://travail-emploi.gouv.fr/rapport-de-la-mission-sur-la-transposition-de-la-directive-plateformes)
-
-<span class="news-item__source">travail-emploi.gouv.fr</span> France's transposition mission made 30 recommendations: no automatic employment presumption but a burden-of-proof shift, a legal minimum pay for mobility workers and a new platform regulator.
-
-### [Opinion of Advocate General Szpunar in Case C-250/25 Like Company (Google Gemini and press publishers' rights)](https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260155en.pdf)
-
-<span class="news-item__source">curia.europa.eu</span> In the first generative AI case at the CJEU, the AG said Gemini answers may infringe press publishers' rights if they reuse recognisable expression; LLM training is generally TDM-exempt.
-
-### [La CNMC inicia un expediente sancionador contra Apple y Amazon](https://www.cnmc.es/prensa/sancionador-apple-amazon-20261103)
-
-<span class="news-item__source">cnmc.es</span> Spain's CNMC opened sanctioning proceedings against Apple and Amazon for keeping until May 2025 the brand-gating clauses it fined €194m in 2023; it has three months to rule.
