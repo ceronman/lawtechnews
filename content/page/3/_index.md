@@ -9,7 +9,29 @@ prev = "/page/2/"
 next = "/page/4/"
 +++
 
+## 29 October 2026
+
+### [Amazon, Uber, Instacart sue to block NYC law over delivery worker deactivation](https://www.reuters.com/legal/litigation/amazon-uber-instacart-sue-block-nyc-law-over-delivery-worker-deactivation-2026-10-29/)
+
+<span class="news-item__source">reuters.com</span> The three apps sued in Manhattan federal court to block a NYC law, effective January, requiring just cause and notice before deactivating delivery workers.
+
+### [Algorithmic management in European workplaces](https://www.eurofound.europa.eu/en/publications/all/algorithmic-management-in-european-workplaces)
+
+<span class="news-item__source">eurofound.europa.eu</span> Eurofound found 19% of EU employees have software monitoring their performance and 18% get tasks from it; algorithmic monitoring was most linked to exhaustion and work-family conflict.
+
 ## 28 October 2026
+
+### [The Star ordered to pay $260 million for serious AML/CTF breaches](https://www.austrac.gov.au/news-and-media/media-release/star-ordered-pay-260-million-serious-amlctf-breaches)
+
+<span class="news-item__source">austrac.gov.au</span> Australia's Federal Court fined The Star A$260m for AML/CTF failures that let over 1,200 high-risk customers gamble through high-risk channels without source-of-funds checks. <span class="news-item__discussions"><a href="https://www.reddit.com/r/australia/comments/1xh8s6e/star_casino_fined_260_million_for_historical/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/auslaw/comments/1xhb9vg/star_casino_fined_260m_for_money_laundering/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/brisbane/comments/1xh98yt/star_casino_fined_260_million_for_historical/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/aussie/comments/1xh8sxo/star_casino_fined_260m_for_money_laundering/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/ASX_Bets/comments/1xha6do/star_group_liquidation_star_casino_fined_260/">[discussion on reddit]</a></span>
+
+### [Portugal to reform labour laws](https://www.theportugalnews.com/news/2026-10-28/portugal-to-reform-labour-laws/1107935)
+
+<span class="news-item__source">theportugalnews.com</span> Labour minister Palma Ramalho told parliament Portugal will transpose the Platform Work Directive and pay-transparency rules, but conceded wider labour reform may slip.
+
+### [Plattformarbeit: Arbeitsgericht soll künftig über Status von Lieferfahrern entscheiden](https://www.tageblatt.lu/Luxemburg/Plattformarbeit-Arbeitsgericht-soll-kuenftig-ueber-Status-von-Lieferfahrern-entscheiden-114063.html)
+
+<span class="news-item__source">tageblatt.lu</span> Labour minister Marc Spautz said Luxembourg's Platform Work Directive bill, due by early December, will move worker-status disputes from administrative to labour courts.
 
 ### [Comunicato stampa del Consiglio dei Ministri n. 195 (Platform Work Directive transposition decree)](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973)
 
@@ -78,25 +100,3 @@ next = "/page/4/"
 ### [Directive sur les travailleurs de plateformes : pourquoi la France traîne les pieds (et comment elle sape le texte)](https://nvo.fr/directive-sur-les-travailleurs-de-plateformes-pourquoi-la-france-traine-les-pieds-et-comment-elle-sape-le-texte/)
 
 <span class="news-item__source">nvo.fr</span> France will miss the 2 December deadline; its transposition mission advises no automatic employment presumption, only faster labour-court claims.
-
-### [AMLA and OLAF strengthen cooperation in the fight against financial crime](https://www.amla.europa.eu/press-release-amla-and-olaf-strengthen-cooperation-fight-against-financial-crime_en)
-
-<span class="news-item__source">amla.europa.eu</span> AMLA and OLAF signed a working arrangement to share operational intelligence and let OLAF join AMLA-coordinated FIU analyses of fraud-linked laundering.
-
-## 21 October 2026
-
-### [Transposing the Platform Work Directive: Comparative Assessment and Good Practices](https://ecipe.org/publications/transposing-platform-work-directive/)
-
-<span class="news-item__source">ecipe.org</span> ECIPE compared draft transpositions in Austria, Czechia, Estonia, the Netherlands and Sweden, finding none complete and urging clear presumption rules and joint liability for intermediaries.
-
-### [The New Mexico Department of Justice Secures Another Landmark Victory Against Big Tech, with Historic $25 Billion Penalty Against Facebook](https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/)
-
-<span class="news-item__source">nmdoj.gov</span> A judge ordered Meta to pay $25bn after jurors found nearly 44 million state-law violations over Cambridge Analytica-era privacy claims; Meta will appeal. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50184820">[discussion on hn]</a> <a href="https://www.reddit.com/r/technology/comments/1xbtfk5/meta_ordered_to_pay_25_billion_penalty_in_new/">[discussion on reddit]</a> <a href="https://yro.slashdot.org/story/26/10/21/188251/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook">[discussion on slashdot]</a></span>
-
-### [The Irish Public Rejects State Access to Private Online Conversations](https://cdt.org/insights/the-irish-public-rejects-state-access-to-private-online-conversations/)
-
-<span class="news-item__source">cdt.org</span> A CDT poll found 66% of Irish voters oppose state access to encrypted messages as the justice minister readies a bill letting gardaí intercept them.
-
-### [Digital rulebook: Council agrees position to simplify data protection, privacy and cyber reporting rules](https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/digital-rulebook-council-agrees-position-to-simplify-data-protection-privacy-and-cyber-reporting-rules/)
-
-<span class="news-item__source">consilium.europa.eu</span> EU states keep the personal-data definition but add pseudonymisation rules, an AI sensitive-data derogation and longer breach-notification deadlines. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50218050">[discussion on hn]</a></span>

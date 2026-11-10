@@ -9,7 +9,25 @@ prev = "/"
 next = "/page/3/"
 +++
 
+## 5 November 2026
+
+### [FINRA Fines Webull $4.2 Million for Anti-Money Laundering and Best Execution Violations](https://www.finra.org/media-center/newsreleases/2026/finra-fines-webull-42-million-anti-money-laundering-and-best)
+
+<span class="news-item__source">finra.org</span> Webull opened 120,000+ accounts without reasonable ID checks, some backed by landscape photos instead of IDs, and missed suspicious transfers; it must certify AML remediation.
+
+### [El juez rechaza el recurso del jefe de Glovo y mantiene su decisión de enviarlo a juicio](https://www.infobae.com/espana/agencias/2026/11/05/el-juez-rechaza-el-recurso-del-jefe-de-glovo-y-mantiene-su-decision-de-enviarlo-a-juicio/)
+
+<span class="news-item__source">infobae.com</span> A Barcelona judge rejected Óscar Pierre's bid to annul the case, keeping him headed for trial for employing riders as false self-employed despite inspectorate orders.
+
+### [Budget 2026: Ottawa plans to shift oversight of banks' anti-money-laundering efforts from FinTRAC to OSFI](https://www.theglobeandmail.com/business/article-budget-money-laundering-supervision-fintrac-osfi/)
+
+<span class="news-item__source">theglobeandmail.com</span> Canada's 2026 budget moves AML supervision of federally regulated banks from FINTRAC to OSFI, after FATF and Auditor-General criticism of FINTRAC's oversight.
+
 ## 4 November 2026
+
+### [Uber Australia Pty Ltd v Chief Commissioner of State Revenue [2026] HCA 40](https://www.hcourt.gov.au/sites/default/files/judgment-summaries/2026-11/hca-40-2026-11-04.pdf)
+
+<span class="news-item__source">hcourt.gov.au</span> Australia's High Court ruled 6–1 that Uber's payments to NSW drivers are wages under payroll-tax contractor provisions, leaving Uber with an A$81m bill for 2015–2020. <span class="news-item__discussions"><a href="https://www.reddit.com/r/australia/comments/1xn9idp/uber_to_pay_81_million_in_payroll_tax_to_nsw_tax/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/auslaw/comments/1xn9vvl/uber_to_py_81_million_in_payroll_tax_to_nsw_tax/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/uberdrivers/comments/1xnbzkp/81m_nsw_payroll_tax_bill_for_uber_after_the_high/">[discussion on reddit]</a></span>
 
 ### [Independent data protection oversight and effective access to justice essential to protecting privacy rights: UN experts](https://www.ohchr.org/en/press-releases/2026/11/independent-data-protection-oversight-and-effective-access-justice-essential)
 
@@ -82,21 +100,3 @@ next = "/page/3/"
 ### [Cookies et application mobile : sanctions de 7 millions d'euros à l'encontre des sociétés FNAC DARTY PARTICIPATIONS ET SERVICES et FNAC DIRECT](https://www.cnil.fr/fr/sanction-cookies-app-fnac)
 
 <span class="news-item__source">cnil.fr</span> The CNIL fined Fnac Darty €7m for an app tracker feeding browsing history to its recommendation algorithm without consent, with a €10,000 daily penalty if not fixed in a month. <span class="news-item__discussions"><a href="https://www.reddit.com/r/france/comments/1xii2ep/continuer_sans_accepter_fnac_darty_vous_tra%C3%A7ait/">[discussion on reddit]</a></span>
-
-### [Amazon, Uber, Instacart sue to block NYC law over delivery worker deactivation](https://www.reuters.com/legal/litigation/amazon-uber-instacart-sue-block-nyc-law-over-delivery-worker-deactivation-2026-10-29/)
-
-<span class="news-item__source">reuters.com</span> The three apps sued in Manhattan federal court to block a NYC law, effective January, requiring just cause and notice before deactivating delivery workers.
-
-## 28 October 2026
-
-### [The Star ordered to pay $260 million for serious AML/CTF breaches](https://www.austrac.gov.au/news-and-media/media-release/star-ordered-pay-260-million-serious-amlctf-breaches)
-
-<span class="news-item__source">austrac.gov.au</span> Australia's Federal Court fined The Star A$260m for AML/CTF failures that let over 1,200 high-risk customers gamble through high-risk channels without source-of-funds checks. <span class="news-item__discussions"><a href="https://www.reddit.com/r/australia/comments/1xh8s6e/star_casino_fined_260_million_for_historical/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/auslaw/comments/1xhb9vg/star_casino_fined_260m_for_money_laundering/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/brisbane/comments/1xh98yt/star_casino_fined_260_million_for_historical/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/aussie/comments/1xh8sxo/star_casino_fined_260m_for_money_laundering/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/ASX_Bets/comments/1xha6do/star_group_liquidation_star_casino_fined_260/">[discussion on reddit]</a></span>
-
-### [Portugal to reform labour laws](https://www.theportugalnews.com/news/2026-10-28/portugal-to-reform-labour-laws/1107935)
-
-<span class="news-item__source">theportugalnews.com</span> Labour minister Palma Ramalho told parliament Portugal will transpose the Platform Work Directive and pay-transparency rules, but conceded wider labour reform may slip.
-
-### [Plattformarbeit: Arbeitsgericht soll künftig über Status von Lieferfahrern entscheiden](https://www.tageblatt.lu/Luxemburg/Plattformarbeit-Arbeitsgericht-soll-kuenftig-ueber-Status-von-Lieferfahrern-entscheiden-114063.html)
-
-<span class="news-item__source">tageblatt.lu</span> Labour minister Marc Spautz said Luxembourg's Platform Work Directive bill, due by early December, will move worker-status disputes from administrative to labour courts.

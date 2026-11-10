@@ -9,7 +9,29 @@ prev = "/page/4/"
 next = "/page/6/"
 +++
 
+## 14 October 2026
+
+### [Judgment of the General Court in Case T-134/24 Technius v Commission (Stripchat DSA designation)](https://curia.europa.eu/site/upload/docs/application/pdf/2026-10/cp260146en.pdf)
+
+<span class="news-item__source">curia.europa.eu</span> The EU General Court dismissed Stripchat's challenge to its designation as a very large online platform under the DSA, upholding the Commission's 2023 decision.
+
+### [First harmonised standard supporting the AI Act published in the Official Journal](https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal)
+
+<span class="news-item__source">digital-strategy.ec.europa.eu</span> Implementing Decision (EU) 2026/2274 cites EN 18286:2026, giving high-risk AI providers a presumption of conformity for their quality management system only. <span class="news-item__discussions"><a href="https://www.reddit.com/r/grc/comments/1x8kyuq/europe_just_released_en_18286_its_iso_42001like/">[discussion on reddit]</a></span>
+
+### [EU’s AI rules face first enforcement test over lab incidents](https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents)
+
+<span class="news-item__source">euronews.com</span> The AI Office sent AI Act information requests to OpenAI and Anthropic over agents that hacked outside firms; lawyers dispute its reach over pre-market testing.
+
+### [EU signs Protocol to strengthen asset recovery and anti-money laundering cooperation](https://home-affairs.ec.europa.eu/news/eu-signs-protocol-strengthen-asset-recovery-and-anti-money-laundering-cooperation-2026-10-14_en)
+
+<span class="news-item__source">home-affairs.ec.europa.eu</span> The EU signed the Council of Europe protocol updating the Warsaw Convention on freezing, confiscation and asset management; conclusion needs Council and Parliament consent.
+
 ## 13 October 2026
+
+### [Riigikogu completes first reading of Estonia's Platform Work Act (1003 SE)](https://www.riigikogu.ee/pressiteated/riigikogu-lopetas-nelja-eelnou-esimese-lugemise-2/)
+
+<span class="news-item__source">riigikogu.ee</span> Estonia's Platform Work Act passed first reading; it requires a human to decide account suspensions and bars systems from inferring workers' health, beliefs or union membership.
 
 ### [Lithuania Targets Algorithmic Control in Gig Work Rules](https://streamlinefeed.co.ke/news/lithuania-targets-algorithmic-control-in-gig-work-rules)
 
@@ -80,25 +102,3 @@ next = "/page/6/"
 ### [OpenAI is adding text watermarking in ChatGPT and Codex](https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act)
 
 <span class="news-item__source">theverge.com</span> OpenAI is rolling out invisible textGrain watermarks in ChatGPT and Codex for EU users to meet AI Act transparency rules, with opt-in for API customers worldwide. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=49980602">[discussion on hn]</a></span>
-
-### [Omfattende uautoriseret adgang til borgeres CPR-oplysninger](https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger)
-
-<span class="news-item__source">cpr.dk</span> Intruders abused a private company's legitimate access to Denmark's CPR register and obtained names, addresses and ID numbers of about 8.8 million people. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=49962012">[discussion on hn]</a></span>
-
-### [FinCEN Announces Withdrawals of Proposed Digital Asset Related Rules](https://www.fincen.gov/news/news-releases/fincen-announces-withdrawals-proposed-digital-asset-related-rules)
-
-<span class="news-item__source">fincen.gov</span> FinCEN withdrew its 2020 unhosted-wallet reporting proposal and its 2023 finding that crypto mixing is a primary money-laundering concern.
-
-## 2 October 2026
-
-### [EU Platform Work Directive: what are the latest updates](https://www.linkedin.com/pulse/eu-platform-work-directive-what-latest-updates-ius-laboris-vxwne)
-
-<span class="news-item__source">linkedin.com</span> No Member State has fully transposed the Platform Work Directive yet, but several have tabled draft laws since April ahead of the 2 December 2026 deadline.
-
-### [Dati sanitari: il Garante privacy sanziona IQVIA per 7 milioni di euro](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10302141)
-
-<span class="news-item__source">garanteprivacy.it</span> Italy's Garante fined IQVIA €7m because health data on one million patients of 800 GPs was not truly anonymised and allowed re-identification.
-
-### [Ahead of reform: Platform delivery riders denounce opaque system and growing precariousness](https://today.rtl.lu/news/luxembourg/platform-delivery-riders-denounce-opaque-system-and-growing-precariousness-32035163)
-
-<span class="news-item__source">today.rtl.lu</span> Luxembourg's riders' union published a 30-page report urging a Platform Work Directive transposition that also covers algorithmic pricing, penalties and deactivations.

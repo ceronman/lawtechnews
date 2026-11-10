@@ -8,13 +8,31 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">387 stories on European law, technology regulation and digital rights, latest from 9 November 2026. Every headline links to the original source.</p>
+<p class="news-intro">392 stories on European law, technology regulation and digital rights, latest from 10 November 2026. Every headline links to the original source.</p>
+
+## 10 November 2026
+
+### [Macron wants AI banned wherever it threatens children](https://www.euronews.com/2026/11/10/macron-wants-ai-banned-wherever-it-threatens-children)
+
+<span class="news-item__source">euronews.com</span> Macron said AI uses that threaten children's mental health must be banned, as France readies a charter binding OpenAI and Anthropic to pre-audit models before children use them.
 
 ## 9 November 2026
 
 ### [Nordea comments on verdict in case about anti-money laundering measures from 2012 to 2015](https://www.nordea.com/en/news/nordea-comments-on-verdict-in-case-about-anti-money-laundering-measures-from-2012-to-2015)
 
 <span class="news-item__source">nordea.com</span> Copenhagen City Court acquitted Nordea on 5 of 7 AML counts over its 2012-15 controls and fined it DKK 155m, far below the DKK 6.6bn prosecutors sought. <span class="news-item__discussions"><a href="https://www.reddit.com/r/Denmark/comments/1xrpq01/nu_falder_dommen_over_nordea_i_historisk/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/TrueCrimeDK/comments/1xrq2in/nordea_i_historisk_sag_om_hvidvask/">[discussion on reddit]</a></span>
+
+### [Google Gemini routes personal Drive files and emails to human annotators](https://github.com/thisisme6598/gemini_files/)
+
+<span class="news-item__source">github.com</span> Google's help pages now say Gmail and Drive data in Gemini Connected Apps may be human reviewed and used for AI training, reversing a 2023 pledge; tests show emails pulled in unprompted. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50429426">[discussion on hn]</a></span>
+
+### [Google challenges €403m fine over processing of user location data](https://www.irishtimes.com/crime-law/courts/2026/11/09/google-challenges-403m-fine-over-processing-of-user-location-data/)
+
+<span class="news-item__source">irishtimes.com</span> Google sought judicial review of the DPC's €403m location-data fine in Ireland's High Court, alleging errors of law and fact and asking for a CJEU referral; the case was fast-tracked.
+
+### [EU to blacklist ten manipulative online design 'traps', leaked draft shows](https://www.euronews.com/2026/11/09/eu-to-blacklist-ten-manipulative-online-design-traps-leaked-draft-shows)
+
+<span class="news-item__source">euronews.com</span> A leaked Digital Fairness Act draft bans ten dark patterns, loot boxes for minors and profiling-based ads to children, with fines up to 6% of turnover; it is due on 11 November. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50428979">[discussion on hn]</a> <a href="https://www.reddit.com/r/heartopia/comments/1xshusu/eu_to_ban_lootbox_gacha_included_for_childrens/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/TugaTech/comments/1xrvg95/uni%C3%A3o_europeia_prepara_digital_fairness_act_para/">[discussion on reddit]</a></span>
 
 ## 8 November 2026
 
@@ -81,21 +99,3 @@ next = "/page/2/"
 ### [France, US clash over G7 effort on AI safety](https://www.politico.eu/article/france-us-clash-ai-safety-talks-a-g7/)
 
 <span class="news-item__source">politico.eu</span> The US blocked a French push for a G7 group to test frontier AI and share incident data, calling it unnecessary bureaucracy; France plans to resume talks in December. <span class="news-item__discussions"><a href="https://www.reddit.com/r/EUnews/comments/1xop6w3/france_us_clash_over_g7_effort_on_ai_safety/">[discussion on reddit]</a></span>
-
-### [FINRA Fines Webull $4.2 Million for Anti-Money Laundering and Best Execution Violations](https://www.finra.org/media-center/newsreleases/2026/finra-fines-webull-42-million-anti-money-laundering-and-best)
-
-<span class="news-item__source">finra.org</span> Webull opened 120,000+ accounts without reasonable ID checks, some backed by landscape photos instead of IDs, and missed suspicious transfers; it must certify AML remediation.
-
-### [El juez rechaza el recurso del jefe de Glovo y mantiene su decisión de enviarlo a juicio](https://www.infobae.com/espana/agencias/2026/11/05/el-juez-rechaza-el-recurso-del-jefe-de-glovo-y-mantiene-su-decision-de-enviarlo-a-juicio/)
-
-<span class="news-item__source">infobae.com</span> A Barcelona judge rejected Óscar Pierre's bid to annul the case, keeping him headed for trial for employing riders as false self-employed despite inspectorate orders.
-
-### [Budget 2026: Ottawa plans to shift oversight of banks' anti-money-laundering efforts from FinTRAC to OSFI](https://www.theglobeandmail.com/business/article-budget-money-laundering-supervision-fintrac-osfi/)
-
-<span class="news-item__source">theglobeandmail.com</span> Canada's 2026 budget moves AML supervision of federally regulated banks from FINTRAC to OSFI, after FATF and Auditor-General criticism of FINTRAC's oversight.
-
-## 4 November 2026
-
-### [Uber Australia Pty Ltd v Chief Commissioner of State Revenue [2026] HCA 40](https://www.hcourt.gov.au/sites/default/files/judgment-summaries/2026-11/hca-40-2026-11-04.pdf)
-
-<span class="news-item__source">hcourt.gov.au</span> Australia's High Court ruled 6–1 that Uber's payments to NSW drivers are wages under payroll-tax contractor provisions, leaving Uber with an A$81m bill for 2015–2020. <span class="news-item__discussions"><a href="https://www.reddit.com/r/australia/comments/1xn9idp/uber_to_pay_81_million_in_payroll_tax_to_nsw_tax/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/auslaw/comments/1xn9vvl/uber_to_py_81_million_in_payroll_tax_to_nsw_tax/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/uberdrivers/comments/1xnbzkp/81m_nsw_payroll_tax_bill_for_uber_after_the_high/">[discussion on reddit]</a></span>
