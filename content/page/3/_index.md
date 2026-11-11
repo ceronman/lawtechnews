@@ -9,7 +9,25 @@ prev = "/page/2/"
 next = "/page/4/"
 +++
 
+## 30 October 2026
+
+### [Dh200 million fine: UAE penalises foreign bank branch for violating money laundering laws](https://www.khaleejtimes.com/uae/dh200-million-fine-foreign-bank-branch-money-laundering-laws)
+
+<span class="news-item__source">khaleejtimes.com</span> The UAE central bank fined an unnamed foreign bank branch Dh200m for repeated AML/CFT and sanctions failures, plus personal fines on its CEO and compliance officer.
+
+### [CMA opens investigation into Meta's commercial terms](https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2)
+
+<span class="news-item__source">gov.uk</span> The CMA opened a Competition Act probe into whether Meta abuses dominance by forcing publishers to accept terms letting it reuse their content for AI; Meta has paused the rollout. <span class="news-item__discussions"><a href="https://www.reddit.com/r/prsuk/comments/1xjcjk6/cma_opens_investigation_into_metas_commercial/">[discussion on reddit]</a></span>
+
 ## 29 October 2026
+
+### [EU tells capitals to halt their national social media bans for a year](https://www.politico.eu/article/eu-tells-capitals-to-halt-their-national-social-media-bans-for-a-year/)
+
+<span class="news-item__source">politico.eu</span> The Commission imposed a 12-month standstill on national social media bans for minors that overlap the Kids Act, starting with Austria's under-14 ban. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xla1jp/eu_tells_capitals_to_halt_their_national_social/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/europe/comments/1xiteys/brussels_tells_capitals_to_wait_for_euwide_social/">[discussion on reddit]</a></span>
+
+### [Cookies et application mobile : sanctions de 7 millions d'euros à l'encontre des sociétés FNAC DARTY PARTICIPATIONS ET SERVICES et FNAC DIRECT](https://www.cnil.fr/fr/sanction-cookies-app-fnac)
+
+<span class="news-item__source">cnil.fr</span> The CNIL fined Fnac Darty €7m for an app tracker feeding browsing history to its recommendation algorithm without consent, with a €10,000 daily penalty if not fixed in a month. <span class="news-item__discussions"><a href="https://www.reddit.com/r/france/comments/1xii2ep/continuer_sans_accepter_fnac_darty_vous_tra%C3%A7ait/">[discussion on reddit]</a></span>
 
 ### [Amazon, Uber, Instacart sue to block NYC law over delivery worker deactivation](https://www.reuters.com/legal/litigation/amazon-uber-instacart-sue-block-nyc-law-over-delivery-worker-deactivation-2026-10-29/)
 
@@ -82,21 +100,3 @@ next = "/page/4/"
 ### [Decreto legislativo 7 ottobre 2026, n. 179 (Italian AI Act adaptation decree)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-10-07;179)
 
 <span class="news-item__source">normattiva.it</span> Italy's AI Act decree took effect, giving ACN and financial regulators sanctioning powers and requiring a human to make final AI-assisted hiring and dismissal decisions.
-
-## 22 October 2026
-
-### [US renews push for EU to soften Big Tech rules](https://www.politico.eu/article/us-renews-push-for-eu-to-soften-big-tech-rules/)
-
-<span class="news-item__source">politico.eu</span> Washington told the Commission it won't cut tariffs on EU steel and other goods unless Brussels eases DMA enforcement; the Commission reports on the deal by year-end. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xe790q/us_renews_pressure_on_eu_ease_big_tech_rules_to/">[discussion on reddit]</a></span>
-
-### [Poland's Sejm adopts Senate amendments to the DSA implementation law, expanding UKE's content-blocking powers](https://www.uke.gov.pl/akt/nowe-zadania-prezesa-uke-w-systemie-nadzoru-nad-dsa,708.html)
-
-<span class="news-item__source">uke.gov.pl</span> The law goes to the president; UKE can order blocking of listed illegal content, keep a domain register ISPs must block within 48 hours, and reverse wrongful takedowns.
-
-### [Farewell, France](https://quad9.net/news/blog/au-revoir-france/)
-
-<span class="news-item__source">quad9.net</span> A Paris court ordered Quad9 to block beIN-flagged piracy domains under a €1,000 daily penalty; Quad9 will stop serving French users from 24 November and is appealing. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50195959">[discussion on hn]</a> <a href="https://www.reddit.com/r/france/comments/1xcnugx/farewell_france/">[discussion on reddit]</a> <a href="https://linuxfr.org/users/pas_pey/liens/quad9-ferme-ses-services-dns-en-france">[discussion on linuxfr]</a></span>
-
-### [Directive sur les travailleurs de plateformes : pourquoi la France traîne les pieds (et comment elle sape le texte)](https://nvo.fr/directive-sur-les-travailleurs-de-plateformes-pourquoi-la-france-traine-les-pieds-et-comment-elle-sape-le-texte/)
-
-<span class="news-item__source">nvo.fr</span> France will miss the 2 December deadline; its transposition mission advises no automatic employment presumption, only faster labour-court claims.

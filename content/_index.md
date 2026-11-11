@@ -8,7 +8,7 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">392 stories on European law, technology regulation and digital rights, latest from 10 November 2026. Every headline links to the original source.</p>
+<p class="news-intro">396 stories on European law, technology regulation and digital rights, latest from 10 November 2026. Every headline links to the original source.</p>
 
 ## 10 November 2026
 
@@ -16,7 +16,19 @@ next = "/page/2/"
 
 <span class="news-item__source">euronews.com</span> Macron said AI uses that threaten children's mental health must be banned, as France readies a charter binding OpenAI and Anthropic to pre-audit models before children use them.
 
+### [Italian DPA fines Wind Tre EUR 1,7 million for data security failures affecting over 365 000 customers](https://www.edpb.europa.eu/news/italian-dpa-fines-wind-tre-eur-17-million-for-data-security-failures-affecting-over-365-000_en)
+
+<span class="news-item__source">edpb.europa.eu</span> Italy's Garante fined Wind Tre €1.7m after social engineers at two shops got remote access, exposing 365,000 customers' data, 41,359 with payment details.
+
+### [Five States Join FTC Lawsuit Alleging Hims and Hers Engaged in Deceptive and Unlawful Privacy Practices](https://www.ftc.gov/news-events/news/press-releases/2026/11/five-states-join-ftc-lawsuit-alleging-hims-hers-engaged-deceptive-unlawful-privacy-practices)
+
+<span class="news-item__source">ftc.gov</span> Arizona, Florida, Nebraska, Ohio and Wisconsin joined the FTC's suit alleging Hims & Hers shared customers' health data with Meta and Snap despite privacy promises.
+
 ## 9 November 2026
+
+### [PLFSS 2027 : un amendement du gouvernement propose le rattachement des livreurs et chauffeurs VTC à la branche AT-MP](https://www.aefinfo.fr/depeche/759950-plfss-2027-un-amendement-du-gouvernement-propose-le-rattachement-des-livreurs-et-chauffeurs-vtc-a-la-branche-at-mp)
+
+<span class="news-item__source">aefinfo.fr</span> France's government tabled a Senate amendment to the 2027 social security bill making platform riders and VTC drivers compulsorily covered by the work-accident branch.
 
 ### [Nordea comments on verdict in case about anti-money laundering measures from 2012 to 2015](https://www.nordea.com/en/news/nordea-comments-on-verdict-in-case-about-anti-money-laundering-measures-from-2012-to-2015)
 
@@ -87,15 +99,3 @@ next = "/page/2/"
 ### [New freelancer law doesn't create more clarity, but more uncertainty: Advisory body](https://nltimes.nl/2026/11/05/new-freelancer-law-doesnt-create-clarity-uncertainty-advisory-body)
 
 <span class="news-item__source">nltimes.nl</span> The Dutch regulatory burden board ATR said Minister Aartsen's bogus self-employment bill adds uncertainty, as its two tests only help freelancers who meet them exactly. <span class="news-item__discussions"><a href="https://www.reddit.com/r/FreelanceNL/comments/1xoejtn/nieuwe_zelfstandigenwet_krijgt_flinke_kritiek_atr/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/ZZPNederland/comments/1xoekn5/nieuwe_zelfstandigenwet_krijgt_flinke_kritiek_atr/">[discussion on reddit]</a></span>
-
-### [Judgment of the Court in Case C-205/25 Bayerisches Landesamt für Datenschutzaufsicht (complainants' right of access to DPA files)](https://curia.europa.eu/juris/liste.jsf?num=C-205/25&language=en)
-
-<span class="news-item__source">curia.europa.eu</span> The CJEU held that a DPA handling a GDPR complaint is a controller and must give the complainant Article 15 access to their data; national laws barring this are precluded.
-
-### [Government submits proposal for Platform Work Act](https://valtioneuvosto.fi/en/-/1410877/government-submits-proposal-for-platform-work-act)
-
-<span class="news-item__source">valtioneuvosto.fi</span> Finland's government sent Parliament its Platform Work Act, introducing a legal presumption of employment and more transparency on how algorithms organise platform work.
-
-### [France, US clash over G7 effort on AI safety](https://www.politico.eu/article/france-us-clash-ai-safety-talks-a-g7/)
-
-<span class="news-item__source">politico.eu</span> The US blocked a French push for a G7 group to test frontier AI and share incident data, calling it unnecessary bureaucracy; France plans to resume talks in December. <span class="news-item__discussions"><a href="https://www.reddit.com/r/EUnews/comments/1xop6w3/france_us_clash_over_g7_effort_on_ai_safety/">[discussion on reddit]</a></span>

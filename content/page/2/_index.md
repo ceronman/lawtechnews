@@ -11,6 +11,18 @@ next = "/page/3/"
 
 ## 5 November 2026
 
+### [Judgment of the Court in Case C-205/25 Bayerisches Landesamt für Datenschutzaufsicht (complainants' right of access to DPA files)](https://curia.europa.eu/juris/liste.jsf?num=C-205/25&language=en)
+
+<span class="news-item__source">curia.europa.eu</span> The CJEU held that a DPA handling a GDPR complaint is a controller and must give the complainant Article 15 access to their data; national laws barring this are precluded.
+
+### [Government submits proposal for Platform Work Act](https://valtioneuvosto.fi/en/-/1410877/government-submits-proposal-for-platform-work-act)
+
+<span class="news-item__source">valtioneuvosto.fi</span> Finland's government sent Parliament its Platform Work Act, introducing a legal presumption of employment and more transparency on how algorithms organise platform work.
+
+### [France, US clash over G7 effort on AI safety](https://www.politico.eu/article/france-us-clash-ai-safety-talks-a-g7/)
+
+<span class="news-item__source">politico.eu</span> The US blocked a French push for a G7 group to test frontier AI and share incident data, calling it unnecessary bureaucracy; France plans to resume talks in December. <span class="news-item__discussions"><a href="https://www.reddit.com/r/EUnews/comments/1xop6w3/france_us_clash_over_g7_effort_on_ai_safety/">[discussion on reddit]</a></span>
+
 ### [FINRA Fines Webull $4.2 Million for Anti-Money Laundering and Best Execution Violations](https://www.finra.org/media-center/newsreleases/2026/finra-fines-webull-42-million-anti-money-laundering-and-best)
 
 <span class="news-item__source">finra.org</span> Webull opened 120,000+ accounts without reasonable ID checks, some backed by landscape photos instead of IDs, and missed suspicious transfers; it must certify AML remediation.
@@ -51,6 +63,10 @@ next = "/page/3/"
 
 <span class="news-item__source">cnmc.es</span> Spain's CNMC opened sanctioning proceedings against Apple and Amazon for keeping until May 2025 the brand-gating clauses it fined €194m in 2023; it has three months to rule.
 
+### [Canal DPD: biometría en el alta de clientes (AEPD opinion on 1:1 facial verification)](https://www.aepd.es/documento/canal-dpd-biometria-alta-clientes.pdf)
+
+<span class="news-item__source">aepd.es</span> Spain's AEPD said biometrics are 'necessary' only if no equally effective alternative exists, and rated 1:1 facial verification lower-risk than 1:many recognition.
+
 ### [Brussels sets slimline legislative agenda for 2027](https://www.politico.eu/article/brussels-sets-slimline-legislative-agenda-for-2027/)
 
 <span class="news-item__source">politico.eu</span> The Commission's leaked 2027 Work Programme withdraws FIDA and the digital-tax proposals, plans a mid-2027 digital package, and reviews political-ad and data retention rules.
@@ -82,21 +98,3 @@ next = "/page/3/"
 ### [Outcomes FATF Plenary, 28-30 October 2026](https://www.fatf-gafi.org/en/publications/Fatfgeneral/outcomes-fatf-plenary-october-2026.html)
 
 <span class="news-item__source">fatf-gafi.org</span> FATF removed Bulgaria, Monaco, Côte d'Ivoire and the DRC from its grey list and launched a targeted review of virtual-asset AML compliance, with results due in 2027.
-
-### [Dh200 million fine: UAE penalises foreign bank branch for violating money laundering laws](https://www.khaleejtimes.com/uae/dh200-million-fine-foreign-bank-branch-money-laundering-laws)
-
-<span class="news-item__source">khaleejtimes.com</span> The UAE central bank fined an unnamed foreign bank branch Dh200m for repeated AML/CFT and sanctions failures, plus personal fines on its CEO and compliance officer.
-
-### [CMA opens investigation into Meta's commercial terms](https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2)
-
-<span class="news-item__source">gov.uk</span> The CMA opened a Competition Act probe into whether Meta abuses dominance by forcing publishers to accept terms letting it reuse their content for AI; Meta has paused the rollout. <span class="news-item__discussions"><a href="https://www.reddit.com/r/prsuk/comments/1xjcjk6/cma_opens_investigation_into_metas_commercial/">[discussion on reddit]</a></span>
-
-## 29 October 2026
-
-### [EU tells capitals to halt their national social media bans for a year](https://www.politico.eu/article/eu-tells-capitals-to-halt-their-national-social-media-bans-for-a-year/)
-
-<span class="news-item__source">politico.eu</span> The Commission imposed a 12-month standstill on national social media bans for minors that overlap the Kids Act, starting with Austria's under-14 ban. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xla1jp/eu_tells_capitals_to_halt_their_national_social/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/europe/comments/1xiteys/brussels_tells_capitals_to_wait_for_euwide_social/">[discussion on reddit]</a></span>
-
-### [Cookies et application mobile : sanctions de 7 millions d'euros à l'encontre des sociétés FNAC DARTY PARTICIPATIONS ET SERVICES et FNAC DIRECT](https://www.cnil.fr/fr/sanction-cookies-app-fnac)
-
-<span class="news-item__source">cnil.fr</span> The CNIL fined Fnac Darty €7m for an app tracker feeding browsing history to its recommendation algorithm without consent, with a €10,000 daily penalty if not fixed in a month. <span class="news-item__discussions"><a href="https://www.reddit.com/r/france/comments/1xii2ep/continuer_sans_accepter_fnac_darty_vous_tra%C3%A7ait/">[discussion on reddit]</a></span>
