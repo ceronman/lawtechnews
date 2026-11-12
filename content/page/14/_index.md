@@ -4,12 +4,32 @@ template = "index.html"
 
 [extra]
 page_num = 14
-page_count = 20
+page_count = 21
 prev = "/page/13/"
 next = "/page/15/"
 +++
 
 ## 17 August 2026
+
+### [Vietnam Tightens Online Speech Controls as Cyber Law Takes Effect](https://www.techpolicy.press/vietnam-tightens-online-speech-controls-as-cyber-law-takes-effect/)
+
+<span class="news-item__source">techpolicy.press</span> Vietnam's revised Cybersecurity Law took effect on 1 July, giving platforms six hours to remove content in urgent cases and fining users up to $1,900.
+
+### [Sainsbury's store pauses AI scanning after false shoplifting accusation](https://www.theguardian.com/technology/2026/aug/17/humiliated-sainsburys-store-pauses-ai-scanning-after-false-shoplifting-accusation)
+
+<span class="news-item__source">theguardian.com</span> Sainsbury's suspended Facewatch facial recognition at its East Dulwich store after a customer was wrongly ejected as a shoplifter; it blamed human error, not the tech.
+
+### [Report supporting Australia's teen social media ban appears to contain AI hallucinations, Senate hears](https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb)
+
+<span class="news-item__source">theguardian.com</span> Six references in the $3.48m age-assurance trial report point to non-existent or wrong papers; the contractor conceded ChatGPT was used to rewrite text.
+
+### [Minnesota defends AI 'nudification' ban after lawsuit from Musk's xAI](https://www.reuters.com/legal/government/minnesota-defends-ai-nudification-ban-after-lawsuit-musks-xai-2026-08-17/)
+
+<span class="news-item__source">reuters.com</span> Minnesota's attorney general urged a judge to reject xAI's First Amendment bid to halt the first US nudification ban, which carries $500,000 per violation.
+
+### [Binance gave Moscow client details used to charge Russian over Ukraine donations, documents show](https://www.reuters.com/legal/government/binance-gave-moscow-client-details-used-charge-russian-over-ukraine-donations-2026-08-17/)
+
+<span class="news-item__source">reuters.com</span> Binance handed Russian investigators a client's passport, address and transaction data, used to charge him with terrorism financing over $700 in Ukraine donations.
 
 ### [Apple changes its rules for personalised advertising in apps](https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html)
 
@@ -78,25 +98,3 @@ next = "/page/15/"
 ### [Expanding Capabilities to Combat Transnational Cyber-Enabled Crime](https://www.whitehouse.gov/presidential-actions/2026/08/expanding-capabilities-to-combat-transnational-cyber-enabled-crime/)
 
 <span class="news-item__source">whitehouse.gov</span> Trump signed a memorandum letting vetted US firms run offensive cyber operations against foreign criminal networks, with a $1m escrow and DOJ-DHS sign-off per operation.
-
-## 11 August 2026
-
-### [US human rights groups sue Trump over anti-ICC push](https://www.reuters.com/legal/government/us-human-rights-groups-sue-trump-over-anti-icc-push-2026-08-11/)
-
-<span class="news-item__source">reuters.com</span> Human Rights Watch, Open Society, AFSC and the Center for Constitutional Rights sued in New York to void Trump's executive order sanctioning those who work with the ICC.
-
-### [The backlash to social media bans has already begun](https://www.politico.eu/article/social-media-bans-minors-global-backlash/)
-
-<span class="news-item__source">politico.eu</span> Eight months after Australia's under-16 ban, its regulator found over 80% of minors still using social media, and experts warned von der Leyen against EU-wide blanket bans.
-
-### [Meta glasses banned from courts in England and Wales](https://www.theguardian.com/technology/2026/aug/11/meta-glasses-banned-from-courts-in-england-and-wales)
-
-<span class="news-item__source">theguardian.com</span> HMCTS will confiscate Meta smart glasses from anyone entering courts in England and Wales, while still allowing smartphones inside judicial buildings.
-
-### [French media asks French anti-trust watchdog to act on Google's AI](https://www.reuters.com/world/french-media-asks-french-anti-trust-watchdog-act-googles-ai-2026-08-11/)
-
-<span class="news-item__source">reuters.com</span> French press publishers asked the Autorite de la concurrence to curb Google's AI summaries, seeking the payment-plan remedy imposed on Meta in July.
-
-### [FinCEN Permanently Ends Beneficial Ownership Reporting Requirements for Millions of Small Business Owners](https://www.fincen.gov/news/news-releases/fincen-permanently-ends-beneficial-ownership-reporting-requirements-millions)
-
-<span class="news-item__source">fincen.gov</span> FinCEN's final rule permanently exempts US companies and persons from Corporate Transparency Act ownership reporting and deletes their records from the database.

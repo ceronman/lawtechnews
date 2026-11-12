@@ -4,12 +4,34 @@ template = "index.html"
 
 [extra]
 page_num = 3
-page_count = 20
+page_count = 21
 prev = "/page/2/"
 next = "/page/4/"
 +++
 
+## 2 November 2026
+
+### [ΥΠΕΚΑ Ν. Κεραμέως: Θέτουμε κανόνες στη χρήση της τεχνητής νοημοσύνης στην αγορά εργασίας (Greek Platform Work Directive transposition bill)](https://ypergasias.gov.gr/ypeka-n-kerameos-thetoume-kanones-sti-chrisi-tis-technitis-noimosynis-stin-agora-ergasias/)
+
+<span class="news-item__source">ypergasias.gov.gr</span> Labour minister Kerameus presented Greece's Platform Work Directive bill to cabinet, mandating human oversight of algorithmic management and correct classification of platform workers.
+
+### [Επιβολή προστίμου σε εταιρεία για παραβίαση των αρχών νομιμότητας επεξεργασίας (Greek DPA fines Teleperformance Greece)](https://www.dpa.gr/el/enimerwtiko/prakseisArxis/epiboli-prostimoy-se-etaireia-gia-parabiasi-ton-arhon-nomimotitas)
+
+<span class="news-item__source">dpa.gr</span> Greece's DPA fined Teleperformance Greece €100,000 for deleting a former employee's data while his legal claims were pending and mishandling his access request.
+
+### [La Inspección de Trabajo de Cataluña investiga si Amazon, Glovo y Uber Eats hicieron trabajar a sus repartidores durante las alertas por lluvias torrenciales](https://www.infobae.com/espana/2026/11/02/la-inspeccion-de-trabajo-de-cataluna-investiga-si-amazon-glovo-y-uber-eats-hicieron-trabajar-a-sus-repartidores-durante-las-alertas-por-lluvias-torrenciales/)
+
+<span class="news-item__source">infobae.com</span> Catalonia's labour inspectorate opened an ex officio probe into whether Glovo, Uber Eats and Amazon kept riders working during rain alerts, demanding their safety protocols.
+
+### [EU Commission to probe supermarket cyberattacks](https://www.politico.eu/article/european-commission-probe-supermarket-cyberattack-christophe-hansen/)
+
+<span class="news-item__source">politico.eu</span> The Commission's Security College will assess retailers' cyber preparedness after hackers knocked out fridges in supermarkets across at least six EU countries. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50344433">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50341699">[discussion on hn]</a></span>
+
 ## 30 October 2026
+
+### [Outcomes FATF Plenary, 28-30 October 2026](https://www.fatf-gafi.org/en/publications/Fatfgeneral/outcomes-fatf-plenary-october-2026.html)
+
+<span class="news-item__source">fatf-gafi.org</span> FATF removed Bulgaria, Monaco, Côte d'Ivoire and the DRC from its grey list and launched a targeted review of virtual-asset AML compliance, with results due in 2027.
 
 ### [Dh200 million fine: UAE penalises foreign bank branch for violating money laundering laws](https://www.khaleejtimes.com/uae/dh200-million-fine-foreign-bank-branch-money-laundering-laws)
 
@@ -78,25 +100,3 @@ next = "/page/4/"
 ### [Commission brings banks and online platforms together in the fight against online scams](https://digital-strategy.ec.europa.eu/en/news/commission-brings-banks-and-online-platforms-together-fight-against-online-scams)
 
 <span class="news-item__source">digital-strategy.ec.europa.eu</span> The Commission is consulting banks, trusted flaggers and platforms on a voluntary DSA anti-scam code covering advertiser verification and bank–platform signal sharing.
-
-### [Commission accepts Temu's action plan to remedy the breach of the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-action-plan-remedy-breach-digital-services-act)
-
-<span class="news-item__source">digital-strategy.ec.europa.eu</span> After its €200m DSA fine, Temu committed to five measures, including a recommender-system review, and must file an interim risk assessment within four months. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50256431">[discussion on hn]</a> <a href="https://www.reddit.com/r/EU_Economics/comments/1xgkr80/temu_falls_into_line_as_eu_backs_its_action_plan/">[discussion on reddit]</a></span>
-
-## 23 October 2026
-
-### [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update)
-
-<span class="news-item__source">theverge.com</span> Since 16 October Google's privacy policy lets it target ads using Gmail, Drive and Photos data that users connect to AI Mode via Personal Intelligence. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50214218">[discussion on hn]</a> <a href="https://www.reddit.com/r/technology/comments/1xdpddf/google_quietly_changes_privacy_policy_so_your/">[discussion on reddit]</a></span>
-
-### [Meta delays AI business terms amid media sector outcry](https://www.rapporteur.com/news/meta-delays-ai-business-terms-until-20-november/)
-
-<span class="news-item__source">rapporteur.com</span> Meta pushed its new AI business terms for Facebook and Instagram from 30 October to 20 November after publishers objected; the Commission is weighing them under the DMA.
-
-### [Greece passes social media ban for children under 15](https://www.reuters.com/legal/litigation/greece-passes-social-media-ban-children-under-15-2026-10-23/)
-
-<span class="news-item__source">reuters.com</span> Greek MPs banned social media for under-15s from 1 January 2027; platforms have about 2.5 months to build age verification that protects user privacy. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50216105">[discussion on hn]</a> <a href="https://www.reddit.com/r/technology/comments/1xdo5q0/greece_enacts_social_media_ban_for_kids_under_15/">[discussion on reddit]</a> <a href="https://tech.slashdot.org/story/26/10/23/1928227/greece-enacts-social-media-ban-for-kids-under-15">[discussion on slashdot]</a></span>
-
-### [Decreto legislativo 7 ottobre 2026, n. 179 (Italian AI Act adaptation decree)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-10-07;179)
-
-<span class="news-item__source">normattiva.it</span> Italy's AI Act decree took effect, giving ACN and financial regulators sanctioning powers and requiring a human to make final AI-assisted hiring and dismissal decisions.

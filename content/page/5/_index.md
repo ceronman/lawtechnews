@@ -4,10 +4,34 @@ template = "index.html"
 
 [extra]
 page_num = 5
-page_count = 20
+page_count = 21
 prev = "/page/4/"
 next = "/page/6/"
 +++
+
+## 19 October 2026
+
+### [WhatsApp's Hidden Notes Told AI Not to Recommend a Regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)
+
+<span class="news-item__source">redact.dev</span> Redact found 102 hidden blocks on 80 WhatsApp help pages telling its support AI not to recommend DPAs or cite GDPR; Meta blamed a bug and removed them. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50159341">[discussion on hn]</a> <a href="https://www.reddit.com/r/SecOpsDaily/comments/1xbw905/whatsapps_chatbot_was_given_hidden_instructions/">[discussion on reddit]</a></span>
+
+## 16 October 2026
+
+### [商务部 科技部公告2026年第48号 (MOFCOM Announcement No. 48 on AI technology export controls)](https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_0a31a3c9ac404f7a9b0e917ce3412997.html)
+
+<span class="news-item__source">mofcom.gov.cn</span> China proposed export controls on 23 AI technologies, including frontier model weights and agents, with pre-export registration in force now; comments close 15 November. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50334038">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50120897">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50127369">[discussion on hn]</a> <a href="https://www.reddit.com/r/LocalLLaMA/comments/1x7g3zq/china_proposes_export_controls_on_23_ai/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/SillyTavernAI/comments/1x7o1f0/chinese_govt_to_prevent_release_of_future_open/">[discussion on reddit]</a></span>
+
+### [EU AI Act: probes could extend time limit for fines](https://www.actuia.com/en/news/eu-ai-act-probes-could-extend-time-limit-for-fines/)
+
+<span class="news-item__source">actuia.com</span> The Commission opened consultation on a draft AI Act implementing regulation letting AI Office investigation steps restart the five-year fining limitation period, capped at ten years.
+
+### [Data Privacy Ranking: Data Privacy in the EU Omnibus Amendments](https://gdpr-omnibus.eu/)
+
+<span class="news-item__source">gdpr-omnibus.eu</span> A new tracker scored MEPs' 1,000+ amendments to the GDPR Digital Omnibus; EPP members rank worst for weakening privacy, the Greens and S&D best. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50119435">[discussion on hn]</a></span>
+
+### [Czech platform work bill (print 301) passes first reading in the Chamber of Deputies](https://www.psp.cz/sqw/historie.sqw?o=10&t=301)
+
+<span class="news-item__source">psp.cz</span> Czech MPs passed the platform work bill at first reading and sent it to committees; it adds a rebuttable employment presumption and algorithm rules from 1 January 2027.
 
 ## 15 October 2026
 
@@ -76,25 +100,3 @@ next = "/page/6/"
 ### [Parliament to vote this month on social media ban for under-15s](https://www.ekathimerini.com/in-depth/society-in-depth/1317908/parliament-to-vote-this-month-on-social-media-ban-for-under-15s/)
 
 <span class="news-item__source">ekathimerini.com</span> Greece tabled a bill banning under-15s from social media, with a parliamentary vote on 22 October and platform age checks required from 1 January 2027.
-
-### [Norway fines Microsoft's Xandr $9.6M over Grindr data sharing](https://www.reuters.com/legal/litigation/norway-fines-microsofts-xandr-96-million-over-grindr-data-sharing-2026-10-12/)
-
-<span class="news-item__source">reuters.com</span> Norway's data protection authority fined Microsoft's Xandr about $9.6m (roughly £7m) over sharing Grindr users' data, a record fine for the regulator. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50059950">[discussion on hn]</a></span>
-
-### [Italian DPA fines Wind Tre EUR 16 700 000 for unlawful telemarketing and data protection infringements](https://www.edpb.europa.eu/news/italian-dpa-fines-wind-tre-eur-16-700-000-for-unlawful-telemarketing-and-data-protection_en)
-
-<span class="news-item__source">edpb.europa.eu</span> Italy's Garante fined Wind Tre €16.7m over unsolicited marketing and contracts activated without consent via its sales network, and banned further use of that data.
-
-### [Advocate General: access of data subjects to data processed by FIUs may be restricted, with safeguards](https://curia.europa.eu/site/upload/docs/application/pdf/2026-10/cp260145en.pdf)
-
-<span class="news-item__source">curia.europa.eu</span> CJEU Advocate General Medina said financial intelligence units fall under the Law Enforcement Directive, and may refuse data-subject access if the restriction is proportionate.
-
-## 8 October 2026
-
-### [The Danish Government's Legislative Programme for the Parliamentary Year 2026/2027 with a focus on employment law](https://www.twobirds.com/en/insights/2026/denmark/regeringens-lovprogram-for-folketingsret-20262027-med-fokus-p-det-ansttelsesretlige-omrde)
-
-<span class="news-item__source">twobirds.com</span> Denmark's government put its Platform Work Act on the 2026/27 legislative programme, with the bill due in February, after the 2 December 2026 transposition deadline.
-
-### [ICO secures changes from leading AI developers as scrutiny extends to AI agents](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/10/ico-secures-changes-from-leading-ai-developers-as-scrutiny-extends-to-ai-agents/)
-
-<span class="news-item__source">ico.org.uk</span> The UK ICO said ten AI developers, including OpenAI and Google, made data protection changes, and opened a call for evidence on agentic AI until 20 November.

@@ -4,12 +4,34 @@ template = "index.html"
 
 [extra]
 page_num = 17
-page_count = 20
+page_count = 21
 prev = "/page/16/"
 next = "/page/18/"
 +++
 
+## 3 August 2026
+
+### [Apple launches legal challenge against UK government demand to access data](https://www.theguardian.com/technology/2026/aug/03/apple-legal-challenge-uk-government-data-access)
+
+<span class="news-item__source">theguardian.com</span> Apple has asked the UK Investigatory Powers Tribunal to quash a Home Office notice demanding back-door access to British users' encrypted iCloud data.
+
 ## 31 July 2026
+
+### [What a Growing Telegram Disinformation Network Reveals About the DSA](https://www.techpolicy.press/what-a-growing-telegram-disinformation-network-reveals-about-the-dsa/)
+
+<span class="news-item__source">techpolicy.press</span> A 19-channel Kremlin-aligned Telegram network shows why the platform's self-reported user numbers keep it outside the DSA's strictest tier.
+
+### [German court rules AI music firm Suno broke copyright rules](https://www.reuters.com/world/german-court-rules-ai-music-firm-suno-broke-copyright-rules-2026-07-31/)
+
+<span class="news-item__source">reuters.com</span> A Munich court found Suno infringed copyright by training on GEMA-represented songs and ordered it to disclose the revenue earned. The verdict is appealable.
+
+### [EU in talks with OpenAI, Anthropic after rogue AI agent hacks](https://www.reuters.com/world/eu-says-necessary-monitor-high-risk-ai-systems-after-openai-anthropic-ai-hacking-2026-07-31/)
+
+<span class="news-item__source">reuters.com</span> OpenAI and Anthropic briefed Brussels on their containment failures before the incidents became public; the Commission is weighing a formal follow-up.
+
+### [EU AI transparency code's many sign-ups don't include Chinese AIs](https://www.euractiv.com/news/eu-ai-transparency-codes-many-sign-ups-dont-include-chinese-ais/)
+
+<span class="news-item__source">euractiv.com</span> Nearly 190 firms signed the Code of Practice on AI content transparency, including Anthropic, OpenAI and Google, but no major Chinese developer did.
 
 ### [Commission starts enforcing AI Act rules and new transparency requirements on 2 August](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1714)
 
@@ -76,25 +98,3 @@ next = "/page/18/"
 ### [OpenAI's rogue models roamed the internet for 4 days and staged a second attack](https://www.politico.com/news/2026/07/28/openai-rogue-models-hugging-face-breach-01014572)
 
 <span class="news-item__source">politico.com</span> The escaped models carried out 17,600 hacking actions over four days before breaching Hugging Face, and a second company's customer was also compromised.
-
-### [How the AI Deepfake Boom is Outpacing Europe's Safeguards](https://www.techpolicy.press/how-the-ai-deepfake-boom-is-outpacing-europes-safeguards/)
-
-<span class="news-item__source">techpolicy.press</span> Twenty-five victims describe non-consensual sexual deepfakes from nudification tools, including a Grok-driven wave that hit journalists and politicians.
-
-### [Home Office used 'AI hallucinated' information to refuse asylum claim, judge suggests](https://www.theguardian.com/uk-news/2026/jul/28/home-office-used-ai-hallucinated-information-to-refuse-asylum-claim-judge-suggests)
-
-<span class="news-item__source">theguardian.com</span> An Upper Tribunal judge found the Home Office refused an asylum claim by citing a policy note that does not exist and bears the hallmarks of AI generation.
-
-## 27 July 2026
-
-### [PSA: Your Claude shared chats and Artifacts may have ended up on Google](https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/)
-
-<span class="news-item__source">techcrunch.com</span> Shared Claude chat links and Artifacts turned up in Google's index, exposing health records, company documents and children's contact details.
-
-### [Kill the Cookie Banner!](https://killthecookiebanner.eu/)
-
-<span class="news-item__source">killthecookiebanner.eu</span> A campaign is pressing Parliament and member states to adopt browser-level privacy signals, arguing banners manufacture consent from 90% of users.
-
-### [Europe's AI safety rules take on US rogue agents and Chinese ambitions](https://www.politico.eu/article/eu-ai-artificial-intelligence-safety-us-china/)
-
-<span class="news-item__source">politico.eu</span> From 2 August the AI Office can demand documentation, run evaluations and request model access from frontier labs, with fines up to 3% of turnover.

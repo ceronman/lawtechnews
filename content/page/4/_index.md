@@ -4,10 +4,34 @@ template = "index.html"
 
 [extra]
 page_num = 4
-page_count = 20
+page_count = 21
 prev = "/page/3/"
 next = "/page/5/"
 +++
+
+## 26 October 2026
+
+### [Commission accepts Temu's action plan to remedy the breach of the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-action-plan-remedy-breach-digital-services-act)
+
+<span class="news-item__source">digital-strategy.ec.europa.eu</span> After its €200m DSA fine, Temu committed to five measures, including a recommender-system review, and must file an interim risk assessment within four months. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50256431">[discussion on hn]</a> <a href="https://www.reddit.com/r/EU_Economics/comments/1xgkr80/temu_falls_into_line_as_eu_backs_its_action_plan/">[discussion on reddit]</a></span>
+
+## 23 October 2026
+
+### [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update)
+
+<span class="news-item__source">theverge.com</span> Since 16 October Google's privacy policy lets it target ads using Gmail, Drive and Photos data that users connect to AI Mode via Personal Intelligence. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50214218">[discussion on hn]</a> <a href="https://www.reddit.com/r/technology/comments/1xdpddf/google_quietly_changes_privacy_policy_so_your/">[discussion on reddit]</a></span>
+
+### [Meta delays AI business terms amid media sector outcry](https://www.rapporteur.com/news/meta-delays-ai-business-terms-until-20-november/)
+
+<span class="news-item__source">rapporteur.com</span> Meta pushed its new AI business terms for Facebook and Instagram from 30 October to 20 November after publishers objected; the Commission is weighing them under the DMA.
+
+### [Greece passes social media ban for children under 15](https://www.reuters.com/legal/litigation/greece-passes-social-media-ban-children-under-15-2026-10-23/)
+
+<span class="news-item__source">reuters.com</span> Greek MPs banned social media for under-15s from 1 January 2027; platforms have about 2.5 months to build age verification that protects user privacy. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50216105">[discussion on hn]</a> <a href="https://www.reddit.com/r/technology/comments/1xdo5q0/greece_enacts_social_media_ban_for_kids_under_15/">[discussion on reddit]</a> <a href="https://tech.slashdot.org/story/26/10/23/1928227/greece-enacts-social-media-ban-for-kids-under-15">[discussion on slashdot]</a></span>
+
+### [Decreto legislativo 7 ottobre 2026, n. 179 (Italian AI Act adaptation decree)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-10-07;179)
+
+<span class="news-item__source">normattiva.it</span> Italy's AI Act decree took effect, giving ACN and financial regulators sanctioning powers and requiring a human to make final AI-assisted hiring and dismissal decisions.
 
 ## 22 October 2026
 
@@ -74,27 +98,3 @@ next = "/page/5/"
 ### [City Attorney secures additional $2.3 million settlement for delivery drivers misclassified by WorkWhile](https://www.sf.gov/news-city-attorney-secures-additional-23-million-settlement-for-delivery-drivers-misclassified-by-workwhile)
 
 <span class="news-item__source">sf.gov</span> A San Francisco court approved a final judgment rejecting WorkWhile's Prop 22 defence; the app must treat all California workers as employees from 2027.
-
-## 19 October 2026
-
-### [WhatsApp's Hidden Notes Told AI Not to Recommend a Regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)
-
-<span class="news-item__source">redact.dev</span> Redact found 102 hidden blocks on 80 WhatsApp help pages telling its support AI not to recommend DPAs or cite GDPR; Meta blamed a bug and removed them. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50159341">[discussion on hn]</a> <a href="https://www.reddit.com/r/SecOpsDaily/comments/1xbw905/whatsapps_chatbot_was_given_hidden_instructions/">[discussion on reddit]</a></span>
-
-## 16 October 2026
-
-### [商务部 科技部公告2026年第48号 (MOFCOM Announcement No. 48 on AI technology export controls)](https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_0a31a3c9ac404f7a9b0e917ce3412997.html)
-
-<span class="news-item__source">mofcom.gov.cn</span> China proposed export controls on 23 AI technologies, including frontier model weights and agents, with pre-export registration in force now; comments close 15 November. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50334038">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50120897">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50127369">[discussion on hn]</a> <a href="https://www.reddit.com/r/LocalLLaMA/comments/1x7g3zq/china_proposes_export_controls_on_23_ai/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/SillyTavernAI/comments/1x7o1f0/chinese_govt_to_prevent_release_of_future_open/">[discussion on reddit]</a></span>
-
-### [EU AI Act: probes could extend time limit for fines](https://www.actuia.com/en/news/eu-ai-act-probes-could-extend-time-limit-for-fines/)
-
-<span class="news-item__source">actuia.com</span> The Commission opened consultation on a draft AI Act implementing regulation letting AI Office investigation steps restart the five-year fining limitation period, capped at ten years.
-
-### [Data Privacy Ranking: Data Privacy in the EU Omnibus Amendments](https://gdpr-omnibus.eu/)
-
-<span class="news-item__source">gdpr-omnibus.eu</span> A new tracker scored MEPs' 1,000+ amendments to the GDPR Digital Omnibus; EPP members rank worst for weakening privacy, the Greens and S&D best. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50119435">[discussion on hn]</a></span>
-
-### [Czech platform work bill (print 301) passes first reading in the Chamber of Deputies](https://www.psp.cz/sqw/historie.sqw?o=10&t=301)
-
-<span class="news-item__source">psp.cz</span> Czech MPs passed the platform work bill at first reading and sent it to committees; it adds a rebuttable employment presumption and algorithm rules from 1 January 2027.

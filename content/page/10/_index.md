@@ -4,12 +4,36 @@ template = "index.html"
 
 [extra]
 page_num = 10
-page_count = 20
+page_count = 21
 prev = "/page/9/"
 next = "/page/11/"
 +++
 
+## 16 September 2026
+
+### [2026 State of the Union Address by President von der Leyen](https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1868)
+
+<span class="news-item__source">ec.europa.eu</span> Von der Leyen unveiled an EU Kids Act: no social media under 13, no personal account under 15, and parent-supervised mini accounts capped at one hour a day.
+
+## 15 September 2026
+
+### [Leak: EU Commission to pitch social media restrictions for under-15s](https://www.euronews.com/my-europe/2026/09/15/leak-eu-commission-to-pitch-social-media-restrictions-for-under-15s)
+
+<span class="news-item__source">euronews.com</span> A leaked EU Kids Act draft would bar under-15s from social media without parental consent and impose safety-by-design duties on video games and AI chatbots.
+
+### [Commission proposes ambitious measures to strengthen fair labour mobility](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1851)
+
+<span class="news-item__source">ec.europa.eu</span> The Commission adopted the Fair Labour Mobility package: a European Social Security Pass, digital qualifications in the EU Identity Wallet, and a strengthened Labour Authority.
+
+### [Anti-money laundering and asset recovery strategy: 2026 to 2029](https://www.gov.uk/government/publications/anti-money-laundering-and-asset-recovery-strategy-2026-to-2029)
+
+<span class="news-item__source">gov.uk</span> The Home Office set the UK's three-year AML direction, cutting supervisors from 25 to three and moving legal and accountancy firms to the FCA from late 2028.
+
 ## 14 September 2026
+
+### [Wide-ranging AI Bill needed to address severe human rights risks posed by AI](https://committees.parliament.uk/committee/93/human-rights-joint-committee/news/217859/wideranging-ai-bill-needed-to-address-severe-human-rights-risks-posed-by-ai/)
+
+<span class="news-item__source">committees.parliament.uk</span> The UK Joint Committee on Human Rights called for a risk-tiered AI Bill covering the whole supply chain, outright bans on some uses, and a single statutory AI regulator.
 
 ### [Primera notificación de una brecha de datos personales causada por un ataque ejecutado mediante un agente de IA](https://www.aepd.es/prensa-y-comunicacion/blog/primera-notiviacion-brecha-datos-personales-causada-por-ataque-ejecutado-mediante-agente-ia)
 
@@ -74,27 +98,3 @@ next = "/page/11/"
 ### [California gig drivers secure collective bargaining power in historic first](https://www.latimes.com/business/story/2026-09-10/california-clears-way-for-uber-lyft-driver-union)
 
 <span class="news-item__source">latimes.com</span> California's labour board certified the SEIU-backed Gig Workers Union as statewide bargaining agent for Uber and Lyft drivers, covering pay, deactivations and safety.
-
-## 9 September 2026
-
-### [Risks of Gaming and Gambling](https://www.fatf-gafi.org/en/publications/Methodsandtrends/risks-of-gaming-and-gambling.html)
-
-<span class="news-item__source">fatf-gafi.org</span> The FATF published findings and new risk indicators on money laundering and terrorist financing through casinos, online gambling and in-game payment channels.
-
-### [Non-respect des droits des personnes : sanction de 300 000 euros à l'encontre de la société EXTIA](https://www.cnil.fr/fr/sanction-non-respect-droits-personnes-extia)
-
-<span class="news-item__source">cnil.fr</span> The CNIL fined IT consultancy EXTIA €300,000 after more than three quarters of the 265 erasure requests it received in 2024 went unanswered or badly handled.
-
-### [Judgment of the General Court in Case T-1139/23 Booking Holdings v Commission](https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260125en.pdf)
-
-<span class="news-item__source">curia.europa.eu</span> The General Court dismissed Booking's action and upheld the Commission's prohibition of its acquisition of flight-booking provider Etraveli Group.
-
-### [European Commission: Defend the DMA and reject Apple's new App Store terms](https://www.article19.org/resources/european-commission-defend-the-dma-and-reject-apples-new-app-store-terms/)
-
-<span class="news-item__source">article19.org</span> A coalition of app developers and rights groups told the Commission that Apple's new EU App Store terms, due on 1 October, still fail to comply with the DMA.
-
-## 8 September 2026
-
-### [Referencia del Consejo de Ministros: real decreto de condiciones laborales transparentes y previsibles](https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2026/20260908-referencia-rueda-de-prensa-ministros.aspx)
-
-<span class="news-item__source">lamoncloa.gob.es</span> Spain approved a royal decree transposing the transparent working conditions directive, adding an individual right to know which algorithmic systems shape a worker's pay and tasks.

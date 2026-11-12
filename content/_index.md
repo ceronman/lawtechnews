@@ -3,12 +3,30 @@ title = "Law & Tech News"
 
 [extra]
 page_num = 1
-page_count = 20
+page_count = 21
 prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">396 stories on European law, technology regulation and digital rights, latest from 10 November 2026. Every headline links to the original source.</p>
+<p class="news-intro">401 stories on European law, technology regulation and digital rights, latest from 11 November 2026. Every headline links to the original source.</p>
+
+## 11 November 2026
+
+### [La Fiscal General encarga a la Fiscal de Criminalidad Informática la investigación de los presuntos casos de abuso sexual infantil en TikTok](https://www.fiscal.es/-/la-fiscal-general-encomienda-a-la-fiscal-de-criminalidad-inform%C3%A1tica-la-investigaci%C3%B3n-de-los-presuntos-casos-de-abuso-sexual-infantil-en-tiktok)
+
+<span class="news-item__source">fiscal.es</span> Spain's Attorney General assigned the cybercrime prosecutor to investigate TikTok after Maldita.es reported over 1,000 child sexual abuse videos with 48 million views. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xrsidx/spanish_government_considers_tiktok_ban_due_to/">[discussion on reddit]</a></span>
+
+### [EU needs a system to respond to AI incidents, Finland and Estonia say](https://www.politico.eu/article/eu-needs-a-system-to-respond-to-ai-incidents-finland-and-estonia-say/)
+
+<span class="news-item__source">politico.eu</span> Finland and Estonia urged EU-level arrangements to respond to serious AI incidents and independent capacity to evaluate frontier models, ahead of the first AI-focused EU summit.
+
+### [EDPB adopts statement on review of the Republic of Korea adequacy, processor BCR recommendations, and selects topic for 2027 coordinated enforcement action](https://www.edpb.europa.eu/news/edpb-adopts-statement-on-review-of-the-republic-of-korea-adequacy-processor-bcr_en)
+
+<span class="news-item__source">edpb.europa.eu</span> The EDPB picked automated decision-making in recruitment, including AI candidate screening, as its 2027 coordinated enforcement topic and finalised processor BCR recommendations.
+
+### [Commission strengthens consumer protection laws, making them fit for the digital age (Digital Fairness Act proposal)](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2407)
+
+<span class="news-item__source">ec.europa.eu</span> The Commission proposed the Digital Fairness Act, banning dark patterns and pay-to-win for minors, plus CPC reform letting it fine traders up to 6% of global turnover. <span class="news-item__discussions"><a href="https://www.reddit.com/r/Games/comments/1xtlfqm/proposal_for_a_digital_fairness_act/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/europe/comments/1xtiun8/duolingo_strava_and_ticketmaster_are_all_caught/">[discussion on reddit]</a> <a href="https://tweakers.net/nieuws/254400/europese-commissie-wil-pay-to-win-bij-kinderen-verbieden-in-digital-fairness-act.html">[discussion on tweakers]</a></span>
 
 ## 10 November 2026
 
@@ -23,6 +41,10 @@ next = "/page/2/"
 ### [Five States Join FTC Lawsuit Alleging Hims and Hers Engaged in Deceptive and Unlawful Privacy Practices](https://www.ftc.gov/news-events/news/press-releases/2026/11/five-states-join-ftc-lawsuit-alleging-hims-hers-engaged-deceptive-unlawful-privacy-practices)
 
 <span class="news-item__source">ftc.gov</span> Arizona, Florida, Nebraska, Ohio and Wisconsin joined the FTC's suit alleging Hims & Hers shared customers' health data with Meta and Snap despite privacy promises.
+
+### [Commission invites views on draft revised election guidelines under Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-invites-views-draft-revised-election-guidelines-under-digital-services-act)
+
+<span class="news-item__source">digital-strategy.ec.europa.eu</span> The Commission opened a consultation until 23 November on revised DSA election guidelines for VLOPs, adding measures on generative AI, recommender systems and candidate protection.
 
 ## 9 November 2026
 
@@ -77,25 +99,3 @@ next = "/page/2/"
 ### [Ofcom provides update following its call to action on tech industry to improve protections for children](https://www.ofcom.org.uk/online-safety/protecting-children/ofcom-provides-update-following-its-call-to-action-on-tech-industry-to-improve-protections-for-children)
 
 <span class="news-item__source">ofcom.org.uk</span> Under Ofcom pressure, Snapchat began switching off Find Friends by default for UK child users and pledged highly effective age checks for all under-18s by year-end.
-
-### [Nordea Bank Risks Almost $1 Billion Fine in Denmark Money Laundering Case](https://www.insurancejournal.com/news/international/2026/11/06/891807.htm)
-
-<span class="news-item__source">insurancejournal.com</span> Danish prosecutors seek a DKK 6.6bn fine over DKK 26bn of suspicious 2012-15 flows in Denmark's first bank AML case to reach court; the ruling is due 9 November.
-
-### [Court suspends 201.1 bln-won fine imposed on Coupang for unauthorized user data collection](https://en.yna.co.kr/view/AEN20261106008000315)
-
-<span class="news-item__source">en.yna.co.kr</span> A Seoul court suspended Coupang's ₩201.1bn PIPC fine for collecting 11.17m users' activity data without consent, while another panel kept its record ₩423.6bn breach fine in force.
-
-### [Commission preliminarily finds TikTok's 'For You' feed in breach of Digital Services Act for harmful 'rabbit holes' effect](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2361)
-
-<span class="news-item__source">ec.europa.eu</span> The Commission said TikTok must redesign its For You feed, e.g. stop using viewing time as a ranking signal; a final decision could bring fines up to 6% of global turnover. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xpfbln/preliminary_ruling_by_the_eu_commission_tiktoks/">[discussion on reddit]</a> <a href="https://news.ycombinator.com/item?id=50391911">[discussion on hn]</a> <a href="https://tech.slashdot.org/story/26/11/06/2210231/eu-says-tiktoks-rabbit-hole-effect-must-stop">[discussion on slashdot]</a></span>
-
-## 5 November 2026
-
-### [Tinder owners say they will appeal €11m fine imposed by Irish data watchdog](https://www.independent.ie/business/irish-business/tinder-owners-say-they-will-appeal-11m-fine-imposed-by-irish-data-watchdog/a/164062273.html)
-
-<span class="news-item__source">independent.ie</span> Ireland's DPC fined Match Group €11m for GDPR breaches tied to Tinder's safety and privacy practices; Match says it will appeal.
-
-### [New freelancer law doesn't create more clarity, but more uncertainty: Advisory body](https://nltimes.nl/2026/11/05/new-freelancer-law-doesnt-create-clarity-uncertainty-advisory-body)
-
-<span class="news-item__source">nltimes.nl</span> The Dutch regulatory burden board ATR said Minister Aartsen's bogus self-employment bill adds uncertainty, as its two tests only help freelancers who meet them exactly. <span class="news-item__discussions"><a href="https://www.reddit.com/r/FreelanceNL/comments/1xoejtn/nieuwe_zelfstandigenwet_krijgt_flinke_kritiek_atr/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/ZZPNederland/comments/1xoekn5/nieuwe_zelfstandigenwet_krijgt_flinke_kritiek_atr/">[discussion on reddit]</a></span>

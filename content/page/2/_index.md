@@ -4,12 +4,34 @@ template = "index.html"
 
 [extra]
 page_num = 2
-page_count = 20
+page_count = 21
 prev = "/"
 next = "/page/3/"
 +++
 
+## 6 November 2026
+
+### [Nordea Bank Risks Almost $1 Billion Fine in Denmark Money Laundering Case](https://www.insurancejournal.com/news/international/2026/11/06/891807.htm)
+
+<span class="news-item__source">insurancejournal.com</span> Danish prosecutors seek a DKK 6.6bn fine over DKK 26bn of suspicious 2012-15 flows in Denmark's first bank AML case to reach court; the ruling is due 9 November.
+
+### [Court suspends 201.1 bln-won fine imposed on Coupang for unauthorized user data collection](https://en.yna.co.kr/view/AEN20261106008000315)
+
+<span class="news-item__source">en.yna.co.kr</span> A Seoul court suspended Coupang's ₩201.1bn PIPC fine for collecting 11.17m users' activity data without consent, while another panel kept its record ₩423.6bn breach fine in force.
+
+### [Commission preliminarily finds TikTok's 'For You' feed in breach of Digital Services Act for harmful 'rabbit holes' effect](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2361)
+
+<span class="news-item__source">ec.europa.eu</span> The Commission said TikTok must redesign its For You feed, e.g. stop using viewing time as a ranking signal; a final decision could bring fines up to 6% of global turnover. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xpfbln/preliminary_ruling_by_the_eu_commission_tiktoks/">[discussion on reddit]</a> <a href="https://news.ycombinator.com/item?id=50391911">[discussion on hn]</a> <a href="https://tech.slashdot.org/story/26/11/06/2210231/eu-says-tiktoks-rabbit-hole-effect-must-stop">[discussion on slashdot]</a></span>
+
 ## 5 November 2026
+
+### [Tinder owners say they will appeal €11m fine imposed by Irish data watchdog](https://www.independent.ie/business/irish-business/tinder-owners-say-they-will-appeal-11m-fine-imposed-by-irish-data-watchdog/a/164062273.html)
+
+<span class="news-item__source">independent.ie</span> Ireland's DPC fined Match Group €11m for GDPR breaches tied to Tinder's safety and privacy practices; Match says it will appeal.
+
+### [New freelancer law doesn't create more clarity, but more uncertainty: Advisory body](https://nltimes.nl/2026/11/05/new-freelancer-law-doesnt-create-clarity-uncertainty-advisory-body)
+
+<span class="news-item__source">nltimes.nl</span> The Dutch regulatory burden board ATR said Minister Aartsen's bogus self-employment bill adds uncertainty, as its two tests only help freelancers who meet them exactly. <span class="news-item__discussions"><a href="https://www.reddit.com/r/FreelanceNL/comments/1xoejtn/nieuwe_zelfstandigenwet_krijgt_flinke_kritiek_atr/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/ZZPNederland/comments/1xoekn5/nieuwe_zelfstandigenwet_krijgt_flinke_kritiek_atr/">[discussion on reddit]</a></span>
 
 ### [Judgment of the Court in Case C-205/25 Bayerisches Landesamt für Datenschutzaufsicht (complainants' right of access to DPA files)](https://curia.europa.eu/juris/liste.jsf?num=C-205/25&language=en)
 
@@ -74,27 +96,3 @@ next = "/page/3/"
 ### [Block lifts profit outlook on Cash App strength, reaches preliminary DOJ settlement](https://www.reuters.com/business/block-lifts-profit-outlook-cash-app-strength-reaches-preliminary-doj-settlement-2026-11-03/)
 
 <span class="news-item__source">reuters.com</span> Block agreed in principle to a three-year DOJ deferred prosecution over Cash App's Bank Secrecy Act AML failures, with a net payment of about $764m pending court approval.
-
-## 2 November 2026
-
-### [ΥΠΕΚΑ Ν. Κεραμέως: Θέτουμε κανόνες στη χρήση της τεχνητής νοημοσύνης στην αγορά εργασίας (Greek Platform Work Directive transposition bill)](https://ypergasias.gov.gr/ypeka-n-kerameos-thetoume-kanones-sti-chrisi-tis-technitis-noimosynis-stin-agora-ergasias/)
-
-<span class="news-item__source">ypergasias.gov.gr</span> Labour minister Kerameus presented Greece's Platform Work Directive bill to cabinet, mandating human oversight of algorithmic management and correct classification of platform workers.
-
-### [Επιβολή προστίμου σε εταιρεία για παραβίαση των αρχών νομιμότητας επεξεργασίας (Greek DPA fines Teleperformance Greece)](https://www.dpa.gr/el/enimerwtiko/prakseisArxis/epiboli-prostimoy-se-etaireia-gia-parabiasi-ton-arhon-nomimotitas)
-
-<span class="news-item__source">dpa.gr</span> Greece's DPA fined Teleperformance Greece €100,000 for deleting a former employee's data while his legal claims were pending and mishandling his access request.
-
-### [La Inspección de Trabajo de Cataluña investiga si Amazon, Glovo y Uber Eats hicieron trabajar a sus repartidores durante las alertas por lluvias torrenciales](https://www.infobae.com/espana/2026/11/02/la-inspeccion-de-trabajo-de-cataluna-investiga-si-amazon-glovo-y-uber-eats-hicieron-trabajar-a-sus-repartidores-durante-las-alertas-por-lluvias-torrenciales/)
-
-<span class="news-item__source">infobae.com</span> Catalonia's labour inspectorate opened an ex officio probe into whether Glovo, Uber Eats and Amazon kept riders working during rain alerts, demanding their safety protocols.
-
-### [EU Commission to probe supermarket cyberattacks](https://www.politico.eu/article/european-commission-probe-supermarket-cyberattack-christophe-hansen/)
-
-<span class="news-item__source">politico.eu</span> The Commission's Security College will assess retailers' cyber preparedness after hackers knocked out fridges in supermarkets across at least six EU countries. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50344433">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50341699">[discussion on hn]</a></span>
-
-## 30 October 2026
-
-### [Outcomes FATF Plenary, 28-30 October 2026](https://www.fatf-gafi.org/en/publications/Fatfgeneral/outcomes-fatf-plenary-october-2026.html)
-
-<span class="news-item__source">fatf-gafi.org</span> FATF removed Bulgaria, Monaco, Côte d'Ivoire and the DRC from its grey list and launched a targeted review of virtual-asset AML compliance, with results due in 2027.

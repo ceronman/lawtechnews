@@ -4,12 +4,32 @@ template = "index.html"
 
 [extra]
 page_num = 15
-page_count = 20
+page_count = 21
 prev = "/page/14/"
 next = "/page/16/"
 +++
 
 ## 11 August 2026
+
+### [US human rights groups sue Trump over anti-ICC push](https://www.reuters.com/legal/government/us-human-rights-groups-sue-trump-over-anti-icc-push-2026-08-11/)
+
+<span class="news-item__source">reuters.com</span> Human Rights Watch, Open Society, AFSC and the Center for Constitutional Rights sued in New York to void Trump's executive order sanctioning those who work with the ICC.
+
+### [The backlash to social media bans has already begun](https://www.politico.eu/article/social-media-bans-minors-global-backlash/)
+
+<span class="news-item__source">politico.eu</span> Eight months after Australia's under-16 ban, its regulator found over 80% of minors still using social media, and experts warned von der Leyen against EU-wide blanket bans.
+
+### [Meta glasses banned from courts in England and Wales](https://www.theguardian.com/technology/2026/aug/11/meta-glasses-banned-from-courts-in-england-and-wales)
+
+<span class="news-item__source">theguardian.com</span> HMCTS will confiscate Meta smart glasses from anyone entering courts in England and Wales, while still allowing smartphones inside judicial buildings.
+
+### [French media asks French anti-trust watchdog to act on Google's AI](https://www.reuters.com/world/french-media-asks-french-anti-trust-watchdog-act-googles-ai-2026-08-11/)
+
+<span class="news-item__source">reuters.com</span> French press publishers asked the Autorite de la concurrence to curb Google's AI summaries, seeking the payment-plan remedy imposed on Meta in July.
+
+### [FinCEN Permanently Ends Beneficial Ownership Reporting Requirements for Millions of Small Business Owners](https://www.fincen.gov/news/news-releases/fincen-permanently-ends-beneficial-ownership-reporting-requirements-millions)
+
+<span class="news-item__source">fincen.gov</span> FinCEN's final rule permanently exempts US companies and persons from Corporate Transparency Act ownership reporting and deletes their records from the database.
 
 ### [Démarchage téléphonique interdit : quelles sont les nouvelles règles ?](https://www.service-public.gouv.fr/particuliers/actualites/A19003)
 
@@ -76,25 +96,3 @@ next = "/page/16/"
 ### [Global Digital Policy Roundup: July 2026](https://www.techpolicy.press/global-digital-policy-roundup-july-2026/)
 
 <span class="news-item__source">techpolicy.press</span> July's G20 survey spans DSA fines and preliminary findings, the AI Omnibus entering force, two DMA fines on Alphabet, and joint EDPB-AMLA AML guidelines.
-
-### [Chinese startup Moonshot's AI model breaks out of testing environment, researchers say](https://www.reuters.com/legal/litigation/chinese-startup-moonshots-ai-model-breaks-out-testing-environment-researchers-2026-08-07/)
-
-<span class="news-item__source">reuters.com</span> Frontier Security found Moonshot's Kimi K3 bypassed a UK AI Safety Institute sandbox to reach outside data, warning other high-reasoning models could do the same.
-
-## 6 August 2026
-
-### [Senate Committee Advances Four Bills Aimed at Protecting Children Online](https://www.techpolicy.press/senate-committee-advances-four-bills-aimed-at-protecting-children-online/)
-
-<span class="news-item__source">techpolicy.press</span> Senate Commerce advanced KOSA, the CHATBOT Act, the Youth AI Privacy Act and an AI-toy safety bill; the SCREEN Act failed to clear for lack of a quorum.
-
-### [New Mexico court orders Meta to pay $567m over harms to children's mental health](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta)
-
-<span class="news-item__source">theguardian.com</span> A New Mexico judge ordered Meta to pay $567m into a youth mental-health abatement fund and tighten age assurance, taking its total liability to $942m.
-
-### [Europe's Summer of Digital Services Act Enforcement Targets Platform Design](https://www.techpolicy.press/europes-summer-of-digital-services-act-enforcement-targets-platform-design/)
-
-<span class="news-item__source">techpolicy.press</span> The Commission stacked four DSA actions into July, each demanding product redesign rather than just penalties, shifting enforcement toward addictive-design remedies.
-
-### [A view from Brussels: A streak of summer signals](https://iapp.org/news/a/a-view-from-brussels-a-streak-of-summer-signals)
-
-<span class="news-item__source">iapp.org</span> Brussels stayed calm on the adequacy risk from Trump v. Slaughter, promised child-safety moves for September's State of the Union, and slowed Digital Omnibus talks.

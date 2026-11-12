@@ -4,12 +4,36 @@ template = "index.html"
 
 [extra]
 page_num = 7
-page_count = 20
+page_count = 21
 prev = "/page/6/"
 next = "/page/8/"
 +++
 
+## 1 October 2026
+
+### [AMLA finalises standards on Home-Host Supervisory Cooperation](https://www.amla.europa.eu/press-release-amla-finalises-standards-home-host-supervisory-cooperation_en)
+
+<span class="news-item__source">amla.europa.eu</span> AMLA published its final draft RTS letting EU AML supervisors share information without prior consent and run cross-border inquiries; they bind once the Commission adopts them.
+
+## 30 September 2026
+
+### [Without Fear or Favour: The European Commission's DMA Non-Compliance Decision Against Google's Self-Preferencing (Case DMA.100193)](https://legalblogs.wolterskluwer.com/competition-blog/without-fear-or-favour-the-european-commissions-dma-non-compliance-decision-against-googles-self-preferencing-case-dma100193/)
+
+<span class="news-item__source">legalblogs.wolterskluwer.com</span> The Commission published its full DMA decision finding Google's search self-preferencing breached Article 6(5), without ordering the dedicated units removed.
+
+### [The CRBR will no longer be fully public. What will change for businesses?](https://www.tgc.eu/en/publications/tgc-corporate-lawyers-legal-review-september-2026/)
+
+<span class="news-item__source">tgc.eu</span> Poland's government adopted an AML amendment draft restricting public access to the CRBR beneficial-ownership register from 1 October 2027 to those showing legitimate interest.
+
+### [Google asks EU court to suspend order to share search data with AI rivals](https://finance.yahoo.com/technology/ai/articles/google-asks-eu-court-suspend-175843460.html)
+
+<span class="news-item__source">finance.yahoo.com</span> Google asked the EU General Court to suspend the Commission's order to share search data with rival engines and AI chatbots, citing privacy harm, and sued to annul it. <span class="news-item__discussions"><a href="https://www.reddit.com/r/Android/comments/1wt3dzu/google_is_going_to_court_to_stop_the_eu_opening/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/europeanunion/comments/1wthfw3/google_appeals_eu_requests_on_android_ai_access/">[discussion on reddit]</a></span>
+
 ## 28 September 2026
+
+### [Factsheet - How the DMA ensures businesses using Booking.com are free to set their prices on and off Booking.com](https://digital-markets-act.ec.europa.eu/factsheet-how-dma-ensures-businesses-using-bookingcom-are-free-set-their-prices-and-bookingcom-2026-09-28_en)
+
+<span class="news-item__source">digital-markets-act.ec.europa.eu</span> The Commission said Booking.com dropped external-price checks from its Sponsored Benefit programme EEA-wide, its latest step complying with the DMA's parity ban.
 
 ### [EXCLUSIVE: How ECB's Lagarde helped talk Greece out of licensing Binance](https://www.amlintelligence.com/2026/09/insight-how-ecbs-lagarde-helped-talk-greece-out-of-licensing-binance/)
 
@@ -78,25 +102,3 @@ next = "/page/8/"
 ### [Simplification for whom? Open letter to EU Member States to uphold GDPR protections in Digital Omnibus on Data](https://edri.org/our-work/simplification-for-whom-open-letter-uphold-gdpr-protections-in-data-omnibus/)
 
 <span class="news-item__source">edri.org</span> EDRi urged EU states to reject Council Digital Omnibus text that lets pseudonymised data escape GDPR and adds AI as grounds for 'legitimate interest' processing.
-
-### [First draft of the Polish Platform Work Act](https://knowledge.dlapiper.com/dlapiperknowledge/globalemploymentlatestdevelopments/2026/first-draft-of-the-polish-platform-work-act)
-
-<span class="news-item__source">knowledge.dlapiper.com</span> Poland published a draft law transposing the Platform Work Directive, creating a rebuttable employment presumption and fines up to €20m for banned algorithmic data use.
-
-### [Finnish unions seek review of Wolt employment oversight](https://www.helsinkitimes.fi/finland/finland-news/domestic/29313-finnish-unions-seek-review-of-wolt-employment-oversight.html)
-
-<span class="news-item__source">helsinkitimes.fi</span> Two Finnish unions asked the Parliamentary Ombudsman to probe why labour inspectors have not acted since courts ruled Wolt couriers meet employee criteria.
-
-## 23 September 2026
-
-### [What you need to know about the EU's new digital deportation regime](https://edri.org/our-work/what-you-need-to-know-about-the-eus-new-digital-deportation-regime/)
-
-<span class="news-item__source">edri.org</span> EDRi detailed the EU's Return Regulation, which lets states search phones, force biometric data collection, share health data with third countries, and flag 'security risks' via SIS.
-
-### [The Slovak Parliament has passed a law on the protection of digital platform workers](https://kompas.guide/sk/en/news/parlament-slovachchyny-ukhvalyv-zakon-pro-zakhyst-pratsivnykiv-tsyfrovykh)
-
-<span class="news-item__source">kompas.guide</span> Slovakia's parliament adopted its platform work act, presuming employment, requiring human review of deactivations and setting fines up to €50,000; it applies from 2 December 2026.
-
-### [Serbia's spyware scandal is also the EU's problem](https://edri.org/our-work/serbias-spyware-scandal-is-also-the-eus-problem/)
-
-<span class="news-item__source">edri.org</span> SHARE Foundation confirmed Pegasus and NoviSpy spyware on 14 Serbian activists and opposition figures since 2026; EDRi urges the EU to condition Serbia's accession on ending spyware use.

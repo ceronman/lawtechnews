@@ -4,10 +4,34 @@ template = "index.html"
 
 [extra]
 page_num = 6
-page_count = 20
+page_count = 21
 prev = "/page/5/"
 next = "/page/7/"
 +++
+
+## 12 October 2026
+
+### [Norway fines Microsoft's Xandr $9.6M over Grindr data sharing](https://www.reuters.com/legal/litigation/norway-fines-microsofts-xandr-96-million-over-grindr-data-sharing-2026-10-12/)
+
+<span class="news-item__source">reuters.com</span> Norway's data protection authority fined Microsoft's Xandr about $9.6m (roughly £7m) over sharing Grindr users' data, a record fine for the regulator. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50059950">[discussion on hn]</a></span>
+
+### [Italian DPA fines Wind Tre EUR 16 700 000 for unlawful telemarketing and data protection infringements](https://www.edpb.europa.eu/news/italian-dpa-fines-wind-tre-eur-16-700-000-for-unlawful-telemarketing-and-data-protection_en)
+
+<span class="news-item__source">edpb.europa.eu</span> Italy's Garante fined Wind Tre €16.7m over unsolicited marketing and contracts activated without consent via its sales network, and banned further use of that data.
+
+### [Advocate General: access of data subjects to data processed by FIUs may be restricted, with safeguards](https://curia.europa.eu/site/upload/docs/application/pdf/2026-10/cp260145en.pdf)
+
+<span class="news-item__source">curia.europa.eu</span> CJEU Advocate General Medina said financial intelligence units fall under the Law Enforcement Directive, and may refuse data-subject access if the restriction is proportionate.
+
+## 8 October 2026
+
+### [The Danish Government's Legislative Programme for the Parliamentary Year 2026/2027 with a focus on employment law](https://www.twobirds.com/en/insights/2026/denmark/regeringens-lovprogram-for-folketingsret-20262027-med-fokus-p-det-ansttelsesretlige-omrde)
+
+<span class="news-item__source">twobirds.com</span> Denmark's government put its Platform Work Act on the 2026/27 legislative programme, with the bill due in February, after the 2 December 2026 transposition deadline.
+
+### [ICO secures changes from leading AI developers as scrutiny extends to AI agents](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/10/ico-secures-changes-from-leading-ai-developers-as-scrutiny-extends-to-ai-agents/)
+
+<span class="news-item__source">ico.org.uk</span> The UK ICO said ten AI developers, including OpenAI and Google, made data protection changes, and opened a call for evidence on agentic AI until 20 November.
 
 ## 7 October 2026
 
@@ -78,27 +102,3 @@ next = "/page/7/"
 ### [Autumn Legislative Programme Signals Further Change for Irish Employers](https://littler.ie/insights/autumn-legislative-programme-signals-further-change-for-irish-employers/)
 
 <span class="news-item__source">littler.ie</span> Ireland's autumn legislative programme omits a Platform Work Directive bill, though the government says it is still on track to transpose by the 2 December 2026 deadline.
-
-### [AMLA finalises standards on Home-Host Supervisory Cooperation](https://www.amla.europa.eu/press-release-amla-finalises-standards-home-host-supervisory-cooperation_en)
-
-<span class="news-item__source">amla.europa.eu</span> AMLA published its final draft RTS letting EU AML supervisors share information without prior consent and run cross-border inquiries; they bind once the Commission adopts them.
-
-## 30 September 2026
-
-### [Without Fear or Favour: The European Commission's DMA Non-Compliance Decision Against Google's Self-Preferencing (Case DMA.100193)](https://legalblogs.wolterskluwer.com/competition-blog/without-fear-or-favour-the-european-commissions-dma-non-compliance-decision-against-googles-self-preferencing-case-dma100193/)
-
-<span class="news-item__source">legalblogs.wolterskluwer.com</span> The Commission published its full DMA decision finding Google's search self-preferencing breached Article 6(5), without ordering the dedicated units removed.
-
-### [The CRBR will no longer be fully public. What will change for businesses?](https://www.tgc.eu/en/publications/tgc-corporate-lawyers-legal-review-september-2026/)
-
-<span class="news-item__source">tgc.eu</span> Poland's government adopted an AML amendment draft restricting public access to the CRBR beneficial-ownership register from 1 October 2027 to those showing legitimate interest.
-
-### [Google asks EU court to suspend order to share search data with AI rivals](https://finance.yahoo.com/technology/ai/articles/google-asks-eu-court-suspend-175843460.html)
-
-<span class="news-item__source">finance.yahoo.com</span> Google asked the EU General Court to suspend the Commission's order to share search data with rival engines and AI chatbots, citing privacy harm, and sued to annul it. <span class="news-item__discussions"><a href="https://www.reddit.com/r/Android/comments/1wt3dzu/google_is_going_to_court_to_stop_the_eu_opening/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/europeanunion/comments/1wthfw3/google_appeals_eu_requests_on_android_ai_access/">[discussion on reddit]</a></span>
-
-## 28 September 2026
-
-### [Factsheet - How the DMA ensures businesses using Booking.com are free to set their prices on and off Booking.com](https://digital-markets-act.ec.europa.eu/factsheet-how-dma-ensures-businesses-using-bookingcom-are-free-set-their-prices-and-bookingcom-2026-09-28_en)
-
-<span class="news-item__source">digital-markets-act.ec.europa.eu</span> The Commission said Booking.com dropped external-price checks from its Sponsored Benefit programme EEA-wide, its latest step complying with the DMA's parity ban.

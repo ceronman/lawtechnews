@@ -4,12 +4,34 @@ template = "index.html"
 
 [extra]
 page_num = 19
-page_count = 20
+page_count = 21
 prev = "/page/18/"
 next = "/page/20/"
 +++
 
+## 22 July 2026
+
+### [First steps forward for the implementation of the Health Action Plan](https://www.enisa.europa.eu/news/first-steps-forward-for-the-implementation-of-the-health-action-plan)
+
+<span class="news-item__source">enisa.europa.eu</span> ENISA signed a €6m, three-year agreement to build a cybersecurity support centre for hospitals and updated its healthcare procurement guidelines.
+
+### [Commission concludes eligibility checks for two European Citizens' Initiatives on digital identity and age-verification, and on migration and asylum](https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1669)
+
+<span class="news-item__source">ec.europa.eu</span> A citizens' initiative against mandatory digital ID and age verification was ruled admissible; organisers need one million signatures within 12 months.
+
 ## 21 July 2026
+
+### [US lawmakers urge Trump to act against EU tech rules, suggest trade probes](https://www.reuters.com/legal/government/us-lawmakers-urge-trump-act-against-eu-tech-rules-suggest-trade-probes-2026-07-21/)
+
+<span class="news-item__source">reuters.com</span> Twenty-five Republican lawmakers urged Trump to open Section 301 investigations and consider tariffs over the Digital Markets Act.
+
+### [French lawmakers vote on social media ban for children](https://www.reuters.com/legal/litigation/french-lawmakers-vote-social-media-ban-children-2026-07-21/)
+
+<span class="news-item__source">reuters.com</span> French lawmakers voted on banning under-15s from social media, with platforms required to use age-verification systems approved by CNIL.
+
+### [Europe's 27 leaders to take on AI — finally](https://www.politico.eu/article/europes-27-leaders-to-take-on-ai-finally/)
+
+<span class="news-item__source">politico.eu</span> António Costa will put AI on the agenda of an EU leaders' summit for the first time, at one of the three remaining meetings this year.
 
 ### [AMLA finalises standards for supervisory cooperation in direct supervision](https://www.amla.europa.eu/press-release-amla-finalises-standards-supervisory-cooperation-direct-supervision_en)
 
@@ -78,27 +100,3 @@ next = "/page/20/"
 ### [Hadopi law (2009–2026): French Conseil d'État finds the surveillance system breaches EU fundamental rights](https://edri.org/our-work/hadopi-law-2009-2026/)
 
 <span class="news-item__source">edri.org</span> France's Conseil d'État found the Hadopi graduated-response system breaches EU fundamental rights and ordered the government to repeal the key decree provisions.
-
-### [EU debuts new digital sovereignty assessment tools](https://commission.europa.eu/news-and-media/news/sovereign-cloud-framework-explained-2026-06-01_en)
-
-<span class="news-item__source">commission.europa.eu</span> The Commission published guidance letting organisations score cloud and AI providers against its eight sovereignty criteria, after questions over a €180m award.
-
-## 15 July 2026
-
-### [The EU AI Act deadline moved, vendor questionnaires will not](https://iapp.org/news/a/the-eu-ai-act-deadline-moved-vendor-questionnaires-will-not)
-
-<span class="news-item__source">iapp.org</span> Delaying the AI Act's high-risk deadlines to 2027 and 2028 will not slow procurement teams, who keep demanding compliance evidence at contract renewal.
-
-### [Commission accepts X's corrective measures to terminate breaches of the DSA](https://digital-strategy.ec.europa.eu/en/news/commission-accepts-xs-corrective-measures-terminate-breaches-dsa)
-
-<span class="news-item__source">digital-strategy.ec.europa.eu</span> The Commission accepted X's plan to fix its ad repository and researcher data access after last year's €120m fine. X has six months to deliver.
-
-## 14 July 2026
-
-### [When the facts change, adequacy must be reviewed](https://edri.org/our-work/when-the-facts-change-adequacy-must-be-reviewed/)
-
-<span class="news-item__source">edri.org</span> EDRi and 36 other groups asked the Commission to reassess the EU-US adequacy decision, arguing Trump v. Slaughter guts its independent-oversight safeguard.
-
-### [EDPB requires Belgian DPA to handle the merits of NOYB cookie banner complaint](https://www.edpb.europa.eu/news/edpb-requires-belgian-dpa-to-handle-the-merits-of-noyb-cookie-banner-complaint_en)
-
-<span class="news-item__source">edpb.europa.eu</span> A binding EDPB decision requires the Belgian DPA to rule on the merits of NOYB's cookie-banner complaint against VRT rather than dismiss it as an abuse.
