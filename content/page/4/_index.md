@@ -9,7 +9,25 @@ prev = "/page/3/"
 next = "/page/5/"
 +++
 
+## 27 October 2026
+
+### [Commission proposes to reinforce Frontex: stronger border protection, a greater role on returns and more effective crisis response](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2260)
+
+<span class="news-item__source">ec.europa.eu</span> The Commission proposed a Frontex centre to monitor public social media and DSA trusted-flagger status to report illegal content, alongside a 30,000-officer corps. <span class="news-item__discussions"><a href="https://www.reddit.com/r/worldnews/comments/1xgtmvn/eu_proposes_sweeping_new_powers_for_border_agency/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/de/comments/1xhlljb/eukommission_frontex_soll_zur_abschiebeagentur/">[discussion on reddit]</a></span>
+
+### [CCOO acuerda mejoras laborales para más de 8.000 personas repartidoras con Uber Eats](https://www.ccoo.es/noticia:771055--CCOO_acuerda_mejoras_laborales_para_mas_de_8_000_personas_repartidoras_con_Uber_Eats)
+
+<span class="news-item__source">ccoo.es</span> Uber Eats agreed with CCOO and UGT to move its last 4,286 self-employed riders onto Quinde Crew payrolls by 30 November, with a joint committee on algorithmic management.
+
+### [AI training platform Outlier illegally surveils European platform workers](https://noyb.eu/en/ai-training-platform-outlier-illegally-surveils-european-platform-workers)
+
+<span class="news-item__source">noyb.eu</span> noyb filed 5 GDPR complaints in France, Italy, the Netherlands and Austria over Outlier's trackers and forced biometric checks on its 900,000 AI-training gig workers. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50281071">[discussion on hn]</a></span>
+
 ## 26 October 2026
+
+### [Commission brings banks and online platforms together in the fight against online scams](https://digital-strategy.ec.europa.eu/en/news/commission-brings-banks-and-online-platforms-together-fight-against-online-scams)
+
+<span class="news-item__source">digital-strategy.ec.europa.eu</span> The Commission is consulting banks, trusted flaggers and platforms on a voluntary DSA anti-scam code covering advertiser verification and bank–platform signal sharing.
 
 ### [Commission accepts Temu's action plan to remedy the breach of the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-action-plan-remedy-breach-digital-services-act)
 
@@ -80,21 +98,3 @@ next = "/page/5/"
 ### [Berlin finds CDU, SPD, Greens and Left broke GDPR with Facebook targeting](https://ppc.land/berlin-finds-cdu-spd-greens-and-left-broke-gdpr-with-facebook-targeting/)
 
 <span class="news-item__source">ppc.land</span> Berlin's DPA found CDU, SPD, Greens and Die Linke unlawfully targeted Facebook voters by political interest in 2021, after noyb complaints. No fines were issued.
-
-## 20 October 2026
-
-### [Google Earth/Google Maps: No publication of images of private property (LG Frankfurt, 2-03 O 388/25)](https://ordentliche-gerichtsbarkeit.hessen.de/presse/keine-veroeffentlichung-von-bildern-eines-privaten-grundstuecks)
-
-<span class="news-item__source">ordentliche-gerichtsbarkeit.hessen.de</span> The Frankfurt Regional Court barred Google from showing 3D aerial images of a private property on Earth and Maps over the owner's objection; Google will appeal. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50216142">[discussion on hn]</a> <a href="https://www.reddit.com/r/privacy/comments/1xbok66/google_needs_consent_to_publish_private_property/">[discussion on reddit]</a></span>
-
-### [EU Cyber Resilience Act: Germany adopts CRA Implementation Act as national enforcement regimes take shape across the EU](https://www.hlc.com/en/publications/eu-cyber-resilience-act-germany-adopts-cra-implementation-act-as-national-enforcement-regimes)
-
-<span class="news-item__source">hlc.com</span> Germany adopted its Cyber Resilience Act Implementation Act, designating the national market surveillance, notifying and CSIRT authorities for CRA enforcement.
-
-### [Clearview AI faces Court of Appeal test of 7.5m pound UK fine](https://ppc.land/clearview-ai-faces-court-of-appeal-test-of-7-5m-pound-uk-fine/)
-
-<span class="news-item__source">ppc.land</span> Clearview AI began a three-day Court of Appeal hearing on whether the ICO could fine it over UK GDPR monitoring of UK residents for foreign police clients.
-
-### [City Attorney secures additional $2.3 million settlement for delivery drivers misclassified by WorkWhile](https://www.sf.gov/news-city-attorney-secures-additional-23-million-settlement-for-delivery-drivers-misclassified-by-workwhile)
-
-<span class="news-item__source">sf.gov</span> A San Francisco court approved a final judgment rejecting WorkWhile's Prop 22 defence; the app must treat all California workers as employees from 2027.

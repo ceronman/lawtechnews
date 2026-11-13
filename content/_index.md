@@ -8,7 +8,23 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">401 stories on European law, technology regulation and digital rights, latest from 11 November 2026. Every headline links to the original source.</p>
+<p class="news-intro">405 stories on European law, technology regulation and digital rights, latest from 13 November 2026. Every headline links to the original source.</p>
+
+## 13 November 2026
+
+### [EDPB supports use of other models of contractual clauses for onward transfers of personal data](https://www.edpb.europa.eu/news/edpb-supports-use-of-other-models-of-contractual-clauses-for-onward-transfers-of-personal-data_en)
+
+<span class="news-item__source">edpb.europa.eu</span> The EDPB backed Commission FAQs letting Council of Europe and Ibero-American model clauses be used for onward transfers of data received under the EU SCCs.
+
+## 12 November 2026
+
+### [Opinion of Advocate General Kokott in Case C-826/24 P Commission v Google and Alphabet (Google AdSense)](https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260164en.pdf)
+
+<span class="news-item__source">curia.europa.eu</span> AG Kokott advised the CJEU to set aside the General Court ruling that annulled Google's €1.49bn AdSense fine and send the case back for a fresh assessment. <span class="news-item__discussions"><a href="https://www.reddit.com/r/actutech/comments/1xu9uwz/un_conseiller_de_la_cour_de_justice_de_lue/">[discussion on reddit]</a></span>
+
+### [El TSJ de Extremadura declara que no existe relación laboral entre Glovo y sus repartidores](https://elderecho.com/el-tsj-de-extremadura-declara-que-no-existe-relacion-laboral-entre-glovo-y-sus-repartidores)
+
+<span class="news-item__source">elderecho.com</span> Extremadura's High Court annulled Social Security's ex officio registration of Glovo riders, ruling its 'Flex' model rebuts the Rider Law's presumption of employment. <span class="news-item__discussions"><a href="https://www.meneame.net/story/tsj-extremadura-declara-no-existe-relacion-laboral-entre-glovo">[discussion on menéame]</a></span>
 
 ## 11 November 2026
 
@@ -41,6 +57,10 @@ next = "/page/2/"
 ### [Five States Join FTC Lawsuit Alleging Hims and Hers Engaged in Deceptive and Unlawful Privacy Practices](https://www.ftc.gov/news-events/news/press-releases/2026/11/five-states-join-ftc-lawsuit-alleging-hims-hers-engaged-deceptive-unlawful-privacy-practices)
 
 <span class="news-item__source">ftc.gov</span> Arizona, Florida, Nebraska, Ohio and Wisconsin joined the FTC's suit alleging Hims & Hers shared customers' health data with Meta and Snap despite privacy promises.
+
+### [FINMA publishes partially revised FINMA Anti-Money Laundering Ordinance](https://www.finma.ch/en/news/2026/11/20261110-mm-gwv-finma/)
+
+<span class="news-item__source">finma.ch</span> FINMA finalised its revised Anti-Money Laundering Ordinance, aligning it with the amended AMLA ahead of Switzerland's FATF evaluation; it takes effect on 1 January 2027.
 
 ### [Commission invites views on draft revised election guidelines under Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-invites-views-draft-revised-election-guidelines-under-digital-services-act)
 
@@ -83,19 +103,3 @@ next = "/page/2/"
 ### [Watchdog investigates Europol over 'irregular' data processing claims](https://www.computerweekly.com/news/366653892/Watchdog-investigates-Europol-over-irregular-data-processing-claims)
 
 <span class="news-item__source">computerweekly.com</span> The EDPS confirmed a fact-finding probe into Europol's data environment, focused on its 'Pressure Cooker' tools for fast-processing data scraped from the internet.
-
-### [Ustawa o pracy platformowej na ostatniej prostej. Domniemanie etatu i większa kontrola algorytmów](https://www.pulshr.pl/prawo-pracy/ustawa-o-pracy-platformowej-na-ostatniej-prostej-domniemanie-etatu-i-wieksza-kontrola-algorytmow,123066.html)
-
-<span class="news-item__source">pulshr.pl</span> Poland's labour minister said the Platform Work Act will reach the Sejm in the coming months and apply next year, missing the 2 December deadline; only one state has transposed so far.
-
-### [Travailleurs des plateformes : la France ne tiendra pas le délai européen](https://www.lenouveleconomiste.fr/economie/travailleurs-des-plateformes-la-france-ne-tiendra-/)
-
-<span class="news-item__source">lenouveleconomiste.fr</span> France's labour minister confirmed the country will not transpose the Platform Work Directive by the 2 December 2026 deadline, so its employment presumption will not apply on time.
-
-### [Operation Economic Outcast Severs MEXC Global's Access to the U.S. Financial System](https://www.fincen.gov/news/news-releases/operation-economic-outcast-severs-mexc-globals-access-us-financial-system)
-
-<span class="news-item__source">fincen.gov</span> FinCEN barred US financial institutions from processing transfers involving crypto exchange MEXC Global, citing at least $16bn in sanctions-evasion and cybercrime flows. <span class="news-item__discussions"><a href="https://www.reddit.com/r/MyCoinDeck/comments/1xqzaai/us_treasury_moves_to_cut_off_crypto_exchange_mexc/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/RegulatoryReporting/comments/1xra23r/mexc_global_order_has_no_deemedcompliance_clause/">[discussion on reddit]</a></span>
-
-### [Ofcom provides update following its call to action on tech industry to improve protections for children](https://www.ofcom.org.uk/online-safety/protecting-children/ofcom-provides-update-following-its-call-to-action-on-tech-industry-to-improve-protections-for-children)
-
-<span class="news-item__source">ofcom.org.uk</span> Under Ofcom pressure, Snapchat began switching off Find Friends by default for UK child users and pledged highly effective age checks for all under-18s by year-end.

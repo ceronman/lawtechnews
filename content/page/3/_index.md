@@ -9,6 +9,24 @@ prev = "/page/2/"
 next = "/page/4/"
 +++
 
+## 3 November 2026
+
+### [La CNMC inicia un expediente sancionador contra Apple y Amazon](https://www.cnmc.es/prensa/sancionador-apple-amazon-20261103)
+
+<span class="news-item__source">cnmc.es</span> Spain's CNMC opened sanctioning proceedings against Apple and Amazon for keeping until May 2025 the brand-gating clauses it fined €194m in 2023; it has three months to rule.
+
+### [Canal DPD: biometría en el alta de clientes (AEPD opinion on 1:1 facial verification)](https://www.aepd.es/documento/canal-dpd-biometria-alta-clientes.pdf)
+
+<span class="news-item__source">aepd.es</span> Spain's AEPD said biometrics are 'necessary' only if no equally effective alternative exists, and rated 1:1 facial verification lower-risk than 1:many recognition.
+
+### [Brussels sets slimline legislative agenda for 2027](https://www.politico.eu/article/brussels-sets-slimline-legislative-agenda-for-2027/)
+
+<span class="news-item__source">politico.eu</span> The Commission's leaked 2027 Work Programme withdraws FIDA and the digital-tax proposals, plans a mid-2027 digital package, and reviews political-ad and data retention rules.
+
+### [Block lifts profit outlook on Cash App strength, reaches preliminary DOJ settlement](https://www.reuters.com/business/block-lifts-profit-outlook-cash-app-strength-reaches-preliminary-doj-settlement-2026-11-03/)
+
+<span class="news-item__source">reuters.com</span> Block agreed in principle to a three-year DOJ deferred prosecution over Cash App's Bank Secrecy Act AML failures, with a net payment of about $764m pending court approval.
+
 ## 2 November 2026
 
 ### [ΥΠΕΚΑ Ν. Κεραμέως: Θέτουμε κανόνες στη χρήση της τεχνητής νοημοσύνης στην αγορά εργασίας (Greek Platform Work Directive transposition bill)](https://ypergasias.gov.gr/ypeka-n-kerameos-thetoume-kanones-sti-chrisi-tis-technitis-noimosynis-stin-agora-ergasias/)
@@ -82,21 +100,3 @@ next = "/page/4/"
 ### [French government mulled blocking social networks and mobile internet amid protests](https://www.politico.eu/article/french-government-mulled-blocking-social-network-amid-protests/)
 
 <span class="news-item__source">politico.eu</span> PM Lecornu asked telecom operators to be ready to block TikTok, Instagram, Snapchat and X during the 24 October protests; a pending riot bill adds 1-hour takedowns. <span class="news-item__discussions"><a href="https://www.reddit.com/r/france/comments/1xefu3a/information_exclusive_blast_le_premier_ministre_a/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/france/comments/1xguc2v/nous_y_sommes_lautoritarisme/">[discussion on reddit]</a></span>
-
-### [Commission proposes to reinforce Frontex: stronger border protection, a greater role on returns and more effective crisis response](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2260)
-
-<span class="news-item__source">ec.europa.eu</span> The Commission proposed a Frontex centre to monitor public social media and DSA trusted-flagger status to report illegal content, alongside a 30,000-officer corps. <span class="news-item__discussions"><a href="https://www.reddit.com/r/worldnews/comments/1xgtmvn/eu_proposes_sweeping_new_powers_for_border_agency/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/de/comments/1xhlljb/eukommission_frontex_soll_zur_abschiebeagentur/">[discussion on reddit]</a></span>
-
-### [CCOO acuerda mejoras laborales para más de 8.000 personas repartidoras con Uber Eats](https://www.ccoo.es/noticia:771055--CCOO_acuerda_mejoras_laborales_para_mas_de_8_000_personas_repartidoras_con_Uber_Eats)
-
-<span class="news-item__source">ccoo.es</span> Uber Eats agreed with CCOO and UGT to move its last 4,286 self-employed riders onto Quinde Crew payrolls by 30 November, with a joint committee on algorithmic management.
-
-### [AI training platform Outlier illegally surveils European platform workers](https://noyb.eu/en/ai-training-platform-outlier-illegally-surveils-european-platform-workers)
-
-<span class="news-item__source">noyb.eu</span> noyb filed 5 GDPR complaints in France, Italy, the Netherlands and Austria over Outlier's trackers and forced biometric checks on its 900,000 AI-training gig workers. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50281071">[discussion on hn]</a></span>
-
-## 26 October 2026
-
-### [Commission brings banks and online platforms together in the fight against online scams](https://digital-strategy.ec.europa.eu/en/news/commission-brings-banks-and-online-platforms-together-fight-against-online-scams)
-
-<span class="news-item__source">digital-strategy.ec.europa.eu</span> The Commission is consulting banks, trusted flaggers and platforms on a voluntary DSA anti-scam code covering advertiser verification and bank–platform signal sharing.
