@@ -8,9 +8,13 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">405 stories on European law, technology regulation and digital rights, latest from 13 November 2026. Every headline links to the original source.</p>
+<p class="news-intro">409 stories on European law, technology regulation and digital rights, latest from 13 November 2026. Every headline links to the original source.</p>
 
 ## 13 November 2026
+
+### [Remarks by President António Costa at the press conference following the informal meeting of Heads of State or Government of 13 November 2026](https://www.consilium.europa.eu/en/press/press-releases/2026/11/13/remarks-by-president-antonio-costa-at-the-press-conference-following-the-informal-meeting-of-heads-of-state-or-government-of-13-november-2026/)
+
+<span class="news-item__source">consilium.europa.eu</span> EU leaders held their first in-depth AI debate in Dublin, backing more investment and global AI governance; AI will headline the 2027 Social Summit. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xv91ko/godfather_of_ai_to_warn_eu_leaders_it_could_kill/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/technews/comments/1xvqdhu/godfather_of_ai_to_warn_eu_leaders_it_could_kill/">[discussion on reddit]</a></span>
 
 ### [EDPB supports use of other models of contractual clauses for onward transfers of personal data](https://www.edpb.europa.eu/news/edpb-supports-use-of-other-models-of-contractual-clauses-for-onward-transfers-of-personal-data_en)
 
@@ -32,6 +36,10 @@ next = "/page/2/"
 
 <span class="news-item__source">fiscal.es</span> Spain's Attorney General assigned the cybercrime prosecutor to investigate TikTok after Maldita.es reported over 1,000 child sexual abuse videos with 48 million views. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xrsidx/spanish_government_considers_tiktok_ban_due_to/">[discussion on reddit]</a></span>
 
+### [La AEPD descarta suspender TikTok en España y remite el caso a las autoridades irlandesas](https://www.zonamovilidad.es/aepd-descarta-suspender-tiktok-espana-remite-caso-autoridades-irlandesas)
+
+<span class="news-item__source">zonamovilidad.es</span> Spain's AEPD refused the ministry's request to suspend TikTok, citing the Irish DPC's lead role, but may order blocking of specific links exposing minors' data.
+
 ### [EU needs a system to respond to AI incidents, Finland and Estonia say](https://www.politico.eu/article/eu-needs-a-system-to-respond-to-ai-incidents-finland-and-estonia-say/)
 
 <span class="news-item__source">politico.eu</span> Finland and Estonia urged EU-level arrangements to respond to serious AI incidents and independent capacity to evaluate frontier models, ahead of the first AI-focused EU summit.
@@ -45,6 +53,10 @@ next = "/page/2/"
 <span class="news-item__source">ec.europa.eu</span> The Commission proposed the Digital Fairness Act, banning dark patterns and pay-to-win for minors, plus CPC reform letting it fine traders up to 6% of global turnover. <span class="news-item__discussions"><a href="https://www.reddit.com/r/Games/comments/1xtlfqm/proposal_for_a_digital_fairness_act/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/europe/comments/1xtiun8/duolingo_strava_and_ticketmaster_are_all_caught/">[discussion on reddit]</a> <a href="https://tweakers.net/nieuws/254400/europese-commissie-wil-pay-to-win-bij-kinderen-verbieden-in-digital-fairness-act.html">[discussion on tweakers]</a></span>
 
 ## 10 November 2026
+
+### [PIPC Probes Anthropic's Corporate Data Leak](https://www.chosun.com/english/national-en/2026/11/10/SAQJH2EHYZCYHB6ET4CLYEAVGU/)
+
+<span class="news-item__source">chosun.com</span> Korea's PIPC opened a formal probe into Anthropic after names, emails and plan details of about 100 corporate Claude accounts leaked via a third-party software flaw.
 
 ### [Macron wants AI banned wherever it threatens children](https://www.euronews.com/2026/11/10/macron-wants-ai-banned-wherever-it-threatens-children)
 
@@ -87,19 +99,3 @@ next = "/page/2/"
 ### [EU to blacklist ten manipulative online design 'traps', leaked draft shows](https://www.euronews.com/2026/11/09/eu-to-blacklist-ten-manipulative-online-design-traps-leaked-draft-shows)
 
 <span class="news-item__source">euronews.com</span> A leaked Digital Fairness Act draft bans ten dark patterns, loot boxes for minors and profiling-based ads to children, with fines up to 6% of turnover; it is due on 11 November. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50428979">[discussion on hn]</a> <a href="https://www.reddit.com/r/heartopia/comments/1xshusu/eu_to_ban_lootbox_gacha_included_for_childrens/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/TugaTech/comments/1xrvg95/uni%C3%A3o_europeia_prepara_digital_fairness_act_para/">[discussion on reddit]</a></span>
-
-## 8 November 2026
-
-### [Hamburg regulator uses OpenAI model to draft letters as complaints rise 62%](https://ppc.land/hamburg-regulator-uses-openai-model-to-draft-letters-as-complaints-rise-62/)
-
-<span class="news-item__source">ppc.land</span> Hamburg's DPA cleared a city chatbot built on an OpenAI model it deems likely non-anonymous under EDPB Opinion 28/2024, and now uses it to draft letters on complaints. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xqtz0b/hamburg_regulator_uses_openai_model_to_draft/">[discussion on reddit]</a></span>
-
-### [EU countries still can't get it together on AI](https://www.politico.eu/article/eu-countries-still-cant-get-it-together-on-ai/)
-
-<span class="news-item__source">politico.eu</span> Sixteen member states missed the AI Act deadline to name enforcement authorities; six have none and ten only provisional picks, and an MEP urged infringement action.
-
-## 6 November 2026
-
-### [Watchdog investigates Europol over 'irregular' data processing claims](https://www.computerweekly.com/news/366653892/Watchdog-investigates-Europol-over-irregular-data-processing-claims)
-
-<span class="news-item__source">computerweekly.com</span> The EDPS confirmed a fact-finding probe into Europol's data environment, focused on its 'Pressure Cooker' tools for fast-processing data scraped from the internet.

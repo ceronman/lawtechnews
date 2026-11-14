@@ -9,7 +9,25 @@ prev = "/page/3/"
 next = "/page/5/"
 +++
 
+## 28 October 2026
+
+### [Portugal to reform labour laws](https://www.theportugalnews.com/news/2026-10-28/portugal-to-reform-labour-laws/1107935)
+
+<span class="news-item__source">theportugalnews.com</span> Labour minister Palma Ramalho told parliament Portugal will transpose the Platform Work Directive and pay-transparency rules, but conceded wider labour reform may slip.
+
+### [Plattformarbeit: Arbeitsgericht soll künftig über Status von Lieferfahrern entscheiden](https://www.tageblatt.lu/Luxemburg/Plattformarbeit-Arbeitsgericht-soll-kuenftig-ueber-Status-von-Lieferfahrern-entscheiden-114063.html)
+
+<span class="news-item__source">tageblatt.lu</span> Labour minister Marc Spautz said Luxembourg's Platform Work Directive bill, due by early December, will move worker-status disputes from administrative to labour courts.
+
+### [Comunicato stampa del Consiglio dei Ministri n. 195 (Platform Work Directive transposition decree)](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973)
+
+<span class="news-item__source">governo.it</span> Italy's cabinet gave final approval to its Platform Work Directive decree, presuming employment, barring algorithm-only dismissals and excluding marketplaces and booking sites.
+
 ## 27 October 2026
+
+### [French government mulled blocking social networks and mobile internet amid protests](https://www.politico.eu/article/french-government-mulled-blocking-social-network-amid-protests/)
+
+<span class="news-item__source">politico.eu</span> PM Lecornu asked telecom operators to be ready to block TikTok, Instagram, Snapchat and X during the 24 October protests; a pending riot bill adds 1-hour takedowns. <span class="news-item__discussions"><a href="https://www.reddit.com/r/france/comments/1xefu3a/information_exclusive_blast_le_premier_ministre_a/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/france/comments/1xguc2v/nous_y_sommes_lautoritarisme/">[discussion on reddit]</a></span>
 
 ### [Commission proposes to reinforce Frontex: stronger border protection, a greater role on returns and more effective crisis response](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2260)
 
@@ -82,19 +100,3 @@ next = "/page/5/"
 ### [The New Mexico Department of Justice Secures Another Landmark Victory Against Big Tech, with Historic $25 Billion Penalty Against Facebook](https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/)
 
 <span class="news-item__source">nmdoj.gov</span> A judge ordered Meta to pay $25bn after jurors found nearly 44 million state-law violations over Cambridge Analytica-era privacy claims; Meta will appeal. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50184820">[discussion on hn]</a> <a href="https://www.reddit.com/r/technology/comments/1xbtfk5/meta_ordered_to_pay_25_billion_penalty_in_new/">[discussion on reddit]</a> <a href="https://yro.slashdot.org/story/26/10/21/188251/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook">[discussion on slashdot]</a></span>
-
-### [The Irish Public Rejects State Access to Private Online Conversations](https://cdt.org/insights/the-irish-public-rejects-state-access-to-private-online-conversations/)
-
-<span class="news-item__source">cdt.org</span> A CDT poll found 66% of Irish voters oppose state access to encrypted messages as the justice minister readies a bill letting gardaí intercept them.
-
-### [Digital rulebook: Council agrees position to simplify data protection, privacy and cyber reporting rules](https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/digital-rulebook-council-agrees-position-to-simplify-data-protection-privacy-and-cyber-reporting-rules/)
-
-<span class="news-item__source">consilium.europa.eu</span> EU states keep the personal-data definition but add pseudonymisation rules, an AI sensitive-data derogation and longer breach-notification deadlines. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50218050">[discussion on hn]</a></span>
-
-### [Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2223)
-
-<span class="news-item__source">ec.europa.eu</span> The Commission opened DSA proceedings into Booking.com over fake listings, phishing via shared guest data, and paid boosted listings not labelled as ads. <span class="news-item__discussions"><a href="https://www.reddit.com/r/worldnews/comments/1xbt0s8/eu_investigating_bookingcom_over_action_on_fraud/">[discussion on reddit]</a> <a href="https://tweakers.net/nieuws/253612/eu-start-onderzoek-naar-booking-punt-com-om-nepadvertenties-en-phishing.html">[discussion on tweakers]</a></span>
-
-### [Berlin finds CDU, SPD, Greens and Left broke GDPR with Facebook targeting](https://ppc.land/berlin-finds-cdu-spd-greens-and-left-broke-gdpr-with-facebook-targeting/)
-
-<span class="news-item__source">ppc.land</span> Berlin's DPA found CDU, SPD, Greens and Die Linke unlawfully targeted Facebook voters by political interest in 2021, after noyb complaints. No fines were issued.
