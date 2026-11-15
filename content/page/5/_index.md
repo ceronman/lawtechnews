@@ -9,7 +9,25 @@ prev = "/page/4/"
 next = "/page/6/"
 +++
 
+## 22 October 2026
+
+### [Directive sur les travailleurs de plateformes : pourquoi la France traîne les pieds (et comment elle sape le texte)](https://nvo.fr/directive-sur-les-travailleurs-de-plateformes-pourquoi-la-france-traine-les-pieds-et-comment-elle-sape-le-texte/)
+
+<span class="news-item__source">nvo.fr</span> France will miss the 2 December deadline; its transposition mission advises no automatic employment presumption, only faster labour-court claims.
+
+### [AMLA and OLAF strengthen cooperation in the fight against financial crime](https://www.amla.europa.eu/press-release-amla-and-olaf-strengthen-cooperation-fight-against-financial-crime_en)
+
+<span class="news-item__source">amla.europa.eu</span> AMLA and OLAF signed a working arrangement to share operational intelligence and let OLAF join AMLA-coordinated FIU analyses of fraud-linked laundering.
+
 ## 21 October 2026
+
+### [Transposing the Platform Work Directive: Comparative Assessment and Good Practices](https://ecipe.org/publications/transposing-platform-work-directive/)
+
+<span class="news-item__source">ecipe.org</span> ECIPE compared draft transpositions in Austria, Czechia, Estonia, the Netherlands and Sweden, finding none complete and urging clear presumption rules and joint liability for intermediaries.
+
+### [The New Mexico Department of Justice Secures Another Landmark Victory Against Big Tech, with Historic $25 Billion Penalty Against Facebook](https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/)
+
+<span class="news-item__source">nmdoj.gov</span> A judge ordered Meta to pay $25bn after jurors found nearly 44 million state-law violations over Cambridge Analytica-era privacy claims; Meta will appeal. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50184820">[discussion on hn]</a> <a href="https://www.reddit.com/r/technology/comments/1xbtfk5/meta_ordered_to_pay_25_billion_penalty_in_new/">[discussion on reddit]</a> <a href="https://yro.slashdot.org/story/26/10/21/188251/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook">[discussion on slashdot]</a></span>
 
 ### [The Irish Public Rejects State Access to Private Online Conversations](https://cdt.org/insights/the-irish-public-rejects-state-access-to-private-online-conversations/)
 
@@ -82,21 +100,3 @@ next = "/page/6/"
 ### [Opinion of Advocate General Biondi in ByteDance v Commission (TikTok DMA gatekeeper designation)](https://curia.europa.eu/site/upload/docs/application/pdf/2026-10/cp260151en.pdf)
 
 <span class="news-item__source">curia.europa.eu</span> Advocate General Biondi advised the CJEU to dismiss ByteDance's appeal against TikTok's DMA gatekeeper designation, in the first DMA case to reach the Court of Justice.
-
-### [Eurobarometer survey highlights growing use of AI in European companies](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2160)
-
-<span class="news-item__source">ec.europa.eu</span> A Commission survey of 12,826 SMEs found 42% use AI or algorithmic management, mostly experimentally; the upcoming Quality Jobs Act will regulate algorithmic management.
-
-## 14 October 2026
-
-### [Judgment of the General Court in Case T-134/24 Technius v Commission (Stripchat DSA designation)](https://curia.europa.eu/site/upload/docs/application/pdf/2026-10/cp260146en.pdf)
-
-<span class="news-item__source">curia.europa.eu</span> The EU General Court dismissed Stripchat's challenge to its designation as a very large online platform under the DSA, upholding the Commission's 2023 decision.
-
-### [First harmonised standard supporting the AI Act published in the Official Journal](https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal)
-
-<span class="news-item__source">digital-strategy.ec.europa.eu</span> Implementing Decision (EU) 2026/2274 cites EN 18286:2026, giving high-risk AI providers a presumption of conformity for their quality management system only. <span class="news-item__discussions"><a href="https://www.reddit.com/r/grc/comments/1x8kyuq/europe_just_released_en_18286_its_iso_42001like/">[discussion on reddit]</a></span>
-
-### [EU’s AI rules face first enforcement test over lab incidents](https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents)
-
-<span class="news-item__source">euronews.com</span> The AI Office sent AI Act information requests to OpenAI and Anthropic over agents that hacked outside firms; lawyers dispute its reach over pre-market testing.

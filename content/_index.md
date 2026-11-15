@@ -8,7 +8,27 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">409 stories on European law, technology regulation and digital rights, latest from 13 November 2026. Every headline links to the original source.</p>
+<p class="news-intro">413 stories on European law, technology regulation and digital rights, latest from 15 November 2026. Every headline links to the original source.</p>
+
+## 15 November 2026
+
+### [Tánaiste announces new transparency measures to strengthen Ireland's anti-money laundering regime](https://www.gov.ie/en/department-of-finance/press-releases/t%C3%A1naiste-announces-new-transparency-measures-to-strengthen-irelands-anti-money-laundering-regime/)
+
+<span class="news-item__source">gov.ie</span> Ireland opened its beneficial ownership registers to journalists, NGOs and others showing a legitimate interest, implementing AMLD6 access rules with privacy safeguards.
+
+## 14 November 2026
+
+### [Nueve sentencias apuntalan la defensa del CEO de Glovo](https://www.expansion.com/empresas/distribucion/2026/11/14/nueve-sentencias-apuntalan-defensa-ceo-glovo.html)
+
+<span class="news-item__source">expansion.com</span> Nine Spanish rulings found Glovo's Flex riders autonomous, voiding €16m in social security dues and €17.2m in fines; the CEO will use them in his false self-employment trial.
+
+### [Lovable: Many Apps Built on the Platform Expose Sensitive Data](https://www.crissyfield.de/research/lovable-en/)
+
+<span class="news-item__source">crissyfield.de</span> Researchers found 7,403 of 24,664 scanned Lovable-built apps exposing tables with emails, plus passport numbers, payment data and 200,000+ chats, with no login needed. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50499017">[discussion on hn]</a></span>
+
+### [Facebook: il Garante Privacy sanziona Meta per 805 milioni di euro](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10321080)
+
+<span class="news-item__source">garanteprivacy.it</span> Italy's Garante fined Meta €805m under ePrivacy for reading Android photo galleries without specific consent, rejecting one-stop-shop; the feature must be off by default in 60 days. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50497009">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50498063">[discussion on hn]</a></span>
 
 ## 13 November 2026
 
@@ -83,19 +103,3 @@ next = "/page/2/"
 ### [PLFSS 2027 : un amendement du gouvernement propose le rattachement des livreurs et chauffeurs VTC à la branche AT-MP](https://www.aefinfo.fr/depeche/759950-plfss-2027-un-amendement-du-gouvernement-propose-le-rattachement-des-livreurs-et-chauffeurs-vtc-a-la-branche-at-mp)
 
 <span class="news-item__source">aefinfo.fr</span> France's government tabled a Senate amendment to the 2027 social security bill making platform riders and VTC drivers compulsorily covered by the work-accident branch.
-
-### [Nordea comments on verdict in case about anti-money laundering measures from 2012 to 2015](https://www.nordea.com/en/news/nordea-comments-on-verdict-in-case-about-anti-money-laundering-measures-from-2012-to-2015)
-
-<span class="news-item__source">nordea.com</span> Copenhagen City Court acquitted Nordea on 5 of 7 AML counts over its 2012-15 controls and fined it DKK 155m, far below the DKK 6.6bn prosecutors sought. <span class="news-item__discussions"><a href="https://www.reddit.com/r/Denmark/comments/1xrpq01/nu_falder_dommen_over_nordea_i_historisk/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/TrueCrimeDK/comments/1xrq2in/nordea_i_historisk_sag_om_hvidvask/">[discussion on reddit]</a></span>
-
-### [Google Gemini routes personal Drive files and emails to human annotators](https://github.com/thisisme6598/gemini_files/)
-
-<span class="news-item__source">github.com</span> Google's help pages now say Gmail and Drive data in Gemini Connected Apps may be human reviewed and used for AI training, reversing a 2023 pledge; tests show emails pulled in unprompted. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50429426">[discussion on hn]</a></span>
-
-### [Google challenges €403m fine over processing of user location data](https://www.irishtimes.com/crime-law/courts/2026/11/09/google-challenges-403m-fine-over-processing-of-user-location-data/)
-
-<span class="news-item__source">irishtimes.com</span> Google sought judicial review of the DPC's €403m location-data fine in Ireland's High Court, alleging errors of law and fact and asking for a CJEU referral; the case was fast-tracked.
-
-### [EU to blacklist ten manipulative online design 'traps', leaked draft shows](https://www.euronews.com/2026/11/09/eu-to-blacklist-ten-manipulative-online-design-traps-leaked-draft-shows)
-
-<span class="news-item__source">euronews.com</span> A leaked Digital Fairness Act draft bans ten dark patterns, loot boxes for minors and profiling-based ads to children, with fines up to 6% of turnover; it is due on 11 November. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50428979">[discussion on hn]</a> <a href="https://www.reddit.com/r/heartopia/comments/1xshusu/eu_to_ban_lootbox_gacha_included_for_childrens/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/TugaTech/comments/1xrvg95/uni%C3%A3o_europeia_prepara_digital_fairness_act_para/">[discussion on reddit]</a></span>
