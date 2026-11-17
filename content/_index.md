@@ -3,12 +3,18 @@ title = "Law & Tech News"
 
 [extra]
 page_num = 1
-page_count = 21
+page_count = 22
 prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">417 stories on European law, technology regulation and digital rights, latest from 15 November 2026. Every headline links to the original source.</p>
+<p class="news-intro">422 stories on European law, technology regulation and digital rights, latest from 16 November 2026. Every headline links to the original source.</p>
+
+## 16 November 2026
+
+### [Italian court places Revolut unit under supervision over money-laundering](https://www.reuters.com/business/finance/italian-court-places-revolut-unit-under-supervision-over-money-laundering-2026-11-16/)
+
+<span class="news-item__source">reuters.com</span> A Milan court put Revolut's Italian branch under judicial administration for a year after prosecutors found AML failures let mafia-linked clients move €76.5m. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50515877">[discussion on hn]</a></span>
 
 ## 15 November 2026
 
@@ -30,6 +36,10 @@ next = "/page/2/"
 
 <span class="news-item__source">garanteprivacy.it</span> Italy's Garante fined Meta €805m under ePrivacy for reading Android photo galleries without specific consent, rejecting one-stop-shop; the feature must be off by default in 60 days. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50497009">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50498063">[discussion on hn]</a></span>
 
+### [Decreto legislativo 2 novembre 2026, n. 208 (Italian Platform Work Directive transposition)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026;208)
+
+<span class="news-item__source">normattiva.it</span> Italy published its Platform Work Directive decree: work is presumed employment where platforms direct or control it, and algorithm-only decisions are barred from 2 December.
+
 ## 13 November 2026
 
 ### [Remarks by President António Costa at the press conference following the informal meeting of Heads of State or Government of 13 November 2026](https://www.consilium.europa.eu/en/press/press-releases/2026/11/13/remarks-by-president-antonio-costa-at-the-press-conference-following-the-informal-meeting-of-heads-of-state-or-government-of-13-november-2026/)
@@ -47,6 +57,10 @@ next = "/page/2/"
 ### [Microsoft outage renews European calls to detox from US tech](https://www.politico.eu/article/microsoft-outage-renews-european-calls-to-detox-from-us-tech/)
 
 <span class="news-item__source">politico.eu</span> A near-24-hour Microsoft 365 outage in 74 countries led MEPs, Macron and SME groups to demand EU digital sovereignty and procurement favouring European tech. <span class="news-item__discussions"><a href="https://www.reddit.com/r/EUnews/comments/1xvkr0e/microsoft_outage_renews_european_calls_to_detox/">[discussion on reddit]</a></span>
+
+### [EDPS supports EU KIDS Act aims and calls for safety by design for all users](https://www.edps.europa.eu/press-publications/press-news/press-releases/2026/edps-supports-eu-kids-act-aims-and-calls-safety-design-all-users_en)
+
+<span class="news-item__source">edps.europa.eu</span> The EDPS backed the KIDS Act but said age checks should apply only once privacy-preserving tools exist EU-wide, and urged one GDPR age of digital consent.
 
 ### [EDPB supports use of other models of contractual clauses for onward transfers of personal data](https://www.edpb.europa.eu/news/edpb-supports-use-of-other-models-of-contractual-clauses-for-onward-transfers-of-personal-data_en)
 
@@ -87,17 +101,3 @@ next = "/page/2/"
 ### [Commission strengthens consumer protection laws, making them fit for the digital age (Digital Fairness Act proposal)](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2407)
 
 <span class="news-item__source">ec.europa.eu</span> The Commission proposed the Digital Fairness Act, banning dark patterns and pay-to-win for minors, plus CPC reform letting it fine traders up to 6% of global turnover. <span class="news-item__discussions"><a href="https://www.reddit.com/r/Games/comments/1xtlfqm/proposal_for_a_digital_fairness_act/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/europe/comments/1xtiun8/duolingo_strava_and_ticketmaster_are_all_caught/">[discussion on reddit]</a> <a href="https://tweakers.net/nieuws/254400/europese-commissie-wil-pay-to-win-bij-kinderen-verbieden-in-digital-fairness-act.html">[discussion on tweakers]</a></span>
-
-## 10 November 2026
-
-### [PIPC Probes Anthropic's Corporate Data Leak](https://www.chosun.com/english/national-en/2026/11/10/SAQJH2EHYZCYHB6ET4CLYEAVGU/)
-
-<span class="news-item__source">chosun.com</span> Korea's PIPC opened a formal probe into Anthropic after names, emails and plan details of about 100 corporate Claude accounts leaked via a third-party software flaw.
-
-### [Macron wants AI banned wherever it threatens children](https://www.euronews.com/2026/11/10/macron-wants-ai-banned-wherever-it-threatens-children)
-
-<span class="news-item__source">euronews.com</span> Macron said AI uses that threaten children's mental health must be banned, as France readies a charter binding OpenAI and Anthropic to pre-audit models before children use them.
-
-### [Italian DPA fines Wind Tre EUR 1,7 million for data security failures affecting over 365 000 customers](https://www.edpb.europa.eu/news/italian-dpa-fines-wind-tre-eur-17-million-for-data-security-failures-affecting-over-365-000_en)
-
-<span class="news-item__source">edpb.europa.eu</span> Italy's Garante fined Wind Tre €1.7m after social engineers at two shops got remote access, exposing 365,000 customers' data, 41,359 with payment details.
