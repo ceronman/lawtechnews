@@ -11,6 +11,26 @@ next = "/page/3/"
 
 ## 11 November 2026
 
+### [La Fiscal General encarga a la Fiscal de Criminalidad Informática la investigación de los presuntos casos de abuso sexual infantil en TikTok](https://www.fiscal.es/-/la-fiscal-general-encomienda-a-la-fiscal-de-criminalidad-inform%C3%A1tica-la-investigaci%C3%B3n-de-los-presuntos-casos-de-abuso-sexual-infantil-en-tiktok)
+
+<span class="news-item__source">fiscal.es</span> Spain's Attorney General assigned the cybercrime prosecutor to investigate TikTok after Maldita.es reported over 1,000 child sexual abuse videos with 48 million views. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xrsidx/spanish_government_considers_tiktok_ban_due_to/">[discussion on reddit]</a></span>
+
+### [La AEPD descarta suspender TikTok en España y remite el caso a las autoridades irlandesas](https://www.zonamovilidad.es/aepd-descarta-suspender-tiktok-espana-remite-caso-autoridades-irlandesas)
+
+<span class="news-item__source">zonamovilidad.es</span> Spain's AEPD refused the ministry's request to suspend TikTok, citing the Irish DPC's lead role, but may order blocking of specific links exposing minors' data.
+
+### [EU needs a system to respond to AI incidents, Finland and Estonia say](https://www.politico.eu/article/eu-needs-a-system-to-respond-to-ai-incidents-finland-and-estonia-say/)
+
+<span class="news-item__source">politico.eu</span> Finland and Estonia urged EU-level arrangements to respond to serious AI incidents and independent capacity to evaluate frontier models, ahead of the first AI-focused EU summit.
+
+### [EDPB adopts statement on review of the Republic of Korea adequacy, processor BCR recommendations, and selects topic for 2027 coordinated enforcement action](https://www.edpb.europa.eu/news/edpb-adopts-statement-on-review-of-the-republic-of-korea-adequacy-processor-bcr_en)
+
+<span class="news-item__source">edpb.europa.eu</span> The EDPB picked automated decision-making in recruitment, including AI candidate screening, as its 2027 coordinated enforcement topic and finalised processor BCR recommendations.
+
+### [Commission strengthens consumer protection laws, making them fit for the digital age (Digital Fairness Act proposal)](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2407)
+
+<span class="news-item__source">ec.europa.eu</span> The Commission proposed the Digital Fairness Act, banning dark patterns and pay-to-win for minors, plus CPC reform letting it fine traders up to 6% of global turnover. <span class="news-item__discussions"><a href="https://www.reddit.com/r/Games/comments/1xtlfqm/proposal_for_a_digital_fairness_act/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/europe/comments/1xtiun8/duolingo_strava_and_ticketmaster_are_all_caught/">[discussion on reddit]</a> <a href="https://tweakers.net/nieuws/254400/europese-commissie-wil-pay-to-win-bij-kinderen-verbieden-in-digital-fairness-act.html">[discussion on tweakers]</a></span>
+
 ### [Commission Implementing Regulation (EU) 2026/2487 on AI regulatory sandboxes](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2487)
 
 <span class="news-item__source">eur-lex.europa.eu</span> The Commission set rules for AI Act regulatory sandboxes, applying from 1 December, with SME priority access and DPA supervision wherever personal data is processed.
@@ -76,25 +96,3 @@ next = "/page/3/"
 ### [EU countries still can't get it together on AI](https://www.politico.eu/article/eu-countries-still-cant-get-it-together-on-ai/)
 
 <span class="news-item__source">politico.eu</span> Sixteen member states missed the AI Act deadline to name enforcement authorities; six have none and ten only provisional picks, and an MEP urged infringement action.
-
-### [Ads in Popular Apps Give Police a Powerful Tool to Spy on Users](https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/)
-
-<span class="news-item__source">bloomberg.com</span> Bloomberg found Penlink's ad-data phone tracker Webloc is used by agencies in the UK, Netherlands, Germany, Mexico, Israel and Saudi Arabia, not just the US. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50415281">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50492950">[discussion on hn]</a></span>
-
-## 6 November 2026
-
-### [Watchdog investigates Europol over 'irregular' data processing claims](https://www.computerweekly.com/news/366653892/Watchdog-investigates-Europol-over-irregular-data-processing-claims)
-
-<span class="news-item__source">computerweekly.com</span> The EDPS confirmed a fact-finding probe into Europol's data environment, focused on its 'Pressure Cooker' tools for fast-processing data scraped from the internet.
-
-### [Ustawa o pracy platformowej na ostatniej prostej. Domniemanie etatu i większa kontrola algorytmów](https://www.pulshr.pl/prawo-pracy/ustawa-o-pracy-platformowej-na-ostatniej-prostej-domniemanie-etatu-i-wieksza-kontrola-algorytmow,123066.html)
-
-<span class="news-item__source">pulshr.pl</span> Poland's labour minister said the Platform Work Act will reach the Sejm in the coming months and apply next year, missing the 2 December deadline; only one state has transposed so far.
-
-### [Travailleurs des plateformes : la France ne tiendra pas le délai européen](https://www.lenouveleconomiste.fr/economie/travailleurs-des-plateformes-la-france-ne-tiendra-/)
-
-<span class="news-item__source">lenouveleconomiste.fr</span> France's labour minister confirmed the country will not transpose the Platform Work Directive by the 2 December 2026 deadline, so its employment presumption will not apply on time.
-
-### [Operation Economic Outcast Severs MEXC Global's Access to the U.S. Financial System](https://www.fincen.gov/news/news-releases/operation-economic-outcast-severs-mexc-globals-access-us-financial-system)
-
-<span class="news-item__source">fincen.gov</span> FinCEN barred US financial institutions from processing transfers involving crypto exchange MEXC Global, citing at least $16bn in sanctions-evasion and cybercrime flows. <span class="news-item__discussions"><a href="https://www.reddit.com/r/MyCoinDeck/comments/1xqzaai/us_treasury_moves_to_cut_off_crypto_exchange_mexc/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/RegulatoryReporting/comments/1xra23r/mexc_global_order_has_no_deemedcompliance_clause/">[discussion on reddit]</a></span>

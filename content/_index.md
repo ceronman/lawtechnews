@@ -8,13 +8,37 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">422 stories on European law, technology regulation and digital rights, latest from 16 November 2026. Every headline links to the original source.</p>
+<p class="news-intro">427 stories on European law, technology regulation and digital rights, latest from 18 November 2026. Every headline links to the original source.</p>
+
+## 18 November 2026
+
+### [Conservation des mots de passe clients en clair : la CNIL prononce une sanction de 5 millions d'euros](https://www.cnil.fr/fr/conservation-des-mots-de-passe-sanction-5-millions-deuros)
+
+<span class="news-item__source">cnil.fr</span> The CNIL fined Macif Vie €5m for storing 1.8m customer passwords in plain text, sharing database logins among staff and keeping contact-form data for over 10 years. <span class="news-item__discussions"><a href="https://www.reddit.com/r/france/comments/1xzertf/la_cnil_inflige_5_millions_deuros_damende_%C3%A0_la/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/europe/comments/1xz9ebz/cnil_fines_unnamed_life_insurer_5m_over_18m/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/Numerama/comments/1xzfl7h/la_cnil_cache_le_nom_dune_entreprise_qui_stockait/">[discussion on reddit]</a> <a href="https://linuxfr.org/users/tkr/liens/conservation-des-mots-de-passe-clients-en-clair-la-cnil-prononce-une-sanction-de-5-millions-d-euros">[discussion on linuxfr]</a></span>
+
+## 17 November 2026
+
+### [Irish regulator stops X training AI with data gathered by agents](https://www.politico.eu/article/x-stops-training-ai-with-agents-data-after-ireland-intervened/)
+
+<span class="news-item__source">politico.eu</span> Ireland's DPC got X to suspend training AI on third-party personal data its Grok agent began collecting in late October, a first GDPR test case for AI-agent data.
+
+### [Inside Deutsche Bank: Risky Business](https://www.inside-db.com/)
+
+<span class="news-item__source">inside-db.com</span> A media consortium published 15m+ leaked Deutsche Bank files showing AML failures, including $582m in flagged Epstein-linked payments and continued ties to Russian oligarchs. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50547620">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50539054">[discussion on hn]</a> <a href="https://www.reddit.com/r/news/comments/1xz1hr9/deutsche_bank_leak_reveals_582m_in_suspicious/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/europe/comments/1xydhqp/inside_deutsche_bank_massive_data_breach_at/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/worldnews/comments/1xyuvye/major_bank_leak_reveals_tr%E1%BB%A5mp_received_suspicious/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/germany/comments/1xytma1/leak_of_15mn_deutsche_bank_files_exposes_systemic/">[discussion on reddit]</a></span>
+
+### [Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the sale of illegal products](https://luxembourg.representation.ec.europa.eu/actualites-et-evenements/actualites/commission-preliminarily-finds-temu-breach-digital-services-act-failure-tackle-sale-illegal-products-2026-11-17_en)
+
+<span class="news-item__source">luxembourg.representation.ec.europa.eu</span> The Commission found Temu's product checks, moderation and seller sanctions fail to curb illegal goods under DSA Art. 35; a final decision could cost up to 6% of turnover. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xyi2xa/commission_preliminarily_finds_temu_in_breach_of/">[discussion on reddit]</a> <a href="https://tweakers.net/nieuws/254616/eu-temu-doet-nog-steeds-niet-genoeg-om-verkoop-illegale-producten-te-stoppen.html">[discussion on tweakers]</a></span>
 
 ## 16 November 2026
 
 ### [Italian court places Revolut unit under supervision over money-laundering](https://www.reuters.com/business/finance/italian-court-places-revolut-unit-under-supervision-over-money-laundering-2026-11-16/)
 
 <span class="news-item__source">reuters.com</span> A Milan court put Revolut's Italian branch under judicial administration for a year after prosecutors found AML failures let mafia-linked clients move €76.5m. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50515877">[discussion on hn]</a></span>
+
+### [Commission seeks feedback on draft template for the fundamental rights impact assessment under the AI Act](https://digital-strategy.ec.europa.eu/en/news/commission-seeks-feedback-draft-template-fundamental-rights-impact-assessment-under-ai-act)
+
+<span class="news-item__source">digital-strategy.ec.europa.eu</span> The AI Office published a draft Article 27 FRIA template for high-risk AI deployers, open for feedback until 15 January 2027; the obligation applies from 2 December 2027.
 
 ## 15 November 2026
 
@@ -79,25 +103,3 @@ next = "/page/2/"
 ### [El TSJ de Extremadura declara que no existe relación laboral entre Glovo y sus repartidores](https://elderecho.com/el-tsj-de-extremadura-declara-que-no-existe-relacion-laboral-entre-glovo-y-sus-repartidores)
 
 <span class="news-item__source">elderecho.com</span> Extremadura's High Court annulled Social Security's ex officio registration of Glovo riders, ruling its 'Flex' model rebuts the Rider Law's presumption of employment. <span class="news-item__discussions"><a href="https://www.meneame.net/story/tsj-extremadura-declara-no-existe-relacion-laboral-entre-glovo">[discussion on menéame]</a></span>
-
-## 11 November 2026
-
-### [La Fiscal General encarga a la Fiscal de Criminalidad Informática la investigación de los presuntos casos de abuso sexual infantil en TikTok](https://www.fiscal.es/-/la-fiscal-general-encomienda-a-la-fiscal-de-criminalidad-inform%C3%A1tica-la-investigaci%C3%B3n-de-los-presuntos-casos-de-abuso-sexual-infantil-en-tiktok)
-
-<span class="news-item__source">fiscal.es</span> Spain's Attorney General assigned the cybercrime prosecutor to investigate TikTok after Maldita.es reported over 1,000 child sexual abuse videos with 48 million views. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xrsidx/spanish_government_considers_tiktok_ban_due_to/">[discussion on reddit]</a></span>
-
-### [La AEPD descarta suspender TikTok en España y remite el caso a las autoridades irlandesas](https://www.zonamovilidad.es/aepd-descarta-suspender-tiktok-espana-remite-caso-autoridades-irlandesas)
-
-<span class="news-item__source">zonamovilidad.es</span> Spain's AEPD refused the ministry's request to suspend TikTok, citing the Irish DPC's lead role, but may order blocking of specific links exposing minors' data.
-
-### [EU needs a system to respond to AI incidents, Finland and Estonia say](https://www.politico.eu/article/eu-needs-a-system-to-respond-to-ai-incidents-finland-and-estonia-say/)
-
-<span class="news-item__source">politico.eu</span> Finland and Estonia urged EU-level arrangements to respond to serious AI incidents and independent capacity to evaluate frontier models, ahead of the first AI-focused EU summit.
-
-### [EDPB adopts statement on review of the Republic of Korea adequacy, processor BCR recommendations, and selects topic for 2027 coordinated enforcement action](https://www.edpb.europa.eu/news/edpb-adopts-statement-on-review-of-the-republic-of-korea-adequacy-processor-bcr_en)
-
-<span class="news-item__source">edpb.europa.eu</span> The EDPB picked automated decision-making in recruitment, including AI candidate screening, as its 2027 coordinated enforcement topic and finalised processor BCR recommendations.
-
-### [Commission strengthens consumer protection laws, making them fit for the digital age (Digital Fairness Act proposal)](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2407)
-
-<span class="news-item__source">ec.europa.eu</span> The Commission proposed the Digital Fairness Act, banning dark patterns and pay-to-win for minors, plus CPC reform letting it fine traders up to 6% of global turnover. <span class="news-item__discussions"><a href="https://www.reddit.com/r/Games/comments/1xtlfqm/proposal_for_a_digital_fairness_act/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/europe/comments/1xtiun8/duolingo_strava_and_ticketmaster_are_all_caught/">[discussion on reddit]</a> <a href="https://tweakers.net/nieuws/254400/europese-commissie-wil-pay-to-win-bij-kinderen-verbieden-in-digital-fairness-act.html">[discussion on tweakers]</a></span>
