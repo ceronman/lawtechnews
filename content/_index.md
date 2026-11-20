@@ -8,15 +8,33 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">427 stories on European law, technology regulation and digital rights, latest from 18 November 2026. Every headline links to the original source.</p>
+<p class="news-intro">432 stories on European law, technology regulation and digital rights, latest from 19 November 2026. Every headline links to the original source.</p>
+
+## 19 November 2026
+
+### [EU Commission hit by large-scale cyberattack with data leakage unknown](https://www.euronews.com/2026/11/19/eu-commission-hit-by-large-scale-cyberattack-with-data-leakage-unknown)
+
+<span class="news-item__source">euronews.com</span> An AI-assisted attack using the ARTEX tool knocked Commission HR and health-insurance systems offline for days; CERT-EU and the EDPS are assessing whether staff data leaked. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50558903">[discussion on hn]</a> <a href="https://www.reddit.com/r/europe/comments/1y0buwh/eu_targeted_by_cyber_attack_using_ai_no_one_is/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/worldnews/comments/1y04e3v/eu_commission_hit_by_cyberattack/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/geopolitics/comments/1y04fwi/eu_commission_hit_by_cyberattack/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/cybersecurity/comments/1y0dtq9/european_commission_hit_by_cyberattack_that_may/">[discussion on reddit]</a> <a href="https://tweakers.net/nieuws/254710/grote-cyberaanval-treft-europese-commissie-datalek-is-niet-uitgesloten.html">[discussion on tweakers]</a></span>
+
+### [Advocate General Medina: A social network is not free when you pay with your data to use it](https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260169en.pdf)
+
+<span class="news-item__source">curia.europa.eu</span> AG Medina said handing over personal data for commercial use is payment under the Unfair Commercial Practices Directive, so Facebook can't be advertised as "free".
 
 ## 18 November 2026
+
+### [FI ger Northmill Bank en anmärkning och en sanktionsavgift (Sweden fines Northmill Bank for AML breaches)](https://www.fi.se/sv/publicerat/sanktioner/finansiella-foretag/2026/fi-ger-northmill-bank-en-anmarkning-och-en-sanktionsavgift/)
+
+<span class="news-item__source">fi.se</span> Sweden's FI fined Northmill Bank SEK 20m for AML breaches in risk assessments, customer due diligence and monitoring of third-party deposits during 2023.
 
 ### [Conservation des mots de passe clients en clair : la CNIL prononce une sanction de 5 millions d'euros](https://www.cnil.fr/fr/conservation-des-mots-de-passe-sanction-5-millions-deuros)
 
 <span class="news-item__source">cnil.fr</span> The CNIL fined Macif Vie €5m for storing 1.8m customer passwords in plain text, sharing database logins among staff and keeping contact-form data for over 10 years. <span class="news-item__discussions"><a href="https://www.reddit.com/r/france/comments/1xzertf/la_cnil_inflige_5_millions_deuros_damende_%C3%A0_la/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/europe/comments/1xz9ebz/cnil_fines_unnamed_life_insurer_5m_over_18m/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/Numerama/comments/1xzfl7h/la_cnil_cache_le_nom_dune_entreprise_qui_stockait/">[discussion on reddit]</a> <a href="https://linuxfr.org/users/tkr/liens/conservation-des-mots-de-passe-clients-en-clair-la-cnil-prononce-une-sanction-de-5-millions-d-euros">[discussion on linuxfr]</a></span>
 
 ## 17 November 2026
+
+### [Processing of personal data by Europol: the Court of Justice confirms that the EDPS action against the amendment of the Europol regulation is inadmissible](https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260165en.pdf)
+
+<span class="news-item__source">curia.europa.eu</span> The Court of Justice upheld the dismissal of the EDPS's challenge to rules letting Europol keep uncategorised personal data, finding the EDPS lacked standing.
 
 ### [Irish regulator stops X training AI with data gathered by agents](https://www.politico.eu/article/x-stops-training-ai-with-agents-data-after-ireland-intervened/)
 
@@ -25,6 +43,10 @@ next = "/page/2/"
 ### [Inside Deutsche Bank: Risky Business](https://www.inside-db.com/)
 
 <span class="news-item__source">inside-db.com</span> A media consortium published 15m+ leaked Deutsche Bank files showing AML failures, including $582m in flagged Epstein-linked payments and continued ties to Russian oligarchs. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50547620">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50539054">[discussion on hn]</a> <a href="https://www.reddit.com/r/news/comments/1xz1hr9/deutsche_bank_leak_reveals_582m_in_suspicious/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/europe/comments/1xydhqp/inside_deutsche_bank_massive_data_breach_at/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/worldnews/comments/1xyuvye/major_bank_leak_reveals_tr%E1%BB%A5mp_received_suspicious/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/germany/comments/1xytma1/leak_of_15mn_deutsche_bank_files_exposes_systemic/">[discussion on reddit]</a></span>
+
+### [FinCEN Issues Proposed Rule to Strengthen Customer Due Diligence Requirements for Covered Financial Institutions](https://www.fincen.gov/news/news-releases/fincen-issues-proposed-rule-strengthen-customer-due-diligence-requirements-covered-financial-institutions/)
+
+<span class="news-item__source">fincen.gov</span> FinCEN proposed a revised CDD rule letting banks verify business owners via third-party databases, ending automatic re-verification and barring ITINs for beneficial owners.
 
 ### [Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the sale of illegal products](https://luxembourg.representation.ec.europa.eu/actualites-et-evenements/actualites/commission-preliminarily-finds-temu-breach-digital-services-act-failure-tackle-sale-illegal-products-2026-11-17_en)
 
@@ -81,25 +103,3 @@ next = "/page/2/"
 ### [Microsoft outage renews European calls to detox from US tech](https://www.politico.eu/article/microsoft-outage-renews-european-calls-to-detox-from-us-tech/)
 
 <span class="news-item__source">politico.eu</span> A near-24-hour Microsoft 365 outage in 74 countries led MEPs, Macron and SME groups to demand EU digital sovereignty and procurement favouring European tech. <span class="news-item__discussions"><a href="https://www.reddit.com/r/EUnews/comments/1xvkr0e/microsoft_outage_renews_european_calls_to_detox/">[discussion on reddit]</a></span>
-
-### [EDPS supports EU KIDS Act aims and calls for safety by design for all users](https://www.edps.europa.eu/press-publications/press-news/press-releases/2026/edps-supports-eu-kids-act-aims-and-calls-safety-design-all-users_en)
-
-<span class="news-item__source">edps.europa.eu</span> The EDPS backed the KIDS Act but said age checks should apply only once privacy-preserving tools exist EU-wide, and urged one GDPR age of digital consent.
-
-### [EDPB supports use of other models of contractual clauses for onward transfers of personal data](https://www.edpb.europa.eu/news/edpb-supports-use-of-other-models-of-contractual-clauses-for-onward-transfers-of-personal-data_en)
-
-<span class="news-item__source">edpb.europa.eu</span> The EDPB backed Commission FAQs letting Council of Europe and Ibero-American model clauses be used for onward transfers of data received under the EU SCCs.
-
-## 12 November 2026
-
-### [UK health sector warned to tackle medical record snooping](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/11/uk-health-sector-warned-to-tackle-medical-record-snooping/)
-
-<span class="news-item__source">ico.org.uk</span> The ICO asked 200+ UK health chiefs to personally confirm safeguards against staff snooping in medical records after 300+ unauthorised-access reports this year. <span class="news-item__discussions"><a href="https://www.reddit.com/r/pwnhub/comments/1xvjb8g/uk_privacy_watchdog_demands_action_after_300/">[discussion on reddit]</a> <a href="https://forums.theregister.com/forum/all/2026/11/13/202613/">[discussion on the register forums]</a></span>
-
-### [Opinion of Advocate General Kokott in Case C-826/24 P Commission v Google and Alphabet (Google AdSense)](https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260164en.pdf)
-
-<span class="news-item__source">curia.europa.eu</span> AG Kokott advised the CJEU to set aside the General Court ruling that annulled Google's €1.49bn AdSense fine and send the case back for a fresh assessment. <span class="news-item__discussions"><a href="https://www.reddit.com/r/actutech/comments/1xu9uwz/un_conseiller_de_la_cour_de_justice_de_lue/">[discussion on reddit]</a></span>
-
-### [El TSJ de Extremadura declara que no existe relación laboral entre Glovo y sus repartidores](https://elderecho.com/el-tsj-de-extremadura-declara-que-no-existe-relacion-laboral-entre-glovo-y-sus-repartidores)
-
-<span class="news-item__source">elderecho.com</span> Extremadura's High Court annulled Social Security's ex officio registration of Glovo riders, ruling its 'Flex' model rebuts the Rider Law's presumption of employment. <span class="news-item__discussions"><a href="https://www.meneame.net/story/tsj-extremadura-declara-no-existe-relacion-laboral-entre-glovo">[discussion on menéame]</a></span>

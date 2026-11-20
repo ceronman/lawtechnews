@@ -9,7 +9,29 @@ prev = "/page/2/"
 next = "/page/4/"
 +++
 
+## 9 November 2026
+
+### [Google Gemini routes personal Drive files and emails to human annotators](https://github.com/thisisme6598/gemini_files/)
+
+<span class="news-item__source">github.com</span> Google's help pages now say Gmail and Drive data in Gemini Connected Apps may be human reviewed and used for AI training, reversing a 2023 pledge; tests show emails pulled in unprompted. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50429426">[discussion on hn]</a></span>
+
+### [Google challenges €403m fine over processing of user location data](https://www.irishtimes.com/crime-law/courts/2026/11/09/google-challenges-403m-fine-over-processing-of-user-location-data/)
+
+<span class="news-item__source">irishtimes.com</span> Google sought judicial review of the DPC's €403m location-data fine in Ireland's High Court, alleging errors of law and fact and asking for a CJEU referral; the case was fast-tracked.
+
+### [EU to blacklist ten manipulative online design 'traps', leaked draft shows](https://www.euronews.com/2026/11/09/eu-to-blacklist-ten-manipulative-online-design-traps-leaked-draft-shows)
+
+<span class="news-item__source">euronews.com</span> A leaked Digital Fairness Act draft bans ten dark patterns, loot boxes for minors and profiling-based ads to children, with fines up to 6% of turnover; it is due on 11 November. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50428979">[discussion on hn]</a> <a href="https://www.reddit.com/r/heartopia/comments/1xshusu/eu_to_ban_lootbox_gacha_included_for_childrens/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/TugaTech/comments/1xrvg95/uni%C3%A3o_europeia_prepara_digital_fairness_act_para/">[discussion on reddit]</a></span>
+
 ## 8 November 2026
+
+### [Hamburg regulator uses OpenAI model to draft letters as complaints rise 62%](https://ppc.land/hamburg-regulator-uses-openai-model-to-draft-letters-as-complaints-rise-62/)
+
+<span class="news-item__source">ppc.land</span> Hamburg's DPA cleared a city chatbot built on an OpenAI model it deems likely non-anonymous under EDPB Opinion 28/2024, and now uses it to draft letters on complaints. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xqtz0b/hamburg_regulator_uses_openai_model_to_draft/">[discussion on reddit]</a></span>
+
+### [EU countries still can't get it together on AI](https://www.politico.eu/article/eu-countries-still-cant-get-it-together-on-ai/)
+
+<span class="news-item__source">politico.eu</span> Sixteen member states missed the AI Act deadline to name enforcement authorities; six have none and ten only provisional picks, and an MEP urged infringement action.
 
 ### [Ads in Popular Apps Give Police a Powerful Tool to Spy on Users](https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/)
 
@@ -74,25 +96,3 @@ next = "/page/4/"
 ### [FINRA Fines Webull $4.2 Million for Anti-Money Laundering and Best Execution Violations](https://www.finra.org/media-center/newsreleases/2026/finra-fines-webull-42-million-anti-money-laundering-and-best)
 
 <span class="news-item__source">finra.org</span> Webull opened 120,000+ accounts without reasonable ID checks, some backed by landscape photos instead of IDs, and missed suspicious transfers; it must certify AML remediation.
-
-### [El juez rechaza el recurso del jefe de Glovo y mantiene su decisión de enviarlo a juicio](https://www.infobae.com/espana/agencias/2026/11/05/el-juez-rechaza-el-recurso-del-jefe-de-glovo-y-mantiene-su-decision-de-enviarlo-a-juicio/)
-
-<span class="news-item__source">infobae.com</span> A Barcelona judge rejected Óscar Pierre's bid to annul the case, keeping him headed for trial for employing riders as false self-employed despite inspectorate orders.
-
-### [Budget 2026: Ottawa plans to shift oversight of banks' anti-money-laundering efforts from FinTRAC to OSFI](https://www.theglobeandmail.com/business/article-budget-money-laundering-supervision-fintrac-osfi/)
-
-<span class="news-item__source">theglobeandmail.com</span> Canada's 2026 budget moves AML supervision of federally regulated banks from FINTRAC to OSFI, after FATF and Auditor-General criticism of FINTRAC's oversight.
-
-## 4 November 2026
-
-### [Uber Australia Pty Ltd v Chief Commissioner of State Revenue [2026] HCA 40](https://www.hcourt.gov.au/sites/default/files/judgment-summaries/2026-11/hca-40-2026-11-04.pdf)
-
-<span class="news-item__source">hcourt.gov.au</span> Australia's High Court ruled 6–1 that Uber's payments to NSW drivers are wages under payroll-tax contractor provisions, leaving Uber with an A$81m bill for 2015–2020. <span class="news-item__discussions"><a href="https://www.reddit.com/r/australia/comments/1xn9idp/uber_to_pay_81_million_in_payroll_tax_to_nsw_tax/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/auslaw/comments/1xn9vvl/uber_to_py_81_million_in_payroll_tax_to_nsw_tax/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/uberdrivers/comments/1xnbzkp/81m_nsw_payroll_tax_bill_for_uber_after_the_high/">[discussion on reddit]</a></span>
-
-### [Independent data protection oversight and effective access to justice essential to protecting privacy rights: UN experts](https://www.ohchr.org/en/press-releases/2026/11/independent-data-protection-oversight-and-effective-access-justice-essential)
-
-<span class="news-item__source">ohchr.org</span> Two UN Special Rapporteurs pressed Ireland on the DPC's independence, urging rigorous appointment and conflict checks and looser litigation-funding limits for collective GDPR actions.
-
-### [Commission seeks feedback on advertising repositories under the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-seeks-feedback-advertising-repositories-under-digital-services-act)
-
-<span class="news-item__source">digital-strategy.ec.europa.eu</span> The Commission opened a call for evidence on technical guidelines for VLOP and VLOSE ad repositories under the DSA, open until 2 December 2026.
