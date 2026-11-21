@@ -8,9 +8,19 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">432 stories on European law, technology regulation and digital rights, latest from 19 November 2026. Every headline links to the original source.</p>
+<p class="news-intro">437 stories on European law, technology regulation and digital rights, latest from 20 November 2026. Every headline links to the original source.</p>
+
+## 20 November 2026
+
+### [Germany says investors ready to spend €25B to buy TikTok Europe](https://www.politico.eu/article/germany-says-investors-ready-to-spend-e25b-to-buy-tiktok-europe/)
+
+<span class="news-item__source">politico.eu</span> Germany says pan-European investors could pay €25bn for 75–80% of TikTok's EU arm; TikTok called the German-Austrian push "nonsense", citing the DSA and GDPR. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50560795">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50549548">[discussion on hn]</a> <a href="https://www.reddit.com/r/europeanunion/comments/1xzqgn5/tiktok_faces_eu_proposal_for_european_ownership/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/EUnews/comments/1xzn0rf/germany_austria_demand_tiktoks_european_platform/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/TikTok/comments/1y0bmt8/germany_and_austria_call_for_european_control_of/">[discussion on reddit]</a></span>
 
 ## 19 November 2026
+
+### [Final Rule: Employee or Independent Contractor Status Under the Fair Labor Standards Act](https://www.dol.gov/agencies/whd/flsa/misclassification/2026rulemaking)
+
+<span class="news-item__source">dol.gov</span> The US Labor Department replaced its 2024 worker-status test with a control and profit-or-loss focus, making it easier to class gig and platform workers as contractors. <span class="news-item__discussions"><a href="https://www.reddit.com/r/WhatTrumpHasDone/comments/1y0sw2a/trump_administration_makes_it_easier_for/">[discussion on reddit]</a></span>
 
 ### [EU Commission hit by large-scale cyberattack with data leakage unknown](https://www.euronews.com/2026/11/19/eu-commission-hit-by-large-scale-cyberattack-with-data-leakage-unknown)
 
@@ -21,6 +31,10 @@ next = "/page/2/"
 <span class="news-item__source">curia.europa.eu</span> AG Medina said handing over personal data for commercial use is payment under the Unfair Commercial Practices Directive, so Facebook can't be advertised as "free".
 
 ## 18 November 2026
+
+### [Riigikogu võttis vastu platvormitöö tingimusi parandava seaduse (Estonia adopts its Platform Work Act)](https://www.riigikogu.ee/pressiteated/riigikogu-vottis-vastu-platvormitoo-tingimusi-parandava-seaduse/)
+
+<span class="news-item__source">riigikogu.ee</span> Estonia's parliament adopted its Platform Work Directive transposition 51–22 at minimum level; workers get a human review of automated decisions within 14 days.
 
 ### [FI ger Northmill Bank en anmärkning och en sanktionsavgift (Sweden fines Northmill Bank for AML breaches)](https://www.fi.se/sv/publicerat/sanktioner/finansiella-foretag/2026/fi-ger-northmill-bank-en-anmarkning-och-en-sanktionsavgift/)
 
@@ -52,11 +66,19 @@ next = "/page/2/"
 
 <span class="news-item__source">luxembourg.representation.ec.europa.eu</span> The Commission found Temu's product checks, moderation and seller sanctions fail to curb illegal goods under DSA Art. 35; a final decision could cost up to 6% of turnover. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xyi2xa/commission_preliminarily_finds_temu_in_breach_of/">[discussion on reddit]</a> <a href="https://tweakers.net/nieuws/254616/eu-temu-doet-nog-steeds-niet-genoeg-om-verkoop-illegale-producten-te-stoppen.html">[discussion on tweakers]</a></span>
 
+### [Big Tech must give consumers real choice by complying fully with EU Digital Markets Act](https://www.beuc.eu/press-releases/big-tech-must-give-consumers-real-choice-complying-fully-eu-digital-markets-act)
+
+<span class="news-item__source">beuc.eu</span> BEUC says all six DMA gatekeepers still likely breach the law through nudging interfaces and stalled compliance, and urged the Commission to impose dissuasive fines.
+
 ## 16 November 2026
 
 ### [Italian court places Revolut unit under supervision over money-laundering](https://www.reuters.com/business/finance/italian-court-places-revolut-unit-under-supervision-over-money-laundering-2026-11-16/)
 
 <span class="news-item__source">reuters.com</span> A Milan court put Revolut's Italian branch under judicial administration for a year after prosecutors found AML failures let mafia-linked clients move €76.5m. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50515877">[discussion on hn]</a></span>
+
+### [GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold](https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold)
+
+<span class="news-item__source">cloud.google.com</span> Google found a Russian-speaking actor's exploit_agent framework turning patches into working exploits with no human involved, aimed at French media and education sites. <span class="news-item__discussions"><a href="https://www.reddit.com/r/worldnews/comments/1xz296l/google_says_russian_speakers_pulled_off_firstever/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/cybersecurity/comments/1xz3uyz/google_says_russianspeaking_hackers_ran_the_first/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/technology/comments/1xysd0i/google_says_attackers_built_an_ai_framework_to/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/AI_Agents/comments/1xz1juw/googles_gtig_tracker_describes_multiagent/">[discussion on reddit]</a></span>
 
 ### [Commission seeks feedback on draft template for the fundamental rights impact assessment under the AI Act](https://digital-strategy.ec.europa.eu/en/news/commission-seeks-feedback-draft-template-fundamental-rights-impact-assessment-under-ai-act)
 
@@ -81,25 +103,3 @@ next = "/page/2/"
 ### [Facebook: il Garante Privacy sanziona Meta per 805 milioni di euro](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10321080)
 
 <span class="news-item__source">garanteprivacy.it</span> Italy's Garante fined Meta €805m under ePrivacy for reading Android photo galleries without specific consent, rejecting one-stop-shop; the feature must be off by default in 60 days. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50497009">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50498063">[discussion on hn]</a></span>
-
-### [Decreto legislativo 2 novembre 2026, n. 208 (Italian Platform Work Directive transposition)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026;208)
-
-<span class="news-item__source">normattiva.it</span> Italy published its Platform Work Directive decree: work is presumed employment where platforms direct or control it, and algorithm-only decisions are barred from 2 December.
-
-## 13 November 2026
-
-### [Remarks by President António Costa at the press conference following the informal meeting of Heads of State or Government of 13 November 2026](https://www.consilium.europa.eu/en/press/press-releases/2026/11/13/remarks-by-president-antonio-costa-at-the-press-conference-following-the-informal-meeting-of-heads-of-state-or-government-of-13-november-2026/)
-
-<span class="news-item__source">consilium.europa.eu</span> EU leaders held their first in-depth AI debate in Dublin, backing more investment and global AI governance; AI will headline the 2027 Social Summit. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xv91ko/godfather_of_ai_to_warn_eu_leaders_it_could_kill/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/technews/comments/1xvqdhu/godfather_of_ai_to_warn_eu_leaders_it_could_kill/">[discussion on reddit]</a></span>
-
-### [Prudential Authority imposes administrative sanctions on The Standard Bank of South Africa Limited](https://www.resbank.co.za/en/home/publications/publication-detail-pages/media-releases/2026/sanction-sbsa)
-
-<span class="news-item__source">resbank.co.za</span> South Africa's Prudential Authority fined Standard Bank R17m (R5m suspended) under the FIC Act after it skipped customer due diligence on 34% of sampled money-transfer files. <span class="news-item__discussions"><a href="https://mybroadband.co.za/forum/threads/standard-bank-hit-with-r17-million-fine.1351028/">[discussion on mybroadband]</a> <a href="https://mybroadband.co.za/forum/threads/standard-bank-hit-with-a-r17-million-fine-and-administrative-sanctions.1350907/">[discussion on mybroadband]</a></span>
-
-### [Prezydent podpisał sześć ustaw, jedną zawetował (Polish President vetoes second DSA implementation bill)](https://www.prezydent.pl/prawo/ustawy-zawetowane/prezydent-podpisal-szesc-ustaw-jedna-zawetowal,129977)
-
-<span class="news-item__source">prezydent.pl</span> Poland's President Nawrocki vetoed the second DSA implementation bill over administrative blocking of illegal content, including whole domains, calling it preventive censorship. <span class="news-item__discussions"><a href="https://www.reddit.com/r/poland/comments/1xw0erl/polish_president_vetoes_law_on_blocking_illegal/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/Polskimem/comments/1xweluj/prezydent_karol_nawrocki_og%C5%82osi%C5%82_weto_wobec/">[discussion on reddit]</a> <a href="https://wykop.pl/link/8047767/nawrocki-zawetowal-druga-ustawe-wdrazajaca-dsa-o-blokowaniu-tresci">[discussion on wykop]</a> <a href="https://wykop.pl/link/8047601/weto-prezydenta-nawrockiego-chodzi-o-blokowanie-tresci-w-internecie">[discussion on wykop]</a></span>
-
-### [Microsoft outage renews European calls to detox from US tech](https://www.politico.eu/article/microsoft-outage-renews-european-calls-to-detox-from-us-tech/)
-
-<span class="news-item__source">politico.eu</span> A near-24-hour Microsoft 365 outage in 74 countries led MEPs, Macron and SME groups to demand EU digital sovereignty and procurement favouring European tech. <span class="news-item__discussions"><a href="https://www.reddit.com/r/EUnews/comments/1xvkr0e/microsoft_outage_renews_european_calls_to_detox/">[discussion on reddit]</a></span>
