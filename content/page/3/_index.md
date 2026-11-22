@@ -4,12 +4,34 @@ template = "index.html"
 
 [extra]
 page_num = 3
-page_count = 22
+page_count = 23
 prev = "/page/2/"
 next = "/page/4/"
 +++
 
+## 11 November 2026
+
+### [Commission Implementing Regulation (EU) 2026/2487 on AI regulatory sandboxes](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2487)
+
+<span class="news-item__source">eur-lex.europa.eu</span> The Commission set rules for AI Act regulatory sandboxes, applying from 1 December, with SME priority access and DPA supervision wherever personal data is processed.
+
 ## 10 November 2026
+
+### [PIPC Probes Anthropic's Corporate Data Leak](https://www.chosun.com/english/national-en/2026/11/10/SAQJH2EHYZCYHB6ET4CLYEAVGU/)
+
+<span class="news-item__source">chosun.com</span> Korea's PIPC opened a formal probe into Anthropic after names, emails and plan details of about 100 corporate Claude accounts leaked via a third-party software flaw.
+
+### [Macron wants AI banned wherever it threatens children](https://www.euronews.com/2026/11/10/macron-wants-ai-banned-wherever-it-threatens-children)
+
+<span class="news-item__source">euronews.com</span> Macron said AI uses that threaten children's mental health must be banned, as France readies a charter binding OpenAI and Anthropic to pre-audit models before children use them.
+
+### [Italian DPA fines Wind Tre EUR 1,7 million for data security failures affecting over 365 000 customers](https://www.edpb.europa.eu/news/italian-dpa-fines-wind-tre-eur-17-million-for-data-security-failures-affecting-over-365-000_en)
+
+<span class="news-item__source">edpb.europa.eu</span> Italy's Garante fined Wind Tre €1.7m after social engineers at two shops got remote access, exposing 365,000 customers' data, 41,359 with payment details.
+
+### [Guidelines 1/2024 on processing of personal data based on Article 6(1)(f) GDPR (final version 2.0)](https://www.edpb.europa.eu/documents/guideline/guidelines-12024-on-processing-of-personal-data-based-on-article-61f-gdpr_en)
+
+<span class="news-item__source">edpb.europa.eu</span> The EDPB finalised its legitimate-interest guidelines: necessity and balancing tests must both be passed, and Art. 6(1)(f) cannot justify solely automated decisions.
 
 ### [Five States Join FTC Lawsuit Alleging Hims and Hers Engaged in Deceptive and Unlawful Privacy Practices](https://www.ftc.gov/news-events/news/press-releases/2026/11/five-states-join-ftc-lawsuit-alleging-hims-hers-engaged-deceptive-unlawful-privacy-practices)
 
@@ -76,25 +98,3 @@ next = "/page/4/"
 ### [Operation Economic Outcast Severs MEXC Global's Access to the U.S. Financial System](https://www.fincen.gov/news/news-releases/operation-economic-outcast-severs-mexc-globals-access-us-financial-system)
 
 <span class="news-item__source">fincen.gov</span> FinCEN barred US financial institutions from processing transfers involving crypto exchange MEXC Global, citing at least $16bn in sanctions-evasion and cybercrime flows. <span class="news-item__discussions"><a href="https://www.reddit.com/r/MyCoinDeck/comments/1xqzaai/us_treasury_moves_to_cut_off_crypto_exchange_mexc/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/RegulatoryReporting/comments/1xra23r/mexc_global_order_has_no_deemedcompliance_clause/">[discussion on reddit]</a></span>
-
-### [Ofcom provides update following its call to action on tech industry to improve protections for children](https://www.ofcom.org.uk/online-safety/protecting-children/ofcom-provides-update-following-its-call-to-action-on-tech-industry-to-improve-protections-for-children)
-
-<span class="news-item__source">ofcom.org.uk</span> Under Ofcom pressure, Snapchat began switching off Find Friends by default for UK child users and pledged highly effective age checks for all under-18s by year-end.
-
-### [Nordea Bank Risks Almost $1 Billion Fine in Denmark Money Laundering Case](https://www.insurancejournal.com/news/international/2026/11/06/891807.htm)
-
-<span class="news-item__source">insurancejournal.com</span> Danish prosecutors seek a DKK 6.6bn fine over DKK 26bn of suspicious 2012-15 flows in Denmark's first bank AML case to reach court; the ruling is due 9 November.
-
-### [Court suspends 201.1 bln-won fine imposed on Coupang for unauthorized user data collection](https://en.yna.co.kr/view/AEN20261106008000315)
-
-<span class="news-item__source">en.yna.co.kr</span> A Seoul court suspended Coupang's ₩201.1bn PIPC fine for collecting 11.17m users' activity data without consent, while another panel kept its record ₩423.6bn breach fine in force.
-
-### [Commission preliminarily finds TikTok's 'For You' feed in breach of Digital Services Act for harmful 'rabbit holes' effect](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2361)
-
-<span class="news-item__source">ec.europa.eu</span> The Commission said TikTok must redesign its For You feed, e.g. stop using viewing time as a ranking signal; a final decision could bring fines up to 6% of global turnover. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xpfbln/preliminary_ruling_by_the_eu_commission_tiktoks/">[discussion on reddit]</a> <a href="https://news.ycombinator.com/item?id=50391911">[discussion on hn]</a> <a href="https://tech.slashdot.org/story/26/11/06/2210231/eu-says-tiktoks-rabbit-hole-effect-must-stop">[discussion on slashdot]</a></span>
-
-## 5 November 2026
-
-### [Tinder owners say they will appeal €11m fine imposed by Irish data watchdog](https://www.independent.ie/business/irish-business/tinder-owners-say-they-will-appeal-11m-fine-imposed-by-irish-data-watchdog/a/164062273.html)
-
-<span class="news-item__source">independent.ie</span> Ireland's DPC fined Match Group €11m for GDPR breaches tied to Tinder's safety and privacy practices; Match says it will appeal.

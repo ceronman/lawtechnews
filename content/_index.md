@@ -3,20 +3,44 @@ title = "Law & Tech News"
 
 [extra]
 page_num = 1
-page_count = 22
+page_count = 23
 prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">437 stories on European law, technology regulation and digital rights, latest from 20 November 2026. Every headline links to the original source.</p>
+<p class="news-intro">442 stories on European law, technology regulation and digital rights, latest from 22 November 2026. Every headline links to the original source.</p>
+
+## 22 November 2026
+
+### [Data Processing Incidents on Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/)
+
+<span class="news-item__source">openrouter.ai</span> OpenRouter off-boarded three inference providers and pulled 125 endpoints from zero-data-retention status after researchers found prompts sent to MiniMax were read by a third party. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50595554">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50585962">[discussion on hn]</a> <a href="https://www.reddit.com/r/LocalLLaMA/comments/1y1we95/openrouter_requests_to_minimax_models_may_have/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/technology/comments/1y1wfrh/researcher_plants_2m_canaries_into_the_ai_supply/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/privacy/comments/1y1v59b/researcher_plants_2m_canaries_into_the_ai_supply/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/netsec/comments/1y263x5/researchers_planted_secrets_in_2_million_ai/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/openrouter/comments/1y1xhf1/multiple_llm_providers_compromised/">[discussion on reddit]</a></span>
+
+## 21 November 2026
+
+### [ΥΠΕΚΑ: Ανθρώπινη εποπτεία στους αλγορίθμους και Μητρώο Απασχόλησης σε πλατφόρμες φέρνει το νέο νομοσχέδιο (Greece tables Platform Work Directive bill in Parliament)](https://ypergasias.gov.gr/ypeka-anthropini-epopteia-stous-algorithmous-kai-mitroo-apascholisis-se-platformes-fernei-to-neo-nomoschedio/)
+
+<span class="news-item__source">ypergasias.gov.gr</span> Greece tabled its Platform Work Directive bill in Parliament, mandating human oversight of algorithmic decisions and a register of platform workers linked to migration records.
+
+### [Effort to regulate 'killer robots' delayed to 2028](https://www.politico.eu/article/effort-regulate-killer-robots-delayed-until-2028-ai-un/)
+
+<span class="news-item__source">politico.eu</span> UN weapons-convention talks ended without a negotiating mandate; states agreed only to elaborate an instrument on autonomous weapons by 2028, with no commitment to a binding treaty. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50592134">[discussion on hn]</a> <a href="https://www.reddit.com/r/worldnews/comments/1y22uqe/un_effort_to_regulate_killer_robots_delayed_to/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/neoliberal/comments/1y2amj7/effort_to_regulate_killer_robots_delayed_to_2028/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/worldnews/comments/1y1xhan/nations_at_un_talks_on_ai_killer_robots_agree_to/">[discussion on reddit]</a></span>
 
 ## 20 November 2026
+
+### [State Street Bank International GmbH: Bafin orders comprehensive remediation of shortcomings](https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Massnahmen/60b_KWG_84_WpIG_und_57_GwG/meldung_2026_11_20_state_street_bank_international_gmbh_en.html)
+
+<span class="news-item__source">bafin.de</span> BaFin ordered State Street Bank International to submit and carry out a remediation plan for serious, recurring AML failures in risk analysis, transaction monitoring and due diligence.
 
 ### [Germany says investors ready to spend €25B to buy TikTok Europe](https://www.politico.eu/article/germany-says-investors-ready-to-spend-e25b-to-buy-tiktok-europe/)
 
 <span class="news-item__source">politico.eu</span> Germany says pan-European investors could pay €25bn for 75–80% of TikTok's EU arm; TikTok called the German-Austrian push "nonsense", citing the DSA and GDPR. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50560795">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50549548">[discussion on hn]</a> <a href="https://www.reddit.com/r/europeanunion/comments/1xzqgn5/tiktok_faces_eu_proposal_for_european_ownership/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/EUnews/comments/1xzn0rf/germany_austria_demand_tiktoks_european_platform/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/TikTok/comments/1y0bmt8/germany_and_austria_call_for_european_control_of/">[discussion on reddit]</a></span>
 
 ## 19 November 2026
+
+### [UK court confirms existence of government surveillance order against Apple](https://www.computerweekly.com/news/366654729/UK-court-confirms-existence-of-government-surveillance-order-against-Apple)
+
+<span class="news-item__source">computerweekly.com</span> The Investigatory Powers Tribunal rejected the Home Office's secrecy claim over its Apple encryption order, so Apple's challenge can now be argued largely in open court. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50573872">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50562208">[discussion on hn]</a> <a href="https://www.reddit.com/r/privacy/comments/1y0cdvq/uk_government_forced_to_admit_it_issued_apple_a/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/unitedkingdom/comments/1y0cjhy/uk_government_forced_to_disclose_secret_apple/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/technology/comments/1y0xjt4/uk_government_forced_to_disclose_secret_apple/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/ukpolitics/comments/1y0c7zt/uk_government_forced_to_admit_it_issued_apple_a/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/apple/comments/1y0dwyu/uk_loses_secrecy_fight_over_apple_backdoor_order/">[discussion on reddit]</a> <a href="https://yro.slashdot.org/story/26/11/20/0129229/uk-government-forced-to-disclose-secret-apple-backdoor-order">[discussion on slashdot]</a></span>
 
 ### [Final Rule: Employee or Independent Contractor Status Under the Fair Labor Standards Act](https://www.dol.gov/agencies/whd/flsa/misclassification/2026rulemaking)
 
@@ -79,27 +103,3 @@ next = "/page/2/"
 ### [GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold](https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold)
 
 <span class="news-item__source">cloud.google.com</span> Google found a Russian-speaking actor's exploit_agent framework turning patches into working exploits with no human involved, aimed at French media and education sites. <span class="news-item__discussions"><a href="https://www.reddit.com/r/worldnews/comments/1xz296l/google_says_russian_speakers_pulled_off_firstever/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/cybersecurity/comments/1xz3uyz/google_says_russianspeaking_hackers_ran_the_first/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/technology/comments/1xysd0i/google_says_attackers_built_an_ai_framework_to/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/AI_Agents/comments/1xz1juw/googles_gtig_tracker_describes_multiagent/">[discussion on reddit]</a></span>
-
-### [Commission seeks feedback on draft template for the fundamental rights impact assessment under the AI Act](https://digital-strategy.ec.europa.eu/en/news/commission-seeks-feedback-draft-template-fundamental-rights-impact-assessment-under-ai-act)
-
-<span class="news-item__source">digital-strategy.ec.europa.eu</span> The AI Office published a draft Article 27 FRIA template for high-risk AI deployers, open for feedback until 15 January 2027; the obligation applies from 2 December 2027.
-
-## 15 November 2026
-
-### [Tánaiste announces new transparency measures to strengthen Ireland's anti-money laundering regime](https://www.gov.ie/en/department-of-finance/press-releases/t%C3%A1naiste-announces-new-transparency-measures-to-strengthen-irelands-anti-money-laundering-regime/)
-
-<span class="news-item__source">gov.ie</span> Ireland opened its beneficial ownership registers to journalists, NGOs and others showing a legitimate interest, implementing AMLD6 access rules with privacy safeguards.
-
-## 14 November 2026
-
-### [Nueve sentencias apuntalan la defensa del CEO de Glovo](https://www.expansion.com/empresas/distribucion/2026/11/14/nueve-sentencias-apuntalan-defensa-ceo-glovo.html)
-
-<span class="news-item__source">expansion.com</span> Nine Spanish rulings found Glovo's Flex riders autonomous, voiding €16m in social security dues and €17.2m in fines; the CEO will use them in his false self-employment trial.
-
-### [Lovable: Many Apps Built on the Platform Expose Sensitive Data](https://www.crissyfield.de/research/lovable-en/)
-
-<span class="news-item__source">crissyfield.de</span> Researchers found 7,403 of 24,664 scanned Lovable-built apps exposing tables with emails, plus passport numbers, payment data and 200,000+ chats, with no login needed. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50499017">[discussion on hn]</a></span>
-
-### [Facebook: il Garante Privacy sanziona Meta per 805 milioni di euro](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10321080)
-
-<span class="news-item__source">garanteprivacy.it</span> Italy's Garante fined Meta €805m under ePrivacy for reading Android photo galleries without specific consent, rejecting one-stop-shop; the feature must be off by default in 60 days. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50497009">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50498063">[discussion on hn]</a></span>
