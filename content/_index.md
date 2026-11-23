@@ -8,7 +8,7 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">442 stories on European law, technology regulation and digital rights, latest from 22 November 2026. Every headline links to the original source.</p>
+<p class="news-intro">447 stories on European law, technology regulation and digital rights, latest from 22 November 2026. Every headline links to the original source.</p>
 
 ## 22 November 2026
 
@@ -32,6 +32,10 @@ next = "/page/2/"
 
 <span class="news-item__source">bafin.de</span> BaFin ordered State Street Bank International to submit and carry out a remediation plan for serious, recurring AML failures in risk analysis, transaction monitoring and due diligence.
 
+### [How Russian money launderers and Italian mobsters put Revolut in the regulatory crosshairs](https://www.ft.com/content/221a6fc4-01ac-48fd-95e8-1efb094c3e8d)
+
+<span class="news-item__source">ft.com</span> Swedish police reviewing €259m of suspected Russia-linked laundering found Revolut the most common channel, with funds mostly sent to Lithuania and Ireland. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50573519">[discussion on hn]</a> <a href="https://www.reddit.com/r/worldnews/comments/1y13qxe/swedish_police_flag_revolut_as_key_channel_for/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/RussiaUkraineBriefing/comments/1y1pxyj/swedish_police_say_money_from_russia_is_being/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/CollapseOfRussia/comments/1y18m48/sweden_suspects_that_russians_are_using/">[discussion on reddit]</a></span>
+
 ### [Germany says investors ready to spend €25B to buy TikTok Europe](https://www.politico.eu/article/germany-says-investors-ready-to-spend-e25b-to-buy-tiktok-europe/)
 
 <span class="news-item__source">politico.eu</span> Germany says pan-European investors could pay €25bn for 75–80% of TikTok's EU arm; TikTok called the German-Austrian push "nonsense", citing the DSA and GDPR. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50560795">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50549548">[discussion on hn]</a> <a href="https://www.reddit.com/r/europeanunion/comments/1xzqgn5/tiktok_faces_eu_proposal_for_european_ownership/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/EUnews/comments/1xzn0rf/germany_austria_demand_tiktoks_european_platform/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/TikTok/comments/1y0bmt8/germany_and_austria_call_for_european_control_of/">[discussion on reddit]</a></span>
@@ -42,6 +46,10 @@ next = "/page/2/"
 
 <span class="news-item__source">computerweekly.com</span> The Investigatory Powers Tribunal rejected the Home Office's secrecy claim over its Apple encryption order, so Apple's challenge can now be argued largely in open court. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50573872">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50562208">[discussion on hn]</a> <a href="https://www.reddit.com/r/privacy/comments/1y0cdvq/uk_government_forced_to_admit_it_issued_apple_a/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/unitedkingdom/comments/1y0cjhy/uk_government_forced_to_disclose_secret_apple/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/technology/comments/1y0xjt4/uk_government_forced_to_disclose_secret_apple/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/ukpolitics/comments/1y0c7zt/uk_government_forced_to_admit_it_issued_apple_a/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/apple/comments/1y0dwyu/uk_loses_secrecy_fight_over_apple_backdoor_order/">[discussion on reddit]</a> <a href="https://yro.slashdot.org/story/26/11/20/0129229/uk-government-forced-to-disclose-secret-apple-backdoor-order">[discussion on slashdot]</a></span>
 
+### [Online Safety Amendment (Digital Duty of Care) Bill 2026 – Senate committee report](https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Environment_and_Communications/DigitalDutyofCare48P)
+
+<span class="news-item__source">aph.gov.au</span> An Australian Senate committee backed the Digital Duty of Care Bill but urged a private right to sue platforms and a carve-out for low-risk websites.
+
 ### [Final Rule: Employee or Independent Contractor Status Under the Fair Labor Standards Act](https://www.dol.gov/agencies/whd/flsa/misclassification/2026rulemaking)
 
 <span class="news-item__source">dol.gov</span> The US Labor Department replaced its 2024 worker-status test with a control and profit-or-loss focus, making it easier to class gig and platform workers as contractors. <span class="news-item__discussions"><a href="https://www.reddit.com/r/WhatTrumpHasDone/comments/1y0sw2a/trump_administration_makes_it_easier_for/">[discussion on reddit]</a></span>
@@ -49,6 +57,10 @@ next = "/page/2/"
 ### [EU Commission hit by large-scale cyberattack with data leakage unknown](https://www.euronews.com/2026/11/19/eu-commission-hit-by-large-scale-cyberattack-with-data-leakage-unknown)
 
 <span class="news-item__source">euronews.com</span> An AI-assisted attack using the ARTEX tool knocked Commission HR and health-insurance systems offline for days; CERT-EU and the EDPS are assessing whether staff data leaked. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50558903">[discussion on hn]</a> <a href="https://www.reddit.com/r/europe/comments/1y0buwh/eu_targeted_by_cyber_attack_using_ai_no_one_is/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/worldnews/comments/1y04e3v/eu_commission_hit_by_cyberattack/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/geopolitics/comments/1y04fwi/eu_commission_hit_by_cyberattack/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/cybersecurity/comments/1y0dtq9/european_commission_hit_by_cyberattack_that_may/">[discussion on reddit]</a> <a href="https://tweakers.net/nieuws/254710/grote-cyberaanval-treft-europese-commissie-datalek-is-niet-uitgesloten.html">[discussion on tweakers]</a></span>
+
+### [AP raadt aankoop AI-camerabrillen af: ernstige risico's voor gebruikers en omstanders (Dutch DPA advises against buying AI camera glasses)](https://www.autoriteitpersoonsgegevens.nl/actueel/ap-raadt-aankoop-ai-camerabrillen-af-ernstige-risicos-voor-gebruikers-en-omstanders)
+
+<span class="news-item__source">autoriteitpersoonsgegevens.nl</span> The Dutch DPA tested six AI camera glasses, found easily hidden recording lights, security holes and dangerous advice, and told consumers not to buy them. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50572902">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50569465">[discussion on hn]</a> <a href="https://www.reddit.com/r/privacy/comments/1y17j1e/dont_buy_smart_glasses_dutch_data_watchdog_advises/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/AIDangers/comments/1y3adkz/dutch_watchdog_warns_against_buying_ai_camera/">[discussion on reddit]</a> <a href="https://tweakers.net/nieuws/254706/nederlandse-privacywaakhond-raadt-ai-camerabrillen-af-na-zorgwekkende-tests.html">[discussion on tweakers]</a></span>
 
 ### [Advocate General Medina: A social network is not free when you pay with your data to use it](https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260169en.pdf)
 
@@ -74,6 +86,10 @@ next = "/page/2/"
 
 <span class="news-item__source">curia.europa.eu</span> The Court of Justice upheld the dismissal of the EDPS's challenge to rules letting Europol keep uncategorised personal data, finding the EDPS lacked standing.
 
+### [Open Letter: EDRi warns of EU's undemocratic attempt to introduce surveillance in satellite-based communications](https://edri.org/our-work/open-letter-edri-warns-of-eus-undemocratic-attempt-to-introduce-surveillance-in-satellite-based-communications/)
+
+<span class="news-item__source">edri.org</span> EDRi urged MEPs and the Council to drop powers letting the Commission impose data retention on satellite operators via comitology in the Digital Networks Act.
+
 ### [Irish regulator stops X training AI with data gathered by agents](https://www.politico.eu/article/x-stops-training-ai-with-agents-data-after-ireland-intervened/)
 
 <span class="news-item__source">politico.eu</span> Ireland's DPC got X to suspend training AI on third-party personal data its Grok agent began collecting in late October, a first GDPR test case for AI-agent data.
@@ -85,21 +101,3 @@ next = "/page/2/"
 ### [FinCEN Issues Proposed Rule to Strengthen Customer Due Diligence Requirements for Covered Financial Institutions](https://www.fincen.gov/news/news-releases/fincen-issues-proposed-rule-strengthen-customer-due-diligence-requirements-covered-financial-institutions/)
 
 <span class="news-item__source">fincen.gov</span> FinCEN proposed a revised CDD rule letting banks verify business owners via third-party databases, ending automatic re-verification and barring ITINs for beneficial owners.
-
-### [Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the sale of illegal products](https://luxembourg.representation.ec.europa.eu/actualites-et-evenements/actualites/commission-preliminarily-finds-temu-breach-digital-services-act-failure-tackle-sale-illegal-products-2026-11-17_en)
-
-<span class="news-item__source">luxembourg.representation.ec.europa.eu</span> The Commission found Temu's product checks, moderation and seller sanctions fail to curb illegal goods under DSA Art. 35; a final decision could cost up to 6% of turnover. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xyi2xa/commission_preliminarily_finds_temu_in_breach_of/">[discussion on reddit]</a> <a href="https://tweakers.net/nieuws/254616/eu-temu-doet-nog-steeds-niet-genoeg-om-verkoop-illegale-producten-te-stoppen.html">[discussion on tweakers]</a></span>
-
-### [Big Tech must give consumers real choice by complying fully with EU Digital Markets Act](https://www.beuc.eu/press-releases/big-tech-must-give-consumers-real-choice-complying-fully-eu-digital-markets-act)
-
-<span class="news-item__source">beuc.eu</span> BEUC says all six DMA gatekeepers still likely breach the law through nudging interfaces and stalled compliance, and urged the Commission to impose dissuasive fines.
-
-## 16 November 2026
-
-### [Italian court places Revolut unit under supervision over money-laundering](https://www.reuters.com/business/finance/italian-court-places-revolut-unit-under-supervision-over-money-laundering-2026-11-16/)
-
-<span class="news-item__source">reuters.com</span> A Milan court put Revolut's Italian branch under judicial administration for a year after prosecutors found AML failures let mafia-linked clients move €76.5m. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50515877">[discussion on hn]</a></span>
-
-### [GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold](https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold)
-
-<span class="news-item__source">cloud.google.com</span> Google found a Russian-speaking actor's exploit_agent framework turning patches into working exploits with no human involved, aimed at French media and education sites. <span class="news-item__discussions"><a href="https://www.reddit.com/r/worldnews/comments/1xz296l/google_says_russian_speakers_pulled_off_firstever/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/cybersecurity/comments/1xz3uyz/google_says_russianspeaking_hackers_ran_the_first/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/technology/comments/1xysd0i/google_says_attackers_built_an_ai_framework_to/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/AI_Agents/comments/1xz1juw/googles_gtig_tracker_describes_multiagent/">[discussion on reddit]</a></span>

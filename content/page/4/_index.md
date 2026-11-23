@@ -11,6 +11,22 @@ next = "/page/5/"
 
 ## 6 November 2026
 
+### [Watchdog investigates Europol over 'irregular' data processing claims](https://www.computerweekly.com/news/366653892/Watchdog-investigates-Europol-over-irregular-data-processing-claims)
+
+<span class="news-item__source">computerweekly.com</span> The EDPS confirmed a fact-finding probe into Europol's data environment, focused on its 'Pressure Cooker' tools for fast-processing data scraped from the internet.
+
+### [Ustawa o pracy platformowej na ostatniej prostej. Domniemanie etatu i większa kontrola algorytmów](https://www.pulshr.pl/prawo-pracy/ustawa-o-pracy-platformowej-na-ostatniej-prostej-domniemanie-etatu-i-wieksza-kontrola-algorytmow,123066.html)
+
+<span class="news-item__source">pulshr.pl</span> Poland's labour minister said the Platform Work Act will reach the Sejm in the coming months and apply next year, missing the 2 December deadline; only one state has transposed so far.
+
+### [Travailleurs des plateformes : la France ne tiendra pas le délai européen](https://www.lenouveleconomiste.fr/economie/travailleurs-des-plateformes-la-france-ne-tiendra-/)
+
+<span class="news-item__source">lenouveleconomiste.fr</span> France's labour minister confirmed the country will not transpose the Platform Work Directive by the 2 December 2026 deadline, so its employment presumption will not apply on time.
+
+### [Operation Economic Outcast Severs MEXC Global's Access to the U.S. Financial System](https://www.fincen.gov/news/news-releases/operation-economic-outcast-severs-mexc-globals-access-us-financial-system)
+
+<span class="news-item__source">fincen.gov</span> FinCEN barred US financial institutions from processing transfers involving crypto exchange MEXC Global, citing at least $16bn in sanctions-evasion and cybercrime flows. <span class="news-item__discussions"><a href="https://www.reddit.com/r/MyCoinDeck/comments/1xqzaai/us_treasury_moves_to_cut_off_crypto_exchange_mexc/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/RegulatoryReporting/comments/1xra23r/mexc_global_order_has_no_deemedcompliance_clause/">[discussion on reddit]</a></span>
+
 ### [Ofcom provides update following its call to action on tech industry to improve protections for children](https://www.ofcom.org.uk/online-safety/protecting-children/ofcom-provides-update-following-its-call-to-action-on-tech-industry-to-improve-protections-for-children)
 
 <span class="news-item__source">ofcom.org.uk</span> Under Ofcom pressure, Snapchat began switching off Find Friends by default for UK child users and pledged highly effective age checks for all under-18s by year-end.
@@ -77,22 +93,6 @@ next = "/page/5/"
 
 ## 3 November 2026
 
-### [Rapport de la mission sur la transposition de la directive Plateformes](https://travail-emploi.gouv.fr/rapport-de-la-mission-sur-la-transposition-de-la-directive-plateformes)
+### [Rapport de la mission sur la transposition de la directive plateformes (French mission report on Platform Work Directive transposition)](https://travail-emploi.gouv.fr/rapport-de-la-mission-sur-la-transposition-de-la-directive-plateformes)
 
-<span class="news-item__source">travail-emploi.gouv.fr</span> France's transposition mission made 30 recommendations: no automatic employment presumption but a burden-of-proof shift, a legal minimum pay for mobility workers and a new platform regulator.
-
-### [Opinion of Advocate General Szpunar in Case C-250/25 Like Company (Google Gemini and press publishers' rights)](https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260155en.pdf)
-
-<span class="news-item__source">curia.europa.eu</span> In the first generative AI case at the CJEU, the AG said Gemini answers may infringe press publishers' rights if they reuse recognisable expression; LLM training is generally TDM-exempt.
-
-### [La CNMC inicia un expediente sancionador contra Apple y Amazon](https://www.cnmc.es/prensa/sancionador-apple-amazon-20261103)
-
-<span class="news-item__source">cnmc.es</span> Spain's CNMC opened sanctioning proceedings against Apple and Amazon for keeping until May 2025 the brand-gating clauses it fined €194m in 2023; it has three months to rule.
-
-### [Canal DPD: biometría en el alta de clientes (AEPD opinion on 1:1 facial verification)](https://www.aepd.es/documento/canal-dpd-biometria-alta-clientes.pdf)
-
-<span class="news-item__source">aepd.es</span> Spain's AEPD said biometrics are 'necessary' only if no equally effective alternative exists, and rated 1:1 facial verification lower-risk than 1:many recognition.
-
-### [Brussels sets slimline legislative agenda for 2027](https://www.politico.eu/article/brussels-sets-slimline-legislative-agenda-for-2027/)
-
-<span class="news-item__source">politico.eu</span> The Commission's leaked 2027 Work Programme withdraws FIDA and the digital-tax proposals, plans a mid-2027 digital package, and reviews political-ad and data retention rules.
+<span class="news-item__source">travail-emploi.gouv.fr</span> France's government mission made 30 transposition recommendations, favouring easier proof in labour courts over automatic reclassification of platform workers.

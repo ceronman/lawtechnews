@@ -9,7 +9,25 @@ prev = "/"
 next = "/page/3/"
 +++
 
+## 17 November 2026
+
+### [Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the sale of illegal products](https://luxembourg.representation.ec.europa.eu/actualites-et-evenements/actualites/commission-preliminarily-finds-temu-breach-digital-services-act-failure-tackle-sale-illegal-products-2026-11-17_en)
+
+<span class="news-item__source">luxembourg.representation.ec.europa.eu</span> The Commission found Temu's product checks, moderation and seller sanctions fail to curb illegal goods under DSA Art. 35; a final decision could cost up to 6% of turnover. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xyi2xa/commission_preliminarily_finds_temu_in_breach_of/">[discussion on reddit]</a> <a href="https://tweakers.net/nieuws/254616/eu-temu-doet-nog-steeds-niet-genoeg-om-verkoop-illegale-producten-te-stoppen.html">[discussion on tweakers]</a></span>
+
+### [Big Tech must give consumers real choice by complying fully with EU Digital Markets Act](https://www.beuc.eu/press-releases/big-tech-must-give-consumers-real-choice-complying-fully-eu-digital-markets-act)
+
+<span class="news-item__source">beuc.eu</span> BEUC says all six DMA gatekeepers still likely breach the law through nudging interfaces and stalled compliance, and urged the Commission to impose dissuasive fines.
+
 ## 16 November 2026
+
+### [Italian court places Revolut unit under supervision over money-laundering](https://www.reuters.com/business/finance/italian-court-places-revolut-unit-under-supervision-over-money-laundering-2026-11-16/)
+
+<span class="news-item__source">reuters.com</span> A Milan court put Revolut's Italian branch under judicial administration for a year after prosecutors found AML failures let mafia-linked clients move €76.5m. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50515877">[discussion on hn]</a></span>
+
+### [GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold](https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold)
+
+<span class="news-item__source">cloud.google.com</span> Google found a Russian-speaking actor's exploit_agent framework turning patches into working exploits with no human involved, aimed at French media and education sites. <span class="news-item__discussions"><a href="https://www.reddit.com/r/worldnews/comments/1xz296l/google_says_russian_speakers_pulled_off_firstever/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/cybersecurity/comments/1xz3uyz/google_says_russianspeaking_hackers_ran_the_first/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/technology/comments/1xysd0i/google_says_attackers_built_an_ai_framework_to/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/AI_Agents/comments/1xz1juw/googles_gtig_tracker_describes_multiagent/">[discussion on reddit]</a></span>
 
 ### [Commission seeks feedback on draft template for the fundamental rights impact assessment under the AI Act](https://digital-strategy.ec.europa.eu/en/news/commission-seeks-feedback-draft-template-fundamental-rights-impact-assessment-under-ai-act)
 
@@ -84,19 +102,3 @@ next = "/page/3/"
 ### [La Fiscal General encarga a la Fiscal de Criminalidad Informática la investigación de los presuntos casos de abuso sexual infantil en TikTok](https://www.fiscal.es/-/la-fiscal-general-encomienda-a-la-fiscal-de-criminalidad-inform%C3%A1tica-la-investigaci%C3%B3n-de-los-presuntos-casos-de-abuso-sexual-infantil-en-tiktok)
 
 <span class="news-item__source">fiscal.es</span> Spain's Attorney General assigned the cybercrime prosecutor to investigate TikTok after Maldita.es reported over 1,000 child sexual abuse videos with 48 million views. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xrsidx/spanish_government_considers_tiktok_ban_due_to/">[discussion on reddit]</a></span>
-
-### [La AEPD descarta suspender TikTok en España y remite el caso a las autoridades irlandesas](https://www.zonamovilidad.es/aepd-descarta-suspender-tiktok-espana-remite-caso-autoridades-irlandesas)
-
-<span class="news-item__source">zonamovilidad.es</span> Spain's AEPD refused the ministry's request to suspend TikTok, citing the Irish DPC's lead role, but may order blocking of specific links exposing minors' data.
-
-### [EU needs a system to respond to AI incidents, Finland and Estonia say](https://www.politico.eu/article/eu-needs-a-system-to-respond-to-ai-incidents-finland-and-estonia-say/)
-
-<span class="news-item__source">politico.eu</span> Finland and Estonia urged EU-level arrangements to respond to serious AI incidents and independent capacity to evaluate frontier models, ahead of the first AI-focused EU summit.
-
-### [EDPB adopts statement on review of the Republic of Korea adequacy, processor BCR recommendations, and selects topic for 2027 coordinated enforcement action](https://www.edpb.europa.eu/news/edpb-adopts-statement-on-review-of-the-republic-of-korea-adequacy-processor-bcr_en)
-
-<span class="news-item__source">edpb.europa.eu</span> The EDPB picked automated decision-making in recruitment, including AI candidate screening, as its 2027 coordinated enforcement topic and finalised processor BCR recommendations.
-
-### [Commission strengthens consumer protection laws, making them fit for the digital age (Digital Fairness Act proposal)](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2407)
-
-<span class="news-item__source">ec.europa.eu</span> The Commission proposed the Digital Fairness Act, banning dark patterns and pay-to-win for minors, plus CPC reform letting it fine traders up to 6% of global turnover. <span class="news-item__discussions"><a href="https://www.reddit.com/r/Games/comments/1xtlfqm/proposal_for_a_digital_fairness_act/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/europe/comments/1xtiun8/duolingo_strava_and_ticketmaster_are_all_caught/">[discussion on reddit]</a> <a href="https://tweakers.net/nieuws/254400/europese-commissie-wil-pay-to-win-bij-kinderen-verbieden-in-digital-fairness-act.html">[discussion on tweakers]</a></span>
