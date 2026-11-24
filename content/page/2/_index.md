@@ -11,6 +11,22 @@ next = "/page/3/"
 
 ## 17 November 2026
 
+### [Open Letter: EDRi warns of EU's undemocratic attempt to introduce surveillance in satellite-based communications](https://edri.org/our-work/open-letter-edri-warns-of-eus-undemocratic-attempt-to-introduce-surveillance-in-satellite-based-communications/)
+
+<span class="news-item__source">edri.org</span> EDRi urged MEPs and the Council to drop powers letting the Commission impose data retention on satellite operators via comitology in the Digital Networks Act.
+
+### [Irish regulator stops X training AI with data gathered by agents](https://www.politico.eu/article/x-stops-training-ai-with-agents-data-after-ireland-intervened/)
+
+<span class="news-item__source">politico.eu</span> Ireland's DPC got X to suspend training AI on third-party personal data its Grok agent began collecting in late October, a first GDPR test case for AI-agent data.
+
+### [Inside Deutsche Bank: Risky Business](https://www.inside-db.com/)
+
+<span class="news-item__source">inside-db.com</span> A media consortium published 15m+ leaked Deutsche Bank files showing AML failures, including $582m in flagged Epstein-linked payments and continued ties to Russian oligarchs. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50547620">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50539054">[discussion on hn]</a> <a href="https://www.reddit.com/r/news/comments/1xz1hr9/deutsche_bank_leak_reveals_582m_in_suspicious/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/europe/comments/1xydhqp/inside_deutsche_bank_massive_data_breach_at/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/worldnews/comments/1xyuvye/major_bank_leak_reveals_tr%E1%BB%A5mp_received_suspicious/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/germany/comments/1xytma1/leak_of_15mn_deutsche_bank_files_exposes_systemic/">[discussion on reddit]</a></span>
+
+### [FinCEN Issues Proposed Rule to Strengthen Customer Due Diligence Requirements for Covered Financial Institutions](https://www.fincen.gov/news/news-releases/fincen-issues-proposed-rule-strengthen-customer-due-diligence-requirements-covered-financial-institutions/)
+
+<span class="news-item__source">fincen.gov</span> FinCEN proposed a revised CDD rule letting banks verify business owners via third-party databases, ending automatic re-verification and barring ITINs for beneficial owners.
+
 ### [Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the sale of illegal products](https://luxembourg.representation.ec.europa.eu/actualites-et-evenements/actualites/commission-preliminarily-finds-temu-breach-digital-services-act-failure-tackle-sale-illegal-products-2026-11-17_en)
 
 <span class="news-item__source">luxembourg.representation.ec.europa.eu</span> The Commission found Temu's product checks, moderation and seller sanctions fail to curb illegal goods under DSA Art. 35; a final decision could cost up to 6% of turnover. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xyi2xa/commission_preliminarily_finds_temu_in_breach_of/">[discussion on reddit]</a> <a href="https://tweakers.net/nieuws/254616/eu-temu-doet-nog-steeds-niet-genoeg-om-verkoop-illegale-producten-te-stoppen.html">[discussion on tweakers]</a></span>
@@ -82,23 +98,3 @@ next = "/page/3/"
 ### [EDPB supports use of other models of contractual clauses for onward transfers of personal data](https://www.edpb.europa.eu/news/edpb-supports-use-of-other-models-of-contractual-clauses-for-onward-transfers-of-personal-data_en)
 
 <span class="news-item__source">edpb.europa.eu</span> The EDPB backed Commission FAQs letting Council of Europe and Ibero-American model clauses be used for onward transfers of data received under the EU SCCs.
-
-## 12 November 2026
-
-### [UK health sector warned to tackle medical record snooping](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/11/uk-health-sector-warned-to-tackle-medical-record-snooping/)
-
-<span class="news-item__source">ico.org.uk</span> The ICO asked 200+ UK health chiefs to personally confirm safeguards against staff snooping in medical records after 300+ unauthorised-access reports this year. <span class="news-item__discussions"><a href="https://www.reddit.com/r/pwnhub/comments/1xvjb8g/uk_privacy_watchdog_demands_action_after_300/">[discussion on reddit]</a> <a href="https://forums.theregister.com/forum/all/2026/11/13/202613/">[discussion on the register forums]</a></span>
-
-### [Opinion of Advocate General Kokott in Case C-826/24 P Commission v Google and Alphabet (Google AdSense)](https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260164en.pdf)
-
-<span class="news-item__source">curia.europa.eu</span> AG Kokott advised the CJEU to set aside the General Court ruling that annulled Google's €1.49bn AdSense fine and send the case back for a fresh assessment. <span class="news-item__discussions"><a href="https://www.reddit.com/r/actutech/comments/1xu9uwz/un_conseiller_de_la_cour_de_justice_de_lue/">[discussion on reddit]</a></span>
-
-### [El TSJ de Extremadura declara que no existe relación laboral entre Glovo y sus repartidores](https://elderecho.com/el-tsj-de-extremadura-declara-que-no-existe-relacion-laboral-entre-glovo-y-sus-repartidores)
-
-<span class="news-item__source">elderecho.com</span> Extremadura's High Court annulled Social Security's ex officio registration of Glovo riders, ruling its 'Flex' model rebuts the Rider Law's presumption of employment. <span class="news-item__discussions"><a href="https://www.meneame.net/story/tsj-extremadura-declara-no-existe-relacion-laboral-entre-glovo">[discussion on menéame]</a></span>
-
-## 11 November 2026
-
-### [La Fiscal General encarga a la Fiscal de Criminalidad Informática la investigación de los presuntos casos de abuso sexual infantil en TikTok](https://www.fiscal.es/-/la-fiscal-general-encomienda-a-la-fiscal-de-criminalidad-inform%C3%A1tica-la-investigaci%C3%B3n-de-los-presuntos-casos-de-abuso-sexual-infantil-en-tiktok)
-
-<span class="news-item__source">fiscal.es</span> Spain's Attorney General assigned the cybercrime prosecutor to investigate TikTok after Maldita.es reported over 1,000 child sexual abuse videos with 48 million views. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xrsidx/spanish_government_considers_tiktok_ban_due_to/">[discussion on reddit]</a></span>

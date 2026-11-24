@@ -9,6 +9,26 @@ prev = "/page/3/"
 next = "/page/5/"
 +++
 
+## 9 November 2026
+
+### [EU to blacklist ten manipulative online design 'traps', leaked draft shows](https://www.euronews.com/2026/11/09/eu-to-blacklist-ten-manipulative-online-design-traps-leaked-draft-shows)
+
+<span class="news-item__source">euronews.com</span> A leaked Digital Fairness Act draft bans ten dark patterns, loot boxes for minors and profiling-based ads to children, with fines up to 6% of turnover; it is due on 11 November. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50428979">[discussion on hn]</a> <a href="https://www.reddit.com/r/heartopia/comments/1xshusu/eu_to_ban_lootbox_gacha_included_for_childrens/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/TugaTech/comments/1xrvg95/uni%C3%A3o_europeia_prepara_digital_fairness_act_para/">[discussion on reddit]</a></span>
+
+## 8 November 2026
+
+### [Hamburg regulator uses OpenAI model to draft letters as complaints rise 62%](https://ppc.land/hamburg-regulator-uses-openai-model-to-draft-letters-as-complaints-rise-62/)
+
+<span class="news-item__source">ppc.land</span> Hamburg's DPA cleared a city chatbot built on an OpenAI model it deems likely non-anonymous under EDPB Opinion 28/2024, and now uses it to draft letters on complaints. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xqtz0b/hamburg_regulator_uses_openai_model_to_draft/">[discussion on reddit]</a></span>
+
+### [EU countries still can't get it together on AI](https://www.politico.eu/article/eu-countries-still-cant-get-it-together-on-ai/)
+
+<span class="news-item__source">politico.eu</span> Sixteen member states missed the AI Act deadline to name enforcement authorities; six have none and ten only provisional picks, and an MEP urged infringement action.
+
+### [Ads in Popular Apps Give Police a Powerful Tool to Spy on Users](https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/)
+
+<span class="news-item__source">bloomberg.com</span> Bloomberg found Penlink's ad-data phone tracker Webloc is used by agencies in the UK, Netherlands, Germany, Mexico, Israel and Saudi Arabia, not just the US. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50415281">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50492950">[discussion on hn]</a></span>
+
 ## 6 November 2026
 
 ### [Watchdog investigates Europol over 'irregular' data processing claims](https://www.computerweekly.com/news/366653892/Watchdog-investigates-Europol-over-irregular-data-processing-claims)
@@ -76,23 +96,3 @@ next = "/page/5/"
 ### [Budget 2026: Ottawa plans to shift oversight of banks' anti-money-laundering efforts from FinTRAC to OSFI](https://www.theglobeandmail.com/business/article-budget-money-laundering-supervision-fintrac-osfi/)
 
 <span class="news-item__source">theglobeandmail.com</span> Canada's 2026 budget moves AML supervision of federally regulated banks from FINTRAC to OSFI, after FATF and Auditor-General criticism of FINTRAC's oversight.
-
-## 4 November 2026
-
-### [Uber Australia Pty Ltd v Chief Commissioner of State Revenue [2026] HCA 40](https://www.hcourt.gov.au/sites/default/files/judgment-summaries/2026-11/hca-40-2026-11-04.pdf)
-
-<span class="news-item__source">hcourt.gov.au</span> Australia's High Court ruled 6–1 that Uber's payments to NSW drivers are wages under payroll-tax contractor provisions, leaving Uber with an A$81m bill for 2015–2020. <span class="news-item__discussions"><a href="https://www.reddit.com/r/australia/comments/1xn9idp/uber_to_pay_81_million_in_payroll_tax_to_nsw_tax/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/auslaw/comments/1xn9vvl/uber_to_py_81_million_in_payroll_tax_to_nsw_tax/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/uberdrivers/comments/1xnbzkp/81m_nsw_payroll_tax_bill_for_uber_after_the_high/">[discussion on reddit]</a></span>
-
-### [Independent data protection oversight and effective access to justice essential to protecting privacy rights: UN experts](https://www.ohchr.org/en/press-releases/2026/11/independent-data-protection-oversight-and-effective-access-justice-essential)
-
-<span class="news-item__source">ohchr.org</span> Two UN Special Rapporteurs pressed Ireland on the DPC's independence, urging rigorous appointment and conflict checks and looser litigation-funding limits for collective GDPR actions.
-
-### [Commission seeks feedback on advertising repositories under the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-seeks-feedback-advertising-repositories-under-digital-services-act)
-
-<span class="news-item__source">digital-strategy.ec.europa.eu</span> The Commission opened a call for evidence on technical guidelines for VLOP and VLOSE ad repositories under the DSA, open until 2 December 2026.
-
-## 3 November 2026
-
-### [Rapport de la mission sur la transposition de la directive plateformes (French mission report on Platform Work Directive transposition)](https://travail-emploi.gouv.fr/rapport-de-la-mission-sur-la-transposition-de-la-directive-plateformes)
-
-<span class="news-item__source">travail-emploi.gouv.fr</span> France's government mission made 30 transposition recommendations, favouring easier proof in labour courts over automatic reclassification of platform workers.

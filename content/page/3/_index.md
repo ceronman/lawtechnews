@@ -9,7 +9,25 @@ prev = "/page/2/"
 next = "/page/4/"
 +++
 
+## 12 November 2026
+
+### [UK health sector warned to tackle medical record snooping](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/11/uk-health-sector-warned-to-tackle-medical-record-snooping/)
+
+<span class="news-item__source">ico.org.uk</span> The ICO asked 200+ UK health chiefs to personally confirm safeguards against staff snooping in medical records after 300+ unauthorised-access reports this year. <span class="news-item__discussions"><a href="https://www.reddit.com/r/pwnhub/comments/1xvjb8g/uk_privacy_watchdog_demands_action_after_300/">[discussion on reddit]</a> <a href="https://forums.theregister.com/forum/all/2026/11/13/202613/">[discussion on the register forums]</a></span>
+
+### [Opinion of Advocate General Kokott in Case C-826/24 P Commission v Google and Alphabet (Google AdSense)](https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260164en.pdf)
+
+<span class="news-item__source">curia.europa.eu</span> AG Kokott advised the CJEU to set aside the General Court ruling that annulled Google's €1.49bn AdSense fine and send the case back for a fresh assessment. <span class="news-item__discussions"><a href="https://www.reddit.com/r/actutech/comments/1xu9uwz/un_conseiller_de_la_cour_de_justice_de_lue/">[discussion on reddit]</a></span>
+
+### [El TSJ de Extremadura declara que no existe relación laboral entre Glovo y sus repartidores](https://elderecho.com/el-tsj-de-extremadura-declara-que-no-existe-relacion-laboral-entre-glovo-y-sus-repartidores)
+
+<span class="news-item__source">elderecho.com</span> Extremadura's High Court annulled Social Security's ex officio registration of Glovo riders, ruling its 'Flex' model rebuts the Rider Law's presumption of employment. <span class="news-item__discussions"><a href="https://www.meneame.net/story/tsj-extremadura-declara-no-existe-relacion-laboral-entre-glovo">[discussion on menéame]</a></span>
+
 ## 11 November 2026
+
+### [La Fiscal General encarga a la Fiscal de Criminalidad Informática la investigación de los presuntos casos de abuso sexual infantil en TikTok](https://www.fiscal.es/-/la-fiscal-general-encomienda-a-la-fiscal-de-criminalidad-inform%C3%A1tica-la-investigaci%C3%B3n-de-los-presuntos-casos-de-abuso-sexual-infantil-en-tiktok)
+
+<span class="news-item__source">fiscal.es</span> Spain's Attorney General assigned the cybercrime prosecutor to investigate TikTok after Maldita.es reported over 1,000 child sexual abuse videos with 48 million views. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xrsidx/spanish_government_considers_tiktok_ban_due_to/">[discussion on reddit]</a></span>
 
 ### [La AEPD descarta suspender TikTok en España y remite el caso a las autoridades irlandesas](https://www.zonamovilidad.es/aepd-descarta-suspender-tiktok-espana-remite-caso-autoridades-irlandesas)
 
@@ -78,21 +96,3 @@ next = "/page/4/"
 ### [Google challenges €403m fine over processing of user location data](https://www.irishtimes.com/crime-law/courts/2026/11/09/google-challenges-403m-fine-over-processing-of-user-location-data/)
 
 <span class="news-item__source">irishtimes.com</span> Google sought judicial review of the DPC's €403m location-data fine in Ireland's High Court, alleging errors of law and fact and asking for a CJEU referral; the case was fast-tracked.
-
-### [EU to blacklist ten manipulative online design 'traps', leaked draft shows](https://www.euronews.com/2026/11/09/eu-to-blacklist-ten-manipulative-online-design-traps-leaked-draft-shows)
-
-<span class="news-item__source">euronews.com</span> A leaked Digital Fairness Act draft bans ten dark patterns, loot boxes for minors and profiling-based ads to children, with fines up to 6% of turnover; it is due on 11 November. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50428979">[discussion on hn]</a> <a href="https://www.reddit.com/r/heartopia/comments/1xshusu/eu_to_ban_lootbox_gacha_included_for_childrens/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/TugaTech/comments/1xrvg95/uni%C3%A3o_europeia_prepara_digital_fairness_act_para/">[discussion on reddit]</a></span>
-
-## 8 November 2026
-
-### [Hamburg regulator uses OpenAI model to draft letters as complaints rise 62%](https://ppc.land/hamburg-regulator-uses-openai-model-to-draft-letters-as-complaints-rise-62/)
-
-<span class="news-item__source">ppc.land</span> Hamburg's DPA cleared a city chatbot built on an OpenAI model it deems likely non-anonymous under EDPB Opinion 28/2024, and now uses it to draft letters on complaints. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xqtz0b/hamburg_regulator_uses_openai_model_to_draft/">[discussion on reddit]</a></span>
-
-### [EU countries still can't get it together on AI](https://www.politico.eu/article/eu-countries-still-cant-get-it-together-on-ai/)
-
-<span class="news-item__source">politico.eu</span> Sixteen member states missed the AI Act deadline to name enforcement authorities; six have none and ten only provisional picks, and an MEP urged infringement action.
-
-### [Ads in Popular Apps Give Police a Powerful Tool to Spy on Users](https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/)
-
-<span class="news-item__source">bloomberg.com</span> Bloomberg found Penlink's ad-data phone tracker Webloc is used by agencies in the UK, Netherlands, Germany, Mexico, Israel and Saudi Arabia, not just the US. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50415281">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50492950">[discussion on hn]</a></span>

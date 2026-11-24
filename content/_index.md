@@ -8,7 +8,13 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">447 stories on European law, technology regulation and digital rights, latest from 22 November 2026. Every headline links to the original source.</p>
+<p class="news-intro">451 stories on European law, technology regulation and digital rights, latest from 23 November 2026. Every headline links to the original source.</p>
+
+## 23 November 2026
+
+### [Europe Rallies for a Free and Competitive Web on iOS](https://open-web-advocacy.org/blog/europe-rallies-for-a-free-and-competitive-web-on-ios/)
+
+<span class="news-item__source">open-web-advocacy.org</span> Groups representing 45,000–55,000 EU businesses, including Mozilla and Shopify, urged von der Leyen to open DMA proceedings over Apple's barriers to rival iOS browser engines. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50611637">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50610250">[discussion on hn]</a></span>
 
 ## 22 November 2026
 
@@ -32,6 +38,10 @@ next = "/page/2/"
 
 <span class="news-item__source">bafin.de</span> BaFin ordered State Street Bank International to submit and carry out a remediation plan for serious, recurring AML failures in risk analysis, transaction monitoring and due diligence.
 
+### [La factura de los falsos autónomos: Uber Eats pagará 24,7 millones a la Seguridad Social por emplear a 4.200](https://www.eleconomista.es/retail-consumo/noticias/14029547/11/26/la-factura-de-los-falsos-autonomos-uber-eats-pagara-247-millones-a-la-seguridad-social-por-emplear-a-4200.html)
+
+<span class="news-item__source">eleconomista.es</span> Spain's labour inspectorate found about 4,200 Uber Eats riders were bogus self-employed; Uber will pay €24.7m in unpaid contributions as it moves them onto payroll.
+
 ### [How Russian money launderers and Italian mobsters put Revolut in the regulatory crosshairs](https://www.ft.com/content/221a6fc4-01ac-48fd-95e8-1efb094c3e8d)
 
 <span class="news-item__source">ft.com</span> Swedish police reviewing €259m of suspected Russia-linked laundering found Revolut the most common channel, with funds mostly sent to Lithuania and Ireland. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50573519">[discussion on hn]</a> <a href="https://www.reddit.com/r/worldnews/comments/1y13qxe/swedish_police_flag_revolut_as_key_channel_for/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/RussiaUkraineBriefing/comments/1y1pxyj/swedish_police_say_money_from_russia_is_being/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/CollapseOfRussia/comments/1y18m48/sweden_suspects_that_russians_are_using/">[discussion on reddit]</a></span>
@@ -50,6 +60,10 @@ next = "/page/2/"
 
 <span class="news-item__source">aph.gov.au</span> An Australian Senate committee backed the Digital Duty of Care Bill but urged a private right to sue platforms and a carve-out for low-risk websites.
 
+### [One year later, a broad coalition tells EU lawmakers: do not simplify away people's rights with the Digital Omnibus](https://edri.org/our-work/one-year-later-digital-omnibus-broad-coalition-tells-eu-lawmakers-do-not-simplify-peoples-rights/)
+
+<span class="news-item__source">edri.org</span> 100 organisations warned EU lawmakers that the Digital Omnibus's GDPR and ePrivacy changes, including legitimate interest for AI training, amount to deregulation.
+
 ### [Final Rule: Employee or Independent Contractor Status Under the Fair Labor Standards Act](https://www.dol.gov/agencies/whd/flsa/misclassification/2026rulemaking)
 
 <span class="news-item__source">dol.gov</span> The US Labor Department replaced its 2024 worker-status test with a control and profit-or-loss focus, making it easier to class gig and platform workers as contractors. <span class="news-item__discussions"><a href="https://www.reddit.com/r/WhatTrumpHasDone/comments/1y0sw2a/trump_administration_makes_it_easier_for/">[discussion on reddit]</a></span>
@@ -57,6 +71,10 @@ next = "/page/2/"
 ### [EU Commission hit by large-scale cyberattack with data leakage unknown](https://www.euronews.com/2026/11/19/eu-commission-hit-by-large-scale-cyberattack-with-data-leakage-unknown)
 
 <span class="news-item__source">euronews.com</span> An AI-assisted attack using the ARTEX tool knocked Commission HR and health-insurance systems offline for days; CERT-EU and the EDPS are assessing whether staff data leaked. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50558903">[discussion on hn]</a> <a href="https://www.reddit.com/r/europe/comments/1y0buwh/eu_targeted_by_cyber_attack_using_ai_no_one_is/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/worldnews/comments/1y04e3v/eu_commission_hit_by_cyberattack/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/geopolitics/comments/1y04fwi/eu_commission_hit_by_cyberattack/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/cybersecurity/comments/1y0dtq9/european_commission_hit_by_cyberattack_that_may/">[discussion on reddit]</a> <a href="https://tweakers.net/nieuws/254710/grote-cyberaanval-treft-europese-commissie-datalek-is-niet-uitgesloten.html">[discussion on tweakers]</a></span>
+
+### [Blue Ocean International Bank Pleads Guilty to Conspiracy to Violate the Bank Secrecy Act](https://www.justice.gov/usao-sdfl/pr/blue-ocean-international-bank-pleads-guilty-conspiracy-violate-bank-secrecy-act)
+
+<span class="news-item__source">justice.gov</span> The Puerto Rico bank admitted deliberately not filing suspicious activity reports from 2016 to 2022 despite a regulator's consent order, and will forfeit nearly $3.63m.
 
 ### [AP raadt aankoop AI-camerabrillen af: ernstige risico's voor gebruikers en omstanders (Dutch DPA advises against buying AI camera glasses)](https://www.autoriteitpersoonsgegevens.nl/actueel/ap-raadt-aankoop-ai-camerabrillen-af-ernstige-risicos-voor-gebruikers-en-omstanders)
 
@@ -85,19 +103,3 @@ next = "/page/2/"
 ### [Processing of personal data by Europol: the Court of Justice confirms that the EDPS action against the amendment of the Europol regulation is inadmissible](https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260165en.pdf)
 
 <span class="news-item__source">curia.europa.eu</span> The Court of Justice upheld the dismissal of the EDPS's challenge to rules letting Europol keep uncategorised personal data, finding the EDPS lacked standing.
-
-### [Open Letter: EDRi warns of EU's undemocratic attempt to introduce surveillance in satellite-based communications](https://edri.org/our-work/open-letter-edri-warns-of-eus-undemocratic-attempt-to-introduce-surveillance-in-satellite-based-communications/)
-
-<span class="news-item__source">edri.org</span> EDRi urged MEPs and the Council to drop powers letting the Commission impose data retention on satellite operators via comitology in the Digital Networks Act.
-
-### [Irish regulator stops X training AI with data gathered by agents](https://www.politico.eu/article/x-stops-training-ai-with-agents-data-after-ireland-intervened/)
-
-<span class="news-item__source">politico.eu</span> Ireland's DPC got X to suspend training AI on third-party personal data its Grok agent began collecting in late October, a first GDPR test case for AI-agent data.
-
-### [Inside Deutsche Bank: Risky Business](https://www.inside-db.com/)
-
-<span class="news-item__source">inside-db.com</span> A media consortium published 15m+ leaked Deutsche Bank files showing AML failures, including $582m in flagged Epstein-linked payments and continued ties to Russian oligarchs. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50547620">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50539054">[discussion on hn]</a> <a href="https://www.reddit.com/r/news/comments/1xz1hr9/deutsche_bank_leak_reveals_582m_in_suspicious/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/europe/comments/1xydhqp/inside_deutsche_bank_massive_data_breach_at/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/worldnews/comments/1xyuvye/major_bank_leak_reveals_tr%E1%BB%A5mp_received_suspicious/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/germany/comments/1xytma1/leak_of_15mn_deutsche_bank_files_exposes_systemic/">[discussion on reddit]</a></span>
-
-### [FinCEN Issues Proposed Rule to Strengthen Customer Due Diligence Requirements for Covered Financial Institutions](https://www.fincen.gov/news/news-releases/fincen-issues-proposed-rule-strengthen-customer-due-diligence-requirements-covered-financial-institutions/)
-
-<span class="news-item__source">fincen.gov</span> FinCEN proposed a revised CDD rule letting banks verify business owners via third-party databases, ending automatic re-verification and barring ITINs for beneficial owners.

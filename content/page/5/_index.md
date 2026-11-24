@@ -9,7 +9,25 @@ prev = "/page/4/"
 next = "/page/6/"
 +++
 
+## 4 November 2026
+
+### [Uber Australia Pty Ltd v Chief Commissioner of State Revenue [2026] HCA 40](https://www.hcourt.gov.au/sites/default/files/judgment-summaries/2026-11/hca-40-2026-11-04.pdf)
+
+<span class="news-item__source">hcourt.gov.au</span> Australia's High Court ruled 6–1 that Uber's payments to NSW drivers are wages under payroll-tax contractor provisions, leaving Uber with an A$81m bill for 2015–2020. <span class="news-item__discussions"><a href="https://www.reddit.com/r/australia/comments/1xn9idp/uber_to_pay_81_million_in_payroll_tax_to_nsw_tax/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/auslaw/comments/1xn9vvl/uber_to_py_81_million_in_payroll_tax_to_nsw_tax/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/uberdrivers/comments/1xnbzkp/81m_nsw_payroll_tax_bill_for_uber_after_the_high/">[discussion on reddit]</a></span>
+
+### [Independent data protection oversight and effective access to justice essential to protecting privacy rights: UN experts](https://www.ohchr.org/en/press-releases/2026/11/independent-data-protection-oversight-and-effective-access-justice-essential)
+
+<span class="news-item__source">ohchr.org</span> Two UN Special Rapporteurs pressed Ireland on the DPC's independence, urging rigorous appointment and conflict checks and looser litigation-funding limits for collective GDPR actions.
+
+### [Commission seeks feedback on advertising repositories under the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-seeks-feedback-advertising-repositories-under-digital-services-act)
+
+<span class="news-item__source">digital-strategy.ec.europa.eu</span> The Commission opened a call for evidence on technical guidelines for VLOP and VLOSE ad repositories under the DSA, open until 2 December 2026.
+
 ## 3 November 2026
+
+### [Rapport de la mission sur la transposition de la directive plateformes (French mission report on Platform Work Directive transposition)](https://travail-emploi.gouv.fr/rapport-de-la-mission-sur-la-transposition-de-la-directive-plateformes)
+
+<span class="news-item__source">travail-emploi.gouv.fr</span> France's government mission made 30 transposition recommendations, favouring easier proof in labour courts over automatic reclassification of platform workers.
 
 ### [Rapport de la mission sur la transposition de la directive Plateformes](https://travail-emploi.gouv.fr/rapport-de-la-mission-sur-la-transposition-de-la-directive-plateformes)
 
@@ -80,21 +98,3 @@ next = "/page/6/"
 ### [Amazon, Uber, Instacart sue to block NYC law over delivery worker deactivation](https://www.reuters.com/legal/litigation/amazon-uber-instacart-sue-block-nyc-law-over-delivery-worker-deactivation-2026-10-29/)
 
 <span class="news-item__source">reuters.com</span> The three apps sued in Manhattan federal court to block a NYC law, effective January, requiring just cause and notice before deactivating delivery workers.
-
-### [Algorithmic management in European workplaces](https://www.eurofound.europa.eu/en/publications/all/algorithmic-management-in-european-workplaces)
-
-<span class="news-item__source">eurofound.europa.eu</span> Eurofound found 19% of EU employees have software monitoring their performance and 18% get tasks from it; algorithmic monitoring was most linked to exhaustion and work-family conflict.
-
-## 28 October 2026
-
-### [The Star ordered to pay $260 million for serious AML/CTF breaches](https://www.austrac.gov.au/news-and-media/media-release/star-ordered-pay-260-million-serious-amlctf-breaches)
-
-<span class="news-item__source">austrac.gov.au</span> Australia's Federal Court fined The Star A$260m for AML/CTF failures that let over 1,200 high-risk customers gamble through high-risk channels without source-of-funds checks. <span class="news-item__discussions"><a href="https://www.reddit.com/r/australia/comments/1xh8s6e/star_casino_fined_260_million_for_historical/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/auslaw/comments/1xhb9vg/star_casino_fined_260m_for_money_laundering/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/brisbane/comments/1xh98yt/star_casino_fined_260_million_for_historical/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/aussie/comments/1xh8sxo/star_casino_fined_260m_for_money_laundering/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/ASX_Bets/comments/1xha6do/star_group_liquidation_star_casino_fined_260/">[discussion on reddit]</a></span>
-
-### [Portugal to reform labour laws](https://www.theportugalnews.com/news/2026-10-28/portugal-to-reform-labour-laws/1107935)
-
-<span class="news-item__source">theportugalnews.com</span> Labour minister Palma Ramalho told parliament Portugal will transpose the Platform Work Directive and pay-transparency rules, but conceded wider labour reform may slip.
-
-### [Plattformarbeit: Arbeitsgericht soll künftig über Status von Lieferfahrern entscheiden](https://www.tageblatt.lu/Luxemburg/Plattformarbeit-Arbeitsgericht-soll-kuenftig-ueber-Status-von-Lieferfahrern-entscheiden-114063.html)
-
-<span class="news-item__source">tageblatt.lu</span> Labour minister Marc Spautz said Luxembourg's Platform Work Directive bill, due by early December, will move worker-status disputes from administrative to labour courts.
