@@ -9,7 +9,21 @@ prev = "/page/8/"
 next = "/page/10/"
 +++
 
+## 6 October 2026
+
+### [Greece: Labour Ministry receives report on transposing the Platform Work Directive](https://www.bankingnews.gr/politiki/articles/903578/kerameus-new-bill-sets-limits-on-artificial-intelligence-in-human-resources-management)
+
+<span class="news-item__source">bankingnews.gr</span> Greece's Labour Ministry received its committee's report transposing the Platform Work Directive, banning algorithmic processing of workers' biometric and emotional data.
+
 ## 5 October 2026
+
+### [OpenAI is adding text watermarking in ChatGPT and Codex](https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act)
+
+<span class="news-item__source">theverge.com</span> OpenAI is rolling out invisible textGrain watermarks in ChatGPT and Codex for EU users to meet AI Act transparency rules, with opt-in for API customers worldwide. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=49980602">[discussion on hn]</a></span>
+
+### [Omfattende uautoriseret adgang til borgeres CPR-oplysninger](https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger)
+
+<span class="news-item__source">cpr.dk</span> Intruders abused a private company's legitimate access to Denmark's CPR register and obtained names, addresses and ID numbers of about 8.8 million people. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=49962012">[discussion on hn]</a></span>
 
 ### [FinCEN Announces Withdrawals of Proposed Digital Asset Related Rules](https://www.fincen.gov/news/news-releases/fincen-announces-withdrawals-proposed-digital-asset-related-rules)
 
@@ -86,17 +100,3 @@ next = "/page/10/"
 ### [Decent Work in the Platform Economy Convention No.193 at a glance](https://www.ilo.org/publications/decent-work-platform-economy-convention-no193-glance)
 
 <span class="news-item__source">ilo.org</span> The ILO published a factsheet on Convention No. 193, the first binding global labour standard for platform workers, adopted in June 2026 and now moving to national implementation.
-
-### [Chat control: EU states want to legalize comprehensive mass scans indirectly](https://www.heise.de/en/news/Chat-control-EU-states-want-to-legalize-comprehensive-mass-scans-indirectly-11468680.html)
-
-<span class="news-item__source">heise.de</span> Leaked Council papers show EU states pushing 'search plans' letting authorities order temporary blanket message scanning; the Irish presidency's plan B excludes private chats entirely.
-
-### [Bundesrat fordert strengere Regeln und Direktanstellung für Lieferdienste](https://www.heise.de/news/Bundesrat-fordert-strengere-Regeln-und-Direktanstellung-fuer-Lieferdienste-11468231.html)
-
-<span class="news-item__source">heise.de</span> Germany's Bundesrat urged the federal government to mandate direct employment of delivery couriers, going beyond the Platform Work Directive ahead of its December deadline.
-
-## 27 September 2026
-
-### [Russian tech surveillance company infiltrated Europe's law enforcement agencies](https://www.politico.eu/article/russia-tech-surveillance-company-infiltrated-europes-law-enforcement-agencies/)
-
-<span class="news-item__source">politico.eu</span> US prosecutors charged Oxygen Forensics, secretly run from Russia, after EU-funded projects vetted its software and police in Germany, Spain, Italy and Poland bought it. <span class="news-item__discussions"><a href="https://www.reddit.com/r/Intelligence/comments/1wpyy95/us_company_that_sold_phone_hacking_software_to/">[discussion on reddit]</a></span>

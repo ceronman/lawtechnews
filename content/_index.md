@@ -8,7 +8,19 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">451 stories on European law, technology regulation and digital rights, latest from 23 November 2026. Every headline links to the original source.</p>
+<p class="news-intro">454 stories on European law, technology regulation and digital rights, latest from 25 November 2026. Every headline links to the original source.</p>
+
+## 25 November 2026
+
+### [Commission proposes Quantum Act and new Sovereign Tech Equity Fund](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2567)
+
+<span class="news-item__source">ec.europa.eu</span> The Commission proposed a Quantum Act coordinating the EU's move to post-quantum cryptography via readiness monitoring and procurement safeguards, plus a Sovereign Tech Equity Fund.
+
+## 24 November 2026
+
+### [Smart Glasses: Verbraucherzentrale verklagt Meta und Ray-Ban (German consumer federation sues Meta and Ray-Ban over smart glasses)](https://www.vzbv.de/pressemitteilungen/smart-glasses-verbraucherzentrale-verklagt-meta-und-ray-ban)
+
+<span class="news-item__source">vzbv.de</span> vzbv sued Luxottica at the Kammergericht for not warning Ray-Ban Meta buyers they become GDPR controllers when filming bystanders, and began proceedings against Meta.
 
 ## 23 November 2026
 
@@ -37,6 +49,10 @@ next = "/page/2/"
 ### [State Street Bank International GmbH: Bafin orders comprehensive remediation of shortcomings](https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Massnahmen/60b_KWG_84_WpIG_und_57_GwG/meldung_2026_11_20_state_street_bank_international_gmbh_en.html)
 
 <span class="news-item__source">bafin.de</span> BaFin ordered State Street Bank International to submit and carry out a remediation plan for serious, recurring AML failures in risk analysis, transaction monitoring and due diligence.
+
+### [Skipton International Limited and Mrs Sonia Zoe Dean (GFSC public statement)](https://www.gfsc.gg/news/skipton-international-limited-and-mrs-sonia-zoe-dean)
+
+<span class="news-item__source">gfsc.gg</span> Guernsey's regulator fined Skipton International £1.96m for AML and governance failings from 2018 to 2023; a senior officer was fined £28,000 and barred for 21 months.
 
 ### [La factura de los falsos autónomos: Uber Eats pagará 24,7 millones a la Seguridad Social por emplear a 4.200](https://www.eleconomista.es/retail-consumo/noticias/14029547/11/26/la-factura-de-los-falsos-autonomos-uber-eats-pagara-247-millones-a-la-seguridad-social-por-emplear-a-4200.html)
 
@@ -89,17 +105,3 @@ next = "/page/2/"
 ### [Riigikogu võttis vastu platvormitöö tingimusi parandava seaduse (Estonia adopts its Platform Work Act)](https://www.riigikogu.ee/pressiteated/riigikogu-vottis-vastu-platvormitoo-tingimusi-parandava-seaduse/)
 
 <span class="news-item__source">riigikogu.ee</span> Estonia's parliament adopted its Platform Work Directive transposition 51–22 at minimum level; workers get a human review of automated decisions within 14 days.
-
-### [FI ger Northmill Bank en anmärkning och en sanktionsavgift (Sweden fines Northmill Bank for AML breaches)](https://www.fi.se/sv/publicerat/sanktioner/finansiella-foretag/2026/fi-ger-northmill-bank-en-anmarkning-och-en-sanktionsavgift/)
-
-<span class="news-item__source">fi.se</span> Sweden's FI fined Northmill Bank SEK 20m for AML breaches in risk assessments, customer due diligence and monitoring of third-party deposits during 2023.
-
-### [Conservation des mots de passe clients en clair : la CNIL prononce une sanction de 5 millions d'euros](https://www.cnil.fr/fr/conservation-des-mots-de-passe-sanction-5-millions-deuros)
-
-<span class="news-item__source">cnil.fr</span> The CNIL fined Macif Vie €5m for storing 1.8m customer passwords in plain text, sharing database logins among staff and keeping contact-form data for over 10 years. <span class="news-item__discussions"><a href="https://www.reddit.com/r/france/comments/1xzertf/la_cnil_inflige_5_millions_deuros_damende_%C3%A0_la/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/europe/comments/1xz9ebz/cnil_fines_unnamed_life_insurer_5m_over_18m/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/Numerama/comments/1xzfl7h/la_cnil_cache_le_nom_dune_entreprise_qui_stockait/">[discussion on reddit]</a> <a href="https://linuxfr.org/users/tkr/liens/conservation-des-mots-de-passe-clients-en-clair-la-cnil-prononce-une-sanction-de-5-millions-d-euros">[discussion on linuxfr]</a></span>
-
-## 17 November 2026
-
-### [Processing of personal data by Europol: the Court of Justice confirms that the EDPS action against the amendment of the Europol regulation is inadmissible](https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260165en.pdf)
-
-<span class="news-item__source">curia.europa.eu</span> The Court of Justice upheld the dismissal of the EDPS's challenge to rules letting Europol keep uncategorised personal data, finding the EDPS lacked standing.

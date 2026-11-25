@@ -9,6 +9,20 @@ prev = "/page/2/"
 next = "/page/4/"
 +++
 
+## 13 November 2026
+
+### [Microsoft outage renews European calls to detox from US tech](https://www.politico.eu/article/microsoft-outage-renews-european-calls-to-detox-from-us-tech/)
+
+<span class="news-item__source">politico.eu</span> A near-24-hour Microsoft 365 outage in 74 countries led MEPs, Macron and SME groups to demand EU digital sovereignty and procurement favouring European tech. <span class="news-item__discussions"><a href="https://www.reddit.com/r/EUnews/comments/1xvkr0e/microsoft_outage_renews_european_calls_to_detox/">[discussion on reddit]</a></span>
+
+### [EDPS supports EU KIDS Act aims and calls for safety by design for all users](https://www.edps.europa.eu/press-publications/press-news/press-releases/2026/edps-supports-eu-kids-act-aims-and-calls-safety-design-all-users_en)
+
+<span class="news-item__source">edps.europa.eu</span> The EDPS backed the KIDS Act but said age checks should apply only once privacy-preserving tools exist EU-wide, and urged one GDPR age of digital consent.
+
+### [EDPB supports use of other models of contractual clauses for onward transfers of personal data](https://www.edpb.europa.eu/news/edpb-supports-use-of-other-models-of-contractual-clauses-for-onward-transfers-of-personal-data_en)
+
+<span class="news-item__source">edpb.europa.eu</span> The EDPB backed Commission FAQs letting Council of Europe and Ibero-American model clauses be used for onward transfers of data received under the EU SCCs.
+
 ## 12 November 2026
 
 ### [UK health sector warned to tackle medical record snooping](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/11/uk-health-sector-warned-to-tackle-medical-record-snooping/)
@@ -84,15 +98,3 @@ next = "/page/4/"
 ### [PLFSS 2027 : un amendement du gouvernement propose le rattachement des livreurs et chauffeurs VTC à la branche AT-MP](https://www.aefinfo.fr/depeche/759950-plfss-2027-un-amendement-du-gouvernement-propose-le-rattachement-des-livreurs-et-chauffeurs-vtc-a-la-branche-at-mp)
 
 <span class="news-item__source">aefinfo.fr</span> France's government tabled a Senate amendment to the 2027 social security bill making platform riders and VTC drivers compulsorily covered by the work-accident branch.
-
-### [Nordea comments on verdict in case about anti-money laundering measures from 2012 to 2015](https://www.nordea.com/en/news/nordea-comments-on-verdict-in-case-about-anti-money-laundering-measures-from-2012-to-2015)
-
-<span class="news-item__source">nordea.com</span> Copenhagen City Court acquitted Nordea on 5 of 7 AML counts over its 2012-15 controls and fined it DKK 155m, far below the DKK 6.6bn prosecutors sought. <span class="news-item__discussions"><a href="https://www.reddit.com/r/Denmark/comments/1xrpq01/nu_falder_dommen_over_nordea_i_historisk/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/TrueCrimeDK/comments/1xrq2in/nordea_i_historisk_sag_om_hvidvask/">[discussion on reddit]</a></span>
-
-### [Google Gemini routes personal Drive files and emails to human annotators](https://github.com/thisisme6598/gemini_files/)
-
-<span class="news-item__source">github.com</span> Google's help pages now say Gmail and Drive data in Gemini Connected Apps may be human reviewed and used for AI training, reversing a 2023 pledge; tests show emails pulled in unprompted. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50429426">[discussion on hn]</a></span>
-
-### [Google challenges €403m fine over processing of user location data](https://www.irishtimes.com/crime-law/courts/2026/11/09/google-challenges-403m-fine-over-processing-of-user-location-data/)
-
-<span class="news-item__source">irishtimes.com</span> Google sought judicial review of the DPC's €403m location-data fine in Ireland's High Court, alleging errors of law and fact and asking for a CJEU referral; the case was fast-tracked.
