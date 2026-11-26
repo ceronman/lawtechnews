@@ -9,6 +9,30 @@ prev = "/page/5/"
 next = "/page/7/"
 +++
 
+## 2 November 2026
+
+### [La Inspección de Trabajo de Cataluña investiga si Amazon, Glovo y Uber Eats hicieron trabajar a sus repartidores durante las alertas por lluvias torrenciales](https://www.infobae.com/espana/2026/11/02/la-inspeccion-de-trabajo-de-cataluna-investiga-si-amazon-glovo-y-uber-eats-hicieron-trabajar-a-sus-repartidores-durante-las-alertas-por-lluvias-torrenciales/)
+
+<span class="news-item__source">infobae.com</span> Catalonia's labour inspectorate opened an ex officio probe into whether Glovo, Uber Eats and Amazon kept riders working during rain alerts, demanding their safety protocols.
+
+### [EU Commission to probe supermarket cyberattacks](https://www.politico.eu/article/european-commission-probe-supermarket-cyberattack-christophe-hansen/)
+
+<span class="news-item__source">politico.eu</span> The Commission's Security College will assess retailers' cyber preparedness after hackers knocked out fridges in supermarkets across at least six EU countries. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50344433">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50341699">[discussion on hn]</a></span>
+
+## 30 October 2026
+
+### [Outcomes FATF Plenary, 28-30 October 2026](https://www.fatf-gafi.org/en/publications/Fatfgeneral/outcomes-fatf-plenary-october-2026.html)
+
+<span class="news-item__source">fatf-gafi.org</span> FATF removed Bulgaria, Monaco, Côte d'Ivoire and the DRC from its grey list and launched a targeted review of virtual-asset AML compliance, with results due in 2027.
+
+### [Dh200 million fine: UAE penalises foreign bank branch for violating money laundering laws](https://www.khaleejtimes.com/uae/dh200-million-fine-foreign-bank-branch-money-laundering-laws)
+
+<span class="news-item__source">khaleejtimes.com</span> The UAE central bank fined an unnamed foreign bank branch Dh200m for repeated AML/CFT and sanctions failures, plus personal fines on its CEO and compliance officer.
+
+### [CMA opens investigation into Meta's commercial terms](https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2)
+
+<span class="news-item__source">gov.uk</span> The CMA opened a Competition Act probe into whether Meta abuses dominance by forcing publishers to accept terms letting it reuse their content for AI; Meta has paused the rollout. <span class="news-item__discussions"><a href="https://www.reddit.com/r/prsuk/comments/1xjcjk6/cma_opens_investigation_into_metas_commercial/">[discussion on reddit]</a></span>
+
 ## 29 October 2026
 
 ### [EU tells capitals to halt their national social media bans for a year](https://www.politico.eu/article/eu-tells-capitals-to-halt-their-national-social-media-bans-for-a-year/)
@@ -78,25 +102,3 @@ next = "/page/7/"
 ### [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update)
 
 <span class="news-item__source">theverge.com</span> Since 16 October Google's privacy policy lets it target ads using Gmail, Drive and Photos data that users connect to AI Mode via Personal Intelligence. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50214218">[discussion on hn]</a> <a href="https://www.reddit.com/r/technology/comments/1xdpddf/google_quietly_changes_privacy_policy_so_your/">[discussion on reddit]</a></span>
-
-### [Meta delays AI business terms amid media sector outcry](https://www.rapporteur.com/news/meta-delays-ai-business-terms-until-20-november/)
-
-<span class="news-item__source">rapporteur.com</span> Meta pushed its new AI business terms for Facebook and Instagram from 30 October to 20 November after publishers objected; the Commission is weighing them under the DMA.
-
-### [Greece passes social media ban for children under 15](https://www.reuters.com/legal/litigation/greece-passes-social-media-ban-children-under-15-2026-10-23/)
-
-<span class="news-item__source">reuters.com</span> Greek MPs banned social media for under-15s from 1 January 2027; platforms have about 2.5 months to build age verification that protects user privacy. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50216105">[discussion on hn]</a> <a href="https://www.reddit.com/r/technology/comments/1xdo5q0/greece_enacts_social_media_ban_for_kids_under_15/">[discussion on reddit]</a> <a href="https://tech.slashdot.org/story/26/10/23/1928227/greece-enacts-social-media-ban-for-kids-under-15">[discussion on slashdot]</a></span>
-
-### [Decreto legislativo 7 ottobre 2026, n. 179 (Italian AI Act adaptation decree)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-10-07;179)
-
-<span class="news-item__source">normattiva.it</span> Italy's AI Act decree took effect, giving ACN and financial regulators sanctioning powers and requiring a human to make final AI-assisted hiring and dismissal decisions.
-
-## 22 October 2026
-
-### [US renews push for EU to soften Big Tech rules](https://www.politico.eu/article/us-renews-push-for-eu-to-soften-big-tech-rules/)
-
-<span class="news-item__source">politico.eu</span> Washington told the Commission it won't cut tariffs on EU steel and other goods unless Brussels eases DMA enforcement; the Commission reports on the deal by year-end. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xe790q/us_renews_pressure_on_eu_ease_big_tech_rules_to/">[discussion on reddit]</a></span>
-
-### [Poland's Sejm adopts Senate amendments to the DSA implementation law, expanding UKE's content-blocking powers](https://www.uke.gov.pl/akt/nowe-zadania-prezesa-uke-w-systemie-nadzoru-nad-dsa,708.html)
-
-<span class="news-item__source">uke.gov.pl</span> The law goes to the president; UKE can order blocking of listed illegal content, keep a domain register ISPs must block within 48 hours, and reverse wrongful takedowns.

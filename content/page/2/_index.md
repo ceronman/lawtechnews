@@ -9,7 +9,29 @@ prev = "/"
 next = "/page/3/"
 +++
 
+## 19 November 2026
+
+### [EU Commission hit by large-scale cyberattack with data leakage unknown](https://www.euronews.com/2026/11/19/eu-commission-hit-by-large-scale-cyberattack-with-data-leakage-unknown)
+
+<span class="news-item__source">euronews.com</span> An AI-assisted attack using the ARTEX tool knocked Commission HR and health-insurance systems offline for days; CERT-EU and the EDPS are assessing whether staff data leaked. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50558903">[discussion on hn]</a> <a href="https://www.reddit.com/r/europe/comments/1y0buwh/eu_targeted_by_cyber_attack_using_ai_no_one_is/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/worldnews/comments/1y04e3v/eu_commission_hit_by_cyberattack/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/geopolitics/comments/1y04fwi/eu_commission_hit_by_cyberattack/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/cybersecurity/comments/1y0dtq9/european_commission_hit_by_cyberattack_that_may/">[discussion on reddit]</a> <a href="https://tweakers.net/nieuws/254710/grote-cyberaanval-treft-europese-commissie-datalek-is-niet-uitgesloten.html">[discussion on tweakers]</a></span>
+
+### [Blue Ocean International Bank Pleads Guilty to Conspiracy to Violate the Bank Secrecy Act](https://www.justice.gov/usao-sdfl/pr/blue-ocean-international-bank-pleads-guilty-conspiracy-violate-bank-secrecy-act)
+
+<span class="news-item__source">justice.gov</span> The Puerto Rico bank admitted deliberately not filing suspicious activity reports from 2016 to 2022 despite a regulator's consent order, and will forfeit nearly $3.63m.
+
+### [AP raadt aankoop AI-camerabrillen af: ernstige risico's voor gebruikers en omstanders (Dutch DPA advises against buying AI camera glasses)](https://www.autoriteitpersoonsgegevens.nl/actueel/ap-raadt-aankoop-ai-camerabrillen-af-ernstige-risicos-voor-gebruikers-en-omstanders)
+
+<span class="news-item__source">autoriteitpersoonsgegevens.nl</span> The Dutch DPA tested six AI camera glasses, found easily hidden recording lights, security holes and dangerous advice, and told consumers not to buy them. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50572902">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50569465">[discussion on hn]</a> <a href="https://www.reddit.com/r/privacy/comments/1y17j1e/dont_buy_smart_glasses_dutch_data_watchdog_advises/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/AIDangers/comments/1y3adkz/dutch_watchdog_warns_against_buying_ai_camera/">[discussion on reddit]</a> <a href="https://tweakers.net/nieuws/254706/nederlandse-privacywaakhond-raadt-ai-camerabrillen-af-na-zorgwekkende-tests.html">[discussion on tweakers]</a></span>
+
+### [Advocate General Medina: A social network is not free when you pay with your data to use it](https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260169en.pdf)
+
+<span class="news-item__source">curia.europa.eu</span> AG Medina said handing over personal data for commercial use is payment under the Unfair Commercial Practices Directive, so Facebook can't be advertised as "free".
+
 ## 18 November 2026
+
+### [Riigikogu võttis vastu platvormitöö tingimusi parandava seaduse (Estonia adopts its Platform Work Act)](https://www.riigikogu.ee/pressiteated/riigikogu-vottis-vastu-platvormitoo-tingimusi-parandava-seaduse/)
+
+<span class="news-item__source">riigikogu.ee</span> Estonia's parliament adopted its Platform Work Directive transposition 51–22 at minimum level; workers get a human review of automated decisions within 14 days.
 
 ### [FI ger Northmill Bank en anmärkning och en sanktionsavgift (Sweden fines Northmill Bank for AML breaches)](https://www.fi.se/sv/publicerat/sanktioner/finansiella-foretag/2026/fi-ger-northmill-bank-en-anmarkning-och-en-sanktionsavgift/)
 
@@ -78,25 +100,3 @@ next = "/page/3/"
 ### [Lovable: Many Apps Built on the Platform Expose Sensitive Data](https://www.crissyfield.de/research/lovable-en/)
 
 <span class="news-item__source">crissyfield.de</span> Researchers found 7,403 of 24,664 scanned Lovable-built apps exposing tables with emails, plus passport numbers, payment data and 200,000+ chats, with no login needed. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50499017">[discussion on hn]</a></span>
-
-### [Facebook: il Garante Privacy sanziona Meta per 805 milioni di euro](https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10321080)
-
-<span class="news-item__source">garanteprivacy.it</span> Italy's Garante fined Meta €805m under ePrivacy for reading Android photo galleries without specific consent, rejecting one-stop-shop; the feature must be off by default in 60 days. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50497009">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50498063">[discussion on hn]</a></span>
-
-### [Decreto legislativo 2 novembre 2026, n. 208 (Italian Platform Work Directive transposition)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026;208)
-
-<span class="news-item__source">normattiva.it</span> Italy published its Platform Work Directive decree: work is presumed employment where platforms direct or control it, and algorithm-only decisions are barred from 2 December.
-
-## 13 November 2026
-
-### [Remarks by President António Costa at the press conference following the informal meeting of Heads of State or Government of 13 November 2026](https://www.consilium.europa.eu/en/press/press-releases/2026/11/13/remarks-by-president-antonio-costa-at-the-press-conference-following-the-informal-meeting-of-heads-of-state-or-government-of-13-november-2026/)
-
-<span class="news-item__source">consilium.europa.eu</span> EU leaders held their first in-depth AI debate in Dublin, backing more investment and global AI governance; AI will headline the 2027 Social Summit. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xv91ko/godfather_of_ai_to_warn_eu_leaders_it_could_kill/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/technews/comments/1xvqdhu/godfather_of_ai_to_warn_eu_leaders_it_could_kill/">[discussion on reddit]</a></span>
-
-### [Prudential Authority imposes administrative sanctions on The Standard Bank of South Africa Limited](https://www.resbank.co.za/en/home/publications/publication-detail-pages/media-releases/2026/sanction-sbsa)
-
-<span class="news-item__source">resbank.co.za</span> South Africa's Prudential Authority fined Standard Bank R17m (R5m suspended) under the FIC Act after it skipped customer due diligence on 34% of sampled money-transfer files. <span class="news-item__discussions"><a href="https://mybroadband.co.za/forum/threads/standard-bank-hit-with-r17-million-fine.1351028/">[discussion on mybroadband]</a> <a href="https://mybroadband.co.za/forum/threads/standard-bank-hit-with-a-r17-million-fine-and-administrative-sanctions.1350907/">[discussion on mybroadband]</a></span>
-
-### [Prezydent podpisał sześć ustaw, jedną zawetował (Polish President vetoes second DSA implementation bill)](https://www.prezydent.pl/prawo/ustawy-zawetowane/prezydent-podpisal-szesc-ustaw-jedna-zawetowal,129977)
-
-<span class="news-item__source">prezydent.pl</span> Poland's President Nawrocki vetoed the second DSA implementation bill over administrative blocking of illegal content, including whole domains, calling it preventive censorship. <span class="news-item__discussions"><a href="https://www.reddit.com/r/poland/comments/1xw0erl/polish_president_vetoes_law_on_blocking_illegal/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/Polskimem/comments/1xweluj/prezydent_karol_nawrocki_og%C5%82osi%C5%82_weto_wobec/">[discussion on reddit]</a> <a href="https://wykop.pl/link/8047767/nawrocki-zawetowal-druga-ustawe-wdrazajaca-dsa-o-blokowaniu-tresci">[discussion on wykop]</a> <a href="https://wykop.pl/link/8047601/weto-prezydenta-nawrockiego-chodzi-o-blokowanie-tresci-w-internecie">[discussion on wykop]</a></span>

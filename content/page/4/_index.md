@@ -9,7 +9,29 @@ prev = "/page/3/"
 next = "/page/5/"
 +++
 
+## 10 November 2026
+
+### [Guidelines 1/2024 on processing of personal data based on Article 6(1)(f) GDPR (final version 2.0)](https://www.edpb.europa.eu/documents/guideline/guidelines-12024-on-processing-of-personal-data-based-on-article-61f-gdpr_en)
+
+<span class="news-item__source">edpb.europa.eu</span> The EDPB finalised its legitimate-interest guidelines: necessity and balancing tests must both be passed, and Art. 6(1)(f) cannot justify solely automated decisions.
+
+### [Five States Join FTC Lawsuit Alleging Hims and Hers Engaged in Deceptive and Unlawful Privacy Practices](https://www.ftc.gov/news-events/news/press-releases/2026/11/five-states-join-ftc-lawsuit-alleging-hims-hers-engaged-deceptive-unlawful-privacy-practices)
+
+<span class="news-item__source">ftc.gov</span> Arizona, Florida, Nebraska, Ohio and Wisconsin joined the FTC's suit alleging Hims & Hers shared customers' health data with Meta and Snap despite privacy promises.
+
+### [FINMA publishes partially revised FINMA Anti-Money Laundering Ordinance](https://www.finma.ch/en/news/2026/11/20261110-mm-gwv-finma/)
+
+<span class="news-item__source">finma.ch</span> FINMA finalised its revised Anti-Money Laundering Ordinance, aligning it with the amended AMLA ahead of Switzerland's FATF evaluation; it takes effect on 1 January 2027.
+
+### [Commission invites views on draft revised election guidelines under Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-invites-views-draft-revised-election-guidelines-under-digital-services-act)
+
+<span class="news-item__source">digital-strategy.ec.europa.eu</span> The Commission opened a consultation until 23 November on revised DSA election guidelines for VLOPs, adding measures on generative AI, recommender systems and candidate protection.
+
 ## 9 November 2026
+
+### [PLFSS 2027 : un amendement du gouvernement propose le rattachement des livreurs et chauffeurs VTC à la branche AT-MP](https://www.aefinfo.fr/depeche/759950-plfss-2027-un-amendement-du-gouvernement-propose-le-rattachement-des-livreurs-et-chauffeurs-vtc-a-la-branche-at-mp)
+
+<span class="news-item__source">aefinfo.fr</span> France's government tabled a Senate amendment to the 2027 social security bill making platform riders and VTC drivers compulsorily covered by the work-accident branch.
 
 ### [Nordea comments on verdict in case about anti-money laundering measures from 2012 to 2015](https://www.nordea.com/en/news/nordea-comments-on-verdict-in-case-about-anti-money-laundering-measures-from-2012-to-2015)
 
@@ -74,25 +96,3 @@ next = "/page/5/"
 ### [Commission preliminarily finds TikTok's 'For You' feed in breach of Digital Services Act for harmful 'rabbit holes' effect](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2361)
 
 <span class="news-item__source">ec.europa.eu</span> The Commission said TikTok must redesign its For You feed, e.g. stop using viewing time as a ranking signal; a final decision could bring fines up to 6% of global turnover. <span class="news-item__discussions"><a href="https://www.reddit.com/r/europe/comments/1xpfbln/preliminary_ruling_by_the_eu_commission_tiktoks/">[discussion on reddit]</a> <a href="https://news.ycombinator.com/item?id=50391911">[discussion on hn]</a> <a href="https://tech.slashdot.org/story/26/11/06/2210231/eu-says-tiktoks-rabbit-hole-effect-must-stop">[discussion on slashdot]</a></span>
-
-## 5 November 2026
-
-### [Tinder owners say they will appeal €11m fine imposed by Irish data watchdog](https://www.independent.ie/business/irish-business/tinder-owners-say-they-will-appeal-11m-fine-imposed-by-irish-data-watchdog/a/164062273.html)
-
-<span class="news-item__source">independent.ie</span> Ireland's DPC fined Match Group €11m for GDPR breaches tied to Tinder's safety and privacy practices; Match says it will appeal.
-
-### [New freelancer law doesn't create more clarity, but more uncertainty: Advisory body](https://nltimes.nl/2026/11/05/new-freelancer-law-doesnt-create-clarity-uncertainty-advisory-body)
-
-<span class="news-item__source">nltimes.nl</span> The Dutch regulatory burden board ATR said Minister Aartsen's bogus self-employment bill adds uncertainty, as its two tests only help freelancers who meet them exactly. <span class="news-item__discussions"><a href="https://www.reddit.com/r/FreelanceNL/comments/1xoejtn/nieuwe_zelfstandigenwet_krijgt_flinke_kritiek_atr/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/ZZPNederland/comments/1xoekn5/nieuwe_zelfstandigenwet_krijgt_flinke_kritiek_atr/">[discussion on reddit]</a></span>
-
-### [Judgment of the Court in Case C-205/25 Bayerisches Landesamt für Datenschutzaufsicht (complainants' right of access to DPA files)](https://curia.europa.eu/juris/liste.jsf?num=C-205/25&language=en)
-
-<span class="news-item__source">curia.europa.eu</span> The CJEU held that a DPA handling a GDPR complaint is a controller and must give the complainant Article 15 access to their data; national laws barring this are precluded.
-
-### [Government submits proposal for Platform Work Act](https://valtioneuvosto.fi/en/-/1410877/government-submits-proposal-for-platform-work-act)
-
-<span class="news-item__source">valtioneuvosto.fi</span> Finland's government sent Parliament its Platform Work Act, introducing a legal presumption of employment and more transparency on how algorithms organise platform work.
-
-### [France, US clash over G7 effort on AI safety](https://www.politico.eu/article/france-us-clash-ai-safety-talks-a-g7/)
-
-<span class="news-item__source">politico.eu</span> The US blocked a French push for a G7 group to test frontier AI and share incident data, calling it unnecessary bureaucracy; France plans to resume talks in December. <span class="news-item__discussions"><a href="https://www.reddit.com/r/EUnews/comments/1xop6w3/france_us_clash_over_g7_effort_on_ai_safety/">[discussion on reddit]</a></span>

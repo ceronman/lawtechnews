@@ -8,19 +8,41 @@ prev = ""
 next = "/page/2/"
 +++
 
-<p class="news-intro">454 stories on European law, technology regulation and digital rights, latest from 25 November 2026. Every headline links to the original source.</p>
+<p class="news-intro">459 stories on European law, technology regulation and digital rights, latest from 26 November 2026. Every headline links to the original source.</p>
+
+## 26 November 2026
+
+### [Deutschland verfehlt EU-Frist für besseren Schutz von Lieferfahrern (Germany to miss Platform Work Directive deadline)](https://www.tagesschau.de/investigativ/rbb/lieferdienste-subunternehmer-100.html)
+
+<span class="news-item__source">tagesschau.de</span> Germany's labour ministry confirmed it has no draft bill yet to transpose the Platform Work Directive, so it will miss the 2 December deadline; the Commission may open infringement proceedings.
 
 ## 25 November 2026
+
+### [Press Release: AMLA consults on methodology for setting AML/CFT fines](https://www.amla.europa.eu/press-release-amla-consults-methodology-setting-amlcft-fines_en)
+
+<span class="news-item__source">amla.europa.eu</span> AMLA opened a consultation on common guidelines for the base amount of AML/CFT fines, as average fines range from €15,000 to €10m across member states; hearing on 12 January 2027.
+
+### [Compte rendu du Conseil des ministres du 25 novembre 2026 (France tables EU-law adaptation bill covering AI Act, EMFA and EHDS)](https://www.elysee.fr/emmanuel-macron/2026/11/25/compte-rendu-du-conseil-des-ministres-du-25-novembre-2026)
+
+<span class="news-item__source">elysee.fr</span> France's cabinet adopted a bill aligning national law with 54 EU texts, including AI Act delegated acts, ARCOM enforcement of the Media Freedom Act and European Health Data Space governance.
 
 ### [Commission proposes Quantum Act and new Sovereign Tech Equity Fund](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2567)
 
 <span class="news-item__source">ec.europa.eu</span> The Commission proposed a Quantum Act coordinating the EU's move to post-quantum cryptography via readiness monitoring and procurement safeguards, plus a Sovereign Tech Equity Fund.
+
+### [Chat control: Council seeks to bypass EU lawmakers on mass surveillance](https://www.heise.de/en/news/Chat-control-Council-seeks-to-bypass-EU-lawmakers-on-mass-surveillance-11538195.html)
+
+<span class="news-item__source">heise.de</span> A leaked German cable shows Ireland's Council presidency wants to bypass Parliament's shadow rapporteurs via group leaders; Coreper sets a mandate on 2 December for an 8 December trilogue. <span class="news-item__discussions"><a href="https://www.heise.de/forum/heise-online/Kommentare/Chatkontrolle-Irische-Ratspraesidentschaft-plant-Umgehung-der-EU-Parlamentarier/forum-594659/comment/">[discussion on heise forum]</a></span>
 
 ## 24 November 2026
 
 ### [Smart Glasses: Verbraucherzentrale verklagt Meta und Ray-Ban (German consumer federation sues Meta and Ray-Ban over smart glasses)](https://www.vzbv.de/pressemitteilungen/smart-glasses-verbraucherzentrale-verklagt-meta-und-ray-ban)
 
 <span class="news-item__source">vzbv.de</span> vzbv sued Luxottica at the Kammergericht for not warning Ray-Ban Meta buyers they become GDPR controllers when filming bystanders, and began proceedings against Meta.
+
+### [Attorney General Bonta Opposes Asset Sale of Character.AI Amid Child Safety Concerns](https://oag.ca.gov/news/press-releases/attorney-general-bonta-opposes-asset-sale-characterai-amid-child-safety-concerns)
+
+<span class="news-item__source">oag.ca.gov</span> 42 attorneys general asked a US bankruptcy court to block Character.AI's 1 December auction of chats from 21 million accounts, 2.1 million of them minors', with no privacy duties on the buyer. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50641464">[discussion on hn]</a></span>
 
 ## 23 November 2026
 
@@ -83,25 +105,3 @@ next = "/page/2/"
 ### [Final Rule: Employee or Independent Contractor Status Under the Fair Labor Standards Act](https://www.dol.gov/agencies/whd/flsa/misclassification/2026rulemaking)
 
 <span class="news-item__source">dol.gov</span> The US Labor Department replaced its 2024 worker-status test with a control and profit-or-loss focus, making it easier to class gig and platform workers as contractors. <span class="news-item__discussions"><a href="https://www.reddit.com/r/WhatTrumpHasDone/comments/1y0sw2a/trump_administration_makes_it_easier_for/">[discussion on reddit]</a></span>
-
-### [EU Commission hit by large-scale cyberattack with data leakage unknown](https://www.euronews.com/2026/11/19/eu-commission-hit-by-large-scale-cyberattack-with-data-leakage-unknown)
-
-<span class="news-item__source">euronews.com</span> An AI-assisted attack using the ARTEX tool knocked Commission HR and health-insurance systems offline for days; CERT-EU and the EDPS are assessing whether staff data leaked. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50558903">[discussion on hn]</a> <a href="https://www.reddit.com/r/europe/comments/1y0buwh/eu_targeted_by_cyber_attack_using_ai_no_one_is/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/worldnews/comments/1y04e3v/eu_commission_hit_by_cyberattack/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/geopolitics/comments/1y04fwi/eu_commission_hit_by_cyberattack/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/cybersecurity/comments/1y0dtq9/european_commission_hit_by_cyberattack_that_may/">[discussion on reddit]</a> <a href="https://tweakers.net/nieuws/254710/grote-cyberaanval-treft-europese-commissie-datalek-is-niet-uitgesloten.html">[discussion on tweakers]</a></span>
-
-### [Blue Ocean International Bank Pleads Guilty to Conspiracy to Violate the Bank Secrecy Act](https://www.justice.gov/usao-sdfl/pr/blue-ocean-international-bank-pleads-guilty-conspiracy-violate-bank-secrecy-act)
-
-<span class="news-item__source">justice.gov</span> The Puerto Rico bank admitted deliberately not filing suspicious activity reports from 2016 to 2022 despite a regulator's consent order, and will forfeit nearly $3.63m.
-
-### [AP raadt aankoop AI-camerabrillen af: ernstige risico's voor gebruikers en omstanders (Dutch DPA advises against buying AI camera glasses)](https://www.autoriteitpersoonsgegevens.nl/actueel/ap-raadt-aankoop-ai-camerabrillen-af-ernstige-risicos-voor-gebruikers-en-omstanders)
-
-<span class="news-item__source">autoriteitpersoonsgegevens.nl</span> The Dutch DPA tested six AI camera glasses, found easily hidden recording lights, security holes and dangerous advice, and told consumers not to buy them. <span class="news-item__discussions"><a href="https://news.ycombinator.com/item?id=50572902">[discussion on hn]</a> <a href="https://news.ycombinator.com/item?id=50569465">[discussion on hn]</a> <a href="https://www.reddit.com/r/privacy/comments/1y17j1e/dont_buy_smart_glasses_dutch_data_watchdog_advises/">[discussion on reddit]</a> <a href="https://www.reddit.com/r/AIDangers/comments/1y3adkz/dutch_watchdog_warns_against_buying_ai_camera/">[discussion on reddit]</a> <a href="https://tweakers.net/nieuws/254706/nederlandse-privacywaakhond-raadt-ai-camerabrillen-af-na-zorgwekkende-tests.html">[discussion on tweakers]</a></span>
-
-### [Advocate General Medina: A social network is not free when you pay with your data to use it](https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260169en.pdf)
-
-<span class="news-item__source">curia.europa.eu</span> AG Medina said handing over personal data for commercial use is payment under the Unfair Commercial Practices Directive, so Facebook can't be advertised as "free".
-
-## 18 November 2026
-
-### [Riigikogu võttis vastu platvormitöö tingimusi parandava seaduse (Estonia adopts its Platform Work Act)](https://www.riigikogu.ee/pressiteated/riigikogu-vottis-vastu-platvormitoo-tingimusi-parandava-seaduse/)
-
-<span class="news-item__source">riigikogu.ee</span> Estonia's parliament adopted its Platform Work Directive transposition 51–22 at minimum level; workers get a human review of automated decisions within 14 days.
